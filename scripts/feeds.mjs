@@ -31,7 +31,7 @@ export const FEEDS = [
   { source: "Repubblica", lang: "IT", desk: "eu", url: "https://www.repubblica.it/rss/homepage/rss2.0.xml" },
 
   // ---- Luxembourg ----
-  { source: "RTL.lu", lang: "LB", desk: "lu", url: "https://www.rtl.lu/rss/news.xml" },
+  { source: "RTL.lu", lang: "LB", desk: "lu", url: gnews("rtl.lu", "de", "LU:de") },
   { source: "RTL.lu", lang: "FR", desk: "lu", url: gnews("rtl.lu", "fr", "LU:fr") },
   { source: "Wort", lang: "DE", desk: "lu", paywalled: true, url: gnews("wort.lu", "de", "LU:de") },
 
@@ -40,12 +40,12 @@ export const FEEDS = [
   { source: "NYT", lang: "EN", desk: "intl", paywalled: true, url: "https://rss.nytimes.com/services/xml/rss/nyt/World.xml" },
   { source: "Washington Post", lang: "EN", desk: "intl", paywalled: true, url: "https://feeds.washingtonpost.com/rss/world" },
   { source: "WSJ", lang: "EN", desk: "intl", paywalled: true, url: gnews("wsj.com") },
-  { source: "NPR", lang: "EN", desk: "intl", url: "https://feeds.npr.org/1004/rss.xml" },
+  { source: "NPR", lang: "EN", desk: "intl", url: "https://feeds.npr.org/1001/rss.xml" },
   { source: "PBS News", lang: "EN", desk: "intl", url: "https://www.pbs.org/newshour/feeds/rss/world" },
   { source: "Bloomberg", lang: "EN", desk: "intl", paywalled: true, url: gnews("bloomberg.com") },
   { source: "The Economist", lang: "EN", desk: "intl", paywalled: true, url: "https://www.economist.com/the-world-this-week/rss.xml" },
   { source: "Foreign Affairs", lang: "EN", desk: "intl", paywalled: true, url: gnews("foreignaffairs.com") },
-  { source: "CFR", lang: "EN", desk: "intl", url: "https://www.cfr.org/rss/daily-news-brief" }
+  { source: "CFR", lang: "EN", desk: "intl", url: gnews("cfr.org") }
 ];
 
 const strip = (s = "") =>
