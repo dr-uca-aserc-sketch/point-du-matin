@@ -107,6 +107,14 @@ Set both channels and you get both messages.
 **Settings → Pages → Build and deployment → Source: GitHub Actions.**
 Don't pick a branch — the workflow deploys itself.
 
+**If Pages is behind a paywall:** that is because the repo is private — Pages on
+private repos needs a paid plan. Make the repo public instead:
+**Settings → General → Danger Zone → Change visibility → Change to public.**
+
+Your keys are unaffected: repository secrets are never readable, on public repos
+too. What does become public is the repo's contents (the page and the editions
+archive, all written from public news sources) and the Actions run logs.
+
 ## Step 5 — First run
 
 **Actions → Le Point du Matin → Run workflow.** Two to four minutes.

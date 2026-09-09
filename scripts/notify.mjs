@@ -54,8 +54,9 @@ async function telegramChatId(token) {
     for (let i = updates.length - 1; i >= 0; i--) {
       const chat = updates[i].message && updates[i].message.chat;
       if (chat && chat.id) {
-        console.log(`Discovered TELEGRAM_CHAT_ID=${chat.id} — add it as a secret to make this permanent.`);
-        return String(chat.id);
+        const id = String(chat.id);
+        console.log(`Found a chat id ending ...${id.slice(-4)} — set it as the TELEGRAM_CHAT_ID secret to make this permanent (get the full number from @userinfobot).`);
+        return id;
       }
     }
     console.log("Telegram: no chat id found. Send your bot a message ('hi'), then re-run.");
