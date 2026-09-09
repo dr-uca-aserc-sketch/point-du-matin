@@ -1,28 +1,71 @@
 name: Le Point du Matin
-on: {schedule: [{cron: "30 4 * * *"}, {cron: "30 5 * * *"}], workflow_dispatch: {}}
-permissions: {contents: write, pages: write, id-token: write}
-concurrency: {group: briefing, cancel-in-progress: false}
+
+on:
+  schedule:
+    # 06:30 Luxembourg time all year: 04:30 UTC in summer, 05:30 UTC in winter.
+    # Both fire; compose.mjs is idempotent, so the second run does nothing
+    # once the day's edition exists.
+    - cron: "30 4 * * *"
+    - cron: "30 5 * * *"
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: briefing
+  cancel-in-progress: false
+
 jobs:
   compose:
     runs-on: ubuntu-latest
     steps:
-      - {uses: actions/checkout@v4}
-      - {uses: actions/setup-node@v4, with: {node-version: "20"}}
-      - name: Compose
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+
+      - name: Compose today's edition
         id: compose
         continue-on-error: true
-        env: {ANTHROPIC_API_KEY: "${{ secrets.ANTHROPIC_API_KEY }}", GEMINI_API_KEY: "${{ secrets.GEMINI_API_KEY }}"}
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
         run: node scripts/compose.mjs
-      - name: Commit
+
+      - name: Commit the edition
         if: steps.compose.outcome == 'success'
-        run: git config user.name bot && git config user.email bot@github.com && git add editions && (git diff --staged --quiet || git commit -m "Edition") && git push
-      - {uses: actions/configure-pages@v5}
-      - {uses: actions/upload-pages-artifact@v3, with: {path: .}}
-      - {id: deploy, uses: actions/deploy-pages@v4}
-      - name: Notify
-        env: {TELEGRAM_TOKEN: "${{ secrets.TELEGRAM_TOKEN }}", TELEGRAM_CHAT_ID: "${{ secrets.TELEGRAM_CHAT_ID }}", SITE_URL: "${{ steps.deploy.outputs.page_url }}"}
+        run: |
+          git config user.name "point-du-matin"
+          git config user.email "actions@github.com"
+          git add editions
+          git diff --staged --quiet || git commit -m "Édition du $(TZ=Europe/Luxembourg date +%F)"
+          git push
+
+      - name: Publish to Pages
+        uses: actions/configure-pages@v5
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: .
+      - id: deploy
+        uses: actions/deploy-pages@v4
+
+      # Runs whether or not the composition succeeded: on failure the message
+      # says why, so no message never silently means "all fine".
+      - name: Notification
+        env:
+          TELEGRAM_TOKEN: ${{ secrets.TELEGRAM_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+          WHATSAPP_PHONE: ${{ secrets.WHATSAPP_PHONE }}
+          WHATSAPP_APIKEY: ${{ secrets.WHATSAPP_APIKEY }}
+          SITE_URL: ${{ steps.deploy.outputs.page_url }}
         run: node scripts/notify.mjs
-      - name: Fail if compose failed
+
+      - name: Fail the run if the composition failed
         if: steps.compose.outcome != 'success'
-        run: exit 1
-        
+        run: |
+          echo "Composition failed — see the 'Compose today's edition' step."
+          exit 1
