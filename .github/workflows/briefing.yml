@@ -1,0 +1,66 @@
+Le Point du Matin
+
+on:
+  schedule:
+    - cron: "30 4 * * *"
+    - cron: "30 5 * * *"
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: briefing
+  cancel-in-progress: false
+
+jobs:
+  compose:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+
+      - name: Compose today's edition
+        id: compose
+        continue-on-error: true
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+        run: node scripts/compose.mjs
+
+      - name: Commit the edition
+        if: steps.compose.outcome == 'success'
+        run: |
+          git config user.name "point-du-matin"
+          git config user.email "actions@github.com"
+          git add editions
+          git diff --staged --quiet || git commit -m "Edition du $(TZ=Europe/Luxembourg date +%F)"
+          git push
+
+      - name: Publish to Pages
+        uses: actions/configure-pages@v5
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: .
+      - id: deploy
+        uses: actions/deploy-pages@v4
+
+      - name: Notification
+        env:
+          TELEGRAM_TOKEN: ${{ secrets.TELEGRAM_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+          WHATSAPP_PHONE: ${{ secrets.WHATSAPP_PHONE }}
+          WHATSAPP_APIKEY: ${{ secrets.WHATSAPP_APIKEY }}
+          SITE_URL: ${{ steps.deploy.outputs.page_url }}
+        run: node scripts/notify.mjs
+
+      - name: Fail the run if the composition failed
+        if: steps.compose.outcome != 'success'
+        run: |
+          echo "Composition failed - see the compose step."
+          exit 1
