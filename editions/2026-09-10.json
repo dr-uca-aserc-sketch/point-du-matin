@@ -1,0 +1,404 @@
+{
+ "date": "2026-09-10",
+ "kind": "daily",
+ "heat": 0.88,
+ "oneThing": "Global oil prices surged above $100 per barrel after US forces destroyed Iranian tankers and Iran retaliated with strikes on American targets.",
+ "followUps": [
+  {
+   "n": "01",
+   "thread": "Guerre en Ukraine et sécurité de Volodymyr Zelensky",
+   "change": "Le Premier ministre norvégien a révélé qu'un drone s'était approché du vol du président ukrainien lors de son décollage en Moldavie vers Oslo."
+  },
+  {
+   "n": "02",
+   "thread": "Campagne pour les élections de mi-mandat aux États-Unis",
+   "change": "Donald Trump a promis un chèque de 5 000 dollars aux adultes américains en cas de victoire républicaine lors de la convention de son parti à Dallas."
+  },
+  {
+   "n": "03",
+   "thread": "Crise migratoire dans l'enclave espagnole de Ceuta",
+   "change": "L'Espagne a déclassifié des rapports confirmant que les services de renseignement avaient averti des tentatives d'incursions massives de migrants."
+  }
+ ],
+ "mustReads": [
+  {
+   "desk": "Moyen-Orient",
+   "source": "BBC",
+   "lang": "EN",
+   "paywalled": false,
+   "url": "https://www.bbc.co.uk/news/articles/cyvznqypz0yo?at_medium=RSS&at_campaign=rss",
+   "headline": "Oil hits $100 a barrel for first time since July after US and Houthi strikes",
+   "headlineEn": "Le pétrole franchit la barre des 100 dollars le baril pour la première fois depuis juillet après des frappes américaines",
+   "contested": "",
+   "why": "L'escalade militaire directe entre Washington et Téhéran pousse les cours du brut au-dessus de 100 dollars, ravivant les craintes d'inflation mondiale.",
+   "stat": "100$",
+   "statLabel": "le prix du baril de pétrole franchi suite aux frappes au Moyen-Orient",
+   "chart": null,
+   "paras": [
+    "Global oil prices surged dramatically beyond the critical hundred-dollar mark for the first time since July following an intense military escalation between the United States and Iranian forces. The dramatic increase was triggered by American military strikes targeting five Iranian petroleum tankers in the Middle East. Energy markets reacted swiftly with heightened anxiety as traders evaluated the immediate risk of prolonged disruptions to international maritime trade. The sudden price surge threatens to reignite inflationary pressures across major world economies that were previously attempting to stabilize after extended periods of tight monetary policy.",
+    "In swift retaliation against the American naval actions, Iranian armed forces launched a series of targeted missile strikes directed at military infrastructure hosting American personnel in neighboring Jordan. Jordan's air defense systems reportedly intercepted eighteen incoming missiles, preventing widespread destruction, yet several aircraft at the facilities sustained noticeable damage during the overnight barrage. Furthermore, Iranian commanders issued stern warnings to commercial tankers navigating near Kuwait and Bahrain, instructing them to evacuate immediately. The sharp escalation has effectively turned critical shipping lanes into high-risk military zones, causing global freight companies to reassess their operational routes.",
+    "The geopolitical confrontation expanded further into international diplomatic arenas as the International Atomic Energy Agency formally referred Iran to the United Nations Security Council for non-compliance regarding nuclear inspections. Officials in Tehran strongly condemned the European and American sponsored resolution, claiming that recent military strikes on nuclear facilities made routine technical monitoring impossible. Meanwhile, diplomatic efforts to broker a ceasefire remain completely stalled, with senior officials in Washington conceding that military operations could persist indefinitely. Consequently, international energy experts predict that crude prices will remain volatile and elevated until commercial maritime routes regain structural security.",
+    "The economic ramifications of rising crude prices are already reverberating through consumer markets worldwide, driving up retail gasoline prices and transport logistics costs across North America and Europe. Industrial sectors reliant on heavy fuel consumption are bracing for compressed profit margins and potential operational slowdowns if elevated fuel prices persist. Central bank governors across several continents face renewed dilemmas, as rising energy costs complicate planned interest rate adjustments aimed at fostering economic recovery. Financial analysts warn that sustained oil costs above three figures could trigger broader market instability and reduce household purchasing power globally.",
+    "Political leaders in major oil-importing nations are coming under severe domestic pressure to implement emergency fuel subsidies or temporarily suspend energy taxes to cushion consumers from steep price hikes. However, fiscal authorities express hesitation, noting that broad government intervention could exacerbate existing public deficits without addressing the underlying geopolitical drivers of energy scarcity. In response to the crisis, several Asian and European nations are exploring emergency release measures from national strategic petroleum reserves to temporarily stabilize commercial markets. Despite these potential interventions, market sentiment remains deeply fragile amidst continuous threat headlines.",
+    "As maritime security conditions in the Gulf region remain precarious, commercial shipping firms are imposing substantial war-risk surcharges on vessel insurance, further elevating global supply chain expenditure. Tanker operators are increasingly rerouting vessels away from strategic chokepoints, adding days to transit times between major production hubs and international buyers. Analysts emphasize that without a verifiable diplomatic de-escalation, energy markets will continue to reflect significant risk premiums. The current crisis highlights the persistent vulnerability of the global economy to sudden geopolitical shocks occurring within vital trade corridors across the Middle East."
+   ]
+  },
+  {
+   "desk": "Commerce international",
+   "source": "AP",
+   "lang": "EN",
+   "paywalled": false,
+   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNc1BOQjh6RzR3NkhUTWNocHc3U2RzckMzVGdyMFVwR0JqS3JocTgtbFFwTkwtUU1pTURKNGNma3VpZmYtUExvaHZuYU8wZTlDSEFqemRLc0U0NzhyWUxtaDVxUUp1TW45TFU2MnY5WGhqNFVWd0RPWG1sV1J0N2x3LUFweTlPb0pjcm9YcW9oSS1uTk14cWVIWUJ2Z202Zw?oc=5",
+   "headline": "US banning dairy products, most alcohol and motorcycles from Canada in growing trade war",
+   "headlineEn": "Les États-Unis interdisent les produits laitiers, l'alcool et les motos du Canada dans une guerre commerciale croissante",
+   "contested": "",
+   "why": "La détérioration des relations commerciales entre Washington et Ottawa menace les chaînes d'approvisionnement nord-américaines et accroît les pressions inflationnistes.",
+   "stat": "20",
+   "statLabel": "milliards de dollars de marchandises américaines surtaxées par le Canada",
+   "chart": null,
+   "paras": [
+    "The trade conflict between the United States and Canada reached an unprecedented level of hostility after the Trump administration announced comprehensive import prohibitions targeting Canadian dairy goods, most alcoholic beverages, and motorbikes. This aggressive enforcement action follows the failure of bilateral negotiations aimed at establishing a new bilateral economic agreement last month. Administration officials declared that the strict import bans would take effect within three weeks, representing a direct response to Canadian retaliatory tariffs recently imposed on twenty billion dollars worth of American agricultural and manufactured products.",
+    "Canadian Prime Minister Mark Carney delivered a firm public address emphasizing that Ottawa would not submit to economic coercion or unilateral trade sanctions from Washington. Prime Minister Carney stated that Canada is actively accelerating efforts to diversify its trade partnerships beyond North America to reduce long-term structural dependence on the American market. Business groups on both sides of the border expressed deep concern over the escalating trade measures, warning that disrupted cross-border supply chains will inevitably drive up consumer prices and threaten thousands of logistics and manufacturing jobs.",
+    "The rapidly deteriorating economic relationship marks a significant departure from decades of closely integrated cross-border trade between the two neighboring North American allies. Local leaders in border regions highlighted the immediate practical disruptions faced by agricultural producers and retail distributors who rely heavily on daily cross-border shipments. Agricultural associations warned that sudden import bans on dairy products will create severe market imbalances and financial losses for regional farming communities. Meanwhile, beverage distributors anticipate inventory shortages and price increases for consumers as existing trade channels are abruptly closed.",
+    "Political analysts point out that the escalating trade dispute with Ottawa is heavily intertwined with domestic political strategy ahead of the upcoming American midterm congressional elections. President Donald Trump has made tough trade enforcement a central pillar of his political platform, using trade tariffs to demonstrate protectionist commitments to industrial voters in key competitive districts. However, lawmakers representing agricultural states expressed mounting alarm regarding retaliatory measures, noting that American farmers risk losing crucial export markets during a period of already heightened economic uncertainty.",
+    "In addition to target import prohibitions, the administration announced plans to re-examine existing trade exemptions under current regional agreements, signaling potential further restrictions across other economic sectors. Economic experts warn that prolonged trade hostility between North America's largest trading partners could weaken regional economic competitiveness against emerging Asian and European trade blocs. Furthermore, international trade organizations expressed concern that unilateral import bans bypass established dispute settlement mechanisms, setting a troubling precedent for global commercial norms and international trade law compliance.",
+    "As both governments remain locked in rigid negotiating positions, industry associations are urging immediate diplomatic intervention to prevent permanent damage to bilateral commercial relations. Corporate leaders have called for temporary standstill agreements that would allow negotiators to address trade grievances without inflicting further hardship on border businesses. However, with domestic political rhetoric escalating rapidly, prospects for an early compromise appear increasingly distant, leaving cross-border industries to prepare for prolonged economic disruption and heightened volatility in international commodity markets."
+   ]
+  },
+  {
+   "desk": "Politique européenne",
+   "source": "DW",
+   "lang": "DE",
+   "paywalled": false,
+   "url": "https://www.dw.com/de/merz-zur-afd-sie-wollen-ethnische-säuberungen-in-deutschland/a-79200855?maca=de-rss-de-all-1119-rdf",
+   "headline": "Merz zur AfD: \"Sie wollen ethnische Säuberungen in Deutschland!\"",
+   "headlineEn": "Merz to AfD: 'You want ethnic cleansing in Germany!'",
+   "contested": "",
+   "why": "Le choc électoral en Saxe-Anhalt fracture le paysage politique allemand et attise un débat acerbe au Bundestag sur l'avenir du cordon sanitaire.",
+   "stat": "",
+   "statLabel": "",
+   "chart": null,
+   "paras": [
+    "Drei Tage nach dem aufsehenerregenden Wahlsieg der Alternative für Deutschland in Sachsen-Anhalt hat sich im Deutschen Bundestag eine außergewöhnlich scharfe Debatte zwischen der Bundesregierung und der Opposition entfacht. Bundeskanzler Friedrich Merz griff die Parteiführung der AfD während einer emotionalen Plenarsitzung direkt an und warf ihr vor, eine gefährliche Politik der gesellschaftlichen Spaltung zu betreiben. Merz erklärte vor den Abgeordneten, dass die Migrationspolitik der AfD im Kern auf eine Form der ethnischen Säuberung hinauslaufe, die für den Wirtschaftsstandort Deutschland verheerende Folgen hätte.",
+    "Die Fraktionsvorsitzende der AfD, Alice Weidel, wies die Vorwürfe des Bundeskanzlers umgehend energisch zurück und forderte im Gegenzug den sofortigen Rücktritt des Regierungschefs. Weidel warf der Koalition Versagen in der Wirtschaftspolitik sowie eine unkontrollierte Migrationspolitik vor, welche die innere Sicherheit des Landes nachhaltig gefährde. Die rhetorische Auseinandersetzung verdeutlicht die gewachsene Polarisierung im parlamentarischen Betrieb nach den jüngsten Landtagswahlen. Politische Beobachter werten die Schärfe der Debatte als Anzeichen dafür, dass der Umgang mit der erstarkten AfD die Bundespolitik in den kommenden Monaten dominieren wird.",
+    "Parallel zu den parlamentarischen Wortgefechten entbrannte in Berlin eine verfassungsrechtliche und politische Diskussion über die Einleitung eines Parteiverbotsverfahrens gegen die AfD. Während mehrere Abgeordnete verschiedener demokratischer Fraktionen einen entsprechenden Antrag beim Bundesverfassungsgericht befürworten, äußerte Bundeskanzler Merz deutliche Skepsis gegenüber diesem Instrument. Merz argumentierte, dass ein juristisches Verbotsverfahren die zugrunde liegenden politischen Ursachen des Wahlerfolgs der AfD keineswegs lösen würde. Stattdessen bestehe die Gefahr, dass sich die Wählerschaft der Partei noch weiter von den etablierten demokratischen Institutionen entfremden könnte.",
+    "Unterdessen führen die Wahlergebnisse in Sachsen-Anhalt zu komplizierten politischen Konstellationen bei der Regierungsbildung auf Landesebene. Während die traditionellen Parteien wie CDU, SPD, Grüne und Linke ein offizielles Sondierungsgespräch mit der AfD kategorisch ablehnen, zeigte sich das Bündnis Sahra Wagenknecht offen für erste politische Gespräche. Diese Haltung stieß bei den übrigen Fraktionen auf erhebliche Kritik, da die bisherige parlamentarische Isolation der AfD aufgeweicht werden könnte. Die Verhandlungen in Magdeburg werden aufmerksam beobachtet, da sie als richtungsweisend für künftige Koalitionsentscheidungen in anderen östlichen Bundesländern gelten.",
+    "Wirtschaftsverbände zeigten sich besorgt über die zunehmende politische Instabilität und warnten vor negativen Auswirkungen auf internationale Investitionen und die Anwerbung ausländischer Fachkräfte. Vertreter der Industrie betonten, dass Deutschland auf qualifizierte Zuwanderung angewiesen sei, um den demografischen Wandel und den drohenden Fachkräftemangel in Schlüsselbranchen abzufedern. Die scharfen Debatten über Migrationsfragen könnten das Ansehen Deutschlands als weltoffener Wirtschaftsstandort schädigen und potenzielle Fachkräfte abschrecken. Mehrere Unternehmensverbände forderten daher die politischen Akteure auf, zu einer sachlichen und lösungsorientierten Diskussion über zukunftsfähige Migrationskonzepte zurückzukehren.",
+    "Die politische Debatte im Bundestag spiegelt wider, wie tief der Schock über die jüngsten Wahlergebnisse in der deutschen Parteienlandschaft sitzt. Die kommenden Wochen werden zeigen, ob die etablierten Parteien eine gemeinsame Strategie entwickeln können, um den gesellschaftlichen Zusammenhalt zu stärken und das Vertrauen der Wähler zurückzugewinnen. Die Auseinandersetzung um den richtigen Kurs im Umgang mit rechtspopulistischen Kräften bleibt eine der zentralen Herausforderungen für die deutsche Demokratie. Die politische Führung steht vor der schwierigen Aufgabe, drängende Sorgen der Bevölkerung wirksam anzugehen, ohne demokratische Grundprinzipien aufzugeben."
+   ]
+  }
+ ],
+ "desks": [
+  {
+   "name": "Luxembourg",
+   "stories": [
+    {
+     "source": "Luxemburger Wort",
+     "lang": "de",
+     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNaTBEQUw1N1JpQnh0aDBxUkQ0Ympvc3phZk54aHRyem5aWTFYREJpS1lzTWhIekxZV0lVcE10V0pzMGZYN1N4YUR6MzVyaFItckxkd1Y3bVVHU1BrSWVSWF_VNy1LUHVBY2RlMC1YbWhyWklqOERQOHY1OUc3aW04bUp2bzFmRFUySkZpQmZlc20ta2dMRF9qdzZTNk9BcGxkU04yU0o0SU9zWC1FbW44RC1FU2c?oc=5",
+     "headline": "Neue überparteiliche Vereinigung: „Es ist keine Initiative gegen die ADR“",
+     "headlineEn": "New cross-party association: \"It is not an initiative against the ADR\"",
+     "summary": "In Luxemburg sorgt die Gründung einer neuen überparteilichen Vereinigung für politische Diskussionen im Großherzogtum. Die Verantwortlichen betonen nachdrücklich, dass sich ihre Initiative keineswegs gezielt gegen die konservative Partei ADR richtet, sondern vielmehr gesellschaftliche Debatten fördern soll. Mit diesem Schritt wollen die Initiatoren eine Plattform für den sachlichen Austausch über Parteigrenzen hinweg schaffen und Bürger stärker in politische Entscheidungsprozesse einbinden. Die Reaktion in der politischen Landschaft ist von aufmerksamer Beobachtung geprägt, da die genaue Ausrichtung und künftige Wirkung dieses Bündnisses im parlamentarischen Gefüge noch genau analysiert werden.",
+     "why": "Cette initiative montre les recompositions politiques en cours au Grand-Duché à l'approche des grands débats sociétaux.",
+     "paywalled": true,
+     "contested": "",
+     "chart": null
+    },
+    {
+     "source": "RTL.lu",
+     "lang": "fr",
+     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNVFlwR1ROakFSLUxRUHcta3NJZUk1cEY5YWtsVFRCN2NqaFppWUVDZGdpV1dTWENqZjFGUDlmb2tJNDBUakh3Q0JROGdNc2lyTDNKR293WjkzS1g2MjRJY2R4RzB3QkthZjFlT3R5YmZUNUVjbnNfWnhiN3BUN1RCalBvd2FIVWE2TjlNblVfcmhsMnBJNXYxbDNLUQ?oc=5",
+     "headline": "Violente agression: Un homme roué de coups par deux voleurs à Belair",
+     "headlineEn": "Violent assault: A man beaten by two thieves in Belair",
+     "summary": "Une agression particulièrement violente s'est produite dans le quartier résidentiel de Belair à Luxembourg-Ville. La victime a été surprise et rouée de coups par deux agresseurs qui voulaient lui dérober ses effets personnels au cours de la nuit. Les forces de l'ordre ont immédiatement ouvert une enquête approfondie afin de retrouver les suspects et de renforcer les patrouilles dans le secteur. Cet événement regrettable relance le débat sur la sécurité publique et la prévention de la criminalité dans les quartiers habitables de la capitale luxembourgeoise.",
+     "why": "Les enjeux de sécurité urbaine dans les quartiers résidentiels de la capitale restent au cœur des préoccupations citoyennes.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    },
+    {
+     "source": "Luxemburger Wort",
+     "lang": "de",
+     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPQjVCZVBqbm50aXV6YVp5SFVfS1pmcF8taFFVVXBlRXVEZkZhQnhfelZyM2V6bzV6dDJJV3RWWlpIc2hwbTcxaXhiZWJsU09GdVpDcGtYd3NPczNybDJkME4xZmpaMFdtVVlmRkYyNlVNeWc4dHlxQzlVT0ZYeEx2QUQ3ZkVrbkp1X3Z2OHVkZFlnWFJOc1pIa1kzaVZPMG9wYnBvMUJkN2d4UQ?oc=5",
+     "headline": "„Kultur lx“: Zwischen Tintenfisch und Krake auf dem Millionenschatz",
+     "headlineEn": "\"Kultur lx\": Between squid and octopus on a million-euro treasure",
+     "summary": "Die luxemburgische Kulturstiftung Kultur lx zieht eine Bilanz ihrer bisherigen Fördermassnahmen und richtet den Blick auf die künftige Gestaltung der heimischen Kunstszene. Trotz bedeutender finanzieller Mittel und wertvoller Ressourcen stehen die Verantwortlichen vor der Herausforderung, kreative Projekte nachhaltig zu unterstützen und international sichtbar zu machen. Die Organisation versucht dabei, transparente Förderkriterien mit den vielfältigen Bedürfnissen von Künstlern verschiedener Disziplinen zu verbinden. Kulturfachleute betonen, wie wichtig eine gezielte Verteilung dieser öffentlichen Mittel für das langfristige Wachstum und die Eigenständigkeit des luxemburgischen Kulturschaffens bleibt.",
+     "why": "La gestion des fonds publics pour la culture conditionne la rayonnement artistique du Luxembourg à l'international.",
+     "paywalled": true,
+     "contested": "",
+     "chart": null
+    }
+   ]
+  },
+  {
+   "name": "Monde / géopolitique",
+   "stories": [
+    {
+     "source": "Washington Post",
+     "lang": "en",
+     "url": "https://www.washingtonpost.com/world/2026/09/09/plane-carrying-zelensky-threatened-by-drone-moldova-norways-premier-says/",
+     "headline": "Plane carrying Zelensky threatened by drone in Moldova, Norway’s premier says",
+     "headlineEn": "L'avion transportant Zelensky menacé par un drone en Moldavie, selon le premier ministre norvégien",
+     "summary": "An aircraft carrying Ukrainian President Volodymyr Zelenskyy was approached by a drone while taking off from Moldova, according to Norway's Prime Minister Jonas Gahr Støre. Zelenskyy was traveling to Oslo to attend the funeral services for King Harald V of Norway when the incident occurred near Moldovan airspace. The drone was reportedly launched from the occupied Crimean peninsula, raising acute security alarms among international officials and aviation authorities. Norwegian leaders disclosed the encounter following the delegation's safe arrival, highlighting the persistent personal risks facing Ukraine's head of state during international travel amid the war.",
+     "why": "Cet incident souligne les risques majeurs pesant sur les déplacements internationaux du président ukrainien en pleine guerre.",
+     "paywalled": true,
+     "contested": "",
+     "chart": null
+    },
+    {
+     "source": "France 24",
+     "lang": "fr",
+     "url": "https://www.france24.com/fr/moyen-orient/20260909-iran-cible-navires-base-%C3%A9tats-unis-jordanie-apr%C3%A8s-destruction-p%C3%A9troliers",
+     "headline": "L'Iran cible des navires et une base américaine en Jordanie après la destruction de pétroliers",
+     "headlineEn": "Iran targets ships and a US base in Jordan after destruction of tankers",
+     "summary": "Les Gardiens de la révolution iraniens ont annoncé avoir lancé des missiles balistiques contre la base militaire d'Al-Azraq en Jordanie, accueillant des forces américaines. Cette attaque survient en riposte directe à la destruction récente de cinq pétroliers iraniens par la marine des États-Unis. Téhéran affirme également avoir pris pour cible plusieurs navires commerciaux et militaires dans la région du Golfe, accentuant considérablement la tension. La défense aérienne jordanienne a intercepté une grande partie des projectils, mais plusieurs appareils américains auraient subi des dommages importants sur la base touchée.",
+     "why": "L'extension des frappes iraniennes aux bases américaines en Jordanie marque une escalade régionale particulièrement dangereuse.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    },
+    {
+     "source": "AP",
+     "lang": "en",
+     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPbWZfYl9QbVZPeER2ZS1ZcWxTUEhydUUzdDF1WkRBdGtFZi1YVkMza3RBMG9XY2VLNWIyT3BhWUY3T2pLLUFvU3pRbTdZY0xfUHBnTWZ2TEhGYkdpRFJBdjlzWHJWRmhZNE5CaHdYWWdQSzNGYk5BZU5FYWw2ajh3R3RzTkExY1dodE1fbXhBZkdyeExIYTZrWXJoY1Y2OVNqUk5Ld2JPOA?oc=5",
+     "headline": "Serbia’s Vucic calls snap parliamentary election for October after months of protests",
+     "headlineEn": "Le président serbe Vucic convoque des législatives anticipées pour octobre après des mois de manifestations",
+     "summary": "Serbian President Aleksandar Vucic has officially called a snap parliamentary election for October following months of sustained anti-government demonstrations across the country. The tactical political maneuver comes as public discontent over corruption, media freedom, and political stagnation continues to mounting in Belgrade. Analysts suggest that securing a renewed parliamentary mandate would allow Vucic to consolidate power and potentially transition to the Prime Minister’s office before his final presidential term ends. Opposition parties are preparing for a fierce campaign, accusing the incumbent regime of manipulating electoral timelines to undermine anti-government momentum.",
+     "why": "La tenue de législatives anticipées en Serbie est déterminante pour l'avenir politique du pays et ses relations avec l'Union européenne.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    }
+   ]
+  },
+  {
+   "name": "International — hors Europe",
+   "stories": [
+    {
+     "source": "Al Jazeera",
+     "lang": "en",
+     "url": "https://www.aljazeera.com/news/2026/9/10/five-dead-dozens-missing-in-philippines-ferry-fire?traffic_source=rss",
+     "headline": "Five dead, dozens missing in Philippines ferry fire",
+     "headlineEn": "Cinq morts et des dizaines de disparus dans l'incendie d'un ferry aux Philippines",
+     "summary": "A fatal fire broke out on a passenger ferry carrying more than 130 people near the popular tourist destination of Palawan in the Philippines. Marine rescue teams confirmed at least five fatalities while dozens of passengers remain missing off the coast of Coron. The Philippine Coast Guard deployed search-and-rescue vessels to locate survivors amid difficult maritime conditions and dense smoke. Safety regulators have launched a formal investigation into the vessel’s safety protocols to determine what ignited the blaze aboard the overnight transport.",
+     "why": "La sécurité maritime archipélagique aux Philippines fait à nouveau débat après ce drame meurtrier sur une route touristique majeure.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    },
+    {
+     "source": "France 24",
+     "lang": "fr",
+     "url": "https://www.france24.com/fr/am%C3%A9riques/20260909-en-%C3%A9quateur-le-secr%C3%A9taire-d-%C3%A9tat-am%C3%A9ricain-marco-rubio-s-en-prend-aux-cartels-de-la-drogue",
+     "headline": "En Équateur, le secrétaire d'État américain Marco Rubio s'en prend aux cartels de la drogue",
+     "headlineEn": "In Ecuador, US Secretary of State Marco Rubio targets drug cartels",
+     "summary": "Le secrétaire d'État américain Marco Rubio s'est rendu en Équateur afin d'amplifier la lutte contre le narco-trafic et le crime organisé en Amérique latine. Lors de sa visite officielle, le chef de la diplomatie américaine a qualifié le gang équatorien Los Tiguerones d'organisation terroriste internationale. Washington souhaite consolider ses alliances de sécurité avec les gouvernements conservateurs de la région face à la montée de la violence. Les autorités équatoriennes ont salué ce partenariat renforcé tout en réclamant un soutien financier et logistique supplémentaire pour sécuriser leurs ports stratégiques.",
+     "why": "L'alignement sécuritaire entre Washington et Quito renforce la lutte continentale contre les réseaux de narcotrafic.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    },
+    {
+     "source": "France 24",
+     "lang": "fr",
+     "url": "https://www.france24.com/fr/am%C3%A9riques/20260909-presidentielle-bresil-cour-supreme-dechire-crise-lula-flavio-bolsonaro-alexandre-de-moraes",
+     "headline": "Avant la présidentielle au Brésil, la Cour suprême se déchire dans une crise inédite",
+     "headlineEn": "Ahead of Brazil's presidential election, the Supreme Court is torn by an unprecedented crisis",
+     "summary": "Le Brésil traverse une crise institutionnelle aiguë à l'approche du scrutin présidentiel d'octobre opposant le président Lula à Flavio Bolsonaro. La Cour suprême s'est déchirée autour de décisions judiciaires contradictoires concernant le limogeage du chef de la police fédérale sur fond d'enquête pour fraude bancaire. Son président a dû intervenir en urgence pour suspendre les arrêtés divergents de ses confrères et tenter de préserver l'impartialité de l'institution. Cet affrontement interne fragilise la confiance dans la justice brésilienne et exacerbe le climat politique déjà particulièrement tendu dans l'ensemble du pays.",
+     "why": "Les tensions judiciaires menacent la stabilité des institutions brésiliennes à quelques semaines d'une élection présidentielle cruciale.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    },
+    {
+     "source": "NYT",
+     "lang": "en",
+     "url": "https://www.nytimes.com/2026/09/09/world/middleeast/syria-weapons-depot-blast.html",
+     "headline": "14 Killed in Weapons Depot Blast in Northwest Syria",
+     "headlineEn": "14 morts dans l'explosion d'un dépôt d'armes dans le nord-ouest de la Syrie",
+     "summary": "A powerful explosion destroyed a temporary wartime weapons depot near Sarmada in Syria’s northwest Idlib province, killing at least 14 people and injuring 11 others. Defense officials indicated that unexploded ordnance and military remnants gathered from years of civil conflict were stored at the facility prior to planned relocation. Rescue personnel continued searching through the rubble for additional casualties as local authorities worked to secure the area. Humanitarian workers warned that unexploded munitions continue to pose a deadly daily threat to civilians throughout war-damaged Syrian territories.",
+     "why": "Les vestiges pyrotechniques de la guerre civile restent un péril mortel permanent pour la population civile en Syrie.",
+     "paywalled": true,
+     "contested": "",
+     "chart": null
+    },
+    {
+     "source": "Foreign Affairs",
+     "lang": "en",
+     "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFA3MUVlSUhpemN5Z2phTHEyZ0VuZzQ2RkN5dnBtZXJsU2RYRU1jNjNXeFVKSWJkdFAwOUs0dWVzZzNVXzhFNUktM09rQjl5VDlRYnRTNHZ5WU1mbzVtOEQ3Um43ZE0tVm84UWlVeWh5dkg?oc=5",
+     "headline": "How al-Qaeda Ended",
+     "headlineEn": "Comment al-Qaïda a pris fin",
+     "summary": "A comprehensive analysis in Foreign Affairs examines the long-term structural demise of al-Qaeda a quarter-century after the September 11 terrorist attacks. The study details how systemic counterterrorism operations, leadership decapitation, and ideological fragmentation gradually dismantled the global jihadist movement's operational core. While regional offshoots persist in localized insurgencies, the central organization has effectively lost its capacity to plan or execute large-scale strategic strikes against Western targets. Foreign policy experts argue that understanding this decline provides crucial strategic lessons for countering emerging transnational security threats in a multipolar world.",
+     "why": "Cette analyse rétrospective offre un bilan stratégique sur la fin de l'organisation terroriste globale 25 ans après le 11-Septembre.",
+     "paywalled": true,
+     "contested": "",
+     "chart": null
+    }
+   ]
+  },
+  {
+   "name": "Europe & politiques de l'UE",
+   "stories": [
+    {
+     "source": "BBC",
+     "lang": "EN",
+     "url": "https://www.bbc.co.uk/news/articles/ced7vj2gv82o?at_medium=RSS&at_campaign=rss",
+     "headline": "Spanish intelligence warned of Ceuta mass crossing plans before surge",
+     "headlineEn": "Les services de renseignement espagnols avaient averti des projets de traversée massive à Ceuta avant l'afflux",
+     "summary": "Declassified documents show that Spanish and Moroccan authorities received alerts from intelligence services regarding social media calls for a mass migrant crossing into Ceuta just a day before tens of thousands of individuals attempted to enter the enclave. The subsequent surge led to significant political friction and tragic loss of life at the border. While the European Union recently unlocked nearly 115 million euros in emergency aid to assist Spain in managing the humanitarian crisis, local reception facilities remain overwhelmed as temporary camps appear along nearby beaches. The ongoing situation continues to strain bilateral relations between Madrid and Rabat.",
+     "why": "Cet afflux migratoire ravive les tensions diplomatiques entre l'Espagne et le Maroc tout en sollicitant les budgets d'urgence de l'Union européenne.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    },
+    {
+     "source": "AP",
+     "lang": "EN",
+     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPbWZfYl9QbVZPeER2ZS1ZcWxTUEhydUUzdDF1WkRBdGtFZi1YVkMza3RBMG9XY2VLNWIyT3BhWUY3T2pLLUFvU3pRbTdZY0xfUHBnTWZ2TEhGYkdpRFJBdjlzWHJWRmhZNE5CaHdYWWdQSzNGYk5BZU5FYWw2ajh3R3RzTkExY1dodE1fbXhBZkdyeExIYTZrWXJoY1Y2OVNqUk5Ld2JPOA?oc=5",
+     "headline": "Serbia’s Vucic calls snap parliamentary election for October after months of protests",
+     "headlineEn": "Le président serbe Vucic convoque des élections législatives anticipées pour octobre après des mois de manifestations",
+     "summary": "Serbian President Aleksandar Vucic has called a snap parliamentary election for October following months of persistent anti-government demonstrations across the country. Analysts view this tactical move as a strategic effort to consolidate political power before his presidential term expires next year, potentially allowing him to transition to the role of prime minister. Although Serbia has formally pursued European Union membership for years, accession negotiations remain stalled due to domestic political disputes and persistent tensions with European norms. The upcoming vote is expected to test Vucic's hold on power amid heightened public scrutiny and political polarization.",
+     "why": "L'instabilité politique en Serbie complique davantage son processus d'adhésion à l'Union européenne et la stabilité des Balkans occidentaux.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    },
+    {
+     "source": "Süddeutsche Zeitung",
+     "lang": "DE",
+     "url": "https://www.sueddeutsche.de/politik/ukraine-krieg-selenskij-flugzeug-drohne-oslo-li.3524928",
+     "headline": "Selenskijs Flugzeug offenbar fast von Drohne getroffen",
+     "headlineEn": "Zelenskyy's plane reportedly nearly struck by drone",
+     "summary": "Das Flugzeug des ukrainischen Präsidenten Wolodymyr Selenskyj ist laut Angaben des norwegischen Ministerpräsidenten Jonas Gahr Støre beim Abflug aus Moldau nur knapp einem gefährlichen Zwischenfall mit einer Drohne entgangen. Der ukrainische Staatschef befand sich auf der Reise nach Oslo, um dort an den offiziellen Trauerfeierlichkeiten für den verstorbenen norwegischen König Harald V. teilzunehmen. Berichten zufolge soll das unbemannte Flugobjekt von der Krim aus gestartet sein und näherte sich der Maschine unmittelbar nach dem Abflug. Der Vorfall verdeutlicht erneut die extremen Sicherheitsrisiken, denen die ukrainische Führung selbst bei diplomatischen Auslandsreisen ausgesetzt ist.",
+     "why": "Les risques pesant sur la sécurité des dirigeants ukrainiens illustrent la vulnérabilité des déplacements diplomatiques en Europe de l'Est.",
+     "paywalled": true,
+     "contested": "",
+     "chart": null
+    }
+   ]
+  },
+  {
+   "name": "Économie & marchés",
+   "stories": [
+    {
+     "source": "BBC",
+     "lang": "EN",
+     "url": "https://www.bbc.co.uk/news/articles/c8r6y4me2g6o?at_medium=RSS&at_campaign=rss",
+     "headline": "Google picks Finland for its largest single investment in Europe",
+     "headlineEn": "Google choisit la Finlande pour son plus grand investissement individuel en Europe",
+     "summary": "Google has announced plans to construct a massive 13 billion euro data centre project in Finland, representing its largest single investment in Europe to date. According to the US technology giant, the expansion will create tens of thousands of jobs and strengthen Northern Europe's digital infrastructure capacity. The decision highlights growing demand for cloud computing and artificial intelligence processing capabilities across the continent. Regional officials welcomed the announcement, pointing to the significant economic boost and infrastructure development that the facility will bring to the Nordic country over the coming years.",
+     "why": "Cet investissement majeur renforce les capacités de traitement des données et d'intelligence artificielle sur le continent européen.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    },
+    {
+     "source": "Financial Times",
+     "lang": "EN",
+     "url": "https://www.ft.com/content/98329c45-f5b7-4885-9911-e0c8a9c83c0a?syn-25a6b1a6=1",
+     "headline": "IMF ditched top candidate for chief economist job over Trump tariff remarks",
+     "headlineEn": "Le FMI écarte le favori pour le poste d'économiste en chef après des propos sur les tarifs douaniers de Trump",
+     "summary": "The International Monetary Fund has dropped London School of Economics professor Ricardo Reis as its leading candidate for chief economist after he publicly criticized Washington's trade policies. Reis had cautioned that escalating global tariffs driven by the US administration would ultimately harm American consumers through increased costs. The decision underscores the intense political pressures surrounding international financial institutions as global trade tensions escalate. The selection process for the top research position at the IMF now faces renewed uncertainty while the institution navigates sensitive diplomatic relations with major shareholder nations.",
+     "why": "L'épisode montre l'impact direct de la politique commerciale américaine sur l'indépendance des institutions financières internationales.",
+     "paywalled": true,
+     "contested": "",
+     "chart": null
+    },
+    {
+     "source": "Reuters",
+     "lang": "FR",
+     "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPY1FWT0lxdlJub2t3S19sMnBpYjgyeXRHcDI1bUEybVRoU3NhSGF3VmZqLUxGTEZQc3NsMlNnX1FlWWRYUG15ZW9tNkk1NGJpT3Qtbi1EZGUxQkIyYjVlM1Z1aGQxMFRzS25JbjVEMVJVMk8xUnZCZlQ3d25fTnRFYXZNWjdxR2FVY0p4QnNoN253U2Rhd3c?oc=5",
+     "headline": "Chine-Les prix à la production progressent en août",
+     "headlineEn": "China producer prices rise in August",
+     "summary": "Les prix à la production en Chine ont réenregistré une progression au mois d'août, offrant un signal positif pour la deuxième économie mondiale. Cette hausse s'explique en partie par la remontée des coûts des matières premières et une stabilisation de la demande industrielle interne. Les analystes surveillent de près ces indicateurs afin d'évaluer si le secteur manufacturier chinois parvient à surmonter les pressions déflationnistes observées ces derniers mois. Malgré cette amélioration, les incertitudes entourant le commerce international et les tensions douanières mondiales continuent de peser sur les perspectives à long terme des entreprises exportatrices.",
+     "why": "L'évolution des prix industriels chinois influence directement les coûts de production et l'inflation importée à l'échelle mondiale.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    }
+   ]
+  },
+  {
+   "name": "Technologie & sciences",
+   "stories": [
+    {
+     "source": "AP",
+     "lang": "EN",
+     "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNZnNEUHIyS2lzSmJQbndlYkJTcnJtNEdnTlRVNU5rTGJUVU9zOTcxNU9keURpVE40eHgzSExCYzRxcTM4bDdzMVBLSmdtRVYwRWczZU4xbDEwN090dkhiMEF6OG1VMWtPcFdhX20xVTQ0QTBSLVJQZTNjVzN3dDRGTzlyeUlUV1JUMk9NOUhlZFFXUQ?oc=5",
+     "headline": "New Apple CEO unveils latest iPhone lineup, including a foldable model called Duo",
+     "headlineEn": "Le nouveau PDG d'Apple dévoile la nouvelle gamme d'iPhone, dont un modèle pliable nommé Duo",
+     "summary": "Apple’s new chief executive officer John Ternus has unveiled the company’s latest smartphone product lineup, featuring its first-ever foldable device named the iPhone Duo. Designed with a passport-style hinge and a 7.6-inch flexible screen, the new model represents the company's most significant hardware redesign in nearly two decades. The premium flagship foldable is positioned to compete directly with existing flexible devices from rival manufacturers in the high-end consumer market. Industry observers note that high price points for top configurations could test consumer appetite amid broader economic headwinds and slowing upgrade cycles.",
+     "why": "Ce lancement marque le tournant stratégique d'Apple vers les écrans pliables après des années de dominance des smartphones classiques.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    },
+    {
+     "source": "Reuters",
+     "lang": "EN",
+     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQM3BGN3ZBNTNDNW5DeGNuUmhNSnM3M1JfZ1NGaWF1ZFpvNHg3THdibUkzRkNrSkMwX2g2bDRzaUdmcklQNW9tNDZNTWREV2M0c0I1bXlFejQwZkFhTzRybzFjd1UzWS1BbFFyeWoxbzlWMXpyQTN3MF9ydzZxQ0ktYjhLY1dPRlM1alU1UUdGd0psUFBPOE5KU0VNSTdzNWs4RWFRYlpVaHJMd0Nt?oc=5",
+     "headline": "OpenAI pushes for mandatory national AI safety rules",
+     "headlineEn": "OpenAI plaide pour des règles nationales obligatoires de sécurité en matière d'IA",
+     "summary": "Artificial intelligence developer OpenAI is advocating for the establishment of mandatory national safety standards to govern advanced AI deployment. The company argues that enforceable federal guidelines are essential to prevent catastrophic risks and ensure consistent evaluation of frontier models across the industry. This policy push comes amid growing scrutiny from lawmakers and researchers regarding the potential societal risks posed by rapid technological advancement. By proposing uniform safety benchmarks, OpenAI aims to foster a regulatory environment that balances technological innovation with public safety while addressing widespread concerns about unregulated AI development.",
+     "why": "L'encadrement juridique de l'intelligence artificielle devient un enjeu prioritaire pour réguler les modèles de pointe.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    },
+    {
+     "source": "France 24",
+     "lang": "FR",
+     "url": "https://www.france24.com/fr/plan%C3%A8te/20260910-ao%C3%BBt-2026-a-%C3%A9t%C3%A9-le-mois-le-plus-chaud-jamais-mesur%C3%A9-dans-le-monde",
+     "headline": "Août 2026 a été le mois le plus chaud jamais mesuré sur Terre",
+     "headlineEn": "August 2026 was the hottest month ever recorded on Earth",
+     "summary": "Selon les données publiées par le service européen Copernicus, le mois d'août 2026 s'impose comme le plus chaud jamais enregistré à l'échelle mondiale. La température moyenne de l'air a atteint 16,96 °C, franchissant de nouveaux sommets historiques pour la planète. Les scientifiques soulignent que l'humanité n'avait pas connu de niveaux thermiques comparables depuis environ 125 000 ans. Cette multiplication des vagues de chaleur extrêmes confirme la poursuite du réchauffement climatique global, incitant les experts à réclamer une accélération drastique des politiques d'atténuation et d'adaptation environnementale.",
+     "why": "Ces chiffres climatiques inédits rappellent l'urgence des politiques de décarbonation face à la hausse continue des températures mondiales.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    }
+   ]
+  },
+  {
+   "name": "Sport",
+   "stories": [
+    {
+     "source": "France 24",
+     "lang": "FR",
+     "url": "https://www.france24.com/fr/sports/20260909-pour-leur-entr%C3%A9e-en-lice-en-ligue-des-champions-le-psg-et-barcelone-cartonnent",
+     "headline": "Pour leur entrée en lice en Ligue des champions, le PSG et Barcelone cartonnent",
+     "headlineEn": "For their Champions League opener, PSG and Barcelona crush their opponents",
+     "summary": "Le Paris Saint-Germain et le FC Barcelone ont marqué les esprits lors de la première journée de la Ligue des champions. Le club parisien a écrasé Bratislava 6-1, tandis que les Catalans se sont imposés 5-1 contre le Feyenoord. De leur côté, Liverpool et Arsenal ont également décroché des victoires précieuses face à l'Atlético Madrid et au Napoli.",
+     "why": "Un démarrage spectaculaire des grands clubs européens qui affiche d'emblée leurs ambitions pour le titre.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    },
+    {
+     "source": "AFP",
+     "lang": "FR",
+     "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNZHVOUGpCeUtOUnZHbkh1MnRGRzVEc1NYZDVmRUpLZEhHSWg2US1UanpxbXBIdUtHSDVHR2ZjS1BXa2ZmdlRLOXJaZGZ1SVZ2Q3A2cHZIakpDQ0psb1RNNjBqRWZDQTFNRlg3ZDdOcGlLWVFlVDVBaV90bjhjYTdVNUpWamRkTVU0bkZlVmxUcUpPa3NjMWc?oc=5",
+     "headline": "US Open: Shelton bat Alcaraz au bout du match le plus tardif à New York",
+     "headlineEn": "US Open: Shelton beats Alcaraz in the latest match ever played in New York",
+     "summary": "Ben Shelton a créé la sensation à l'US Open en éliminant Carlos Alcaraz à l'issue du match le plus tardif de l'histoire du tournoi new-yorkais. L'Américain a fait preuve d'une grande solidité mentale pour s'imposer tard dans la nuit face au numéro mondial. Cette victoire majeure qualifie Shelton pour la suite de la compétition sous les acclamations du public américain.",
+     "why": "Une victoire retentissante qui bouscule le tableau masculin et confirme l'émergence de Shelton au plus haut niveau.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    }
+   ]
+  }
+ ],
+ "sourced": true,
+ "feeds": {
+  "ok": 28,
+  "of": 29,
+  "items": 264,
+  "skipped": [
+   "RTL.lu (LB)"
+  ]
+ },
+ "words": 4167,
+ "readMin": 21,
+ "storyCount": 25
+}
