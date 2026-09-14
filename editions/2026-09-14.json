@@ -1,0 +1,404 @@
+{
+ "date": "2026-09-14",
+ "kind": "daily",
+ "heat": 0.8,
+ "oneThing": "Oil prices surged past $108 as attacks in the Strait of Hormuz and Saudi Arabia deepened Middle East energy supply disruptions.",
+ "followUps": [
+  {
+   "n": "01",
+   "thread": "Guerre en Ukraine et frappes ferroviaires",
+   "change": "Un drone russe a frappé un train près de la frontière polonaise peu après le passage de responsables européens, incitant Donald Trump à demander la fin des frappes ukrainiennes sur le fioul russe."
+  },
+  {
+   "n": "02",
+   "thread": "Visite de Donald Trump en Irlande",
+   "change": "Le président américain a achevé sa visite en annonçant la levée des tarifs sur le whisky irlandais tout en suscitant la polémique sur la réunification de l'île."
+  },
+  {
+   "n": "03",
+   "thread": "Naufrage en Indonésie",
+   "change": "Les secours poursuivent la recherche d'au moins 129 disparus après le chavirage d'un ferry dans la mer de Java en raison des intempéries."
+  }
+ ],
+ "mustReads": [
+  {
+   "desk": "Technologie & Politique",
+   "source": "AP News",
+   "lang": "EN",
+   "paywalled": false,
+   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOamh3ZzlxNlU2NTItT2hQNnladG9CS1I0QlZHMm9YcnE1X2RPTERiMS1oME9wc1UzUHloY3JDNDFLa3VQSEcybzlMUG1xVG5xV1BGS0V2Ym1ScGoyd1BaVlZwdGl4c1lzNDUxZkpzaXFOSDl5ZHhoUklLQ3drWG5QenVlRUk5amRfWjBPRHVfSUNxaUJ2aUwxS25CZ3JUQ1RxNkEzN3VYdThBX1RsdEpTa3d1N2JwUFZwblpjajFCOEpvQQ?oc=5",
+   "headline": "Trump downplays the need to check AI development and says he doesn't want to cede edge to China",
+   "headlineEn": "Trump minimise le besoin de freiner l'IA et refuse de céder l'avantage à la Chine",
+   "contested": "",
+   "why": "Le refus américain de réguler l'intelligence artificielle exacerbe la course technologique mondiale malgré les avertissements des chercheurs.",
+   "stat": "",
+   "statLabel": "",
+   "chart": null,
+   "paras": [
+    "President Donald Trump has explicitly rejected calls from leading technology executives and computer scientists to slow down the rapid development of artificial intelligence systems. Speaking at a public event, Trump argued that imposing regulatory pauses or precautionary limits on American technology companies would severely undermine the country's competitive advantage. He emphasized that the United States is currently leading the global race in advanced algorithms and computing infrastructure. According to Trump, halting progress in Washington would only allow international rivals like China to overtake American technological leadership across vital commercial and national security sectors.",
+    "The president's remarks come as top executive figures across the artificial intelligence industry, including leaders from prominent research laboratories, have publicly expressed mounting concerns regarding potential catastrophic risks. Safety advocates and researchers have warned that unconstrained advancement could lead to autonomous systems exceeding human control, triggering economic disruption or security threats. However, Trump dismissed these warnings as manufactured anxiety promoted by negative forces predicting scenarios that he believes will never materialize. His administration maintains that market forces and rapid innovation, rather than restrictive governmental oversight, should dictate the pace of technological deployment throughout the private sector.",
+    "This public divergence between political leadership and technology executives highlights growing debate over the governance of artificial intelligence. While researchers call for international standards and safety benchmarks to mitigate systemic hazards, political leaders prioritize economic dominance and strategic hegemony. European policymakers have moved toward comprehensive regulatory frameworks, whereas the current American posture favors minimal intervention. Trump stressed that ceding ground in frontier models would jeopardize national defense capabilities, supply chain intelligence, and future industrial growth. By framing artificial intelligence as a zero-sum geopolitical contest, Washington signals a firm commitment to accelerating development regardless of domestic safety concerns.",
+    "Industry analysts note that high-profile AI developers face complex financial and operational pressures as capital requirements for training massive models continue to skyrocket. Massive investments in data centers, specialized microchips, and energy infrastructure require continuous commercial expansion to justify investor confidence. While some chief executives urge caution regarding safety thresholds, others fear that strict domestic mandates could stifle market momentum. Trump’s firm opposition to regulatory checks provides political backing to tech firms seeking swift commercialization. Consequently, financial markets expect continued aggressive capital expenditure from major technology giants competing to build next-generation artificial intelligence infrastructure across North America.",
+    "The debate has extended beyond corporate boardrooms into national political discourse ahead of upcoming midterm elections. Critical lawmakers argue that failing to establish clear safeguards exposes society to immediate harms, including algorithmic bias, mass labor displacement, and deepfake disinformation. Opponents of deregulation insist that oversight does not inherently impede progress but ensures responsible deployment. Conversely, administration allies argue that premature restrictions would hobble domestic startups while foreign state-backed entities proceed without ethical boundaries. This ideological divide ensures that artificial intelligence policy will remain a central point of contention between political parties, regulatory agencies, and technology developers.",
+    "Looking ahead, international observers anticipate that Washington’s unyielding stance will influence global supply chains and diplomatic alliances. Global summits on technology standards may struggle to achieve consensus without active participation and binding commitments from the United States. As major tech companies press forward with increasingly capable neural networks, the tension between existential risk warnings and geopolitical competition will intensify. Trump’s administration appears resolute in keeping American industry unencumbered by safety mandates, ensuring that the global race for artificial intelligence supremacy continues at an unprecedented speed across both hardware manufacturing and software innovation."
+   ]
+  },
+  {
+   "desk": "Énergie & Géopolitique",
+   "source": "Reuters",
+   "lang": "EN",
+   "paywalled": false,
+   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOcXNvWlpHUEh2bzNITUYtX04zUG1vclFCeDZ1NVdQTkNXUk5OTmRESElsUXUyQjNsYVU1d2tEMFlNRjB1VXVnbnR4UHZzd3F3dEZWR2tWSVZMREFiZXF6NjR5SlB5VmdaNXpTWHQ3UF9POFRGanpoR0NxZUV3ZUU4alAycW9mcGdLak5lQ2NXdlpHQ3I3eDVRM3JDWmI3SGdYUjZsbnJSaUVySHk3UFl4Y3AxVGFZbmg5?oc=5",
+   "headline": "Oil prices up over 3% following new strikes on Saudi, Strait of Hormuz",
+   "headlineEn": "Les prix du pétrole s'envolent de plus de 3 % après de nouvelles frappes en Arabie saoudite et dans le détroit d'Ormuz",
+   "contested": "",
+   "why": "L'escalade militaire au Moyen-Orient bloque deux détroits stratégiques et menace de déclencher un choc pétrolier mondial.",
+   "stat": "$108",
+   "statLabel": "prix du baril de pétrole atteint après l'escalade dans le Golfe",
+   "chart": null,
+   "paras": [
+    "Global crude oil prices jumped by more than three percent on Monday, breaching key financial thresholds as military tensions escalated across crucial Middle Eastern shipping lanes. The sudden price surge followed fresh drone and missile strikes targeting energy infrastructure in Saudi Arabia alongside renewed attacks on commercial vessels near the Strait of Hormuz. International energy markets reacted sharply to news that a scheduled diplomatic meeting between Iranian officials and neighboring Gulf states had been abruptly postponed. Energy traders now fear prolonged supply disruptions through vital maritime bottlenecks that handle a substantial portion of global petroleum exports daily.",
+    "The maritime crisis worsened after an Iranian cargo ship was struck near Qeshm island, resulting in at least one reported fatality aboard the vessel. Concurrently, regional proxy forces have intensified kinetic operations, with Houthi fighters seizing strategic coastal territory and islands around the Bab el-Mandeb Strait in Yemen. This dual blockade of both the Strait of Hormuz and the southern entrance to the Red Sea effectively places nearly one-third of global maritime commerce under severe threat. The physical disruption of major pipelines in Saudi Arabia has further constrained alternative transport routes to the Red Sea.",
+    "Diplomatic initiatives to defuse the maritime standoff hit a major roadblock over the weekend when planned talks in Oman were called off unexpectedly. Official sources indicated that the cancellation came at the request of several regional governments, underscoring deep divisions among Gulf nations regarding how to engage Tehran. Meanwhile, US political leadership expressed frustration with ongoing diplomatic maneuvers, downplaying expectations for an immediate negotiated resolution. The absence of active dialogue has heightened anxiety among international shipping conglomerates, forcing many commercial vessel operators to reroute tankers around Africa at significantly higher operational costs.",
+    "The sharp rise in crude prices has reignited global inflation fears just as central banks were weighing potential interest rate adjustments. Economists warn that sustained high energy costs could spill over into transport, manufacturing, and consumer goods, complicating efforts to stabilize domestic economies. In the United States, retail fuel prices have surged, prompting political calls to manage energy supplies and stabilize domestic markets. Global equity markets across Asia and Europe traded lower as investors digested the economic implications of prolonged energy instability and potential monetary policy tightening in response to rising inflationary pressures.",
+    "Energy analysts highlight that global crude stockpiles remain vulnerable to extended disruptions in the Persian Gulf. With the East-West pipeline in Saudi Arabia damaged by recent drone attacks originating from Iraqi territory, regional capacity to bypass the Strait of Hormuz is severely restricted. Major importing nations in Asia and Western Europe face mounting pressure to secure alternative natural gas and petroleum supplies ahead of the winter season. The complex interplay of regional proxy warfare, physical infrastructure damage, and stalled diplomatic channels suggests that energy volatility will persist across global financial commodity exchanges.",
+    "As military operations continue along critical maritime corridors, international defense officials are monitoring the situation closely for signs of further escalation. Naval task forces deployed to protect commercial shipping face increasing operational hazards from unmanned aerial drones and anti-ship missiles. Without a clear diplomatic path forward, the combination of contested waterways and impaired pipeline networks threatens to reshape global trade flows. Energy markets remain on high alert, with market participants anticipating further price swings if key regional producing nations are unable to restore full transport capacity and secure maritime security across the region."
+   ]
+  },
+  {
+   "desk": "Élections en Europe",
+   "source": "France 24",
+   "lang": "FR",
+   "paywalled": false,
+   "url": "https://www.france24.com/fr/europe/20260913-legislatives-suede-gauche-en-tete-extreme-droite-en-recul-selon-sorties-urnes-elections",
+   "headline": "Législatives en Suède : la gauche et l'extrême droite au coude-à-coude",
+   "headlineEn": "Swedish elections: Left-wing opposition and far-right in tight race",
+   "contested": "",
+   "why": "L'élection suédoise très serrée reflète les divisions politiques profondes sur l'immigration et la gouvernance en Scandinavie.",
+   "stat": "",
+   "statLabel": "",
+   "chart": null,
+   "paras": [
+    "Les élections législatives en Suède débouchent sur un résultat particulièrement serré entre le bloc d'opposition de gauche et la coalition de droite au pouvoir soutenue par l'extrême droite. Selon les derniers décomptes partiels publiés par l'autorité électorale suédoise, les sociaux-démocrates menés par Magdalena Andersson devancent de très peu la majorité sortante. Ce scrutin décisif a mobilisé des millions d'électeurs dans un climat politique tendu, marqué par des débats enflammés sur l'intégration des migrants, la sécurité publique et le coût de la vie. L'incertitude quant à la formation du futur gouvernement reste totale au soir du vote.",
+    "Durant la campagne électorale, la cheffe des sociaux-démocrates a opéré un virage stratégique remarqué sur la question migratoire, adoptant une posture nettement plus ferme similaire aux politiques danoises. Cette évolution visait à reconquérir l'électorat populaire séduit ces dernières années par les Démocrates de Suède, le parti d'extrême droite. Malgré un recul relatif par rapport aux prévisions initiales, l'extrême droite conserve une influence majeure dans le paysage politique national. Sa participation directe ou indirecte au pouvoir demeure le principal enjeu des négociations politiques qui s'ouvrent dès à présent entre les différentes formations du Parlement.",
+    "Le Premier ministre sortant Ulf Kristersson fait face à une situation politique complexe pour maintenir l'alliance du bloc de droite. Sa coalition dépend étroitement de l'appui parlementaire de l'extrême droite, qui exige des concessions substantielles sur le contrôle des frontières et l'expulsion des clandestins. De son côté, Magdalena Andersson s'est déclarée prêté à former un gouvernement de coalition réuni autour de la gauche et des écologistes. Cependant, l'écart infime en sièges rend la recherche d'une majorité stable extrêmement difficile pour les deux camps, promettant d'intenses tractations post-électorales dans les prochains jours.",
+    "Les analystes politiques soulignent que ce résultat reflète les profondes fractures de la société suédoise contemporaine. Autrefois symbole de stabilité sociale-démocrate et d'ouverture humanitaire, la Suède a vu son débat public se polariser fortement autour des questions sécuritaires et identitaires. La montée de la criminalité organisée et des violences entre gangs urbains a placé la sécurité au cœur des préoccupations citoyennes. Les partis traditionnels ont ainsi dû réviser leurs programmes économiques et sociaux pour s'adapter à une demande croissante d'autorité et de contrôle strict des flux migratoires dans tout le pays.",
+    "Au-delà des enjeux intérieurs, l'issue de ces législatives aura des répercussions significatives sur la position diplomatique de la Suède en Europe. Le pays, qui a récemment consolidé son ancrage atlantique et rejoint l'OTAN, doit maintenir une cohésion nationale face aux menaces géopolitiques régionales. Un gouvernement affaibli ou dépendant d'un soutien parlementaire instable pourrait éprouver des difficultés à faire adopter des réformes économiques d'envergure. Les partenaires européens de Stockholm observent attentivement l'évolution des négociations pour évaluer l'orientation future de la politique étrangère et européenne du royaume scandinave.",
+    "La commission électorale suédoise doit finaliser la vérification complète des bulletins de vote dans les prochains jours, incluant les votes par correspondance et de l'étranger. Ces derniers suffrages pourraient modifier marginalement la répartition finale des sièges et faire basculer la majorité relative d'un côté ou de l'autre. En attendant la proclamation officielle des résultats définitifs, la Suède s'apprête à vivre une période d'incertitude politique prolongée. Les dirigeants des principaux partis multiplient les réunions à huis clos pour tenter d'esquisser une formule d'alliance capable d'obtenir la confiance du Parlement."
+   ]
+  }
+ ],
+ "desks": [
+  {
+   "name": "Luxembourg",
+   "stories": [
+    {
+     "source": "RTL.lu",
+     "lang": "fr",
+     "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPQXlwNHlhRkwxSVh0Qk9zUUp5QUJ2VHpWc3N6T0d6UDdwNjNXcW1RRUxXZTY4cmVsQkpmaHNuR0hUX2FlajB1amFFbkgxaEdMTXpESW5tTHRiMndJMEtHT1ZucUM4b1d3cWNjTzFiNkQ4ckc0TFY4RWt2UDhVeElEay01amlNV1pLOUg3QURPZ3E1V1NnaEJVR3JPVW5ieEVVSVlQTG9NMkx4Y0wyeHdnTExPVW5EMEgzWUZHZGM1YkE?oc=5",
+     "headline": "Canach-Oetrange: Un bus et une voiture entrent en collision, l'hélicoptère de secours mobilisé",
+     "headlineEn": "Canach-Oetrange: Bus and car collide, rescue helicopter deployed",
+     "summary": "Un grave accident de la circulation s'est produit entre Canach et Oetrange, impliquant une collision frontale particulièrement violente entre un bus de ligne et une voiture particulière. L'accident a immédiatement mobilisé d'importants moyens de secours luxembourgeois, incluant les sapeurs-pompiers locaux ainsi que l'hélicoptère médicalisé de la Luxembourg Air Rescue. Le conducteur de la voiture, sévèrement coincé dans l'habitacle après le choc, a dû être désincarcéré par les secouristes avant son évacuation d'urgence vers le centre hospitalier. La route menant de Canach à Oetrange est restée complètement fermée aux usagers durant une grande partie de la journée afin d'assurer l'intervention et les constatations d'usage.",
+     "why": "Cet accident montre l'ampleur des moyens de secours engagés lors des collisions graves sur le réseau routier secondaire du Grand-Duché.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    },
+    {
+     "source": "Luxemburger Wort",
+     "lang": "de",
+     "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNRVlsQW14X242WHdEMTAtVjJvQUpxNlpWUHcxd0tGb2wxQ2dxLWxjT3V1N2ZrWUVzWkVDbWJOc2xXVnV0RVdrOXU3clp5ak5fNU9PYkw4RzFlTU5VcHotRFR2OHRXb01tVWlQR1Fpek9jc0l3X1ZOQUlBZEVENmpRdUUwSDU3QUVoeVRSai1mbjludEI1TE5IOEQteXpHZEhxbWtPTFBiQUt0NmZsdC1YaGFQb054N3JVRm9kaTQxWUxkT056eUVFVDJfbw?oc=5",
+     "headline": "Freispruch für Arzt nach schweren Gewaltvorwürfen gegenüber Mitarbeiterin",
+     "headlineEn": "Acquittal for doctor after serious allegations of violence against employee",
+     "summary": "Das Luxemburger Bezirksgericht hat einen praktizierenden Arzt von den schweren Vorwürfen der körperlichen Gewalt und Nötigung gegenüber einer ehemaligen Mitarbeiterin vollumfänglich freigesprochen. Die Staatsanwaltschaft hatte dem Mediziner vorgeworfen, seine Angestellte in den Praxisräumen wiederholt physisch attackiert und psychisch unter Druck gesetzt zu haben. Im gerichtlichen Verfahren verwies die Verteidigung jedoch erfolgreich auf erhebliche Widersprüche in den Aussagen der Klägerin sowie auf das Fehlen eindeutiger materieller Beweise. Das Gericht folgte dieser Argumentation und entschied auf Freispruch, womit eine monatelange juristische Auseinandersetzung im Luxemburger Gesundheitssektor vorerst abgeschlossen ist.",
+     "why": "Cette décision de justice met fin à une affaire très médiatisée qui touchait la réputation du corps médical luxembourgeois.",
+     "paywalled": true,
+     "contested": "",
+     "chart": null
+    },
+    {
+     "source": "RTL.lu",
+     "lang": "fr",
+     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQN0VkYVFSdWNnMk9ReTNYYjNQa0FaWVBnanJiNmpTQVBNQktLWWNKZjc0ZW9xSlVCR05NMFRKZnh4VW5WWUR5NE83RVFObFNycFd5RHdUNnlVZERXeC1SQkFoQlpybC1YQUkxMUdvMThBTFRpb1pQVEZfd3F2QUlCaTlIRjdKSXFTNmdpNnpxUFZtU3Y5QlFrSllEWWJxRFYzdDlEbGFCTjhoNWxMMHZ3?oc=5",
+     "headline": "Il bat sa passagère: Un automobiliste intervient à Belvaux et maîtrise la situation",
+     "headlineEn": "He beats his passenger: A driver intervenes in Belvaux and controls the situation",
+     "summary": "Une scène d'une rare violence s'est déroulée sur la voie publique à Belvaux, lorsqu'un individu a physiquement agressé sa passagère dans un véhicule stationné. Témoin direct de cette agression, un autre automobiliste de passage n'a pas hésité à intervenir immédiatement pour porter secours à la jeune femme sans défense. L'automobiliste est parvenu à maîtriser l'agresseur sur place et à le maintenir au sol jusqu'à l'arrivée rapide d'une patrouille de police. Les forces de l'ordre ont interpellé l'auteur des faits tandis que la victime a été prise en charge par les services médicaux de secours.",
+     "why": "Cet incident souligne la réactivité des citoyens face à la violence conjugale dans l'espace public au Luxembourg.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    }
+   ]
+  },
+  {
+   "name": "Monde / géopolitique",
+   "stories": [
+    {
+     "source": "France 24",
+     "lang": "fr",
+     "url": "https://www.france24.com/fr/europe/20260913-ukraine-chemins-fer-vis%C3%A9s-attaque-syst%C3%A9mique-train-varsovie-pologne-drone",
+     "headline": "Ukraine : des frappes russes près de la frontière polonaise, Varsovie dénonce une \"escalade\"",
+     "headlineEn": "Ukraine: Russian strikes near the Polish border, Warsaw denounces an \"escalation\"",
+     "summary": "Une attaque de drone russe s'est produite contre un train de voyageurs ukrainien à proximité immédiate de la frontière polonaise, provoquant une vive émoi diplomatique. La compagnie ferroviaire ukrainienne dénonce une offensive systémique menée par Moscou visant délibérément les infrastructures de transport civil à travers l'ensemble du territoire. L'attaque est survenue peu de temps après le départ d'un convoi transportant plusieurs personnalités politiques européennes et américaines venues en visite officielle. Face à cette situation, le gouvernement polonais a fermement dénoncé une escalade délibérée de la part de la Russie aux portes directes de l'Union européenne.",
+     "why": "Les frappes ciblées contre le réseau ferroviaire menacent directement l'approvisionnement stratégique et les liaisons diplomatiques de l'Ukraine avec l'Europe.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    },
+    {
+     "source": "Reuters",
+     "lang": "en",
+     "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNUmxSZmUzZzdYUkJrQ2l3RzRTQklHdjFOWmVYZ2NDcmZmOW9UUVBoZkk0bC0wcHhveWNHNldiU2E0WV9PYkFtWGVaUUdMVUlieFBZMVRjVHFkTTZ6YjVWXzVLUlA2QXE2LURQczRJN010RGR1Y3Jkb0JpS1lhdF9fZVdJT0hMV3A5QXNNcllfalNoem0wS3VMNUlNQUgwbG9sUU1XN2R1aUpkaXZDekZ6bnlqN2RiN0t3X3d3?oc=5",
+     "headline": "Diplomacy stumbles with postponement of meeting on Strait of Hormuz proposal",
+     "headlineEn": "La diplomatie trébuche avec le report d'une réunion sur le détroit d'Ormuz",
+     "summary": "Diplomatic efforts to de-escalate rising security tensions in the Strait of Hormuz hit a major setback following the unexpected postponement of key regional talks. Oman had been scheduled to facilitate negotiations between Iranian representatives and neighboring Gulf nations to reach an agreement on maritime navigation rights. Authorities in Tehran stated that the meeting was put on hold following requests from several participating governments demanding additional diplomatic preparations. The postponement leaves international shipping routes in a state of high uncertainty as military strikes on oil infrastructure continue to destabilize global supply lines.",
+     "why": "L'interruption du dialogue diplomatique prolonge l'instabilité sur une route maritime clé par laquelle transitent les approvisionnements énergétiques mondiaux.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    },
+    {
+     "source": "DW",
+     "lang": "en",
+     "url": "https://www.dw.com/en/trump-visits-ireland-says-unification-would-be-fantastic/a-79244685?maca=en-rss-en-world-4025-rdf",
+     "headline": "Trump visits Ireland, says unification would be 'fantastic'",
+     "headlineEn": "Trump se rend en Irlande et déclare qu'une unification serait « fantastique »",
+     "summary": "During a visit to Ireland centered on private and commercial affairs, US President Donald Trump generated widespread diplomatic debate with remarks on Irish reunification. Speaking alongside Irish Prime Minister Micheál Martin, Trump stated that the unification of Northern Ireland and the Republic would be a fantastic outcome. These statements represent a departure from long-standing United States foreign policy, which has maintained strict neutrality regarding Northern Ireland's constitutional future. While Irish nationalists welcomed the supportive rhetoric, officials in London and Belfast expressed caution over the potential impact on regional political stability.",
+     "why": "Cette déclaration rompt avec la neutralité historique de Washington sur le statut politique de l'Irlande du Nord et suscite de vives réactions à Londres.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    }
+   ]
+  },
+  {
+   "name": "International — hors Europe",
+   "stories": [
+    {
+     "source": "Al Jazeera",
+     "lang": "en",
+     "url": "https://www.aljazeera.com/news/2026/9/14/israeli-minister-threatens-to-revoke-filmmakers-citizenship-over-gaza-film?traffic_source=rss",
+     "headline": "Israeli minister threatens to revoke filmmakers’ citizenship over Gaza film",
+     "headlineEn": "Un ministre israélien menace de déchoir de leur nationalité les réalisateurs d'un film sur Gaza",
+     "summary": "Israeli Culture Minister Miki Zohar has officially requested the revocation of citizenship for two Israeli filmmakers following their award-winning documentary on Gaza. The film 'Naza', which gained prominent recognition at the Venice Film Festival, features testimonies from military personnel detailing actions affecting Palestinian civilians. Government officials labeled the production as an act of treason that damages the nation's international standing during an ongoing military campaign. Human rights organizations have strongly condemned the government's response, warning that targeting artists with statelessness sets a dangerous legal precedent for freedom of speech and political dissent.",
+     "why": "La menace de déchéance de nationalité contre des cinéastes illustre la pression politique croissante sur les voix critiques au sein des institutions culturelles israéliennes.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    },
+    {
+     "source": "BBC",
+     "lang": "en",
+     "url": "https://www.bbc.co.uk/news/articles/cvgykzgljlyo?at_medium=RSS&at_campaign=rss",
+     "headline": "Six dead, 130 missing after Indonesian ferry capsizes in Java Sea",
+     "headlineEn": "Indonésie : six morts et 130 disparus après le naufrage d'un ferry en mer de Java",
+     "summary": "Search and rescue operations are underway off the coast of Java after a passenger ferry capsized during severe weather, leaving at least six confirmed dead. Emergency services have managed to rescue more than one hundred survivors, but approximately 130 people remain missing in turbulent offshore waters. The vessel was navigating heavy rains and strong sea swells when it abruptly lost radio contact with maritime authorities early in the morning. Rescue teams comprising naval ships and search helicopters continue to patrol the area despite high waves that significantly complicate emergency efforts.",
+     "why": "Cette catastrophe maritime rappelle la vulnérabilité des transports inter-îles en Indonésie face aux conditions météorologiques extrêmes.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    },
+    {
+     "source": "AP",
+     "lang": "en",
+     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPZExrNlZaeERENWNmaHFtMERIUTVLVl_GWXJJbnBIZ3B3c2dhNTZUQTRnTjlHSVhjWElrdmNuaEJWpEJJNjU4RkszVXNLQWdJNmtPaDN6bjBDX1JrTTB2NmFJNGdXNGpxQmtscTJFeWlOZU1tVWVSaDdKeGJpb3QyMnFEbWFtdEdQZmpoZlpKVkdoTjhRS3FGZVl4WUludzBH?oc=5",
+     "headline": "At BRICS, India's Modi warns geopolitical tensions and supply chain shocks threaten global stability",
+     "headlineEn": "Au sommet des BRICS, Narendra Modi prévient que les tensions géopolitiques menacent la stabilité mondiale",
+     "summary": "Hosting the annual BRICS summit, Indian Prime Minister Narendra Modi warned that escalating geopolitical conflicts and supply chain shocks threaten global economic stability. Addressing leaders from member nations, Modi stressed that developing countries suffer the most severe consequences from rising energy prices and trade disruptions. The Indian prime minister advocated for constructive reform of international financial and political institutions to better serve the emerging economies of the Global South. Member states concluded the summit by issuing a joint statement urging diplomatic restraint in active war zones and expressing concern over unilateral economic sanctions.",
+     "why": "L'avertissement de l'Inde souligne la volonté des grands pays émergents de préserver la stabilité économique face aux tensions géopolitiques mondiales.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    },
+    {
+     "source": "France 24",
+     "lang": "fr",
+     "url": "https://www.france24.com/fr/%C3%A9missions/journal-de-l-afrique/20260913-premi%C3%A8re-%C3%A9tape-vers-un-dialogue-national-en-rdc",
+     "headline": "Première étape vers un dialogue national en RDC",
+     "headlineEn": "First step towards a national dialogue in the DRC",
+     "summary": "Le président de la République démocratique du Congo, Félix Tshisekedi, a officiellement signé une ordonnance fixant l'organisation du comité préparatoire au dialogue national. Cette annonce, diffusée à la télévision d'État, marque la première phase concrète d'un processus politique réclamé de longue date par les forces d'opposition. Les travaux doivent aborder les défis sécuritaires majeurs dans l'est du pays ainsi que les réformes institutionnelles nécessaires à la stabilité politique. Si le gouvernement salue une avancée significative pour la cohésion nationale, plusieurs formations d'opposition demeure prudentes quant à la neutralité réelle et au calendrier exact de ce rassemblement.",
+     "why": "Ce processus politique est déterminant pour tenter de stabiliser l'est de la République démocratique du Congo et réduire les tensions institutionnelles.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    },
+    {
+     "source": "Foreign Affairs",
+     "lang": "en",
+     "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5LaUlXZ1A4bUtuLWZoendtcVlzY1ZINVhUTC1ua1AtVUdGNWVxTWFma0c0Yzk4THJoaGlJN2pIUXBIN1ctalUzNnVOZXdFcWZfRU4tbUwyYjJwcjVpbC1TUUFwSGtiT0t5WE13VHdQWHl1QlFUZDkw?oc=5",
+     "headline": "Europe’s Hidden Trade Advantage",
+     "headlineEn": "L'avantage commercial caché de l'Europe",
+     "summary": "An analytical essay in Foreign Affairs examines how the European Union maintains a hidden competitive edge in global trade despite persistent economic challenges. While economic commentators frequently criticize European regulatory complexities and high energy prices, the study highlights the strategic value of the EU's trade network. Extensive bilateral trade agreements grant European firms stable access to emerging markets, mitigating the impact of trade conflicts between the United States and China. The analysis asserts that Europe's focus on high regulatory standards and international partnerships provides long-term economic resilience in an era of growing protectionism.",
+     "why": "Cette analyse offre un éclairage stratégique sur la manière dont les accords commerciaux européens permettent de résister au protectionnisme global.",
+     "paywalled": true,
+     "contested": "",
+     "chart": null
+    }
+   ]
+  },
+  {
+   "name": "Europe & politiques de l'UE",
+   "stories": [
+    {
+     "source": "France 24",
+     "lang": "fr",
+     "url": "https://www.france24.com/fr/europe/20260913-ukraine-chemins-fer-vis%C3%A9s-attaque-syst%C3%A9mique-train-varsovie-pologne-drone",
+     "headline": "Ukraine : des frappes russes près de la frontière polonaise, Varsovie dénonce une \"escalade\"",
+     "headlineEn": "Ukraine: Russian strikes near the Polish border, Warsaw denounces \"escalation\"",
+     "summary": "Une frappe de drone russe s'est produite dimanche sur un train de voyageurs ukrainien à proximité immédiate de la frontière polonaise, soulevant de vives inquiétudes internationales. La compagnie nationale des chemins de fer ukrainiens a averti qu'une attaque systémique visait actuellement le réseau ferroviaire à travers tout le pays. Le Premier ministre polonais Donald Tusk a fermement dénoncé une escalade délibérée de la part de Moscou, craignant une intensification des frappes dans les semaines à venir. L'incident s'est déroulé peu après le passage d'un autre convoi transportant des responsables diplomatiques européens et américains.",
+     "why": "Les attaques répétées sur le réseau ferroviaire ukrainien près des frontières de l'OTAN augmentent le risque d'escalade directe.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    },
+    {
+     "source": "FAZ",
+     "lang": "de",
+     "url": "https://www.faz.net/aktuell/politik/ausland/kanada-strebt-einzigartige-allianz-mit-eu-an-accg-201223617.html",
+     "headline": "Konflikt mit USA: Kanada strebt „einzigartige Allianz“ mit EU an – keine Mitgliedschaft",
+     "headlineEn": "Conflict with US: Canada seeks \"unique alliance\" with EU – not membership",
+     "summary": "Vor dem Hintergrund des eskalierenden Handelsstreits mit den Vereinigten Staaten prüft die kanadische Regierung unter Premierminister Mark Carney eine deutlich engere Anbindung an die Europäische Union. Ottawa strebt zwar keine Vollmitgliedschaft in der Europäischen Union an, untersucht jedoch Möglichkeiten für eine Form der assoziierten Mitgliedschaft oder eine einzigartige strategische Allianz. Diese vertiefte Kooperation soll die wirtschaftliche und politische Abfederung gegenüber den neuen US-Zöllen verstärken. Die Verhandlungen und rechtlichen Prüfungen stehen im Zusammenhang mit einer strategischen Neuausrichtung Kanadas zur Sicherung seiner internationalen Handelsbeziehungen und wirtschaftlichen Stabilität.",
+     "why": "Le rapprochement de l'UE avec le Canada illustre la volonté de trouver des partenaires commerciaux stables face au protectionnisme américain.",
+     "paywalled": true,
+     "contested": "",
+     "chart": null
+    },
+    {
+     "source": "AFP",
+     "lang": "fr",
+     "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPQ2VnOFpSYkw0TWNOeXNZQ0ZCdVBUV2dVMmQxODl3OWY3MEYwRFlHcmlzbGREczBqR2NmQ2d6Zzc5TXFkNVUyeGtWTE84eGRzWi1VU05MQ3pvUHZYRkhpTHRiMWxsT1I0MkJYU0Zxc3hYRkFGVUJZQ3IzcWhWVngxcFg0OXJ4SkxaLWVEa0hiNjFWQjZPMlZvTVdMbF9tSlJyWDVuNzR4VlNJaU1hbC0zenVXYkRWMXFYUk80?oc=5",
+     "headline": "Ceuta : plus de 5.300 migrants sont retournés au Maroc en un mois, selon le gouvernement espagnol",
+     "headlineEn": "Ceuta: More than 5,300 migrants returned to Morocco in one month, according to Spanish government",
+     "summary": "Le gouvernement espagnol a annoncé que plus de 5 300 migrants avaient été renvoyés vers le Maroc en l'espace d'un mois depuis l'enclave espagnole de Ceuta. Cette dynamique d'expulsion et de retour s'inscrit dans le cadre du renforcement de la coopération sécuritaire et migratoire entre Madrid et Rabat aux frontières extérieures de l'Union européenne. Les autorités espagnoles soulignent que cette gestion conjointe vise à juguler la pression migratoire croissante sur l'enclave nord-africaine. En parallèle, plusieurs organisations humanitaires continuent d'exprimer des réserves quant au respect des droits des personnes migrantes lors de ces procédures d'éloignement rapide.",
+     "why": "Ces expulsions massives démontrent la pression croissante sur la frontière extérieure de l'UE et l'externalisation du contrôle migratoire.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    }
+   ]
+  },
+  {
+   "name": "Économie & marchés",
+   "stories": [
+    {
+     "source": "Reuters",
+     "lang": "en",
+     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNTnlqS1c0ZUI3VGExTWl4c3VCbXVLUi1NMFZZNUNaMmdLYzR2RnRDZjFPbGhPVG83M2ZBSms4YTc0b04wMUtNTG9GWmJnM29BU1ZzOWpHTjVxWXhjNHd6TmhndFV0VWJEc2ZkVm45OWtTMEktQ2NBMEdsd3J0XzNTWE1SNXVUQ3hKWFQ1WUJKLVc1bjRVWlg5NnFyaw?oc=5",
+     "headline": "Goldman Sachs flips forecast, now sees September Fed rate hike",
+     "headlineEn": "Goldman Sachs inverse ses prévisions et prévoit désormais une hausse des taux de la Fed en septembre",
+     "summary": "Goldman Sachs has abruptly revised its economic projections, now forecasting that the Federal Reserve will raise interest rates at its upcoming September meeting. The investment bank previously expected central bank officials to hold monetary policy steady amid mixed economic signals. However, persistent inflationary pressures and resilient consumer demand have prompted analysts to alter their outlook toward monetary tightening. Financial markets responded promptly to the forecast shift, as investors recalibrated their expectations for corporate borrowing costs and benchmark treasury yields across global equity and bond markets.",
+     "why": "Le changement de cap des prévisions de taux signale un durcissement prolongé des conditions financières mondiales.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    },
+    {
+     "source": "Le Monde",
+     "lang": "fr",
+     "url": "https://www.lemonde.fr/international/article/2026/09/14/a-berlin-l-explosion-des-prix-des-loyers-au-c-ur-d-une-campagne-electorale-dominee-par-la-gauche-radicale_6773317_3210.html",
+     "headline": "A Berlin, l’explosion des prix des loyers au cœur d’une campagne électorale dominée par la gauche radicale",
+     "headlineEn": "In Berlin, surging rent prices at the center of an election campaign dominated by the radical left",
+     "summary": "À une semaine des élections régionales à Berlin, la crise du logement s'impose comme le sujet central du débat politique de la capitale allemande. En treize ans, le prix médian des loyers a plus que doublé dans la ville-Land, provoquant l'exaspération de nombreux habitants confrontés à une baisse relative de leur pouvoir d'achat. Le parti de gauche radicale Die Linke domine actuellement les intentions de vote en proposant la nationalisation de 220 000 logements détenus par des investisseurs institutionnels. Cette proposition choc suscite de vives controverses économiques quant à son coût financier et à ses conséquences légales pour les bailleurs privés.",
+     "why": "La crise du logement à Berlin illustre la tension politique européenne entre régulation du marché immobilier et attractivité des investissements.",
+     "paywalled": true,
+     "contested": "",
+     "chart": null
+    },
+    {
+     "source": "AP",
+     "lang": "en",
+     "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQbGxnLXB4NGxDZEpHdHRsSGVZaTlqTTJZYkRJc3NSLVFkQmJRNUxDTmxfSC1lR2FIWW5RRUlkckN1OExobThVWkdxLVZGU3FwblBxci1qWFVyR3NxOHFBZVJxbFRZVjcwSGx4MjJla0VySTlPWmVWdkNLbkdGUkYwTmNIMk0wX2VvWDl5dGwtdUk?oc=5",
+     "headline": "Trump says he's lifting a 10% tariff on Irish whiskey because 'everybody's been bugging me' about it",
+     "headlineEn": "Trump annonce lever un tarif douanier de 10 % sur le whiskey irlandais car « tout le monde m'embêtait » à ce sujet",
+     "summary": "U.S. President Donald Trump announced the repeal of a 10 percent import tariff on Irish whiskey following discussions during his trip to Ireland. Speaking to reporters, Trump remarked that he decided to lift the trade measure because industry representatives and officials had continuously lobbied him against it. The tariffs had applied to spirit imports from European Union member states, raising operational costs for distillers and American hospitality businesses alike. Beverage trade groups welcomed the policy reversal, emphasizing that removing trade barriers will restore supply stability and protect employment in both the Irish distilling sector and American retail distribution.",
+     "why": "La suppression de cette taxe douanière soulage la filière des spiritueux européens et atténue les tensions commerciales transatlantiques.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    }
+   ]
+  },
+  {
+   "name": "Technologie & sciences",
+   "stories": [
+    {
+     "source": "BBC",
+     "lang": "en",
+     "url": "https://www.bbc.co.uk/news/articles/cwyzp47py48o?at_medium=RSS&at_campaign=rss",
+     "headline": "Questions mount over what an AI 'slowdown' would look like",
+     "headlineEn": "De nombreuses questions émergent sur ce à quoi ressemblerait un « ralentissement » de l'IA",
+     "summary": "As calls for a pause or deceleration in artificial intelligence development gain traction among industry leaders and researchers, experts are raising practical questions regarding implementation. While slowing down advanced AI training runs sounds straightforward in theory, executing such a pause poses immense regulatory, geopolitical, and technical hurdles worldwide. International coordination remains particularly complex given competing national economic interests and strategic military developments. Analysts caution that without binding multilateral agreements across global tech hubs, unilateral slowdowns could simply shift technological momentum toward uncooperative jurisdictions, creating severe enforcement and governance dilemmas for international regulators.",
+     "why": "L'absence de consensus sur l'encadrement de l'IA souligne la difficulté d'établir une gouvernance technologique mondiale.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    },
+    {
+     "source": "DW",
+     "lang": "en",
+     "url": "https://www.dw.com/en/corals-as-climate-archive-are-el-ninos-intensifying/a-79243425?maca=en-rss-en-world-4025-rdf",
+     "headline": "Corals as climate archive: Are El Ninos intensifying?",
+     "headlineEn": "Les coraux comme archives climatiques : les phénomènes El Niño s'intensifient-ils ?",
+     "summary": "Researchers are turning to ancient coral skeletons as natural archives to determine whether recent extreme El Niño events are driving unprecedented climate disruptions or represent historical variations. By analyzing chemical isotopes embedded in coral layers over centuries, marine scientists can reconstruct past sea surface temperatures and oceanic conditions with remarkable precision. Recent data collected from tropical reefs indicates that modern El Niño cycles have become significantly more frequent and severe compared to historical baselines. Scientists warn that anthropogenic global warming is compounding ocean heating, threatening marine ecosystems and accelerating global weather instabilities across multiple continents.",
+     "why": "La compréhension de l'impact climatique sur El Niño est cruciale pour anticiper les événements météorologiques extrêmes mondiaux.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    },
+    {
+     "source": "DW",
+     "lang": "de",
+     "url": "https://www.dw.com/de/wie-der-klimawandel-das-malariarisiko-in-afrika-verändert/a-79145135?maca=de-rss-de-all-1119-rdf",
+     "headline": "Wie der Klimawandel das Malariarisiko in Afrika verändert",
+     "headlineEn": "How climate change is altering malaria risk in Africa",
+     "summary": "Steigende globale Temperaturen und sich verändernde Niederschlagsmuster gestalten die geografische Verbreitung von Malaria auf dem afrikanischen Kontinent grundlegend um. Während es für Anopheles-Mücken in einigen traditionellen Verbreitungsgebieten Westafrikas mittlerweile zu heiß und trocken wird, verschiebt sich die Infektionsgefahr zunehmend in höher gelegene und kältere Regionen. Diese klimatische Transformation trifft auf Gesundheitssysteme, die unzureichend auf neu entstehende Ausbrüche vorbereitet sind. Gesundheitsexperten mahnen daher eine dringende Anpassung der Präventionsstrategien und eine gezielte Ressourcenverteilung an, um von der Tropenkrankheit neu betroffene afrikanische Bevölkerungen effektiv zu schützen.",
+     "why": "La modification des zones de risque de la malaria exige une réallocation urgente des ressources médicales en Afrique.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    }
+   ]
+  },
+  {
+   "name": "Sport",
+   "stories": [
+    {
+     "source": "Euronews",
+     "lang": "en",
+     "url": "https://www.euronews.com/2026/09/14/germanys-alexander-zverev-beats-ben-shelton-to-win-the-us-open-title",
+     "headline": "Germany's Alexander Zverev beats Ben Shelton to win the US Open title",
+     "headlineEn": "L'Allemand Alexander Zverev bat Ben Shelton et remporte le titre de l'US Open",
+     "summary": "German tennis player Alexander Zverev defeated American Ben Shelton in Flushing Meadows to secure the US Open men's singles title. Zverev controlled the match with steady play, denying Shelton the chance to become the first American man to win the tournament since Andy Roddick in 2003. This victory marks Zverev's second career Grand Slam title after his previous success at the French Open.",
+     "why": "Ce deuxième titre du Grand Chelem consacre la régularité d'Alexander Zverev au plus haut niveau mondial.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    },
+    {
+     "source": "France 24",
+     "lang": "fr",
+     "url": "https://www.france24.com/fr/sports/20260913-mondial-de-basket-les-bleues-s-inclinent-en-finale-face-aux-invincibles-am%C3%A9ricaines",
+     "headline": "Mondial de basket : les Bleues s'inclinent en finale face aux invincibles Américaines",
+     "headlineEn": "Basketball World Cup: French women's team loses in final to invincible Americans",
+     "summary": "L'équipe de France féminine de basket-ball s'est inclinée 97 à 79 face aux États-Unis dimanche soir lors de la finale de la Coupe du monde à Berlin. Les Américaines, invaincues en compétition majeure depuis vingt ans, décrochent leur cinquième titre mondial consécutif. Malgré cette défaite en finale, les Bleues réalisent un parcours remarquable en décrochant une médaille d'argent continentale de haut niveau.",
+     "why": "Cette finale confirme la domination des Américaines tout en soulignant la progression constante du basket féminin français.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    }
+   ]
+  }
+ ],
+ "sourced": true,
+ "feeds": {
+  "ok": 28,
+  "of": 29,
+  "items": 255,
+  "skipped": [
+   "RTL.lu (LB)"
+  ]
+ },
+ "words": 4408,
+ "readMin": 22,
+ "storyCount": 25
+}
