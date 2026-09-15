@@ -1,0 +1,406 @@
+{
+ "date": "2026-09-15",
+ "kind": "daily",
+ "heat": 0.85,
+ "oneThing": "The US Supreme Court rejected Trump's bid to restrict mail-in voting, keeping current postal ballot rules intact for the upcoming midterm elections.",
+ "followUps": [
+  {
+   "n": "01",
+   "thread": "Guerre en Ukraine et sécurité de l'OTAN",
+   "change": "Un chasseur de l'OTAN a abattu un drone au-dessus de la Lituanie, tandis qu'une frappe russe a visé un train reliant Kyiv à Varsovie."
+  },
+  {
+   "n": "02",
+   "thread": "Militarisation de l'espace",
+   "change": "L'US Space Force a officiellement confirmé pour la première fois le déploiement d'armes armées en orbite pour défendre ses satellites."
+  },
+  {
+   "n": "03",
+   "thread": "Élections législatives en Suède",
+   "change": "L'opposition mène de très peu après le dépouillement de 95 % des voix, marquée par le recul de l'extrême droite."
+  }
+ ],
+ "mustReads": [
+  {
+   "desk": "Reuters",
+   "source": "Reuters",
+   "lang": "EN",
+   "paywalled": false,
+   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNVGZNVlpqdGZqMGlsa1lSR2IyWU0tbmd2R1ZkY2o5VDNlb0VsMEdhbWlZVzJBLXJ0WU9MTm13WnN2R0M0Slg4TzFkb1VSYVRxQXE5ejQ5eTNRbGcxdUVSNTFKYlk2WmxYbkdPMTJIUEZJRVdBUmFKVHVCamlsUzB2NFJLbkNGbkJFSjR3TTlhNF9vT2g4MXk0MjlzOHhVaWNGX3U3RGlUS0JzekpCb0VBbU8zMGdUbFpIaGlCVHlwcEtoR0U?oc=5",
+   "headline": "Oil prices rise as Saudi pipeline outage, fresh attacks raise supply concerns",
+   "headlineEn": "Les prix du pétrole augmentent en raison de l'arrêt d'un oléoduc saoudien et de nouvelles attaques",
+   "contested": "Alors que l'Iran affirme qu'un pétrolier a explosé sur une mine dans le détroit d'Ormuz, le commandement militaire américain dément cette version.",
+   "why": "L'escalade au Yémen et la mise hors service d'oléoducs clés menacent l'approvisionnement pétrolier mondial et relancent l'inflation.",
+   "stat": "6$",
+   "statLabel": "le prix du gallon de diesel aux États-Unis après les fermetures d'infrastructures",
+   "chart": null,
+   "paras": [
+    "Global energy markets are experiencing heightened volatility following a significant disruption to Saudi Arabian oil transport infrastructure alongside renewed offensive operations in the Red Sea region. The shutdown of the vital East-West pipeline, caused by physical damage and operational halts, has severely constrained Saudi capacity to bypass vulnerable maritime choke points. Consequently, crude oil benchmarks have surged as traders weigh immediate supply losses against escalating geopolitical instability. Analysts emphasize that the inability to reroute crude toward Red Sea ports leaves international buyers increasingly exposed to maritime disruptions across surrounding waterways.",
+    "Simultaneously, Houthi forces in Yemen have expanded their military footprint along the coast, capturing strategic islands near the Bab el-Mandeb Strait and launching new strikes against targets in Saudi Arabia. These actions have further disrupted commercial shipping lanes and complicated ongoing diplomatic negotiations regarding passage through the Strait of Hormuz. Regional security experts note that the insurgent group's control over key maritime features grants them significant leverage over critical trade corridors. The combination of land-based infrastructure outages and maritime interdictions has created unprecedented pressure on regional energy logistics and shipping security.",
+    "The economic fallout has reverberated across international financial markets, lifting government bond yields and bolstering the United States dollar toward two-week highs. Investors are increasingly concerned that sustained higher energy prices will reignite inflationary pressures, potentially forcing central banks to maintain restrictive monetary policies for longer than previously anticipated. Equity markets in Asia and Wall Street have displayed marked hesitancy as energy costs escalate, reflecting broad anxiety among corporate leaders regarding rising input costs. Transportation companies and industrial manufacturers are already adjusting operational budgets to accommodate expected prolonged energy price increases.",
+    "In response to the deteriorating security environment, Saudi leadership has engaged in urgent security discussions with American military commanders to secure additional defense support. Washington faces growing pressure from regional allies to reinforce maritime security protocols and protect commercial vessels traversing vital corridors. However, diplomatic efforts to broker de-escalation agreements have hit significant impasses, with scheduled ministerial talks in Oman experiencing delays. Political observers highlight that without firm security guarantees, commercial maritime operators may continue altering transit routes, adding substantial transit days and freight costs to international trade.",
+    "Meanwhile, United States political leadership has publicly called for an immediate cessation of strikes targeting energy infrastructure across multiple conflict zones, citing severe pressures on domestic fuel costs. American consumer diesel prices have surged dramatically, reaching historical highs and threatening to further complicate domestic economic conditions ahead of upcoming elections. Despite executive calls for restraint, military analysts suggest that non-state actors and regional belligerents remain unpersuaded by rhetorical appeals without accompanying economic or military leverage. Consequently, energy analysts warn that fuel market instability could persist throughout the autumn season.",
+    "Looking ahead, energy experts stress that repairing damaged pipeline systems and restoring confidence in maritime transit routes will require prolonged technical work and robust international coordination. European and Asian importers, highly reliant on Middle Eastern crude exports, are scrambling to secure alternative energy supplies to prevent domestic inventory depletion. The converging crises underscore the fragility of global supply chains when confronted with simultaneous infrastructure damage and active militarization of maritime passages. Market participants remain focused on upcoming central bank decisions and regional security developments for indications of long-term economic stability."
+   ]
+  },
+  {
+   "desk": "France 24",
+   "source": "France 24",
+   "lang": "FR",
+   "paywalled": false,
+   "url": "https://www.france24.com/fr/am%C3%A9riques/20260915-la-cour-supr%C3%AAme-rejette-une-attaque-de-trump-contre-le-vote-par-correspondance",
+   "headline": "La Cour suprême contrecarre les plans de Donald Trump sur le vote par correspondance",
+   "headlineEn": "US Supreme Court thwarts Donald Trump's plans on mail-in voting",
+   "contested": "",
+   "why": "La décision de la Cour suprême sécurise les règles du vote postal pour des dizaines de millions d'Américains avant les élections de mi-mandat.",
+   "stat": "1/3",
+   "statLabel": "des suffrages américains exprimés par correspondance lors des derniers scrutins",
+   "chart": null,
+   "paras": [
+    "La Cour suprême des États-Unis a asséné un revers juridique majeur à l'administration de Donald Trump en rejetant sa demande visant à restreindre l'utilisation du vote par correspondance. La plus haute juridiction américaine a refusé d'annuler le blocage fédéral temporaire qui frappait une série de nouvelles règles restrictives élaborées par le service postal national. Cette décision permet aux États américains de maintenir leurs procédures électorales habituelles alors que les bulletins de vote pour les élections de mi-mandat commencent déjà à être distribués aux électeurs à travers l'ensemble du pays.",
+    "La bataille judiciaire s'était intensifiée à l'approche du scrutin de novembre, l'administration présidentielle soutenant que des règles plus strictes étaient nécessaires pour garantir l'intégrité du processus électoral. Les partisans de la réforme souhaitaient imposer des exigences de vérification supplémentaires ainsi que des délais de traitement plus rigides. Toutefois, plusieurs magistrats fédéraux et des responsables électoraux locaux avaient contesté la légalité de ces mesures, affirmant qu'elles risquaient de priver inutilement des millions de citoyens de leur droit de vote fondamental lors de cette consultation électorale décisive.",
+    "Les données électorales récentes démontrent que le vote postal représente désormais près d'un tiers de l'ensemble des suffrages exprimés lors des élections nationales américaines. L'arrêt de la Cour suprême offre ainsi une certitude opérationnelle bienvenue aux autorités locales chargées de l'organisation matérielle du scrutin. Sans cette clarification juridique rapide, les bureaux de vote à travers les différents États risquaient d'être confrontés à une grande confusion administrative et à des contestations légales en chaîne, susceptibles de retarder considérablement le dépouillement et la validation finale des résultats électoraux.",
+    "Cette décision judiciaire constitue une défaite politique symbolique pour le président américain, qui a régulièrement critiqué le vote par correspondance en le qualifiant d'instrument de fraude. Malgré la majorité conservatrice siégeant à la haute cour, les juges ont estimé qu'il n'y avait pas lieu d'intervenir en urgence pour modifier les règles du jeu électoral à quelques semaines seulement du scrutin. Plusieurs analystes politiques soulignent que cette posture reflète la volonté de l'institution judiciaire d'éviter toute perturbation majeure dans l'administration des élections.",
+    "Parallèlement à ce dossier sur le vote postal, l'administration Trump essuie d'autres revers devant les tribunaux fédéraux concernant ses politiques intérieures et sécuritaires. Des juges contestent notamment plusieurs décrets récents relatifs aux restrictions d'immigration ainsi qu'aux prérogatives accordées aux agences fédérales d'application de la loi. Cette accumulation de litiges juridiques illustre les tensions grandissantes entre le pouvoir exécutif et l'appareil judiciaire américain. Les observateurs notent que ces affrontements juridiques répétés alimentent un climat politique particulièrement polarisé à l'approche de ces élections législatives cruciales.",
+    "Les responsables des deux principaux partis politiques américains réorganisent immédiatement leurs stratégies de mobilisation électorale à la lumière de cette décision définitive. Le Parti démocrate a salué une victoire essentielle pour la préservation de la démocratie et de l'accès facilité aux urnes pour l'ensemble des citoyens. De leur côté, les républicains promettent de poursuivre leurs efforts au niveau des législatures d'État pour renforcer les contrôles d'identité. La participation au vote par correspondance restera ainsi un élément central de la bataille politique d'ici le jour du scrutin."
+   ]
+  },
+  {
+   "desk": "FAZ",
+   "source": "FAZ",
+   "lang": "DE",
+   "paywalled": true,
+   "url": "https://www.faz.net/aktuell/politik/usa-unter-trump/donald-trump-ki-sicherheitswarnungen-sind-schwindel-accg-201227277.html",
+   "headline": "„Abwegig“: Trump nennt KI-Sicherheitswarnungen Schwindel und Verschwörung",
+   "headlineEn": "\"Absurd\": Trump calls AI safety warnings a hoax and conspiracy",
+   "contested": "Alors que les dirigeants de l'IA alertent sur des risques existentiels pour l'humanité, Donald Trump qualifie ces avertissements de canular et la Chine dénonce une campagne d'alarmisme.",
+   "why": "Le refus américain de réguler l'intelligence artificielle risque de paralyser les efforts mondiaux de sécurité technologique.",
+   "stat": "",
+   "statLabel": "",
+   "chart": null,
+   "paras": [
+    "US-Präsident Donald Trump hat Warnungen führender Branchenvertreter vor den potenziellen existenziellen Risiken der künstlichen Intelligenz scharf zurückgewiesen und als Schwindel bezeichnet. In öffentlichen Äußerungen sowie telefonischen Interventionen wischte der Präsident die Bedenken führender Entwickler beiseite und sprach von einer gezielten Verschwörung gegen amerikanische Rechenzentren und Technologieunternehmen. Während führende Führungskräfte aus der Technologiebranche ein kontrollierteres Entwicklungstempo fordern, betonte Trump, dass verlangsamte Fortschritte lediglich der internationalen Konkurrenz nützen würden. Er forderte stattdessen eine uneingeschränkte Beschleunigung aller nationalen Initiativen im Bereich der künstlichen Intelligenz.",
+    "Die scharfe Ablehnung des Präsidenten folgt auf Dringlichkeitsappelle führender Branchenfiguren, darunter der Chef des KI-Unternehmens Anthropic, Dario Amodei, die vor unbeherrschbaren Gefahren hochentwickelter Systeme warnen. Auch bei führenden Entwicklern von OpenAI und anderen Laboratorien wächst die Sorge, dass unkontrollierter technologischer Fortschritt ohne ausreichende Sicherheitsbarrieren schwerwiegende gesellschaftliche Schäden verursachen könnte. Sogar namhafte Forscher forderten in Veröffentlichungen eine weltweite Koordination von Sicherheitsstandards. Trumps Haltung signalisiert jedoch eindeutig, dass die amerikanische Regierung nicht beabsichtigt, gesetzliche Begrenzungen oder regulatorische Hürden für die heimische Technologieindustrie einzuführen.",
+    "Der Präsident argumentiert primär mit dem geopolitischen Wettlauf zwischen den Vereinigten Staaten und der Volksrepublik China um die technologische Vorherrschaft. Laut Trump würde jede freiwillige Entschleunigung der amerikanischen KI-Entwicklung Peking einen entscheidenden strategischen Vorteil verschaffen. China wiederum reagierte verärgert auf die Debatte und warf amerikanischen Unternehmensführern Angstmacherei vor, während chinesische Sicherheitsorgane gleichzeitig vor internen Risiken für die staatliche Stabilität warnen. Die politische Führung in Washington sieht in der rasanten Skalierung von Infrastruktur und Rechenkapazitäten das wichtigste Instrument zur Sicherung der globalen Führungsrolle.",
+    "Die Kontroverse hat auch an den internationalen Finanzmärkten für erhebliche Unruhe und spürbare Kursschwankungen bei führenden Technologieaktien gesorgt. Anleger sorgen sich zunehmend über die enormen Kapitalaufwendungen für Rechenzentren sowie die ungewissen regulatorischen Rahmenbedingungen. Auf Konferenzen versuchen Führungskräfte der Halbleiterindustrie, die Gemüter zu beruhigen und die langfristigen wirtschaftlichen Chancen zu betonen. Dennoch verdeutlichen die jüngsten Marktreaktionen, wie empfindlich der Finanzsektor auf die anhaltende Debatte über Sicherheitsrisiken, immensen Energiebedarf und staatliche Regulierung reagiert. Der Konflikt zwischen Sicherheitsbedenken und Renditeerwartungen bleibt unvermindert bestehen.",
+    "In europäischen Hauptstädten wird die strikte Haltung der amerikanischen Regierung mit wachsender Besorgnis verfolgt. Während die Europäische Union weiterhin auf umfassende Regulierung und ethische Standards setzt, fürchten europäische Politiker einen zunehmenden Wettbewerbsnachteil gegenüber den USA und China. Gleichzeitig wächst in Großbritannien die politische Debatte über internationale Sicherheitsgipfel, um gemeinsame Mindeststandards für den Einsatz autonomer Systeme zu etablieren. Die Weigerung der US-Administration, sich an Beschränkungen zu beteiligen, erschwert globale Initiativen zur Risikominimierung erheblich und verstärkt die geopolitische Fragmentierung im Digitalbereich.",
+    "Zusammenfassend offenbart der Streit eine tiefe Kluft zwischen der politischen Führung in Washington und Teilen der wissenschaftlichen sowie industriellen Fachwelt. Während Experten für digitale Sicherheit auf verbindliche Tests und Notfallprotokolle drängen, setzt das Weiße Haus uneingeschränkt auf Deregulierung und schnelles Wachstum. Ob diese Politik der kompromisslosen Beschleunigung den USA dauerhafte Vorteile bringt oder unkalkulierbare Sicherheitsrisiken heraufbeschwört, bleibt der zentrale Streitpunkt der weltweiten Technologiedebatte. Die kommenden Monate werden zeigen, ob der internationale Druck eine Kurskorrektur bewirken kann."
+   ]
+  }
+ ],
+ "desks": [
+  {
+   "name": "Luxembourg",
+   "stories": [
+    {
+     "source": "RTL.lu",
+     "lang": "fr",
+     "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOVUxQZHRqeGEwSHVmNGI0alVudDRmamt2dmlGdUlxYVZmdTk4TS04TnNRV1I2d05NOWdZS3pwT09HSkg4ekM4MU9ZVnhBaE4wN2loazI0Zjd3SWJCTGNQYTJENmhONHNSNzFvc0Y5TEQ5UXdGb1lnX1NuV2VRbndJN3RKeDJhRF9ZVmNqelhCaHJ2bDREVXR5ckw4TXBfN01Ma0laeHNtWF8tcXhYWTNIZGkzMUtzVGRzU2w1ak5OYkxETHFxYzJXeTJRRQ?oc=5",
+     "headline": "Efforts actuels insuffisants: Des militants appellent les politiques à prendre d'urgence des mesures pour le climat",
+     "headlineEn": "Current efforts insufficient: Activists urge politicians to take urgent climate action",
+     "summary": "Des militants écologistes au Luxembourg ont publiquement interpellé les responsables politiques pour réclamer un renforcement immédiat de l'action climatique dans le Grand-Duché. Selon ces associations, les engagements et mesures actuellement mis en œuvre par le gouvernement restent très en deçà des objectifs nécessaires pour contrer efficacement le réchauffement de la planète. Les activistes exhortent le pouvoir exécutif et le Parlement à adopter des réformes structurelles beaucoup plus ambitieuses dans la transition énergétique et les transports. Ils avertissent que tout retard supplémentaire compromet gravement les engagements environnementaux pris au niveau européen et international.",
+     "why": "Les appels de la société civile sous-entendent une pression croissante sur le gouvernement luxembourgeois pour accélérer la transition écologique.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    },
+    {
+     "source": "Financial Times",
+     "lang": "en",
+     "url": "https://www.ft.com/content/f00de325-5045-4e98-9068-9261bfe9eff3?syn-25a6b1a6=1",
+     "headline": "Luxembourg probes Gazprombank ex-managers",
+     "headlineEn": "Le Luxembourg enquête sur d'anciens dirigeants de Gazprombank",
+     "summary": "Judicial authorities in Luxembourg have launched a formal investigation into four former directors of Gazprombank's local subsidiary. The inquiry follows reports indicating that these individuals enriched themselves through a trading scheme designed to circumvent international sanctions imposed on Russia. Investigators are currently examining internal governance records and financial transactions to determine the exact extent of these illicit gains. The case highlights ongoing efforts by Grand Duchy prosecutors to enforce compliance with European financial sanctions targetting Russian entities.",
+     "why": "Cette affaire touche directement la réputation de la place financière de Luxembourg concernant le respect des sanctions européennes contre la Russie.",
+     "paywalled": true,
+     "contested": "",
+     "chart": null
+    },
+    {
+     "source": "Luxemburger Wort",
+     "lang": "de",
+     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNZF_SaURHXzg0TjFlalVocG42MjhPQXVwM2tXdGd0RWZlNTFlNW91c1ZmcjJCSzRyVlBiWGgtb0U5VnhoWnE3blE5MVZaaEplb0FhRjYwMnNaNXhIVW1hZWtUZ1dmQ0g3LUlmTS1Xb3VhVGdvdHFPdkhnN0RSN3l4ekJUSU9QbmwtMHhLMGxoYWEwdTc0T3UxeWRucmZqb1_MajUyTy0yQlR0TkhDOTN6VWNUX3pHZw?oc=5",
+     "headline": "Erste Konsequenzen aus dem Sommer-Experiment in der Hauptstadt",
+     "headlineEn": "First consequences of the summer experiment in the capital",
+     "summary": "Die Verantwortlichen der Stadt Luxemburg ziehen nun erste Schlüsse aus dem umfassenden Mobilitätsexperiment des vergangenen Sommers in der Hauptstadt. Die gesammelten Verkehrsdaten sowie zahlreichen Rückmeldungen von Anwohnern und lokalen Geschäftsleuten zeigen ein sehr geteiltes Bild bezüglich der temporären Umgestaltung wichtiger Straßenführungen. Während Fußgänger und Gastronomen die gewonnenen Freiräume überwiegend positiv bewerteten, klagten viele Einzelhändler über spürbare Beeinträchtigungen des täglichen Lieferverkehrs. Die Gemeindeverwaltung wertet die detaillierten Ergebnisse aus, um fundierte Entscheidungen für zukünftige Stadtentwicklungsprojekte und dauerhafte Verkehrskonzepte im Gemeinderat zu treffen.",
+     "why": "La gestion de la mobilité urbaine à Luxembourg-Ville a un impact direct sur la qualité de vie des résidents et l'activité économique commerciale.",
+     "paywalled": true,
+     "contested": "",
+     "chart": null
+    }
+   ]
+  },
+  {
+   "name": "Monde / géopolitique",
+   "stories": [
+    {
+     "source": "France 24",
+     "lang": "fr",
+     "url": "https://www.france24.com/fr/europe/20260915-guerre-ukraine-avions-de-chasse-otan-abattent-drone-lituanie-bielorussie-russie",
+     "headline": "Guerre en Ukraine : des avions de chasse de l'Otan abattent un drone au-dessus de la Lituanie",
+     "headlineEn": "War in Ukraine: NATO fighter jets shoot down drone over Lithuania",
+     "summary": "Des avions de chasse de l'Otan ont intercepté et détruit un drone ayant pénétré dans l'espace aérien de la Lituanie pendant la nuit. Selon les autorités lituaniennes, l'engin volant provenait de la Biélorussie voisine et se dirigeait vers l'ouest avant d'être neutralisé. Le président lituanien a vivement salué la réactivité des forces de l'Alliance atlantique face à cette intrusion territoriale. Cet incident s'inscrit dans un contexte d'intensification des violations de l'espace aérien balte et de tensions militaires accrues le long des frontières orientales de l'Europe.",
+     "why": "L'interception directe d'un drone par l'Otan au-dessus du territoire d'un État membre souligne le risque de dérapage militaire direct aux frontières de l'Alliance.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    },
+    {
+     "source": "Euronews",
+     "lang": "fr",
+     "url": "https://fr.euronews.com/my-europe/2026/09/14/train-kyiv-varsovie-frappe-par-un-drone-russe-lukraine-et-la-pologne-denoncent-lattaque",
+     "headline": "Train Kyiv-Varsovie frappé par un drone russe : l’Ukraine et la Pologne dénoncent l’attaque",
+     "headlineEn": "Kyiv-Warsaw train struck by Russian drone: Ukraine and Poland denounce attack",
+     "summary": "Un drone russe a ciblé et endommagé un train de voyageurs assurant la liaison entre Kyiv et Varsovie près de la frontière polonaise. Les gouvernements ukrainien et polonais ont immédiatement condamné cette frappe, soulignant qu'elle s'est produite peu après le passage d'un convoi transportant des dignitaires étrangers. Les dirigeants de l'Union européenne dénoncent une provocation délibérée visant les voies de communication stratégiques reliant l'Ukraine à ses alliés occidentaux. Cet événement relance les discussions au sein des capitales européennes sur la protection des infrastructures de transport transfrontalières.",
+     "why": "Les attaques russes ciblant les liaisons ferroviaires vers l'UE menacent les corridors logistiques et diplomatiques fondamentaux pour le soutien à l'Ukraine.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    },
+    {
+     "source": "Deutsche Welle",
+     "lang": "de",
+     "url": "https://www.dw.com/de/machtpoker-in-der-arktis-welche-strategie-hat-europa/a-79266484?maca=de-rss-de-all-1119-rdf",
+     "headline": "Machtpoker in der Arktis - welche Strategie hat Europa?",
+     "headlineEn": "Power plays in the Arctic: What strategy does Europe have?",
+     "summary": "Die Europäische Union sucht angesichts grundlegender geopolitischer Veränderungen nach einer geschlossenen Strategie für die arktische Region. Das beschleunigte Abschmelzen des Polareises eröffnet zwar neue internationale Seewege und den Zugang zu wertvollen kritischen Rohstoffen, erhöht jedoch gleichzeitig die regionalen Sicherheitsrisiken drastisch. Russlands kontinuierlicher militärischer Ausbau in der Arktis sowie geopolitische Spannungen zwingen die europäischen Partner zum raschen Handeln. Die Ausarbeitung einer gemeinsamen Doktrin soll sowohl den ökologischen Schutz sichern als auch Europas strategische Sicherheitsinteressen und Souveränität im hohen Norden nachhaltig verteidigen.",
+     "why": "L'Arctique devient un théâtre majeur de compétition stratégique, économique et sécuritaire directement aux portes de l'Europe.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    }
+   ]
+  },
+  {
+   "name": "International — hors Europe",
+   "stories": [
+    {
+     "source": "Al Jazeera",
+     "lang": "en",
+     "url": "https://www.aljazeera.com/news/2026/9/15/russia-resupplies-military-bases-in-syria-for-first-time-under-new-deal?traffic_source=rss",
+     "headline": "Russia resupplies military bases in Syria for first time under new deal",
+     "headlineEn": "La Russie réapprovisionne ses bases militaires en Syrie pour la première fois sous un nouvel accord",
+     "summary": "Russia has dispatched a series of naval resupply shipments to its military installations in Syria, marking the first such operations conducted since completing negotiations with Damascus. The new bilateral agreement formalizes Moscow's continued access to key naval and air facilities in the Eastern Mediterranean, ensuring a sustained Russian footprint in the region. Military analysts observe that these resupply operations demonstrate Russia's intention to maintain strategic projection capabilities despite heavy military commitments elsewhere. Syrian officials confirmed that logistical cooperation remains fully active under the updated legal framework governing foreign force deployment.",
+     "why": "Le maintien du dispositif militaire russe en Syrie confirme l'ancrage stratégique persistant de Moscou en Méditerranée orientale.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    },
+    {
+     "source": "Euronews",
+     "lang": "fr",
+     "url": "https://fr.euronews.com/2026/09/14/les-houthis-prennent-de-nouvelles-iles-de-la-mer-rouge-resserrant-letau-sur-bab-el-mandeb",
+     "headline": "Les Houthis prennent de nouvelles îles de la mer Rouge, resserrant l'étau sur Bab el-Mandeb",
+     "headlineEn": "Houthis seize new Red Sea islands, tightening grip on Bab el-Mandeb",
+     "summary": "Les rebelles houthis ont pris le contrôle des îles de Grande et Petite Hanish dans la mer Rouge après le retrait des forces pro-gouvernementales. Cette avancée territoriale renforce considérablement leur emprise sur les accès maritimes stratégiques du détroit de Bab el-Mandeb. Les combats et la dégradation de la sécurité ont déjà provoqué le déplacement de plus de 80 000 personnes dans la région côtière. Le gouvernement yéménite reconnu par la communauté internationale tente de regrouper ses unités, tandis que le commerce maritime international fait face à de nouvelles menaces de blocus.",
+     "why": "L'extension du contrôle houthi sur les îles de la mer Rouge menace directement l'une des voies maritimes commerciales les plus fréquentées au monde.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    },
+    {
+     "source": "AFP",
+     "lang": "fr",
+     "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5CeS1xQWk1YmRvbjNhaWhBdkNkSVgzTG03WDhSU1ZMdVdESU5UQWphc2NiLURHdVVibVZCOW1rVFBDbjdkbEV6M1BvSQ?oc=5",
+     "headline": "Philippines: vote historique dans une région autonome à majorité musulmane",
+     "headlineEn": "Philippines: Historic vote in Muslim-majority autonomous region",
+     "summary": "Les électeurs de la région autonome de Bangsamoro, dans le sud des Philippines, ont participé à un scrutin parlementaire historique concrétisant des années de négociations de paix. Ce vote vise à consolider les institutions locales après des décennies de conflit armé entre la guérilla séparatiste musulmane et les forces gouvernementales. Malgré des incidents isolés ayant causé la mort de trois personnes, le processus électoral a mobilisé un grand nombre d'habitants désireux d'autonomie politique. Les observateurs espèrent que ce scrutin permettra d'ancrer durablement la stabilité et le développement économique dans cette province longtemps éprouvée.",
+     "why": "Ce scrutin concrétise une transition politique majeure visant à pacifier définitivement une région longtemps déstabilisée par l'insurrection.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    },
+    {
+     "source": "Euronews",
+     "lang": "en",
+     "url": "https://www.euronews.com/2026/09/14/fuel-price-protests-spread-across-syria-as-parliament-summons-energy-minister",
+     "headline": "Fuel price protests spread across Syria as parliament summons energy minister",
+     "headlineEn": "Les manifestations contre le prix du carburant se propagent en Syrie alors que le Parlement convoque le ministre de l'Énergie",
+     "summary": "Widespread demonstrations against escalating fuel costs have disrupted major transportation routes and oil tanker traffic across six Syrian provinces. The unrest erupted following a government mandate raising fuel prices by 25 to 40 percent, exacerbating severe economic hardships for citizens. In response to public indignation, more than 50 members of the Syrian parliament signed a formal petition demanding the immediate appearance of the energy minister. Authorities face mounting pressure to address energy supply bottlenecks, as protesters refuse to clear key roadways until economic relief measures are announced.",
+     "why": "La hausse brutale du prix des carburants ravive les tensions sociales en Syrie et met le gouvernement sous forte pression parlementaire et populaire.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    },
+    {
+     "source": "Foreign Affairs",
+     "lang": "en",
+     "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5RRENyY1BtMC1CbndiQTNVS3pLRjh4TlZTT0RpTHotM2tGV3daS3Y4dGpqZS16MlpJOVZXNmc1cWY3ODFpRnhrSTFVSnZLMWV3eUZUNTBGTE5lM1RUS20zOUpnT1dyZEwyNXFiN0VB?oc=5",
+     "headline": "The New Chinese Way of Cyberwar",
+     "headlineEn": "La nouvelle approche chinoise de la cyberguerre",
+     "summary": "A strategic analysis examines how Beijing has fundamentally altered its doctrine regarding offensive cyber operations and digital warfare. Rather than relying solely on traditional espionage, Chinese state-backed actors now focus on pre-positioning malware inside critical infrastructure networks of potential adversaries. This shift allows strategic planners to prepare disruptive counter-measures in the event of a regional military conflict. Western intelligence agencies face mounting challenges in detecting these low-visibility intrusions, which aim to compromise supply chains and command structures long before any kinetic hostilities commence.",
+     "why": "L'évolution des tactiques cybernétiques chinoises transforme la nature des conflits géopolitiques en ciblant de manière préventive les infrastructures civiles et militaires.",
+     "paywalled": true,
+     "contested": "",
+     "chart": null
+    }
+   ]
+  },
+  {
+   "name": "Europe & politiques de l'UE",
+   "stories": [
+    {
+     "source": "France 24",
+     "lang": "fr",
+     "url": "https://www.france24.com/fr/europe/20260915-guerre-ukraine-avions-de-chasse-otan-abattent-drone-lituanie-bielorussie-russie",
+     "headline": "Guerre en Ukraine : des avions de chasse de l'Otan abattent un drone au-dessus de la Lituanie",
+     "headlineEn": "War in Ukraine: NATO fighter jets shoot down a drone over Lithuania",
+     "summary": "Des avions de chasse de l'Organisation du traité de l'Atlantique Nord (OTAN) ont intercepté et détruit un drone ayant pénétré dans l'espace aérien lituanien pendant la nuit de lundi à mardi. Selon les autorités locales et la radio nationale lituanienne, l'appareil non identifié provenait de la Biélorussie voisine, un allié majeur de la Russie, et se dirigeait vers l'ouest. Cet incident intervient dans un contexte de vive tension sécuritaire le long du flanc oriental de l'Alliance atlantique, marqué par la multiplication des incursions et des attaques hybrides russes à proximité des frontières des pays membres de l'UE.",
+     "why": "Cet incident souligne l'augmentation des tensions sécuritaires et des risques d'incursion militaire directe aux frontières orientales de l'UE.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    },
+    {
+     "source": "DW",
+     "lang": "en",
+     "url": "https://www.dw.com/en/arctic-power-plays-eu-searches-for-a-new-strategy/a-79266739?maca=en-rss-en-world-4025-rdf",
+     "headline": "Arctic power plays: EU searches for a new strategy",
+     "headlineEn": "Jeux de pouvoir en Arctique : l'UE cherche une nouvelle stratégie",
+     "summary": "European leaders are gathered to redefine the bloc's Arctic strategy amid mounting geopolitical and environmental pressures. The rapid melting of polar ice is opening crucial new maritime shipping routes while exposing rich deposits of critical raw materials. However, Russia's military buildup in the far north, combined with aggressive rhetoric and security uncertainties from Washington, has forced Brussels to prioritize northern defense and strategic autonomy. European officials warn that the Arctic is becoming a primary theater of international rivalry, requiring a unified policy on resource protection, environmental safeguards, and regional maritime surveillance.",
+     "why": "La fonte des glaces arctiques accentue les rivalités géopolitiques et la compétition pour les ressources minières aux portes de l'Europe.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    },
+    {
+     "source": "DW",
+     "lang": "de",
+     "url": "https://www.dw.com/de/mutmaßliche-russland-spionin-in-berlin-angeklagt/a-79259391?maca=de-rss-de-all-1119-rdf",
+     "headline": "Mutmaßliche Russland-Spionin in Berlin angeklagt",
+     "headlineEn": "Alleged Russian spy charged in Berlin",
+     "summary": "Die Bundesanwaltschaft hat eine deutsch-ukrainische Staatsangehörige vor dem Oberlandesgericht in Berlin wegen mutmaßlicher Agententätigkeit für einen russischen Geheimdienst angeklagt. Die Beschuldigte war bereits im Januar dieses Jahres festgenommen worden und befindet sich seitdem durchgehend in Untersuchungshaft. Den Ermittlungen der Bundesanwaltschaft zufolge soll die Frau systematisch vertrauliche Informationen beschafft und an einen Diplomaten beziehungsweise Geheimdienstmitarbeiter in der russischen Botschaft in Berlin übermittelt haben. Dieser Fall verdeutlicht die anhaltenden Warnungen europäischer Sicherheitsbehörden vor verstärkten Spionage- und Sabotageaktivitäten Moskaus auf europäischem Territorium. Europäische Hauptstädte verschärfen daher ihre Abwehrmaßnahmen gegen hybride Bedrohungen deutlich.",
+     "why": "Les services de renseignement européens renforcent leur vigilance face à l'accroissement du spionnage et des activités hybrides russes.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    }
+   ]
+  },
+  {
+   "name": "Économie & marchés",
+   "stories": [
+    {
+     "source": "Reuters",
+     "lang": "en",
+     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNa2swZ0ZXMUlmM25iamJCQWM5NWV1OG1yUHA0MWZwVkVyempxRGlyWGdXeDRuN25IYXdGb1J0a05HazdLSEtsZUNBNzlBWVA3cmtJVElCREdQeWx2amlXZnAxNHBFN1pZdnFVQ3NhYTBrbF9sMVhZM1Z2djlBUWdCcnkxNHJMMFJTOHJRSQ?oc=5",
+     "headline": "Asian shares waver as oil and yields rise ahead of Fed, BOJ meetings",
+     "headlineEn": "Les actions asiatiques hésitent face à la hausse du pétrole et des taux avant la Fed et la BOJ",
+     "summary": "Asian stock markets displayed mixed performance on Tuesday as benchmark US Treasury yields breached key thresholds and crude prices remained elevated. Investors are maintaining a cautious stance ahead of crucial central bank policy decisions from the Federal Reserve and the Bank of Japan later this week. The persistent surge in energy costs has renewed fears of sticky global inflation, prompting money markets to reprice expectations for future interest rate hikes. Analysts note that higher borrowing costs and volatile commodity markets continue to weigh heavily on investor sentiment across global equity markets.",
+     "why": "La persistance des tensions sur le pétrole et les taux d'intérêt ravive les craintes d'inflation mondiale avant les décisions des banques centrales.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    },
+    {
+     "source": "AFP",
+     "lang": "fr",
+     "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1rUDV2RzZhdlNGT0xSM3dRUUFjcm1GNlY2NFNhSGhycTVDNmFWMG5OaHg2Y2ZnVFhlZ2pHUWZXdmhYUjktT2czLU9JRQ?oc=5",
+     "headline": "Nigeria: entrée en Bourse de la méga-raffinerie Dangote",
+     "headlineEn": "Nigeria: Dangote mega-refinery launches stock market listing",
+     "summary": "La gigantesque raffinerie de pétrole Dangote prépare son introduction en Bourse au Nigeria dans le but de lever 1,6 milliard de dollars auprès des investisseurs. Cette opération financière majeure vise à financer un plan d'expansion de 14,3 milliards de dollars destiné à doubler la capacité de traitement du complexe industriel. Si les dirigeants présentent cette souscription comme une opportunité populaire permettant aux citoyens nigérians de détenir des parts dans ce fleuron national, de nombreux observateurs doutent de la capacité financière de la population locale à y participer véritablement.",
+     "why": "Cette levée de fonds vise à faire du Nigeria un hub d'affinage majeur tout en testant l'attractivité des marchés financiers africains.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    },
+    {
+     "source": "Süddeutsche Zeitung",
+     "lang": "de",
+     "url": "https://www.sueddeutsche.de/wirtschaft/commerzbank-uebernahme-bundesregierung-unicredit-gespraeche-berlin-li.3547170",
+     "headline": "Gespräche mit Unicredit: Was sich der Bund für die Commerzbank-Übernahme wünscht",
+     "headlineEn": "Talks with Unicredit: What the German government wants for the Commerzbank takeover",
+     "summary": "Nach monatelanger Zurückhaltung haben sich Spitzenvertreter der deutschen Bundesregierung und die Führung der italienischen Großbank Unicredit zu offiziellen Gesprächen getroffen. SPD-Chef Lars Klingbeil beriet sich persönlich mit Unicredit-Chef Andrea Orcel über die mögliche Übernahme der Commerzbank. Die Bundesregierung knüpft eine etwaige politische Zustimmung jedoch an strikte Bedingungen, darunter den dauerhaften Erhalt des Stammsitzes in Frankfurt am Main sowie umfassende Garantien für den Schutz deutscher Arbeitsplätze. Die Gespräche verdeutlichen die schwierige Gratwanderung der Politik zwischen der angestrebten europäischen Finanzmarktintegration und dem Wunsch nach dem Erhalt einer eigenständigen nationalen Bankeninfrastruktur.",
+     "why": "L'éventuel rachat de la Commerzbank par Unicredit ravive le débat sur la consolidation bancaire transfrontalière en Europe.",
+     "paywalled": true,
+     "contested": "",
+     "chart": null
+    }
+   ]
+  },
+  {
+   "name": "Technologie & sciences",
+   "stories": [
+    {
+     "source": "AP",
+     "lang": "en",
+     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPODQ5dWRzamlZYU0ydVJCdVZpd1M0QjNFWVpIYm5Za0JxT2thaDByZU1LZnhhdm1PaU9lMVdkYU9BOEoxcEVPSXJGTUhGSHRsTDExY3gycHVIOG1RdEd1Y2R3TlBzV1kyRFJ2ZmZ2bVRvMHlOZkVnMlRQUk10bDJnT2lRVkVrSnBITUNzeUd0RFdxVTY2aVR3TjdZd1ZSZFRv?oc=5",
+     "headline": "EPA eliminates rule that limits planet-warming greenhouse gas emissions from power plants",
+     "headlineEn": "L'EPA élimine la règle limitant les émissions de gaz à effet de serre des centrales électriques",
+     "summary": "The US Environmental Protection Agency has officially repealed regulations that restricted greenhouse gas emissions from fossil fuel power plants. The decision eliminates mandatory emissions reduction targets for coal- and gas-fired facilities, as well as requirements to adopt carbon capture and storage technologies. Administration officials argued that removing the limits will lower electricity production costs and save taxpayers billions of dollars. However, environmental groups and health advocates condemned the rollback, warning that increased power plant pollution will accelerate global climate change and severely impact air quality across North America.",
+     "why": "L'annulation des normes environnementales américaines relance les émissions polluantes et affaiblit les efforts mondiaux de lutte contre le réchauffement.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    },
+    {
+     "source": "Reuters",
+     "lang": "en",
+     "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNcnQ1Vng5c0U0YXE5NksxWG93eDJOdHhEeFRlSzQ4ZTNTVjM0YTBrTnF0WVRnNnlZSmFwQlJCcGNnUjZ4dFNNWTNhajJHZzhOOTB2eU1WRTFKcFVBU29YZ1h0QnplNzl4dFFIQWhNRWpwSDBqTjNWZ2oySnZFTGwyNlFaNDg0bk9BZFF0d015Y3M3ZmQya3plTmpkSU1zdnBraFpMYjJJUV9TZ1BSUjdrM0EwcXpucVVKcldzVQ?oc=5",
+     "headline": "Waymo, Japanese partners target driverless taxi service in Tokyo in 2027",
+     "headlineEn": "Waymo et ses partenaires japonais visent un service de taxis autonomes à Tokyo en 2027",
+     "summary": "Alphabet's autonomous driving unit Waymo has announced a commercial partnership with major Japanese technology and transport companies to launch a driverless robotaxi service in Tokyo by 2027. The joint venture aims to deploy self-driving vehicles to address Japan's severe driver shortages caused by an aging population. Tokyo municipal authorities have supported trials in designated urban zones to ensure safety standards and regulatory compliance. If successful, the expansion will mark Waymo's first major international deployment outside North America, positioning Japan as an early adopter of large-scale autonomous passenger transport.",
+     "why": "Ce projet marque le premier grand déploiement international de Waymo pour répondre au pénurie de chauffeurs liée au vieillissement au Japon.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    },
+    {
+     "source": "BBC",
+     "lang": "en",
+     "url": "https://www.bbc.co.uk/news/articles/cy459y5y9yxo?at_medium=RSS&at_campaign=rss",
+     "headline": "Wild dogs record 2,500-mile trek across Zambia in search of a mate",
+     "headlineEn": "Des chiens sauvages accomplissent un périple record de 4 000 km en Zambie pour trouver une partenaire",
+     "summary": "Wildlife researchers in Zambia have tracked three wild dog brothers completing a record-breaking journey of 2,500 miles across national parks and unprotected terrain in search of mates. Using GPS collar tracking data, scientists recorded the unprecedented migration across fragmented landscapes. The findings demonstrate the extraordinary resilience of endangered African wild dogs and highlight the crucial importance of establishing connected wildlife corridors across southern Africa. Conservationists emphasized that protecting these migratory routes is essential for maintaining genetic diversity and preventing the extinction of isolated predator populations.",
+     "why": "Ce déplacement exceptionnel prouve l'importance vitale des couloirs migratoires pour préserver les espèces sauvages menacées.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    }
+   ]
+  },
+  {
+   "name": "Sport",
+   "stories": [
+    {
+     "source": "DW",
+     "lang": "de",
+     "url": "https://www.dw.com/de/zverev-krönt-sich-zum-us-open-sieger-und-merkt-es-nicht/a-79256145?maca=de-rss-de-all-1119-rdf",
+     "headline": "Zverev krönt sich zum US-Open-Sieger - und merkt es nicht",
+     "headlineEn": "Zverev wins US Open title — without realizing it right away",
+     "summary": "Der deutsche Tennisprofi Alexander Zverev hat in New York seinen zweiten Grand-Slam-Titel gefeiert. Im Finale der US Open setzte er sich durch und bezwang den US-Amerikaner Ben Shelton. Zverev zeigte eine mentale Spitzenleistung und trotzte der stimmungsvollen Kulisse im Arthur Ashe Stadium. Den historischen Moment seines Erfolgs realisierte der Hamburger auf dem Platz erst mit einigen Sekunden Verzögerung.",
+     "why": "Alexander Zverev confirme sa place au sommet du tennis mondial en s'offrant un nouveau titre du Grand Chelem.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    },
+    {
+     "source": "Süddeutsche Zeitung",
+     "lang": "de",
+     "url": "https://www.sueddeutsche.de/sport/hannover-96-trainer-wagner-titz-boldt-li.3547053",
+     "headline": "Hannover 96: Das nächste große Ego im Klub der großen Egos?",
+     "headlineEn": "Hannover 96: The next big ego in a club of big egos?",
+     "summary": "Beim Fußball-Zweitligisten Hannover 96 kommt es erneut zu Unruhe in der Vereinsführung. Nach internen Machtkämpfen hat sich Sportchef Jonas Boldt durchgesetzt, woraufhin der Klub Trainer Christian Titz entlassen hat. Als Wunschnachfolger gilt überraschend der ehemalige Nationalspieler Sandro Wagner. Der Wechsel auf der Trainerbank sorgt im Umfeld des Traditionsvereins für Diskussionen über die künftige sportliche Ausrichtung.",
+     "why": "Ce changement d'entraîneur illustre les tensions managériales récurrentes au sein des clubs allemands de deuxième division.",
+     "paywalled": true,
+     "contested": "",
+     "chart": null
+    }
+   ]
+  }
+ ],
+ "sourced": true,
+ "feeds": {
+  "ok": 26,
+  "of": 29,
+  "items": 252,
+  "skipped": [
+   "Reuters (FR)",
+   "Repubblica (IT): HTTP 403",
+   "RTL.lu (LB)"
+  ]
+ },
+ "words": 4149,
+ "readMin": 21,
+ "storyCount": 25
+}
