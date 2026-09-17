@@ -1,0 +1,404 @@
+{
+ "date": "2026-09-17",
+ "kind": "daily",
+ "heat": 0.8,
+ "oneThing": "The US Federal Reserve raised interest rates for the first time in three years, defying demands from President Donald Trump for a rate cut.",
+ "followUps": [
+  {
+   "n": "01",
+   "thread": "Taux d'intérêt de la Fed",
+   "change": "La Réserve fédérale américaine a relevé ses taux directeurs pour la première fois en trois ans, malgré les vives critiques du président Donald Trump."
+  },
+  {
+   "n": "02",
+   "thread": "Partenariat UE-Canada",
+   "change": "Ursula von der Leyen a proposé un statut de « membre associé » au Canada, provoquant des menaces de surtaxes douanières de la part de Washington."
+  },
+  {
+   "n": "03",
+   "thread": "Procès de La Haye sur le Kosovo",
+   "change": "L'ancien président du Kosovo Hashim Thaçi a été condamné à 25 ans de prison pour crimes de guerre, déclenchant d'importantes manifestations à Pristina."
+  }
+ ],
+ "mustReads": [
+  {
+   "desk": "Finance & Économie",
+   "source": "BBC News",
+   "lang": "EN",
+   "paywalled": false,
+   "url": "https://www.bbc.co.uk/news/articles/cw4gmlyvj422o?at_medium=RSS&at_campaign=rss",
+   "headline": "US interest rates raised for first time in three years",
+   "headlineEn": "Les taux d'intérêt américains augmentent pour la première fois depuis trois ans",
+   "contested": "",
+   "why": "Cette hausse de taux inédite par la Réserve fédérale souligne son indépendance face aux pressions politiques directes de la Maison-Blanche.",
+   "stat": "1st",
+   "statLabel": "première hausse des taux directeurs américains en trois ans",
+   "chart": null,
+   "paras": [
+    "The Federal Reserve has officially increased key interest rates for the first time in three years, delivering a decisive monetary policy shift that caught many market participants by surprise. Led by Chair Kevin Warsh, the central bank reached a unanimous decision to raise rates despite intense political headwind and public criticism. Officials cited persistent inflationary pressures across the domestic economy as the primary driver behind this aggressive measure. This historic move marks an important pivot in American monetary policy, signaling that the central bank remains focused on curbing rising consumer prices regardless of political consequences.",
+    "The unanimous vote represents a stark defiance of explicit demands issued by President Donald Trump, who had repeatedly called for significant interest rate cuts to stimulate economic growth. Trump had publicly criticized the central bank leadership, describing the monetary policy decision-making body as hostile to American economic interests. Following the decision, financial markets experienced noticeable volatility, with major stock indices slipping while the United States dollar surged against key foreign currencies. Short-term Treasury yields also recorded sharp gains as investors adjusted their portfolios to reflect expectations of prolonged tight financial conditions in the coming quarters.",
+    "Financial analysts emphasize that this rate hike demonstrates the central bank's commitment to maintaining its institutional independence amidst growing political tensions. Chair Kevin Warsh, who assumed leadership less than four months ago, managed to unite the Federal Open Market Committee behind a hawkish stance. The central bank indicated in its formal statement that additional rate increases might become necessary if economic indicators continue to reflect persistent price growth. This forward-looking guidance has led international markets to reevaluate their assumptions regarding future borrowing costs, prompting central banks in Asia and Europe to closely monitor currency fluctuations.",
+    "The decision comes against a complex macroeconomic backdrop characterized by robust consumer spending and resilient labor markets alongside stubbornly high inflation figures. Recent economic data showed August retail sales expanding by a better-than-expected 1.2 percent, suggesting that household demand remains surprisingly strong despite elevated borrowing costs. However, escalating global energy prices and supply chain disruptions have injected fresh uncertainty into inflation forecasts. By opting to raise borrowing costs now, the Federal Reserve seeks to prevent elevated inflation expectations from becoming entrenched among consumers and business executives who are negotiating wages and setting prices across sectors.",
+    "Reactions from political figures and corporate leaders were swift, highlighting deep divisions over the appropriate trajectory for American economic policy. Supporters of the rate hike argued that unchecked inflation poses a far greater threat to long-term economic stability than higher borrowing costs. Conversely, critics contended that tightening credit conditions will unnecessarily weigh on business investment, real estate transactions, and household borrowing power. In response to the market reaction, President Donald Trump reiterated his belief that benchmark interest rates should remain significantly lower, maintaining that elevated rates put American exporters at a disadvantage in international markets.",
+    "Looking ahead, market participants will carefully scrutinize upcoming economic releases, including employment reports and inflation metrics, to gauge whether additional rate hikes will materialize later this year. Global commodity markets have already begun reflecting the implications of a stronger greenback, with spot gold prices fluctuating as investors digest the central bank's firm stance. Commercial banks are expected to adjust their prime lending rates accordingly, affecting mortgage products, consumer credit cards, and corporate loans. The central bank's decisive action establishes a clear precedent that fighting inflation remains its primary mandate despite intense external political pressure."
+   ]
+  },
+  {
+   "desk": "Politique européenne",
+   "source": "Euronews",
+   "lang": "EN",
+   "paywalled": false,
+   "url": "https://www.euronews.com/2026/09/17/trump-suggests-eu-allowing-canada-as-associate-member-could-be-hostile-act",
+   "headline": "Trump suggests EU allowing Canada as associate member could be ‘hostile act’",
+   "headlineEn": "Trump suggère que l'accueil du Canada comme membre associé de l'UE pourrait être un acte hostile",
+   "contested": "",
+   "why": "L'initiative de rapprochement sans précédent entre l'UE et le Canada redessine les alliances géopolitiques mondiales en réponse au protectionnisme américain.",
+   "stat": "1st",
+   "statLabel": "statut inédit de membre associé de l'UE proposé au Canada",
+   "chart": null,
+   "paras": [
+    "European Commission President Ursula von der Leyen has formally proposed granting Canada an unprecedented status as the first associate member of the European Union. Speaking during her annual keynote address to the European Parliament in Strasbourg, von der Leyen extended a warm welcome to Canadian Prime Minister Mark Carney, who attended the session as an honored guest. The proposal represents a historic attempt to deepen economic, technological, and security cooperation between North America and the European bloc. Parliamentary members greeted the announcement with a standing ovation, signaling strong institutional backing for closer transatlantic integration.",
+    "The initiative quickly drew a sharp condemnation from United States President Donald Trump, who publicly criticized the planned alliance during a campaign event in North Carolina. Trump described the concept of Canadian associate membership in the European Union as laughable and suggested that such a move could be interpreted by his administration as a hostile act. The American president warned that Washington might respond by imposing severe trade tariffs on European goods or even halting commercial exchanges in specific industrial sectors, escalating fears of a broader international trade conflict across the Atlantic.",
+    "This diplomatic developments reflect mounting tensions between Ottawa and Washington following months of intense trade friction and tariff disputes. Canadian Prime Minister Mark Carney has actively pursued stronger partnerships with alternative global allies, aiming to reduce Canada's traditional economic reliance on the United States market. During recent high-level discussions in Strasbourg and Liverpool, Canadian and European officials explored joint initiatives focusing on artificial intelligence governance, defense cooperation, and critical raw material supply chains. The proposed associate membership model aims to create a framework for structured cooperation without conferring full voting rights within European governance bodies.",
+    "Despite the enthusiastic reception in Strasbourg, European diplomats acknowledge that establishing an associate membership status presents significant legal and political challenges. Officials in Berlin and other European capitals have urged caution, warning that fast-tracking such an arrangement could anger other non-member partner nations and complicate existing treaty frameworks. European Union negotiators must determine how deep market integration can extend without infringing upon standard single market rules. Furthermore, clarifying the precise parameters of regulatory alignment, tariff exemptions, and mobility agreements will require lengthy negotiations among all twenty-seven European member states before any agreement is finalized.",
+    "The geopolitical friction has reignited debates over global trade architecture and economic security in an increasingly fragmented international order. Supporters of the EU-Canada partnership argue that democratic nations must unite to defend rules-based commerce against unilateral protectionism and coercion. They contend that combining European market scale with Canadian natural resources and technological capabilities will enhance resilience against external shocks. Conversely, trade analysts warn that aggressive rhetoric from Washington could force multinational corporations to navigate conflicting regulatory regimes, potentially disrupting established cross-border supply networks and increasing costs for businesses operating internationally.",
+    "As diplomatic discussions continue ahead of an upcoming bilateral summit, international observers are monitoring how Washington's tariff threats might influence European decision-making. Canadian leaders remain committed to expanding trade relationships with European and Asian partners despite opposition from the White House. The European Commission plans to draft detailed proposals outlining the operational scope of associate membership over the coming months. Whether this unprecedented framework can successfully bridge North American and European economic interests without triggering retaliatory trade measures from the United States remains a pivotal test for international diplomacy."
+   ]
+  },
+  {
+   "desk": "Justice internationale",
+   "source": "Euronews FR",
+   "lang": "FR",
+   "paywalled": false,
+   "url": "https://fr.euronews.com/video/2026/09/16/le-tribunal-des-crimes-de-guerre-du-kosovo-condamne-hashim-thaci-a-25-ans-des-milliers-man",
+   "headline": "Le tribunal des crimes de guerre du Kosovo condamne Hashim Thaçi à 25 ans, des milliers manifestent",
+   "headlineEn": "Kosovo war crimes court sentences Hashim Thaçi to 25 years, thousands protest",
+   "contested": "",
+   "why": "La condamnation d'une figure historique de l'indépendance kosovare ravive les tensions politiques et sociales au Kosovo et dans les Balkans.",
+   "stat": "25",
+   "statLabel": "années de prison prononcées contre l'ancien président kosovar Hashim Thaçi",
+   "chart": null,
+   "paras": [
+    "Le tribunal spécial de La Haye a condamné l'ancien président du Kosovo, Hashim Thaçi, à une peine de vingt-cinq ans de prison pour crimes de guerre et crimes contre l'humanité. L'ancien dirigeant de l'Armée de libération du Kosovo a été reconnu coupable de meurtres, de tortures, de traitements cruels et de détentions arbitraires commis durant le conflit d'indépendance de 1998-1999 contre les forces serbes. Trois autres anciens responsables de l'insurrection armée ont également reçu de lourdes peines. Ce jugement historique conclut une procédure judiciaire complexe qui aura duré plusieurs années devant la juridiction internationale.",
+    "L'annonce du verdict a immédiatement provoqué une vague d'indignation et de vives manifestations à Pristina, la capitale du Kosovo. Des milliers de sympathisants sont descendus dans les rues pour dénoncer une décision judiciaire qu'ils jugent injuste et politiquement motivée. Des heurts violents ont éclaté lorsque des protestataires ont jeté des projectiles contre le siège de la mission de l'Union européenne chargée de superviser les institutions judiciaires locales. Pour une grande partie de la population albanophone, Hashim Thaçi demeure un héros national incontournable ayant guidé le pays vers la souveraineté et la liberté.",
+    "Sur le plan politique, cette condamnation ébranle profondément le paysage institutionnel du jeune État balkanique et ravive les blessures historiques de la guerre. Les dirigeants politiques locaux ont exprimé leur solidarité envers l'ancien chef d'État, soulignant que la lutte pour l'indépendance était légitime face aux répressions menées à l'époque par le régime serbe. À l'inverse, les organisations de victimes et les autorités de Belgrade ont salué un pas essentiel vers la justice et la reconnaissance des souffrances endurées par les minorités serbes et roms durant le conflit armé.",
+    "La réaction de la communauté internationale est demeurée prudente mais ferme quant au respect des institutions judiciaires créées avec le soutien des nations occidentales. Le ministère français des Affaires étrangères a pris acte du jugement, rappelant l'engagement indéfectible de la France en faveur de la lutte contre l'impunité pour les crimes les plus graves. Les diplomates européens espèrent que ce verdict permettra de consolider l'État de droit dans la région, bien que les tensions populaires risquent de fragiliser les efforts de normalisation des relations entre Pristina et Belgrade sous l'égide de Bruxelles.",
+    "Les avocats de la défense ont d'ores et déjà annoncé leur intention de faire appel de l'ensemble des condamnations prononcées par les juges internationaux. Ils dénoncent des vices de procédure et affirment que la cour n'a pas pris en compte l'absence de preuves directes reliant Thaçi aux exactions commises sur le terrain par des combattants isolés. La bataille juridique va donc se poursuivre devant la chambre d'appel de La Haye, prolongeant un feuilleton judiciaire qui captive la société kosovare et maintient une forte pression politique sur le gouvernement actuel à Pristina.",
+    "Ce jugement historique souligne la difficulté permanente de concilier la justice internationale et la mémoire nationale dans les sociétés post-conflictuelles. Alors que les instances internationales cherchent à établir la responsabilité individuelle pour les atrocités passées, la perception locale reste souvent dominée par les récits nationaux d'émancipation. L'avenir de la stability politique au Kosovo dépendra en grande partie de la capacité des institutions locales à gérer la colère populaire tout en maintenant leurs engagements européens et en poursuivant les réformes nécessaires à leur intégration sur la scène internationale."
+   ]
+  }
+ ],
+ "desks": [
+  {
+   "name": "Luxembourg",
+   "stories": [
+    {
+     "source": "RTL.lu",
+     "lang": "fr",
+     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNdHdhUWQtLTdSdTdKcncxV0xaOTdlT2xLaFJBaUgweThOdU9qTjVtemFxQnJ0b2gtVUExeWhMc2Zpb0NUd2VkLVNHNTlDMVV1VHEzZF91WWdMZXBjM2pncHl6T184TEx0WXhrbFJ4UnlSSXNnMzZlalhRNTBUN09raU9JRmdmd251SVdtaGRTSnNKYjE0X09WOVExRi1qaFdpaHc?oc=5",
+     "headline": "Acheter son logement: Enfin du mieux sur les taux des crédits au Luxembourg ?",
+     "headlineEn": "Buying a home: Is there finally improvement in mortgage rates in Luxembourg?",
+     "summary": "Le marché immobilier luxembourgeois montre enfin quelques signes d'amélioration avec une baisse progressive des taux d'intérêt accordés sur les nouveaux crédits hypothécaires. Les établissements bancaires du Grand-Duché revoient leurs conditions d'emprunt à la baisse après les récentes décisions de politique monétaire de la Banque centrale européenne. Cette évolution offre un souffle bienvenu aux ménages qui souhaitent acquérir leur résidence principale, bien que les critères d'octroi et l'exigence d'apport personnel demeurent particulièrement stricts. Les professionnels du secteur immobilier espèrent que cette dynamique permettra de relancer durablement le volume des transactions et la construction résidentielle dans le pays au cours des prochains trimestres.",
+     "why": "L'assouplissement des taux d'emprunt est déterminant pour relancer l'activité immobilière et le secteur du bâtiment au Luxembourg.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    },
+    {
+     "source": "RTL.lu",
+     "lang": "fr",
+     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOeHJobDU0bW1zdi1WSGpua1BLN1ZNcGczZDhlSGNUV21odmFzYXItdl93aFZZcUtRcktjdlhCQi1leXpqT3ZhamdEbWkxQVdZMW5jTHl4UWMwS25QdV9uVVVxaDBwNUUyYlFtMVBRY2NrdDNpejdFSDJxMi1pUXV1NlJ2MTMteVBsNk9yWUNkdFkxYlA3WDloMjdKbi14WW5XU2hsdGJHUFN4T2RXS2dTeHJNVQ?oc=5",
+     "headline": "La ministre de la Santé répond à l'AMMD: \"Il n’est pas question de remettre en cause le système conventionné\"",
+     "headlineEn": "Health Minister responds to AMMD: \"There is no question of challenging the conventioned system\"",
+     "summary": "La ministre de la Santé a tenu à rassurer le corps médical luxembourgeois face aux vives inquiétudes exprimées par l'Association des médecins et médecin-dentistes. Elle a affirmé avec fermeté que le gouvernement n'envisageait en aucun cas de remettre en cause le système conventionné de sécurité sociale. Cette prise de parole officielle intervient alors que le président de l'AMMD déplorait publiquement les contraintes du cadre actuel, évoquant le risque de basculer vers une médecine à deux vitesses au Grand-Duché. La ministre préconise une concertation constructive pour adapter les mécanismes de conventionnement aux futurs défis sanitaires du pays.",
+     "why": "Les relations entre l'État et le corps médical conditionnent l'avenir de l'assurance maladie et l'accès aux soins de santé.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    },
+    {
+     "source": "Luxemburger Wort",
+     "lang": "de",
+     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPMUwzbmxIT184dnI0eDBQRFI0ajJRblZ0NTJyTUxWT0w1Q3pNdm5PeU1NNFY3djVSUG8yUUdZSGppLTJjVHpIOGd4ZHBzcmxES2NZc2dLak9KQlZqeHN4SHRSM3hQcXBkWnM2bmp2T0pBNkhTbllYMy12WnNPNnA1ZVBmNlJMR0x6bE5WMzBXRDFXTElUQWNpRDRmVUdsUFY2N3dzSA?oc=5",
+     "headline": "Die Tram hält künftig an den Stopps „Commission européenne“ und „École européenne“",
+     "headlineEn": "The tram will now stop at the \"European Commission\" and \"European School\" stations",
+     "summary": "Das Tramnetz der Stadt Luxemburg erweitert sein Angebot auf dem Kirchberg-Plateau mit zwei neuen Haltestellen für die Fahrgäste. Die Züge bedienen ab sofort die Stationen „Commission européenne“ und „École européenne“, was den Zugang zu den europäischen Institutionen und Bildungseinrichtungen erheblich erleichtert. Diese Erweiterung soll den öffentlichen Nahverkehr für Tausende Beamte, Schüler und Anwohner noch attraktiver gestalten und den täglichen Autoverkehr im Viertel wirksam reduzieren. Die Maßnahme fügt sich in den umfassenden Mobilitätsplan der luxemburgischen Regierung ein, der auf eine nachhaltige Modernisierung der Verkehrsinfrastruktur der Hauptstadt abzielt.",
+     "why": "L'extension de la ligne de tram améliore directement la desserte des institutions européennes et la mobilité sur le Kirchberg.",
+     "paywalled": true,
+     "contested": "",
+     "chart": null
+    }
+   ]
+  },
+  {
+   "name": "Monde / géopolitique",
+   "stories": [
+    {
+     "source": "Al Jazeera",
+     "lang": "en",
+     "url": "https://www.aljazeera.com/news/2026/9/17/congress-passes-sweeping-us-sanctions-bill-targeting-russia?traffic_source=rss",
+     "headline": "Congress passes sweeping US sanctions bill targeting Russia",
+     "headlineEn": "Le Congrès américain adopte un projet de loi de sanctions renforcées contre la Russie",
+     "summary": "The United States Congress has passed a comprehensive sanctions bill targeting Russia, marking its first major pro-Ukraine legislative measure in over two years. The legislation specifically targets Moscow's shadow fleet of oil tankers and empowers the president to impose tariffs on foreign countries purchasing Russian natural gas and crude oil. Lawmakers from both major parties supported the proposal in an effort to deprive the Kremlin of vital energy revenues funding its ongoing war effort. The bill now moves to the White House for final executive approval as Russian forces launch new drone and missile strikes against Ukrainian urban centers.",
+     "why": "Ce texte accroît la pression financière internationale sur les exportations d'hydrocarbures russes.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    },
+    {
+     "source": "AP News",
+     "lang": "en",
+     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOYU5SQXhmSEZYd1RpSlhUR3l4dmpWell6aE1iakstSTA2X3BJRWF1QzlHTXFoTWFzd0taOHJ0X19rWVlwbzhaZ0pFZjgzZ1RFU3p1REdDNDFUVVVuUEg3U1_vbVVBYmZhekdiQ2hBXzlsYzExcWY0ZlR5YWM1T25Gemk5MnlXYUV2NVItUWxqVG9xMmhfMklDR0RHWjJfdV9oMkNZcTFGaHZNbklNd2YybDlEZ1VVQQ?oc=5",
+     "headline": "Belarus frees 25 prisoners in exchange for the US lifting some sanctions, envoy says",
+     "headlineEn": "La Biélorussie libère 25 prisonniers en échange de la levée de certaines sanctions américaines",
+     "summary": "Authorities in Belarus have released 25 political prisoners following high-level diplomatic negotiations with a special United States envoy in Minsk. In exchange for the detainees' freedom, Washington has agreed to lift selected economic sanctions previously levied against the Eastern European government. The agreement reflects a pragmatic, transactional diplomatic approach by the Trump administration toward President Alexander Lukashenko, who remains one of Moscow's closest regional allies. While international human rights organizations welcomed the release of the individuals, they emphasized that hundreds of pro-democracy activists remain imprisoned in Belarusian penal colonies.",
+     "why": "Washington illustre une politique étrangère pragmatique et transactionnelle envers un allié clé de Moscou.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    },
+    {
+     "source": "France 24",
+     "lang": "fr",
+     "url": "http://www.france24.com/fr/europe/20260917-turquie-liberation-106-manifestants-emprisonne-autres-militants-lgbt-repression-justice-europe-recep-tayyip-erdogan",
+     "headline": "Raids anti-LGBT+ : la Turquie libère 106 manifestants, mais emprisonne d'autres militants",
+     "headlineEn": "Anti-LGBT+ raids: Turkey releases 106 protesters but imprisons other activists",
+     "summary": "Les autorités turques ont libéré plus d'une centaine de manifestants interpellés à Istanbul lors de rassemblements contre la vaste campagne de répression visant la communauté LGBT+. Cependant, les tribunaux du pays ont ordonné le placement en détention provisoire de plusieurs dizaines d'autres militants arrêtés au cours des derniers jours. Le gouvernement justifie ces opérations policières au nom de la protection de la structure familiale traditionnelle, tandis que les associations de défense des droits humains dénoncent une dérive autoritaire. Cette vague d'interpellations suscite de vives inquiétudes au sein des institutions européennes et des organisations internationales.",
+     "why": "Le durcissement sécuritaire en Turquie accroît la pression sur les droits fondamentaux et ravive les tensions avec l'UE.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    }
+   ]
+  },
+  {
+   "name": "International — hors Europe",
+   "stories": [
+    {
+     "source": "Al Jazeera",
+     "lang": "en",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/9/17/reports-us-houthis-make-secret-deal-over-yemen-war?traffic_source=rss",
+     "headline": "Reports: US, Houthis make secret deal over Yemen war",
+     "headlineEn": "Des rapports évoquent un accord secret entre les États-Unis et les Houthis concernant le Yémen",
+     "summary": "Reports indicate that the United States and Yemen's Houthi rebels have entered into a secret arrangement to mitigate military escalation in the Red Sea corridor. Under the reported deal, Houthi forces have offered to guarantee unimpeded passage for American commercial vessels in exchange for Washington refraining from launching direct military strikes against targets in Yemen. The understanding comes as local government forces continue clashes over critical islands near the strategic Bab al-Mandab Strait. Military experts suggest the agreement highlights Washington's effort to safeguard maritime commerce without becoming further entangled in regional armed conflict.",
+     "why": "Cet apaisement négocié vise à sécuriser le commerce maritime dans un détroit névralgique.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    },
+    {
+     "source": "Al Jazeera",
+     "lang": "en",
+     "url": "https://www.aljazeera.com/news/2026/9/17/us-extends-visa-ban-on-palestinian-officials-before-un-general-assembly?traffic_source=rss",
+     "headline": "US extends visa ban on Palestinian officials before UN General Assembly",
+     "headlineEn": "Les États-Unis prolongent l'interdiction de visa pour les dirigeants palestiniens avant l'Assemblée générale de l'ONU",
+     "summary": "The United States government has extended its visa restriction on Palestinian President Mahmoud Abbas and senior officials of his administration, preventing them from attending the UN General Assembly in New York. Washington justified the decision by pointing to insufficient governance reforms and claiming the Palestinian Authority failed to honor peace commitments in the region. The measure blocks Palestinian representatives from directly addressing the international assembly for the second consecutive year. Diplomats worry that barring moderate leaders from global forums will further complicate diplomatic initiatives and deepen political isolation across the Palestinian territories.",
+     "why": "Cette restriction entrave la représentation diplomatique directe de l'Autorité palestinienne aux Nations unies.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    },
+    {
+     "source": "AP News",
+     "lang": "en",
+     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPUmE3YmJpVWNXOTVtQmJ0ak9CNVE1MkM1NWJJMF9USVh6RGJLUDZnZXpHNFg1ZmtfYnRTaU9qdExKRTRBMmk3VE9zSjlYbzVsa1VySTFZRTBJMzJhOTRUNXNOMlRnM0xXZHhzOF82VEVLWmlJRUxva29lVEpiN2tSX2wweWt4eDQ3MTRjYg?oc=5",
+     "headline": "Sudan gold mine collapse kills at least 82 people with many more missing",
+     "headlineEn": "L'effondrement d'une mine d'or au Soudan fait au moins 82 morts et de nombreux disparus",
+     "summary": "A catastrophic collapse at a gold mine in Sudan has claimed the lives of at least 82 workers, with dozens more trapped in underground shafts. Local rescue teams face severe shortages of heavy equipment and technical tools, significantly diminishing the chances of finding additional survivors beneath the rubble. The disaster highlights the extremely dangerous conditions prevailing in unregulated artisanal mines across the war-torn country, where economic hardship drives thousands to risk their lives daily. Humanitarian organizations have called on regional authorities to enforce basic safety standards and provide emergency medical assistance to affected mining communities.",
+     "why": "Ce drame tragique met en lumière la précarité et le manque de sécurité dans l'extraction minière informelle soudanaise.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    },
+    {
+     "source": "France 24",
+     "lang": "fr",
+     "url": "http://www.france24.com/fr/moyen-orient/20260916-israel-maroc-ouvrir-ambassades-dans-leurs-pays-respectifs-diplomatie-etats-unis",
+     "headline": "Israël et le Maroc conviennent d'ouvrir des ambassades dans leurs pays respectifs",
+     "headlineEn": "Israel and Morocco agree to open embassies in their respective countries",
+     "summary": "Israël et le Maroc ont officiellement décidé de porter leurs relations diplomatiques à un niveau supérieur en transformant leurs bureaux de liaison en ambassades de plein exercice à Rabat et Tel-Aviv. L'accord a été formalisé lors d'une rencontre entre les chefs de la diplomatie des deux pays à New York sous la médiation des États-Unis. Cette initiative s'accompagnera de la signature de nouveaux accords économiques et de l'extension des vols commerciaux directs d'ici la fin de l'année. Cette étape marque une consolidation importante du processus de normalisation entamé entre les deux nations.",
+     "why": "L'ouverture réciproque d'ambassades pérennise les relations diplomatiques et économiques établies entre Rabat et Tel-Aviv.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    },
+    {
+     "source": "Council on Foreign Relations",
+     "lang": "en",
+     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNVnY3SU1FT2RPNTR5UXhkVmhrSlVCdUp6UlVmY0pKVmpaWmpPWGoydVR6ZnozVnpJaXJPZ1BlLUlxR3dNM1Mwa3laUUtpYVZOWmpubDF2N2RDQ2JyeE5WcU5uY0RhOHFYTTlCMlpadE9PUlJoUGdGRUdSWHlaWi1zUHZrVU0wLW9Q?oc=5",
+     "headline": "The U.S.-Canada Trade War Could Mark a Breaking Point",
+     "headlineEn": "La guerre commerciale entre les États-Unis et le Canada pourrait marquer un point de rupture",
+     "summary": "An analysis published by the Council on Foreign Relations warns that intensifying trade conflicts between Washington and Ottawa could mark a historic breaking point in North American economic relations. Tariffs and political rhetoric have driven the Canadian government to actively forge deeper economic and security ties with European and Asian partners. The study suggests this strategic shift represents a lasting structural realignment rather than a temporary political disagreement. Foreign policy experts warn that prolonged trade hostility risks destabilizing decades of close bilateral cooperation and compromising economic security across both neighboring nations.",
+     "why": "L'étude souligne le risque de réalignement stratégique durable du Canada hors de la sphère économique américaine.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    }
+   ]
+  },
+  {
+   "name": "Europe & politiques de l'UE",
+   "stories": [
+    {
+     "source": "AP News",
+     "lang": "en",
+     "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPX0ZKTkNJVWdFUGNSRFNpeUFDdDhzbWIyc00zc3RjZ0JCMUEwaFItN0J4eHBLSnE0UHJDd1BZVk9WQ29pV1dzamVEZ0JqOV9zblQycXdYN2Q4RmRXTVd4dVZYdVI3R3hLS3ZSWkVsMlVNUEpiZ1dFQVptWEg4MlpoYkxLeHRlSFpHSHFpSk1DUGJjRjlaeWhMeDRn?oc=5",
+     "headline": "EU chief proposes bloc-wide social media ban for kids under 13",
+     "headlineEn": "La chef de l'UE propose une interdiction des réseaux sociaux pour les moins de 13 ans",
+     "summary": "The President of the European Commission has proposed a comprehensive, bloc-wide prohibition on social media platform access for children under the age of 13. The initiative aims to protect minors from digital harms, online exploitation, and mental health risks linked to excessive screen exposure. Under the draft guidelines, platforms would be obliged to implement strict age verification mechanisms across member states. The proposal has already sparked intense debate among European lawmakers and privacy advocates, who are weighing child safety benefits against technological feasibility and data protection concerns.",
+     "why": "Cette mesure pourrait transformer la régulation du numérique et la protection des mineurs sur l'ensemble du continent européen.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    },
+    {
+     "source": "France 24",
+     "lang": "fr",
+     "url": "http://www.france24.com/fr/vid%C3%A9o/20260917-l%C3%A9gislatives-en-su%C3%A8de-une-victoire-du-centre-gauche-annonc%C3%A9e-par-la-t%C3%A9l%C3%A9vision-publique",
+     "headline": "Législatives en Suède : la victoire du centre-gauche annoncée par la télévision publique",
+     "headlineEn": "Legislative elections in Sweden: centre-left victory announced by public television",
+     "summary": "Selon les projections diffusées par la télévision publique SVT, le bloc de centre-gauche mené par les sociaux-démocrates de Magdalena Andersson est en passe de remporter les élections législatives en Suède. Cette annonce préfigure un changement de majorité politique et de gouvernement dans les semaines à venir à Stockholm. Cependant, pour former un cabinet stable, les sociaux-démocrates devront mener d'intenses négociations avec leurs alliés potentiels, notamment le Parti de gauche et les centristes. Ces tractations s'annoncent complexes en raison de divergences marquées sur la fiscalité et les politiques publiques.",
+     "why": "Un basculement politique en Suède redessinerait les équilibres au sein du Conseil européen sur les questions migratoires et économiques.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    },
+    {
+     "source": "BBC",
+     "lang": "en",
+     "url": "https://www.bbc.co.uk/news/articles/c6dj4nn0n97ro?at_medium=RSS&at_campaign=rss",
+     "headline": "Eight German state premiers back Merz amid speculation over future",
+     "headlineEn": "Huit ministres-présidents allemands soutiennent Merz face aux spéculations sur son avenir",
+     "summary": "Eight Christian Democratic Union state premiers have publicly declared their support for Chancellor Friedrich Merz amid growing internal party debates regarding his political future. The display of unity comes at a critical juncture, as the conservative leadership faces mounting pressure following severe regional electoral setbacks in Saxony-Anhalt. Despite the party's recent losses and widespread public dissatisfaction, key regional figures insisted that Merz remains the rightful leader to guide Germany through economic challenges. Nevertheless, observers note that upcoming state elections this weekend could severely test this endorsement if the party suffers further defeats.",
+     "why": "La stabilité politique de la première économie européenne est menacée par les revers électoraux de la coalition dirigée par Friedrich Merz.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    }
+   ]
+  },
+  {
+   "name": "Économie & marchés",
+   "stories": [
+    {
+     "source": "AP News",
+     "lang": "en",
+     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPM2FuR2dwQTdmR29FeHFBNGdhYUl5ODhwTGYzTTU1ckg3VnJTZE1ELXhOZ0tia09oMFpEYXhIUG9QSDVxaExKTmxBQU5hcENsQUx0R25HdlZhc1dJdGY5WlRjYXJvd2VFa3FkaWs5ZFZ6LXNuWFVnaUR0WmlhcFh5M19fdkp5dHR3dktESkZvTDROR0xRVm03MFFaVWFiOEtJZGZvRENR?oc=5",
+     "headline": "Retail sales rise a better-than-expected 1.2% in August after shoppers pulled back spending in July",
+     "headlineEn": "Les ventes au détail augmentent de 1,2 % en août, au-dessus des attentes",
+     "summary": "United States retail sales increased by a better-than-expected 1.2% in August, signaling renewed consumer confidence after a sharp slowdown in household spending during July. Financial analysts had anticipated a more modest rebound given ongoing inflationary pressures and elevated borrowing costs. The growth was driven primarily by robust purchases in online retail, automotive sales, and consumer electronics. Economists believe this expenditure surge demonstrates underlying resilience in consumer demand, although lingering concerns remain over whether American households can maintain this pace of spending if high borrowing costs persist throughout the autumn season.",
+     "why": "La résilience de la consommation américaine influence les perspectives de croissance mondiale et les décisions financières mondiales.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    },
+    {
+     "source": "France 24",
+     "lang": "fr",
+     "url": "http://www.france24.com/fr/%C3%A9missions/info-%C3%A9co/20260916-hausse-des-prix-des-carburants-que-peut-faire-le-gouvernement-fran%C3%A7ais",
+     "headline": "Hausse des prix des carburants : que peut faire le gouvernement français ?",
+     "headlineEn": "Rise in fuel prices: what can the French government do?",
+     "summary": "Face à la poussée soutenue des prix de l'énergie à la pompe, l'entourage du Premier ministre français Sébastien Lecornu a confirmé la prolongation des aides ciblées sur les carburants jusqu'à la fin du mois de décembre. Cette décision intervient dans un climat de grogne sociale grandissante contre la cherté de la vie. Toutefois, de nombreux observateurs économiques et représentants syndicaux jugent ces dispositifs temporaires insuffisants pour stabiliser le pouvoir d'achat des ménages à long terme. Le gouvernement cherche à concilier l'urgence sociale avec le respect des contraintes budgétaires strictes imposées par les finances publiques.",
+     "why": "La hausse persistante du coût des carburants alimente les tensions sociales et pèse sur le pouvoir d'achat des ménages en France.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    },
+    {
+     "source": "RTL.lu",
+     "lang": "fr",
+     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNdHdhUWQtLTdSdTdKcncxV0xaOTdlT2xLaFJBaUgweThOdU9qTjVtemFxQnJ0b2gtVUExeWhMc2Zpb0NUd2VkLVNHNTlDMVV1VHEzZF91WWdMZXBjM2pncHl6T184TEx0WXhrbFJ4UnlSSXNnMzZlalhRNTBUN09raU9JRmdmd251SVdtaGRTSnNKYjE0X09WOVExRi1qaFdpaHc?oc=5",
+     "headline": "Acheter son logement: Enfin du mieux sur les taux des crédits au Luxembourg ?",
+     "headlineEn": "Buying a home: Is there finally improvement in mortgage rates in Luxembourg?",
+     "summary": "Le marché de l'immobilier au Luxembourg montre de premiers signes de soulagement alors que les conditions d'octroi des crédits immobiliers connaissent une légère amélioration. Après plusieurs trimestres de contraction marqués par une hausse marquée des coûts d'emprunt, les établissements bancaires du Grand-Duché ajustent progressivement leurs barèmes de taux. Cette tendance offre de nouvelles perspectives aux ménages candidats à l'accession à la propriété, jusqu'alors dissuadés par la baisse de leur capacité de financement. Les professionnels du secteur restent néanmoins prudents et attendent une confirmation durable de ce frémissement pour anticiper une véritable reprise des transactions.",
+     "why": "Une détente des taux d'emprunt bancaire relancerait le marché immobilier luxembourgeois, bloqué depuis plusieurs trimestres.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    }
+   ]
+  },
+  {
+   "name": "Technologie & sciences",
+   "stories": [
+    {
+     "source": "Reuters",
+     "lang": "en",
+     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPZ09uWFd0WmUtWloyeENhUWp5NFJiNVF6REhDTUE2ZHZETW5DLUkyRG5QNDhfb0pvVWd5TkVLUEh0WnVja3dxMWJuU2ItSmRQLWM1bFJwN3RmdG03OWRhTXhzejQ2RHpBOTZ4d3hzQXdXOVNycjliMmlRSWhvOUF4NkpkVXVLcnZ2MThmTXpXMlJhQzVZQ0ZkWVAwX1Uwdw?oc=5",
+     "headline": "OpenAI to regularly disclose AI misbehavior, warns safety challenges remain",
+     "headlineEn": "OpenAI publiera régulièrement les dérives de l'IA, tout en prévenant que des défis de sécurité subsistent",
+     "summary": "Artificial intelligence developer OpenAI has committed to publishing regular transparency reports documenting instances where its models exhibit unexpected or concerning behavior. The company disclosed several internal safety incidents encountered during rigorous testing, emphasizing that controlling advanced systems remains an ongoing technical challenge. Executive leaders acknowledged growing societal fears over automated risks, pledging to establish clearer public reporting standards and external safety protocols. However, computer science experts and international regulators stress that voluntary corporate disclosures may not fully substitute for binding legislative frameworks as artificial intelligence deployment expands rapidly worldwide.",
+     "why": "La transparence des géants de la tech sur les défaillances de leurs modèles est cruciale pour l'élaboration des futures normes d'encadrement.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    },
+    {
+     "source": "Euronews",
+     "lang": "en",
+     "url": "https://www.euronews.com/2026/09/16/russia-used-claude-ai-for-espionage-disinformation-and-drone-swarms",
+     "headline": "Russia used Claude AI for espionage, disinformation and drone swarms",
+     "headlineEn": "La Russie a utilisé l'IA Claude pour de l'espionnage, de la désinformation et des essaims de drones",
+     "summary": "Security researchers at Anthropic revealed that Russian-linked threat actors maliciously exploited the Claude artificial intelligence model to orchestrate cyber espionage attacks, run foreign disinformation campaigns, and assist in autonomous drone swarm coordination. According to the investigation, state-sponsored operators automated intrusions targeting more than twenty organizations, including Ukrainian defense contractors and military suppliers. Anthropic responded by taking down the associated accounts and strengthening model safety guardrails. The incident highlights critical national security vulnerabilities, raising urgent questions for Western intelligence agencies regarding how commercial artificial intelligence capabilities can be shielded from hostile state manipulation.",
+     "why": "L'utilisation détournée d'outils d'intelligence artificielle civils à des fins militaires illustre les failles de sécurité des technologies à double usage.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    },
+    {
+     "source": "Le Monde",
+     "lang": "fr",
+     "url": "https://www.lemonde.fr/planete/article/2026/09/17/catastrophe-au-nepal-le-rechauffement-climatique-facteur-aggravant-dans-l-effondrement-du-glacier_6775867_3244.html",
+     "headline": "Catastrophe au Népal : le réchauffement climatique, facteur aggravant dans l’effondrement du glacier",
+     "headlineEn": "Disaster in Nepal: climate change an aggravating factor in glacier collapse",
+     "summary": "Une première étude scientifique d'attribution confirme que le réchauffement climatique a joué un rôle moteur critique dans l'effondrement glaciaire survenu le 26 août dans l'Himalaya népalais. La combinaison de températures anormalement élevées et d'une déstabilisation des roches a provoqué une avalanche massive de glace, déclenchant des inondations dévastatrices qui ont coûté la vie à plus de 1 300 personnes. Les chercheurs soulignent que la fonte rapide du permafrost fragilise les massifs montagneux et démultiplie la fréquence des risques naturels extrêmes. La communauté scientifique internationale appelle à renforcer d'urgence les systèmes d'alerte précoce dans les zones vulnérables.",
+     "why": "Cette étude confirme la vulnérabilité extrême des régions de haute montagne face au dérèglement climatique et à l'élévation des températures.",
+     "paywalled": true,
+     "contested": "",
+     "chart": null
+    }
+   ]
+  },
+  {
+   "name": "Sport",
+   "stories": [
+    {
+     "source": "Reuters",
+     "lang": "fr",
+     "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOSWZXZ1RTR1VDRDdDcmQ5N0xxSHVPVzIxU1NHOEhlSEJVNGlVZS1RZVlYRmdiMFlNczBmdTFQQ0daMUFFa0s3QXNwVk1kaHFqNDBRSjJOU05GV21FR292RUIwdGJlVmhTcFFCQWs0RktSUFZJeEo3QmRVbVllV3IyazVqTDZQZmtId3owZnA4Nm12MXlPRnc3SFJfcWQyN3YxVXAxNmlEMFZYdzR6RzQ2VDN6QUt4ZWJOSXdkcnpuNG9fUQ?oc=5",
+     "headline": "Real defend players' freedom of expression after Mbappe, Vinicius cover message of support for Ceuta",
+     "headlineEn": "Real Madrid defends players' freedom of expression after Mbappe and Vinicius cover support message for Ceuta",
+     "summary": "La direction du Real Madrid a officiellement pris la défense de la liberté d'expression de ses footballeurs stars, notamment Kylian Mbappé et Vinicius Junior. Les dirigeants madrilènes réagissent aux polémiques nées après le masquage d'un message de soutien à l'enclave de Ceuta. Le club espagnol insiste sur le fait que ses athlètes restent libres d'exprimer leurs convictions personnelles dans le respect des valeurs de l'institution.",
+     "why": "La prise de position des grands clubs sur la liberté de parole de leurs stars redéfinit les limites entre engagement personnel et communication sportive.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    },
+    {
+     "source": "Al Jazeera",
+     "lang": "en",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/9/17/verstappen-beats-100-go-karters-in-fun-silverstone-race?traffic_source=rss",
+     "headline": "Verstappen beats 100 go-karters in fun Silverstone race",
+     "headlineEn": "Verstappen bat 100 pilotes de karting lors d'une course festive à Silverstone",
+     "summary": "Four-time Formula One world champion Max Verstappen showcased his driving skills during a special exhibition event held at the Silverstone circuit in the United Kingdom. Starting from the back of the grid, the Red Bull Racing driver successfully overtook one hundred amateur go-kart racers to win the celebratory competition. The promotional race attracted large crowds and served to highlight Verstappen's remarkable precision and dominance behind the wheel.",
+     "why": "Cette exhibition médiatique renforce la popularité auprès du public de la Formule 1 en combinant spectacle et proximité.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    }
+   ]
+  }
+ ],
+ "sourced": true,
+ "feeds": {
+  "ok": 28,
+  "of": 29,
+  "items": 262,
+  "skipped": [
+   "RTL.lu (LB)"
+  ]
+ },
+ "words": 4400,
+ "readMin": 22,
+ "storyCount": 25
+}
