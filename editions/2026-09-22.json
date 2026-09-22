@@ -1,0 +1,402 @@
+{
+ "date": "2026-09-22",
+ "kind": "daily",
+ "heat": 0.75,
+ "oneThing": "All major US news networks suspended shared White House coverage in protest against the administration banning journalists from CNN, MS NOW, and Politico.",
+ "followUps": [
+  {
+   "n": "01",
+   "thread": "Merz sous pression après la déroute de la CDU",
+   "change": "Le patron de la CDU en Mecklembourg-Poméranie-Orientale démissionne après l'éviction de la CDU du parlement régional, tandis que Merz tente de maintenir la coalition à Berlin."
+  },
+  {
+   "n": "02",
+   "thread": "Rapprochement bilatéral entre Washington et Minsk",
+   "change": "Donald Trump fait la promotion d'un accord sur la potasse bélarusse de Loukachenko, fragilisant les relations commerciales des États-Unis avec le Canada."
+  },
+  {
+   "n": "03",
+   "thread": "Guerre d'usure navale au Yémen et en mer Rouge",
+   "change": "Les Houthis promettent d'épargner les navires américains après l'annulation de frappes par Trump, tandis que le G7 somme l'Iran de cesser d'armer la rébellion."
+  }
+ ],
+ "mustReads": [
+  {
+   "desk": "Europe",
+   "source": "DW",
+   "lang": "DE",
+   "paywalled": false,
+   "url": "https://www.dw.com/de/landtagswahlen-schwere-zeiten-für-kanzler-friedrich-merz/a-79362260?maca=de-rss-de-all-1119-rdf",
+   "headline": "Landtagswahlen: Schwere Zeiten für Kanzler Friedrich Merz",
+   "headlineEn": "State elections: Difficult times for Chancellor Friedrich Merz",
+   "contested": "",
+   "why": "Ces défaites électorales historiques fragilisent le chancelier allemand Friedrich Merz et menacent la stabilité de la coalition gouvernementale.",
+   "stat": "14",
+   "statLabel": "cents par litre de baisse de la taxe sur le carburant envisagés par Berlin",
+   "chart": null,
+   "paras": [
+    "Die jüngsten Landtagswahlen in Berlin und Mecklenburg-Vorpommern haben ein politisches Erdbeben in Deutschland ausgelöst und die Regierung von Bundeskanzler Friedrich Merz tief erschüttert. Während die Alternative für Deutschland spürbare Gewinne verzeichnen konnte, erlitt die CDU historische Verluste. In Mecklenburg-Vorpommern verpasste die Christlich Demokratische Union sogar erstmals den Einzug in das Landesparlament, was als beispielloser Niedergang gewertet wird. Parteiinterne Debatten über die Zukunft des Kanzlers und die Ausrichtung der christdemokratischen Politik haben unmittelbar begonnen, während die politischen Gegner die Ergebnisse als deutliches Votum gegen die derzeitige Bundespolitik interpretieren.",
+    "Der Landesvorsitzende der CDU in Mecklenburg-Vorpommern, Daniel Peters, zog rasch die Konsequenzen aus der Niederlage und trat von seinem Amt zurück. Philipp Amthor soll vorerst die Führung übernehmen, um die schwer getroffene Landespartei zu stabilisieren. In Berlin wiederum feierte Die Linke einen bedeutenden Erfolg und strebt nun die Regierungsbildung an. Kanzler Friedrich Merz räumte zwar ein, dass der Wahlabend ein Desaster für die politische Mitte war, wies jedoch Rücktrittsforderungen zurück. Er betonte, dass die Wahlergebnisse weit über seine eigene Person hinausgingen und er die Koalition weiterführen wolle.",
+    "Die Niederlagen setzen die Regierungskoalition in Berlin unter enormen Druck, da der Koalitionspartner SPD rasche Anpassungen an den geplanten Reformen fordert. Insbesondere Sozial- und Rentenreformen stehen nun auf dem Prüfstand der Sozialdemokraten, die Bedenken hinsichtlich der gesellschaftlichen Akzeptanz äußern. Gleichzeitig versucht die Bundesregierung mit Maßnahmen wie dem beschlossenen Tankrabatt zu punkten, der ab Oktober die Steuerbelastung auf Treibstoffe vorübergehend senken soll. Ob diese finanzielle Entlastung der Bürger jedoch ausreicht, um das verloren gegangene Vertrauen in die Handlungsfähigkeit der Regierung wiederherzustellen, bleibt unter den politischen Beobachtern äußerst umstritten.",
+    "Die AfD feiert ihren Wahlerfolg als Bestätigung ihres Kurses und sieht sich gestärkt für kommende Auseinandersetzungen auf Bundesebene. Die Partei profitierte massiv von den Sorgen der Bevölkerung bezüglich Wirtschaftslage, Migration und Energiepreisen. Gleichzeitig wirft die Führung der AfD der etablierten Konkurrenz vor, die Signale der Wähler zu ignorieren. Auch wenn soziale Medien von Manipulationsvorwürfen überschwemmt wurden, bewerteten offizielle Stellen die Wahlabläufe als ordnungsgemäß. Der Erfolg der Rechten zwingt die etablierten Parteien nun dazu, ihre Strategien im Umgang mit dem rechtspopulistischen Lager grundsätzlich zu überdenken.",
+    "Innerhalb der Union wird die Kritik an der Führung von Friedrich Merz laut vernehmbar, wennoch vorerst kein offener Herausforderer für den Parteivorsitz bereitsteht. Parteiveteranen wie Altkanzlerin Angela Merkel mahnten, dass der Brückenbau stets der Anspruch einer Volkspartei bleiben müsse, um breite Bevölkerungsschichten anzusprechen. Die Debatten drehen sich darum, wie die CDU ihr Profil schärfen kann, ohne Wähler an den Rändern zu verlieren. Die Spaltung zwischen konservativen und moderaten Kräften erschwert eine einheitliche Positionierung, was das Erreichen künftiger Wahlerfolge in den Bundesländern zusätzlich erschweren könnte.",
+    "Die politische Landschaft in Deutschland steht somit vor einer Phase erhöhter Unsicherheit und grundlegender Neuausrichtung. Während die Koalitionspartner in Berlin versuchen, Kompromisse bei den anstehenden Gesetzesvorhaben zu finden, wächst der Unmut in der Bevölkerung über die wirtschaftliche Entwicklung. Die Frage, ob Friedrich Merz seine Partei und die Regierung durch diese Krise führen kann, wird die kommenden Monate prägen. Das historische Scheitern in Schwerin zeigt deutlich, dass traditionelle Parteibindungen schwinden und die politische Mitte in Deutschland so stark gefordert ist wie selten zuvor."
+   ]
+  },
+  {
+   "desk": "Americas",
+   "source": "Euronews",
+   "lang": "EN",
+   "paywalled": false,
+   "url": "https://www.euronews.com/2026/09/22/all-major-us-networks-suspend-trump-coverage-in-revolt-over-white-house-ban",
+   "headline": "All major US networks suspend Trump coverage in revolt over White House ban",
+   "headlineEn": "Toutes les grandes chaînes américaines suspendent la couverture de Trump en protestation contre le bannissement de la Maison-Blanche",
+   "contested": "",
+   "why": "La décision sans précédent des grands médias américains de boycotter la couverture de la Maison-Blanche marque une escalade majeure dans les tensions entre la presse et l'administration Trump.",
+   "stat": "",
+   "statLabel": "",
+   "chart": null,
+   "paras": [
+    "In an unprecedented show of solidarity, all five major American television news networks have suspended their shared pool coverage of the White House. This unified boycott was triggered after the administration banned journalists from CNN, MS NOW, and Politico from covering official events. Broadcasters including Fox News joined the protest, refusing to provide collective video feeds while fellow news organizations were excluded. This aggressive standoff represents one of the most severe escalations between the executive branch and the press corps in modern American history, interrupting routine television coverage as world leaders gather in New York.",
+    "The decision to halt pool coverage means that single camera crews will no longer record White House events on behalf of all major networks. This mechanism normally ensures that all television outlets receive identical video footage of presidential appearances without overcrowding. By collectively walking away from this arrangement, the broadcasters have left the administration without traditional network television coverage during a critical week of international diplomacy. The press corps argued that banning specific outlets based on their news coverage represents a blatant violation of the First Amendment, which guarantees freedom of the press.",
+    "In response to the media boycott, administration officials announced the launch of a new government broadcast initiative, tentatively called TrumpTV, to present their perspective directly to the public. Critics and media advocates quickly condemned the move, claiming that creating a state-run media channel mirrors practices typically seen in authoritarian regimes. The administration maintained that news organizations were behaving unfairly and argued that the president holds the right to determine which journalists gain access to the White House complex. The confrontation comes at a delicate time, shortly before mid-term elections.",
+    "Major news outlets have also taken legal action against President Donald Trump, filing lawsuits in federal court to challenge the revocation of their press credentials. The legal filings claim that the White House violated constitutional protections by selectively targeting journalists whose reporting was deemed critical of the administration. Legal scholars noted that previous court decisions have largely protected journalists access to public government briefings, setting up a high-stakes legal battle over presidential authority and constitutional rights. The courts must now decide whether the executive branch exceeded its lawful powers.",
+    "The dispute reached a head just as President Trump arrived in New York for the United Nations General Assembly, where key bilateral meetings were scheduled. Prominent local figures, including New York Mayor Zohran Mamdani, publicly challenged the president regarding the White House press bans during official discussions. Despite the heavy political friction, the administration showed little inclination to back down, reiterating claims that mainstream media outlets produce biased reporting. The boycott has drawn widespread attention from international observers, who view it as a crucial test for democratic norms and press freedoms.",
+    "Media executives emphasized that participating in the boycott was a necessary step to defend core journalistic principles against arbitrary government interference. They insisted that access to official White House proceedings should not be contingent on favorable reporting or political allegiance. As legal challenges proceed through the judicial system, the news organizations pledged to continue covering the presidency independently through alternative means. The outcome of this confrontation will likely reshape how future presidential administrations interact with the press corps and set a precedent for governmental transparency in the United States."
+   ]
+  },
+  {
+   "desk": "Business",
+   "source": "France 24",
+   "lang": "FR",
+   "paywalled": false,
+   "url": "https://www.france24.com/fr/%C3%A9co-tech/20260922-accord-paramount-12-etats-americains-ouvre-voie-rachat-warner-bros-discovery-cinema-californie-justice-television",
+   "headline": "Rachat contesté de Warner Bros Discovery : un accord trouvé entre Paramount et 12 États américains",
+   "headlineEn": "Contested buyout of Warner Bros Discovery: Paramount reaches deal with 12 US states",
+   "contested": "",
+   "why": "L'accord amiable débloque l'une des plus importantes fusions de l'histoire des médias américains tout en instaurant des garanties d'indépendance éditoriale.",
+   "stat": "",
+   "statLabel": "",
+   "chart": null,
+   "paras": [
+    "Le groupe Paramount Skydance a conclu un accord amiable décisif avec douze États américains pour clore les poursuites antitrust visant son projet d'acquisition du géant des médias Warner Bros Discovery. Cette transaction colossale de 81 milliards de dollars franchit ainsi un obstacle juridique majeur qui menaçait le rapprochement des deux studios hollywoodiens. Pour apaiser les inquiétudes formulées par les procureurs généraux concernant la concentration du marché, Paramount s'est engagé à augmenter significativement ses investissements dans la production cinématographique et à établir un conseil indépendant chargé de garantir la liberté éditoriale.",
+    "Les poursuites judiciaires initialement lancées par plusieurs États américains mettaient en garde contre les risques d'une position trop dominante sur le marché de la télévision et du cinéma. Les procureurs redoutaient une réduction de la concurrence susceptible d'entraîner une hausse des prix pour les consommateurs et une diminution de la diversité des contenus créatifs. L'accord conclu doit désormais recevoir la validation formelle d'une juge fédérale en Californie avant de pouvoir être définitivement mis en œuvre, mais les observateurs estiment que cette approbation judiciaire ne devrait constituer qu'une simple formalité administrative.",
+    "Au-delà des aspects purement financiers, ce compromis inédit met l'accent sur la gouvernance future du nouvel ensemble médiatique. La création d'un conseil dédié à l'indépendance éditoriale vise spécifiquement à rassurer la création artistique et à prévenir toute ingérence managériale dans les choix de programmation des chaînes d'information. Paramount a promis de préserver les emplois dans le secteur de la production et d'injecter des capitaux frais pour dynamiser la création de longs métrages, cherchant ainsi à transformer les critiques initiales de la fusion en garanties industrielles positives pour la filière.",
+    "Cette mégafusion s'inscrit dans un contexte de restructuration profonde du paysage audiovisuel mondial, marqué par une concurrence féroce entre les studios traditionnels et les plateformes de streaming. Le rapprochement entre Paramount et Warner Bros Discovery permettra au groupe d'unifier ses catalogues de contenus, de rationaliser ses coûts de production et de peser davantage face aux géants technologiques. Les analystes soulignent que l'aboutissement de cette opération majeure pourrait inciter d'autres acteurs du secteur des médias à réaliser des alliances stratégiques similiaires dans un avenir proche.",
+    "Malgré l'accord trouvé avec les autorités locales, des inquiétudes subsistent chez certains syndicats du cinéma qui caignent les conséquences sociales à long terme de cette consolidation industrielle. Les représentants des salariés soulignent que les fusions de cette ampleur entraînent fréquemment des suppressions de postes et des fermetures de structures sous prétexte de synergies opérationnelles. Le nouveau groupe devra rapidement démontrer sa capacité à respecter ses engagements en matière d'investissements tout en menant l'intégration complexe de deux cultures d'entreprise jusqu'alors rivales sur la scène internationale.",
+    "L'issue favorable de ce dossier judiciaire marque une victoire importante pour les dirigeants des deux entreprises, qui ont défendu avec ténacité le bien-fondé économique de leur alliance. En cédant aux exigences des États américains sur la gouvernance éditoriale et la production, Paramount et Warner Bros Discovery ouvrent la voie à la finalisation d'un géant mondial du divertissement. Le secteur suivra désormais avec attention le déploiement opérationnel de cette entité fusionnée, qui s'apprête à redessiner durablement les rapports de force au sein de l'industrie cinématographique mondiale."
+   ]
+  }
+ ],
+ "desks": [
+  {
+   "name": "Luxembourg",
+   "stories": [
+    {
+     "source": "RTL.lu",
+     "lang": "fr",
+     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPTHlxU09aR2VpMUJ6RGhmWTB0OTJRRThYeHc1RjNqVDJmbmJ0UlRQd2llS3habVgxY3M4ZFpoemtvbkVNZTBJemJDaGZDOG1CWUUyTHdLcUNHT3Vmb2xxbUtYNDlPT2RtZ05RTkxORzZsbE9YYjVvZXo0MEV1UGVFRXcyNlU4V3VadnQ3bmZRS1loUTBkOFFVcm5DZktVN1daSkE?oc=5",
+     "headline": "D'après le Financial Times: La BIL serait à vendre pour 2,5 milliards de dollars",
+     "headlineEn": "According to the Financial Times: BIL is reportedly for sale for $2.5 billion",
+     "summary": "Selon des informations rapportées par le Financial Times, le groupe chinois Legend Holdings envisagerait de céder la Banque Internationale à Luxembourg (BIL) pour un montant estimé à environ 2,5 milliards de dollars. L'établissement financier, qui constitue l'une des plus anciennes et des plus importantes institutions bancaires de la place luxembourgeoise, avait été racheté en 2017 par le conglomérat chinois auprès du fonds qatari Precision Capital. Cette vente potentielle suscite déjà de vives attentions au sein du secteur financier du Grand-Duché, car elle pourrait redéfinir l'actionnariat stratégique d'un acteur majeur du crédit et de la gestion de fortune locale. La direction de la banque n'a pas encore commenté ces rumeurs d'accord.",
+     "why": "Une revente de la BIL modifierait profondément l'équilibre du secteur bancaire et financier luxembourgeois.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    },
+    {
+     "source": "RTL.lu",
+     "lang": "fr",
+     "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOczhIdFd6T2hwdzhyTHhHUXE3ZmpsRlhsQ3RIUi12V2kwZGtYblg4d0ZJZ1BzdEswSFlka0Zpd1kwQ3YxY2trMm9xNzFDc1RNZFRwbm9oWVZQTTBoV0dWZGszcndPdmFtOFRiaDlRc2JUNnFGaEY2WmdXZllHNjlUSXlDR2YzUGYxU2lMT3hONE5Fd0U?oc=5",
+     "headline": "Petit esclandre à l'Oekofest: Blanche Weber interrompt le discours du Premier ministre",
+     "headlineEn": "Minor incident at Oekofest: Blanche Weber interrupts the Prime Minister's speech",
+     "summary": "Lors de la traditionnelle fête de l'environnement Oekofest, la présidente du Mouvement Écologique, Blanche Weber, a vivement interrompu l'intervention publique du Premier ministre Luc Frieden. La responsable associative a publiquement dénoncé le manque d'ambition et de fermeté de la politique environnementale menée par le gouvernement luxembourgeois, exigeant des actes plus concrets face au changement climatique. Cet incident inédit témoigne des tensions croissantes entre les organisations de protection de la nature et le pouvoir exécutif de la coalition CSV-DP. Le chef du gouvernement a néanmoins tenté de maintenir son discours tout en rappelant la volonté du gouvernement de concilier transition écologique et développement économique.",
+     "why": "Cet incident reflète l'insatisfaction grandissante des ONG écologistes face aux arbitrages environnementaux de la coalition.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    },
+    {
+     "source": "Luxemburger Wort",
+     "lang": "de",
+     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOTkZBQXYyOFd3MmtCRV80emhiem9YOG5US3Itc3JremVwbjg0Z2tHb1lqR3ZYRVpRajBMSndqbFlUZVBpZjhPMWMzQTZPbmlDbTV5M3lHcWlRWEJWQ2JjTmhJSFZpOUdycG1FODF3bGFZNGRsVDF2TERMeUxBMlhrRWtKQllrWTVpTDFmS0NOUURxY1Y1OS15WDQ5NThxVUdfZGZkbV9MMWxFZw?oc=5",
+     "headline": "Flugverkehr nach erneutem Drohnenalarm unterbrochen",
+     "headlineEn": "Air traffic interrupted following another drone alert",
+     "summary": "Der Flugverkehr am Flughafen Luxemburg-Findel musste erneut vorübergehend eingestellt werden, nachdem unidentifizierte Drohnen im gesperrten Luftraum in der Nähe der Landebahn gesichtet worden waren. Die Sicherheitsbehörden leiteten umgehend eine Suche ein und leiteten mehrere ankommende Flüge zu nahegelegenen Ausweichflughäfen um, während Abflüge erhebliche Verspätungen erlitten. Dieser Vorfall ist der jüngste in einer Reihe von Störungen durch unberechtigte Drohnenflüge über kritischer Infrastruktur im Großherzogtum. Die Polizei und die Luftfahrtbehörden haben eine gründliche Untersuchung eingeleitet, um die Verantwortlichen zu ermitteln und die Überwachung des Flughafengeländes weiter zu verschärfen.",
+     "why": "Les incursions répètes de drones menacent la sécurité du Findel et perturbent le trafic aérien du Grand-Duché.",
+     "paywalled": true,
+     "contested": "",
+     "chart": null
+    }
+   ]
+  },
+  {
+   "name": "Monde / géopolitique",
+   "stories": [
+    {
+     "source": "Reuters",
+     "lang": "en",
+     "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQSDY2SG1Ba0Z5TTRwY0IzMHBTTEpSTDZiaFRmNkY2SzVwRjV0TkF1TWFMUl9uZVF3RjhmcTFrQ2NDdVl3eDRQYnROaTV2bnliMHplaXJHVjZsNGJ3MGVZY0dSbjgwcjg3bm9HcXR5WmpDZXo0UDZrMlJJWWIzdjhHNDI4ZVQ1WW9LM1VmQmMwZVVKaWxHTVNiRF9vWkROUnR5a09uZ3ZiZlRnd3lUaWJSRA?oc=5",
+     "headline": "Macron says he discussed Ukraine-Russia energy truce ideas with Trump",
+     "headlineEn": "Macron déclare avoir discuté avec Trump d'idées de trêve énergétique entre l'Ukraine et la Russie",
+     "summary": "French President Emmanuel Macron met with US President Donald Trump in New York on the sidelines of the UN General Assembly to discuss measures to stabilize global energy markets. During their thirty-minute meeting at Trump Tower, Macron outlined proposals for a mutual moratorium on strikes targeting energy infrastructure between Ukraine and Russia. The initiative aims to curb rising oil prices and prevent further destruction of critical civilian facilities as winter approaches. Macron characterized the talks as highly constructive, emphasizing the importance of keeping Washington engaged alongside European partners in supporting Kyiv and pursuing pragmatic diplomatic avenues.",
+     "why": "Un moratoire sur les frappes énergétiques pourrait apaiser la flambée des cours du pétrole et préserver le réseau ukrainien.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    },
+    {
+     "source": "France 24",
+     "lang": "fr",
+     "url": "https://www.france24.com/fr/europe/20260921-groenland-danemark-etats-unis-signeront-mardi-accord-sur-territoire-arctique-assemblee-generale-onu-new-york-securite-donald-trump-mette-frederiksen-atlantique-nord",
+     "headline": "Le Groenland, le Danemark et les États-Unis signeront mardi l'accord sur ce territoire arctique",
+     "headlineEn": "Greenland, Denmark and the United States to sign Arctic territory agreement on Tuesday",
+     "summary": "En marge de l'Assemblée générale des Nations unies à New York, le Danemark, le Groenland et les États-Unis vont officialiser un accord stratégique majeur concernant le territoire arctique. Annoncé par la Première ministre danoise Mette Frederiksen, ce pacte vise à renforcer la sécurité et la coopération militaire dans l'Atlantique Nord tout en réaffirmant la souveraineté formelle de Copenhague. Ce rapprochement intervient alors que Washington cherche à accroître sa présence dans la région polaire face aux ambitions géopolitiques concurrentes de la Russie et de la Chine. Les dirigeants groenlandais saluent quant à eux des garanties d'investissements et de développement économique local.",
+     "why": "Cet accord consolide l'empreinte militaire américaine en Arctique dans un contexte de vive rivalité stratégique.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    },
+    {
+     "source": "Reuters",
+     "lang": "en",
+     "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNaDh2WVhONlJWYk5HNlhKS1VNZEp5WDl5ck1KVWwzbm5XNmdMSkdHdGtvJnFGRGhIcmpIVzE1Umw2ay1EQl8zdXA2WDZjWnVQZFAwUVJHQ0REMzEyaE93dHZYVnB2VmhMbnhCT1lKVkRBNThWU2dRVFljT0x5dWxUZVNETTJGQ09EbHIwSG5mOGxVQm5YX3c?oc=5",
+     "headline": "EU and Philippines reach 'substantial agreement' on free-trade deal",
+     "headlineEn": "L'UE et les Philippines parviennent à un \"accord substantiel\" sur un traité de libre-échange",
+     "summary": "The European Union and the Philippines have announced a substantial agreement on a bilateral free-trade deal following intensive negotiations in Brussels. The landmark accord is designed to eliminate tariff barriers, facilitate reciprocal investments, and secure European supply chains for crucial raw materials and technology components. For Brussels, the treaty represents a major step in diversifying trade partnerships across Southeast Asia amid growing geopolitical tensions and protectionist trends. Philippine officials highlighted that the agreement will boost agricultural and manufacturing exports to the European market while encouraging sustainable economic development across the archipelago nation.",
+     "why": "L'accord permet à l'Union européenne de diversifier ses approvisionnements stratégiques en Asie du Sud-Est.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    }
+   ]
+  },
+  {
+   "name": "International — hors Europe",
+   "stories": [
+    {
+     "source": "Al Jazeera",
+     "lang": "en",
+     "url": "https://www.aljazeera.com/news/2026/9/22/us-strikes-on-alleged-drug-boats-may-be-crimes-against-humanity-un-says?traffic_source=rss",
+     "headline": "US strikes on alleged drug boats may be ‘crimes against humanity’, UN says",
+     "headlineEn": "Les frappes américaines contre des navires présumés de trafiquants pourraient constituer des crimes contre l'humanité, selon l'ONU",
+     "summary": "A United Nations human rights expert has issued a scathing report condemning lethal US military strikes against suspected drug smuggling vessels in international waters. According to the investigation, American forces have killed at least 223 people across 68 separate maritime attacks in the Caribbean and Pacific Oceans over the past year. The report emphasizes that these unilateral military operations cannot be justified under international law as acts of self-defense and may constitute crimes against humanity. Human rights organizations are calling for an immediate cessation of the campaign and an independent international inquiry into the casualties and operational command.",
+     "why": "Les attaques léthales américaines contre des navires en haute mer suscitent une vive condamnation juridique internationale.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    },
+    {
+     "source": "BBC",
+     "lang": "en",
+     "url": "https://www.bbc.co.uk/news/articles/cw4gm7l742dmo?at_medium=RSS&at_campaign=rss",
+     "headline": "Yemenis flee across Red Sea as Houthis and Saudi-backed forces escalate war",
+     "headlineEn": "Les Yéménites fuient à travers la mer Rouge alors que les Houthis et les forces soutenues par la Saudie intensifient la guerre",
+     "summary": "A dangerous surge in military hostilities between Houthi rebels and Saudi-backed coalition forces has triggered a fresh humanitarian crisis along Yemen's western coast. Thousands of civilians are attempting perilous sea crossings aboard overcrowded fishing vessels to reach safety in neighboring Djibouti. Regional observers report heavy aerial bombardments and ground skirmishes near strategic ports following the Houthi movement's territorial advances around the Bab al-Mandab strait. Aid agencies warn that refugee transit centers in East Africa are rapidly becoming overwhelmed by the influx of traumatized families escaping the widening regional conflict and severe shortages of food, clean water, and medicine.",
+     "why": "L'escalade des combats au Yémen provoque une crise humanitaire transfrontalière directe vers la Corne de l'Afrique.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    },
+    {
+     "source": "Euronews",
+     "lang": "en",
+     "url": "https://www.euronews.com/2026/09/21/former-enemies-form-alliance-to-overthrow-ethiopias-abiy-ahmed",
+     "headline": "Former enemies form alliance to overthrow Ethiopia's Abiy Ahmed",
+     "headlineEn": "D'anciens ennemis forment une alliance pour renverser le Premier ministre éthiopien Abiy Ahmed",
+     "summary": "In a remarkable shift in East African geopolitics, major Ethiopian opposition and armed militia groups have established a unified coalition aimed at removing Prime Minister Abiy Ahmed from power. The new alliance brings together former adversaries, including the Tigray People's Liberation Front, Amhara's Fano fighters, and the Oromo Liberation Army. Representatives from the groups revealed they have quietly coordinated strategic and political operations for over a year to establish a transitional governing body. This coalition presents the most formidable challenge yet to Abiy's administration as internal conflict and economic instability continue to grip Africa's second most populous country.",
+     "why": "Cette alliance inédite entre milices rivales menace directement la stabilité du gouvernement central d'Addis-Abeba.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    },
+    {
+     "source": "Al Jazeera",
+     "lang": "en",
+     "url": "https://www.aljazeera.com/news/2026/9/22/brazil-election-lula-and-flavio-bolsonaro-tied-in-latest-polls?traffic_source=rss",
+     "headline": "Brazil election: Lula and Flavio Bolsonaro tied in latest polls",
+     "headlineEn": "Élection au Brésil : Lula et Flávio Bolsonaro à égalité dans les derniers sondages",
+     "summary": "New opinion polls in Brazil show President Luiz Inácio Lula da Silva deadlocked in a tight race with conservative opponent Flávio Bolsonaro ahead of the upcoming presidential election. Lula, seeking a fourth non-consecutive term in office, faces growing headwinds from economic volatility and persistent political polarization across South America's largest democracy. Flávio Bolsonaro, son of former president Jair Bolsonaro, has consolidated support among right-wing voters by focusing his campaign on public security, fiscal discipline, and anti-corruption measures. Political analysts predict a fiercely contested campaign that will largely depend on voter turnout in key industrial and agricultural states.",
+     "why": "L'égalité dans les sondages annonce un scrutin présidentiel extrêmement tendu et déterminant pour l'Amérique latine.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    },
+    {
+     "source": "Council on Foreign Relations",
+     "lang": "en",
+     "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1CRHhlS1UtTDktOU50N2QyQU5oMjdyOEM5X0QxTUkwQ1VGVGwtTi1RWHFuaGluWkdnd2M4UnVxQzlEbEw4Mk5wM3VqV2oySnZTcEtHWTl1VlIzQnpIMG90X0liVVdMS3JpanBtV0xjQzJXdXZjWUpjX19B?oc=5",
+     "headline": "Who Will Be the Next UN Secretary-General?",
+     "headlineEn": "Qui sera le prochain secrétaire général des Nations unies ?",
+     "summary": "As António Guterres prepares to conclude his second term, discussions at the United Nations General Assembly are intensifying over who will become the ninth Secretary-General. Diplomatic tradition and regional rotation rules suggest that the next leader should ideally come from Latin America or Eastern Europe, with growing calls from member states to elect the first woman to the position. However, severe geopolitical rivalries among permanent Security Council members pose significant hurdles to reaching a consensus candidate. The decision will define the future of global multilateralism at a moment when international treaties, peacekeeping missions, and global governance face unprecedented strain.",
+     "why": "Le choix du successeur d'António Guterres déterminera la capacité de l'ONU à maintenir le multilatéralisme.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    }
+   ]
+  },
+  {
+   "name": "Europe & politiques de l'UE",
+   "stories": [
+    {
+     "source": "France 24",
+     "lang": "fr",
+     "url": "https://www.france24.com/fr/europe/20260922-pas-accord-principe-sur-levee-sanctions-union-europeenne-contre-deux-oligarques-russes-discussions-continuer-ousmanov-fridman",
+     "headline": "Pas d'accord sur la levée des sanctions UE contre deux oligarques russes, les discussions continuent",
+     "headlineEn": "No agreement on lifting EU sanctions against two Russian oligarchs, discussions continue",
+     "summary": "Les Vingt-Sept ne se sont pas entendus lundi sur un accord de principe prévoyant la levée des sanctions européennes contre les deux oligarques russes Alicher Ousmanov et Mikhaïl Fridman. Alors que certains États membres plaidaient pour un assouplissement ciblé, la cheffe de la diplomatie européenne, Kaja Kallas, continue d'insister fermement sur le maintien d'une politique de sanctions rigoureuse à l'encontre de Moscou et de ses soutiens financiers. Les négociations diplomatiques doivent se poursuivre ce mardi matin afin de tenter de trouver un compromis et de clarifier la position officielle du bloc communautaire sur ces dossiers individuels particulièrement sensibles.",
+     "why": "Cela illustre les tensions internes au sein des Vingt-Sept sur le maintien des pressions financières contre l'entourage du Kremlin.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    },
+    {
+     "source": "Reuters",
+     "lang": "en",
+     "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNaDh2WVhONlJWYk5HNlhKS1VNZEp5WDl5ck1KVWwzbm5XNmdMSkdHdGtvJnFGRGhIcmpIVzE1Umw2ay1EQl8zdXA2WDZjWnVQZFAwUVJHQ0REMzEyaE93dHZYVnB2VmhMbnhCT1lKVkRBNThWU2dRVFljT0x5dWxUZVNETTJGQ09EbHIwSG5mOGxVQm5YX3c?oc=5",
+     "headline": "EU and Philippines reach 'substantial agreement' on free-trade deal",
+     "headlineEn": "L'UE et les Philippines parviennent à un « accord substantiel » sur un traité de libre-échange",
+     "summary": "The European Union and the Philippines have reached a substantial agreement on a comprehensive bilateral free-trade deal, marking a major milestone in strengthening economic ties between Brussels and Southeast Asia. The ambitious accord aims to significantly lower tariff barriers, boost mutual trade in goods and services, and secure supply chains for crucial raw materials. Negotiators from both sides finalised key terms after months of intense technical discussions in Manila and Brussels, paving the way for formal legal scrubbing and future ratification by all EU member states as well as the Philippine parliament.",
+     "why": "Cet accord commercial stratégique permet à l'Union européenne d'approfondir son ancrage économique et de sécuriser ses approvisionnements en Asie du Sud-Est.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    },
+    {
+     "source": "France 24",
+     "lang": "fr",
+     "url": "https://www.france24.com/fr/europe/20260921-groenland-danemark-etats-unis-signeront-mardi-accord-sur-territoire-arctique-assemblee-generale-onu-new-york-securite-donald-trump-mette-frederiksen-atlantique-nord",
+     "headline": "Le Groenland, le Danemark et les États-Unis signeront mardi l'accord sur ce territoire arctique",
+     "headlineEn": "Greenland, Denmark and the US to sign agreement on Arctic territory on Tuesday",
+     "summary": "La Première ministre danoise Mette Frederiksen a officiellement annoncé la signature ce mardi à New York d'un accord tripartite majeur concernant le Groenland, en marge de l'Assemblée générale des Nations unies. Cet accord stratégique vise à renforcer significativement la sécurité et la surveillance dans la région arctique, tout en réaffirmant de manière explicite la souveraineté de Copenhague sur ce territoire autonome. Le document formel sera paraphé conjointement par le Premier ministre groenlandais, sa consœur danoise et le président américain Donald Trump, scellant ainsi une coopération militaire et géopolitique grandissante dans l'Atlantique Nord face aux nouvelles tensions mondiales.",
+     "why": "Ce partenariat consolide la présence stratégique occidentale et la sécurité dans une zone arctique de plus en plus convoitée.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    }
+   ]
+  },
+  {
+   "name": "Économie & marchés",
+   "stories": [
+    {
+     "source": "RTL.lu",
+     "lang": "fr",
+     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPTHlxU09aR2VpMUJ6RGhmWTB0OTJRRThYeHc1RjNqVDJmbmJ0UlRQd2llS3habVgxY3M4ZFpoemtvbkVNZTBJemJDaGZDOG1CWUUyTHdLcUNHT3Vmb2xxbUtYNDlPT2RtZ0NRTkxORzZsbE9YYjVvZXo0MEV1UGVFRXcyNlU4V3VadnQ3bmZRS1loUTBkOFFVcm5DZktVN1daSkE?oc=5",
+     "headline": "D'après le Financial Times: La BIL serait à vendre pour 2,5 milliards de dollars",
+     "headlineEn": "According to the Financial Times: BIL reportedly for sale for $2.5 billion",
+     "summary": "Selon des informations récemment révélées par le Financial Times, la Banque Internationale à Luxembourg (BIL) serait désormais mise en vente par son actionnaire de contrôle chinois Legend Holdings. La transaction financière potentielle valoriserait l'établissement bancaire luxembourgeois à environ 2,5 milliards de dollars. Le groupe chinois Legend Holdings, qui avait fait l'acquisition de la BIL en 2018, chercherait aujourd'hui à se désengager progressivement de plusieurs de ses actifs stratégiques européens. Cette annonce suscite une très vive attention au Grand-Duché, la BIL figurant parmi les plus anciennes, importantes et emblématiques institutions financières opérant sur la place bancaire luxembourgeoise.",
+     "why": "Le changement d'actionnaire majeur de la BIL est un enjeu stratégique direct pour la place financière et l'économie luxembourgeoise.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    },
+    {
+     "source": "France 24",
+     "lang": "fr",
+     "url": "https://www.france24.com/fr/%C3%A9missions/les-cl%C3%A9s-de-l-info/20260921-carburants-pourquoi-paie-t-on-si-cher-en-france",
+     "headline": "Carburants : pourquoi paie-t-on si cher en France ?",
+     "headlineEn": "Fuel: why are prices so high in France?",
+     "summary": "Les prix des carburants à la pompe enregistrent une vive remontée en France, le gazole franchissant désormais la barre symbolique des 2,40 euros le litre en moyenne sur l'ensemble du territoire national. Cette envolée particulièrement coûteuse s'explique par la combinaison de fortes tensions géopolitiques mondiales pesant sur les cours du pétrole brut et d'une très lourde fiscalité appliquée par l'État. Entre les taxes fixes prélevées au litre et la TVA appliquée sur le total, les contributions publiques représentent la majeure partie de la facture finale payée par les automobilistes, ravivant les débats intenses sur de possibles baisses fiscales compensatoires.",
+     "why": "L'explosion du coût des carburants pèse directement sur le pouvoir d'achat des ménages et sur l'inflation globale.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    },
+    {
+     "source": "FT",
+     "lang": "en",
+     "url": "https://www.ft.com/content/d773c1d5-b515-48d7-9713-14c253972e3a?syn-25a6b1a6=1",
+     "headline": "Deutsche Bank’s asset manager explores curbs on German property funds",
+     "headlineEn": "Le gestionnaire d'actifs de Deutsche Bank envisage des restrictions sur ses fonds immobiliers allemands",
+     "summary": "DWS, the major asset management branch of Deutsche Bank, is currently considering emergency measures to temporarily restrict redemptions from its open-ended German real estate funds. The potential decision comes as retail investors continuously accelerate cash withdrawals amid prolonged weakness in the commercial property market and elevated interest rates. Financial analysts warn that these large-scale capital outflows are severely straining fund liquidity, forcing portfolio managers to write down asset values or postpone investor payouts. The situation underscores broader structural vulnerabilities affecting European retail property funds as valuations adjust to tighter monetary policies enforced across the entire continent.",
+     "why": "Ces difficultés reflètent la crise prolongée de l'immobilier commercial européen et le risque de contagion financière lié aux retraits massifs.",
+     "paywalled": true,
+     "contested": "",
+     "chart": null
+    }
+   ]
+  },
+  {
+   "name": "Technologie & sciences",
+   "stories": [
+    {
+     "source": "AFP",
+     "lang": "fr",
+     "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPVTRSaVNDYUFaNjVMbWF3ZXR4dzMxVlpLdUVUUlc0eGsyMWRiWUdvemlKSlJNOWRkazRiWGRHRk9yN09pMjhHQ2ZyNTJrRWh5cXJYQTd4bF9XT09kR1RndGZUSXhLZnZCbGY0Tk5MdWx5azlsWGR6N1FTaWJQZ3UyMDEweUdrSHVMZ001MTB1SjR3MUlERVBRamFlN3JjVEJnRy1EX1ZHeFZhSms5MW1xOA?oc=5",
+     "headline": "Géolocalisation: Google mis à l'amende dans l'UE, huit ans après les plaintes de consommateurs",
+     "headlineEn": "Geolocation: Google fined in the EU, eight years after consumer complaints",
+     "summary": "Les autorités européennes de protection des données ont infligé une amende financière d'envergure à Google en raison de ses pratiques contestées de suivi de géolocalisation. Cette procédure au long cours découle de plaintes initialement déposées il y a huit ans par plusieurs associations de consommateurs, qui dénonçaient des méthodes de collecte jugées trompeuses et contraires aux droits fondamentaux des usagers. L'enquête approfondie a formellement conclu que le géant technologique américain continuait de collecter et stocker les données de localisation géographique des individus, même lorsque les options de suivi étaient désactivées sur leurs appareils, violant sciemment le cadre réglementaire européen.",
+     "why": "Cette condamnation souligne la sévérité accrue des régulateurs européens face aux pratiques de collecte de données des géants de la Tech.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    },
+    {
+     "source": "Al Jazeera",
+     "lang": "en",
+     "url": "https://www.aljazeera.com/news/2026/9/22/canadas-bc-sues-openai-over-chatgpt-role-in-tumbler-ridge-school-shooting?traffic_source=rss",
+     "headline": "Canada’s BC sues OpenAI over ChatGPT role in Tumbler Ridge school shooting",
+     "headlineEn": "La Colombie-Britannique poursuit OpenAI en raison du rôle de ChatGPT dans la fusillade de Tumbler Ridge",
+     "summary": "The Canadian province of British Columbia has launched a major lawsuit in California against artificial intelligence developer OpenAI, accusing the firm of failing to notify law enforcement about explicit threats shared on its ChatGPT platform before the deadly Tumbler Ridge school shooting. The legal complaint asserts that the conversational AI model directly interacted with the shooter regarding violent intentions without triggering mandatory automated alerts or emergency safety protocols. Government authorities in British Columbia are now demanding thorough algorithmic overhauls and monetary damages, establishing an important legal precedent concerning the corporate accountability of tech firms in preventing real-world violence.",
+     "why": "Cette action en justice pose la question inédite de la responsabilité juridique et morale des développeurs d'IA face aux actes criminels commis par leurs utilisateurs.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    },
+    {
+     "source": "Reuters",
+     "lang": "en",
+     "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPbkc3QkdhUTNkWkF6ZkdzN3NBYUkyeDBpRGRTZjU2a2g3OTJTZ3JMV28tWFc3VDNmNmlYazdmM0Y2V3Y5aEJzQ0xOLTd2OENXS2dEaWhjJnRZX3Qtb0lLUk4yVGRVaXVVeEVSZWYxelNkcTVObW1WdURwb0ZPWFFleUJBY2d2dlI1QnFrNmYydW1fQm5tcXFQdDJ3b0JudllCdUhQdktkb3ZUYXl0bnNjUjd1d2V5Mmc?oc=5",
+     "headline": "Torrential rains brought by Japan typhoon kill two, NHK says",
+     "headlineEn": "Les pluies torrentielles du typhon au Japon font deux morts, selon la NHK",
+     "summary": "Typhoon Dujuan has severely battered large swathes of Japan with torrential rainfall and destructive winds, causing at least two fatalities in the greater Tokyo metropolitan area and widespread logistical disruptions. Over 1.6 million local residents were formally advised to evacuate their homes as swollen rivers overflowed and coastal roadways became submerged under rising water. The extreme weather forced commercial airlines to ground hundreds of domestic and international flights, while high-speed bullet train services were temporarily halted across central Japan. Meteorological officials issued urgent warnings regarding ongoing risks of deadly landslides and flash flooding as the storm tracked eastern coasts.",
+     "why": "Les phénomènes météorologiques extrêmes répétés en Asie mettent à rude épreuve les infrastructures de transport et les réseaux de prévention des catastrophes.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    }
+   ]
+  },
+  {
+   "name": "Sport",
+   "stories": [
+    {
+     "source": "BBC",
+     "lang": "en",
+     "url": "https://www.bbc.co.uk/sport/football/articles/c3qjkpgengn7o?at_medium=RSS&at_campaign=rss",
+     "headline": "Xhaka under investigation over Covid-19 certificate",
+     "headlineEn": "Granit Xhaka visé par une enquête concernant un certificat de vaccination Covid-19",
+     "summary": "Switzerland captain Granit Xhaka is under investigation by authorities over potential irregularities surrounding his Covid-19 vaccination certificate. Officials are examining the validity of documentation provided during previous health requirements. The midfielder's legal team has denied any wrongdoing, stating that the player complied fully with all relevant regulations at the time. Further administrative checks are ongoing to determine whether any formal charges will be brought against the footballer.",
+     "why": "Cette procédure judiciaire pourrait affecter le capitaine de la sélection suisse à l'approche de ses prochaines échéances sportives internationales.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    },
+    {
+     "source": "France 24",
+     "lang": "fr",
+     "url": "https://www.france24.com/fr/vid%C3%A9o/20260921-voile-grande-premi%C3%A8re-pour-l%C3%A9onard-legrand-%C3%A0-la-route-du-rhum",
+     "headline": "Voile : grande première pour Léonard Legrand à la Route du Rhum",
+     "headlineEn": "Sailing: major debut for Léonard Legrand in the Route du Rhum",
+     "summary": "Le navigateur Léonard Legrand prendra le départ de sa première Route du Rhum le 1er novembre prochain au départ de Saint-Malo. À la barre du multicoque Sodebo Fifty, le marin a franchi toutes les étapes au sein de l'écurie de course au large après avoir débuté comme alternant en électronique. Il concrétise ainsi son rêve d'affronter l'Atlantique en solitaire aux côtés des plus grands skippers de la discipline.",
+     "why": "Ce parcours remarquable illustre la promotion interne et la formation d'une nouvelle génération de marins au plus haut niveau de la course au large.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    }
+   ]
+  }
+ ],
+ "sourced": true,
+ "feeds": {
+  "ok": 29,
+  "of": 29,
+  "items": 267,
+  "skipped": []
+ },
+ "words": 4403,
+ "readMin": 22,
+ "storyCount": 25
+}
