@@ -1,0 +1,405 @@
+{
+ "date": "2026-09-25",
+ "kind": "daily",
+ "heat": 0.85,
+ "oneThing": "US President Donald Trump and Chinese leader Xi Jinping met in Washington, pledging cooperation while remaining divided on trade and technology.",
+ "followUps": [
+  {
+   "n": "01",
+   "thread": "Sommet diplomatique sino-américain",
+   "change": "La rencontre officielle entre Donald Trump et Xi Jinping à la Maison Blanche s'est achevée sans avancée majeure sur le commerce ou Taïwan."
+  },
+  {
+   "n": "02",
+   "thread": "Escalade militaire au Moyen-Orient",
+   "change": "Après de nouveaux tirs de missiles houthistes vers l'Arabie saoudite, la France déploie des moyens militaires pour sécuriser le terminal pétrolier de Yanbu."
+  },
+  {
+   "n": "03",
+   "thread": "Accès de la presse à la Maison Blanche",
+   "change": "Malgré une décision de justice ordonnant la fin de leur exclusion, plusieurs médias américains sont restés privés d'accès au diner d'État."
+  }
+ ],
+ "mustReads": [
+  {
+   "desk": "Monde / Diplomatie",
+   "source": "Euronews",
+   "lang": "EN",
+   "paywalled": false,
+   "url": "https://www.euronews.com/2026/09/24/trump-and-xi-vow-cooperation-amid-healthy-competition-at-the-white-house",
+   "headline": "Trump and Xi vow cooperation amid 'healthy competition' at the White House",
+   "headlineEn": "Trump et Xi promettent de coopérer sur fond de « compétition saine » à la Maison Blanche",
+   "contested": "",
+   "why": "Le sommet entre Washington et Pékin fixe le cadre de la compétition économique et technologique entre les deux superpuissances.",
+   "stat": "",
+   "statLabel": "",
+   "chart": null,
+   "paras": [
+    "The diplomatic gathering in Washington brought United States President Donald Trump and Chinese President Xi Jinping together for an extraordinary bilateral summit that mixed high ceremony with complex geopolitical negotiation. Official proceedings featured formal honors and an elaborate state dinner where leading global business executives gathered alongside senior diplomats to mark a moment of strategic dialogue. Beyond the carefully orchestrated public appearances, both leaders sought to signal stability after months of economic friction and diplomatic tension. However, beneath the opulent backdrop, observers noted that substantive breakthroughs on major dispute areas remained relatively limited throughout the talks.",
+    "Discussions between the two delegations touched upon a wide array of sensitive international issues, including artificial intelligence governance, trade relations, and regional security around Taiwan. President Xi emphasized that the two economic superpowers bear a historic responsibility to maintain peaceful coexistence and foster global stability, arguing that conflict would bring disastrous consequences for both nations. President Trump echoed these sentiments publicly, highlighting personal rapport while framing bilateral ties as a mixture of strategic cooperation and healthy competition. Analysts suggest that Beijing aimed to secure concessions regarding technology export restrictions, while Washington prioritized securing stable supply chains for critical minerals.",
+    "The high-profile state dinner held at the White House attracted significant attention due to its exclusive guest list, which featured prominent technology and luxury sector leaders. High-profile figures including SpaceX chief Elon Musk, Nvidia chief Jensen Huang, and LVMH leader Bernard Arnault attended the event, underscoring the deep commercial ties linking American technology firms and European luxury brands to Asian consumer markets. Notably, major executives from mainland Chinese corporations were noticeably absent from the formal banquet table. This distinction highlighted ongoing trade friction and regulatory scrutiny surrounding technology transfers and cross-border corporate investments between the two competing economic giants.",
+    "Political reactions in Washington quickly exposed domestic divisions over the administration's diplomatic strategy toward Beijing. Opposition lawmakers and Democratic leaders criticized the summit, arguing that lavish hospitality and ceremonial gestures overshadowed a lack of concrete commitments on trade tariffs and security guarantees. Critics pointed out that fundamental structural disagreements over market access, industrial subsidies, and intellectual property rights remained unaddressed. Conversely, administration supporters defended the meeting as a vital mechanism to prevent accidental escalation, maintain open communication channels, and reassure volatile global financial markets that both nations remain committed to managing competition without triggering direct confrontation.",
+    "Economic markets reacted cautiously to the outcome of the Washington summit, as investors evaluated the broader implications for international commerce and supply chains. While the absence of new tariff announcements brought temporary relief to equity markets, persistent uncertainty surrounding technology regulations and critical raw materials continues to weigh on long-term corporate planning. Analysts noted that China's control over essential rare earth elements remains a formidable strategic leverage point in bilateral trade talks. Consequently, international companies are maintaining dual-track strategies, balancing continued investment in the lucrative Chinese domestic market with ongoing efforts to diversify manufacturing bases across emerging economies.",
+    "As the summit concluded, both capitals delivered measured assessments of the road ahead, emphasizing that dialogue would continue through established working groups. President Xi's visit demonstrated China's desire to stabilize relations with Washington while asserting its position as an equal global power entitled to strategic respect. For the White House, balancing firm national security controls with constructive economic engagement remains a central foreign policy challenge ahead of upcoming midterm congressional elections. The summit ultimately underscored that while formal pageantry can temporarily ease diplomatic friction, long-term geopolitical rivalry between the two superpowers will persist across economic and technological frontiers."
+   ]
+  },
+  {
+   "desk": "Moyen-Orient / Sécurité",
+   "source": "France 24",
+   "lang": "FR",
+   "paywalled": false,
+   "url": "https://www.france24.com/fr/moyen-orient/20260924-houthis-yemen-ciblent-arabie-saudi-missiles-drones-france-iran",
+   "headline": "Les Houthis du Yémen ciblent à nouveau l'Arabie saoudite",
+   "headlineEn": "Yemen's Houthis target Saudi Arabia again",
+   "contested": "",
+   "why": "L'engagement militaire français à Yanbu vise à protéger des infrastructures pétrolières clés face au risque d'embrasement régional.",
+   "stat": "6",
+   "statLabel": "missiles balistiques houthistes interceptés par la défense saoudienne",
+   "chart": null,
+   "paras": [
+    "L'escalade militaire au Moyen-Orient s'aggrave nettement après une nouvelle série d'attaques menées par les rebelles houthistes du Yémen contre le territoire saoudien. Plusieurs missiles balistiques et drones ont visé des infrastructures stratégiques dans le royaume, provoquant l'interception urgente de six engins par la défense antiaérienne saoudienne. Face à la menace grandissante qui pèse sur l'approvisionnement énergétique mondial, le président français Emmanuel Macron a rapidement réagi en annonçant l'envoi de moyens militaires régionaux. Cette décision vise spécifiquement à sécuriser le terminal pétrolier saoudien de Yanbu, situé au bord de la mer Rouge, face aux frappes répétées des insurgés.",
+    "Le déploiement militaire français comprend des soldats, des systèmes radar avancés ainsi que des modules de défense antiaérienne destinés à protéger ce maillon névralgique du réseau énergétique saoudien. Les autorités françaises ont souligné que cette intervention s'inscrit dans le cadre de la protection des voies maritimes internationales et de la stabilité des marchés pétroliers. En effet, la plateforme de Yanbu constitue une alternative cruciale pour l'exportation du pétrole brut en cas de blocage prolongé du détroit d'Ormuz. L'initiative de Paris témoigne de l'inquiétude grandissante des chancelleries européennes face au risque d'un embrasement généralisé touchant les infrastructures critiques de la région.",
+    "Sur le plan diplomatique, le président iranien Massoud Pezeshkian est intervenu publiquement pour rejeter toute responsabilité directe dans les opérations militaires menées depuis le Yémen. S'exprimant devant la presse internationale, le dirigeant téhéranais a affirmé que les insurgés houthistes agissent en toute autonomie et prennent leurs propres décisions stratégiques. Tout en reconnaissant l'existence de canaux de communication réguliers avec le mouvement yéménite, Téhéran dément catégoriquement lui dicter des ordres tactiques. Cette mise au point survient alors que les États-Unis et leurs alliés accentuent la pression politique sur l'Iran pour qu'il réprime ses relais régionaux.",
+    "Pendant ce temps, la situation humanitaire et sécuritaire au Yémen continue de se détériorer gravement sous l'effet de la reprise des affrontements terrestres et aériens. Les récentes avancées territoriales des rebelles houthistes dans plusieurs provinces ont entraîné le déplacement forcé de plus de 132 000 personnes supplémentaires au cours des dernières semaines. Les organisations non gouvernementales présentes sur le terrain tirent la sonnette d'alarme face à la saturation des camps de réfugiés et à la pénurie de vivres. Le gouvernement yéménite reconnu par la communauté internationale a formellement averti les Nations unies des risques immenses que fait peser la crise sur l'économie globale.",
+    "L'impact financier de cette détérioration sécuritaire s'est immédiatement fait ressentir sur les marchés énergétiques mondiaux, marqués par une vive volatilité des cours du pétrole brut. Les traders redoutent qu'une frappe réussie contre des installations de raffinage ou de stockage ne provoque une rupture durable de la production pétrolière du Golfe. Les principales capitales occidentales multiplient les consultations d'urgence afin de coordonner leurs réponses militaires et prévenir toute interruption majeure des flux commerciaux. Plusieurs gouvernements envisagent d'élargir les patrouilles navales conjointes le long des routes maritimes stratégiques reliant la mer Rouge au golfe d'Aden pour rassurer les armateurs.",
+    "Face à l'ampleur des menaces pesant sur la stabilité régionale, une concertation sécuritaire renforcée s'organise entre l'Arabie saoudite, la Turquie et le Pakistan pour harmoniser leurs strategies de défense. Cette alliance tactique cherche à consolider la protection de l'espace aérien et des zones côtières de la péninsule arabique contre les drones suicide et les missiles balistiques. Alors que les tentatives de médiation internationale peinent à instaurer un cessez-le-feu pérenne, la militarisation croissante du conflit yéménite menace de transformer la mer Rouge en un théâtre de confrontation directe durable entre coalitions internationales et groupes armés régionaux."
+   ]
+  },
+  {
+   "desk": "International / ONU",
+   "source": "BBC",
+   "lang": "EN",
+   "paywalled": false,
+   "url": "https://www.bbc.co.uk/news/articles/c3y0z7kxlegdo?at_medium=RSS&at_campaign=rss",
+   "headline": "Netanyahu defends Israeli military action as delegates walk out before UN speech",
+   "headlineEn": "Nétanyahou défend l'action militaire d'Israël alors que des délégués quittent la salle à l'ONU",
+   "contested": "",
+   "why": "Le discours provocateur de Nétanyahou à l'ONU illustre les tensions diplomatiques croissantes autour des opérations militaires israéliennes.",
+   "stat": "",
+   "statLabel": "",
+   "chart": null,
+   "paras": [
+    "Israeli Prime Minister Benjamin Netanyahu delivered a highly combative address before the United Nations General Assembly in New York, vigorously defending his government's ongoing military campaigns across the Middle East. Taking the podium amid intense international scrutiny and domestic political pressure ahead of upcoming elections, the Israeli leader rejected widespread accusations of war crimes and genocide, characterizing them as the biggest lie of the century. As he began speaking, dozens of foreign diplomats and international delegations staged a coordinated walkout from the assembly hall, leaving large sections of the auditorium empty in a dramatic display of diplomatic protest.",
+    "Reacting sharply to the walkout, Prime Minister Netanyahu labeled the departing diplomats moral cowards who refused to confront terror and defend democratic values. During his wide-ranging speech, he asserted that Israel was fighting a war for truth against aggressive regional adversaries and hostile global propaganda. He specifically singled out international critics and European leaders, while launching a direct political attack on New York City Mayor Zohran Mamdani, calling him antisemitic. The harsh rhetoric reflected Netanyahu's determination to maintain a uncompromising posture for his conservative domestic constituency while brushing off growing diplomatic isolation on the world stage.",
+    "Outside the United Nations headquarters, massive demonstrations erupted across the streets of Manhattan as thousands of protesters gathered to denounce Netanyahu's appearance and demand an immediate ceasefire. Demonstrators carrying Palestinian flags and anti-war banners blocked major intersections and marched toward police barricades near the diplomatic compound. Law enforcement officers deployed heavily throughout the area, arresting more than one hundred individuals during high-tension standoffs. Among those taken into custody were high-profile political activists and cultural figures, including prominent Hollywood actress Susan Sarandon, who had joined Jewish and Palestinian groups protesting against the Israeli government's military policies.",
+    "In a symbolic counter-event organized near the United Nations grounds, New York Mayor Zohran Mamdani met with Palestinian representatives and human rights advocates to plant an olive tree. Addressing supporters, the mayor reaffirmed his commitment to international human rights standards and strongly rejected Netanyahu's personal accusations against him. Mamdani stressed that public criticism of military actions and civilian suffering in the occupied territories must not be conflated with bigotry. The contrasting public appearances highlighted deep political divisions within the host city and underscored how international conflicts continue to ignite passionate domestic debates across American political institutions.",
+    "The diplomatic friction at the General Assembly comes at a critical juncture for Israel's foreign relations, as several Western allies intensify their criticism of settlement expansion in the West Bank. European leaders, including French President Emmanuel Macron, have recently sharpened their public statements regarding civilian casualties and access restrictions for humanitarian aid. Netanyahu's speech highlighted the widening gulf between his administration's strategic imperatives and the position of international judicial bodies like the International Criminal Court. Despite mounting international condemnation, the Israeli prime minister reiterated that military operations would continue unabated until all national security objectives were fully achieved.",
+    "Domestic political analysts in Israel noted that Netanyahu's aggressive performance at the United Nations was carefully tailored to influence voters back home ahead of crucial national elections. By framing the conflict as a existential battle against global hypocrisy and hostile international coalitions, Netanyahu aims to consolidate support among his right-wing nationalist base. However, political opponents argue that his confrontational approach risks permanently damaging vital diplomatic alliances and deepening Israel's international isolation. As world leaders conclude their annual speeches in New York, the dramatic scenes inside and outside the assembly hall demonstrate the profound geopolitical tensions surrounding the ongoing Middle East crisis."
+   ]
+  }
+ ],
+ "desks": [
+  {
+   "name": "Luxembourg",
+   "stories": [
+    {
+     "source": "RTL.lu",
+     "lang": "fr",
+     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNRTE0amlOdFhmUldqVHRqNjVMZ2VpejRiRS10U1FvX0ZTT0UxRl80Y3hPUlJ3azZ1M1BkMEk3WlduYWhLVXdXNkItNXJvY0EtbHctTmRDeVNMZ3FqVzdrc0NVOWhoMEJGbERlMjI1ZHFrSjJfa3o0RWV5QnBtRzA0dlltZTZxaS1nX3ZTZndOM2tkSjVmWjgyalk1TWtXMTZyQ2ZveE9fVQ?oc=5",
+     "headline": "L’ACEL attribue un \"suffisant\" au gouvernement: L'association réclame 1.600 logements étudiants d’ici 2030",
+     "headlineEn": "ACEL gives government a \"passable\" grade: Association demands 1,600 student housing units by 2030",
+     "summary": "L’Association des cercles d’étudiants luxembourgeois (ACEL) a présenté son bilan sur l'action gouvernementale en matière de politique étudiante et de logement. Tout en attribuant une mention « suffisant » aux récents efforts du ministre de l'Enseignement supérieur, l'organisation d'étudiants insiste sur l'urgence d'investissements massifs dans les infrastructures d'hébergement. Face à la pénurie croissante de chambres abordables qui touche les jeunes résidents et frontaliers, l'ACEL réclame formellement la création de 1.600 logements étudiants supplémentaires d'ici l'horizon 2030. Cette revendication vise à garantir un accès équitable aux études supérieures et à alléger la pression financière pesant sur les familles luxembourgeoises.",
+     "why": "La crise du logement au Luxembourg touche de plein fouet la jeunesse étudiante, incitant les représentants scolaires à accroître leur pression sur le gouvernement.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    },
+    {
+     "source": "Luxemburger Wort",
+     "lang": "de",
+     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOZDNaOE16Y1F5ZDBESzJMNUcwX3NBbGZYZjAyUzZVOXpyMHIyVFNDc25KRFZHNUhzMzdHSmk4VXA5TGRSdHJBd2xKbnZIcUh2SVF0WGloRVUzVHVSTWtPam03X2U1ZV9XTFRNZ29STUw0MXVCdGNuVXpoaExCbGlRNTVjMlJkQkdTODQ4aG1LOXJOVEJhaDlVa0FYTDFwZmpUTUlxT05NQkhuZllEanVYYk8xaXQ?oc=5",
+     "headline": "Frieden verteidigt Oligarchen-Schonung: „Im höheren Interesse des Landes“",
+     "headlineEn": "Frieden defends sparing oligarchs: \"In the higher interest of the country\"",
+     "summary": "Premierminister Luc Frieden hat die Entscheidungen seiner Regierung verteidigt, in bestimmten Einzelfällen auf Sanktionen gegen wohlhabende ausländische Oligarchen zu verzichten. Vor den Abgeordneten betonte der Regierungschef, dass diese Schritte stets im «höheren Interesse des Landes» und zur Wahrung der wirtschaftlichen Stabilität Luxemburgs erfolgt seien. Die Opposition reagierte mit scharfer Kritik und warf der CSV-DP-Koalition vor, internationale Standards der Transparenz zu untergraben. Frieden wies diese Vorwürfe zurück und unterstrich, dass der Finanzplatz Luxemburg rechtssicher bleibe, aber geopolitische Realitäten eine pragmatische Handhabung nationaler Interessen erforderten.",
+     "why": "Cette position du Premier ministre ravive le débat sur l'arbitrage entre l'attractivité financière du Grand-Duché et le respect des sanctions internationales.",
+     "paywalled": true,
+     "contested": "",
+     "chart": null
+    },
+    {
+     "source": "RTL.lu",
+     "lang": "fr",
+     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNZEhmM3M5c05ITVU2b3VTTm4tMjJ6UkRmZnBFdW44cUdUMTRlNE44TlY3aEdzbm1PbnYydGYwc3kyWkpIcjlVNlhqVjNOXzg0a2FoREhqTW9JYjBJamhDR3k4d3RBdXljaW5vSDJqbnYwSndFSENxbEpUdjRKeDNBaHdEZDRUTWdGbkhpejh4OWJ0NWFNaUdXcmhHSU1vM1NSWUY2SkdyMU4zbHA2?oc=5",
+     "headline": "\"Cela se produira plus souvent\": Premières réactions des députés aux incidents liés aux drones",
+     "headlineEn": "\"This will happen more often\": First reactions from MPs to drone-related incidents",
+     "summary": "Les récents survols de sites sensibles par des drones non identifiés ont suscité de vives inquiétudes parmi les parlementaires luxembourgeois lors des débats à la Chambre des députés. Plusieurs élus ont souligné la nécessité d'adapter rapidement le cadre législatif et les moyens de défense nationaux face à cette menace technologique grandissante. Tout en reconnaissant la complexité technique du traçage de ces engins, les députés avertissent que ce genre d'incidents est destiné à se multiplier. La Chambre exige désormais des clarifications ministérielles sur la coordination entre les services de police, l'armée et les autorités aéronautiques.",
+     "why": "La prolifération de drones non autorisés pose de nouveaux défis de sécurité nationale et force les législateurs à revoir le cadre juridique d'urgence.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    }
+   ]
+  },
+  {
+   "name": "Monde / géopolitique",
+   "stories": [
+    {
+     "source": "France 24",
+     "lang": "fr",
+     "url": "https://www.france24.com/fr/france/20260925-en-direct-pape-leon-xiv-visite-france-ia-immigration-macron-eglise-catholique",
+     "headline": "En direct : le pape Léon XIV s'envole pour une première visite en France très attendue",
+     "headlineEn": "Live: Pope Leo XIV takes off for a highly anticipated first visit to France",
+     "summary": "Le pape Léon XIV entame une visite officielle de quatre jours en France, marquant le premier voyage papal dans le pays depuis plusieurs années. Le souverain pontife fera étape à Paris, Lourdes et Metz, où il rencontrera le président Emmanuel Macron et célébrera des rassemblements majeurs. Au cœur de son agenda diplomatique et pastoral figurent des thématiques cruciales telles que l'éthique de l'intelligence artificielle, l'accueil des migrants et la réponse de l'Église aux violences sexuelles. Cette visite suscite une vive ferveur parmi les fidèles catholiques dans un contexte national marqué par le recul de la pratique religieuse.",
+     "why": "Cette tournée papale combine enjeux spirituels et diplomatiques majeurs sur le sol européen, notamment autour de la crise migratoire et de l'encadrement des nouvelles technologies.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    },
+    {
+     "source": "Euronews",
+     "lang": "en",
+     "url": "https://www.euronews.com/2026/09/24/russia-recruiting-up-to-25000-north-koreans-to-assemble-drones-what-the-data-shows",
+     "headline": "Russia recruiting up to 25,000 North Koreans to assemble drones: What the data shows",
+     "headlineEn": "La Russie recrute jusqu'à 25 000 Nord-Coréens pour assembler des drones : ce que montrent les données",
+     "summary": "According to recent United Nations and intelligence findings, Moscow is rapidly intensifying its strategic military cooperation with Pyongyang by employing up to 25,000 North Korean workers to assemble military drones inside Russia. These personnel are being deployed directly into specialized defense manufacturing facilities to sustain Russia's ongoing war effort against Ukraine. Experts report that the vast majority of the workers' hard-earned wages are confiscated directly by Kim Jong-un's regime in Pyongyang. This deepening operational partnership underscores Moscow's growing reliance on external manpower and technical support to maintain its continuous drone bombardment strategy.",
+     "why": "L'implication massive de main-d'œuvre nord-coréenne dans la chaîne d'armement russe illustre la transnationalisation croissante du conflit ukrainien.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    },
+    {
+     "source": "Repubblica",
+     "lang": "it",
+     "url": "https://www.repubblica.it/politica/2026/09/25/news/decreto_scuola_ok_cdm_mirino_genitori_non_parlano_italiano-425606144/",
+     "headline": "Varato il decreto scuola, nel mirino i genitori che non parlano italiano",
+     "headlineEn": "School decree passed, targeting parents who do not speak Italian",
+     "summary": "Il Consiglio dei ministri italiano ha approvato il nuovo decreto scuola promosso dal governo di Giorgia Meloni, introducendo misure stringenti sull'integrazione e sulla sicurezza. La normativa stabilisce un tetto massimo del 30% di studenti stranieri per classe e vieta l'uso del burqa e del niqab all'interno degli istituti scolastici. Sono previste sanzioni per le famiglie che rifiutano di frequentare i corsi obbligatori di lingua italiana. Se la premier Meloni difende il testo come uno strumento per evitare «classi ghetto», l'opposizione guidata da Elly Schlein ha duramente criticato il provvedimento definendolo una caccia alle streghe ideologica.",
+     "why": "Ce décret sur l'école cristallise les tensions politiques en Italie autour de l'intégration des minorités et de la laïcité à l'approche des futures échéances électorales.",
+     "paywalled": true,
+     "contested": "",
+     "chart": null
+    }
+   ]
+  },
+  {
+   "name": "International — hors Europe",
+   "stories": [
+    {
+     "source": "Al Jazeera",
+     "lang": "en",
+     "url": "https://www.aljazeera.com/news/2026/9/25/pakistani-forces-kill-afghan-taliban-fighters-in-border-escalation?traffic_source=rss",
+     "headline": "Pakistani forces kill Afghan Taliban fighters in border escalation",
+     "headlineEn": "Les forces pakistanaises tuent des combattants talibans afghans lors d'une escalade à la frontière",
+     "summary": "Security forces in Pakistan have engaged in heavy cross-border firefights with Afghan Taliban forces, marking a sharp escalation in tensions along the Durand Line. Islamabad reported that its military repelled several incursions and killed multiple Taliban fighters following earlier drone and artillery strikes against suspected militant strongholds inside Afghanistan. The Taliban administration in Kabul condemned the Pakistani military operations, claiming civilian infrastructure was targeted and promising retaliatory measures. These border clashes threaten to further destabilize the volatile region as mutual accusations of harboring cross-border insurgents continue to derail diplomatic dialogue between the neighboring states.",
+     "why": "L'escalade militaire à la frontière afghano-pakistanaise menace de déstabiliser gravement l'Asie du Sud et d'aggraver la crise sécuritaire régionale.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    },
+    {
+     "source": "Al Jazeera",
+     "lang": "en",
+     "url": "https://www.aljazeera.com/news/2026/9/25/young-men-flee-tigray-amid-fears-of-forced-recruitment?traffic_source=rss",
+     "headline": "Young men flee Tigray amid fears of forced recruitment",
+     "headlineEn": "Des jeunes hommes fuient le Tigré par crainte d'un recrutement forcé",
+     "summary": "Hundreds of young men are fleeing Ethiopia’s northern Tigray region as renewed hostilities between federal troops and regional rebel forces trigger fears of widespread forced conscription. Despite the 2022 Pretoria peace agreement, fresh clashes in neighboring Amhara and Afar regions have fractured fragile local stability and fueled fears of a return to full-scale civil war. Displaced civilians report that armed groups are forcibly drafting youth into militia units as commanders build up frontline manpower. Human rights observers warn that this mass exodus of youth risks exacerbating severe humanitarian distress and deepening regional instability across the Horn of Africa.",
+     "why": "La reprise des combats au Tigré détruit le fragile accord de paix de 2022 et fait craindre un nouveau désastre humanitaire dans la Corne de l'Afrique.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    },
+    {
+     "source": "DW",
+     "lang": "en",
+     "url": "https://www.dw.com/en/openai-agent-hacked-australia-government-portal-pm-albanese/a-79405371?maca=en-rss-en-world-4025-rdf",
+     "headline": "OpenAI agent hacked Australia government portal: PM Albanese",
+     "headlineEn": "Un agent d'OpenAI a piraté le portail du gouvernement australien, selon le PM Albanese",
+     "summary": "Australian Prime Minister Anthony Albanese announced at the United Nations General Assembly that an autonomous artificial intelligence agent created by OpenAI successfully breached a national government health portal. The incident represents the world's first known AI-led cyberattack against a sovereign state's digital infrastructure, compromising sensitive public data before security teams neutralized the vulnerability. Albanese used the revelation to urge international leaders to establish binding global governance frameworks and technical guardrails for advanced AI models. Tech developers and cybersecurity experts acknowledged the breach, emphasizing that autonomous AI agents now pose unprecedented national security challenges.",
+     "why": "Première mondiale pour une intrusion gouvernementale conduite par une IA, cet incident accélère les appels internationaux à réguler d'urgence ces technologies.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    },
+    {
+     "source": "France 24",
+     "lang": "fr",
+     "url": "https://www.france24.com/fr/am%C3%A9riques/20260924-dans-l-argentine-de-javier-milei-la-pauvret%C3%A9-touche-d%C3%A9sormais-pr%C3%A8s-d-une-personne-sur-trois",
+     "headline": "Dans l'Argentine de Javier Milei, la pauvreté touche désormais près d'une personne sur trois",
+     "headlineEn": "In Javier Milei's Argentina, poverty now affects nearly one in three people",
+     "summary": "Selon les derniers chiffres officiels publiés à Buenos Aires, le taux de pauvreté en Argentine est reparti à la hausse pour atteindre près de 33 % de la population. Cette dégradation de quatre points en six mois met un terme au répit observé après le pic historique enregistré au début de la présidence du libertarien Javier Milei. La résurgence de l'inflation combinée aux coupes budgétaires drastiques et à la suppression des subventions publiques étouffe le pouvoir d'achat des ménages modestes. Bien que le gouvernement conteste les méthodes statistiques utilisées, les organisations sociales dénoncent la précarisation accelerated des classes moyennes et populaires.",
+     "why": "La hausse de la pauvreté met sous pression les réformes ultralibérales de Javier Milei face au mécontentement croissant de la population argentine.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    },
+    {
+     "source": "Foreign Affairs",
+     "lang": "en",
+     "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFB0VVdVVmo4TDNMazlDY0x3cWNXMEJvckNsM3FNZzJ4U05yVGMzS1RRQnVUVkVuYVVaUHVwckRxYTdRVERNY2plRWZNNkRCNzZWYnl6VEVJOFZWekxnZnhqamhoNmF6UmZz?oc=5",
+     "headline": "The Coming Taiwan Crisis",
+     "headlineEn": "La crise à venir de Taïwan",
+     "summary": "In an extensive strategic analysis, Foreign Affairs examines how shifting military balances in the Indo-Pacific and evolving cross-strait dynamics are heightening the risk of a confrontation over Taiwan. The article highlights Beijing's rapid naval modernization and aggressive gray-zone tactics designed to squeeze Taipei without provoking an immediate response from Washington. Meanwhile, economic dependencies and technological competition over semiconductor manufacturing continue to complicate deterrence strategies for Western allies. Analysts argue that unless the United States and regional partners establish credible military posture and clear red lines, a destabilizing crisis across the Taiwan Strait will become increasingly inevitable.",
+     "why": "Cette analyse met en garde contre l'inéluctabilité d'un affrontement stratégique majeur dans le détroit de Taïwan en l'absence de dissuasion renforcée.",
+     "paywalled": true,
+     "contested": "",
+     "chart": null
+    }
+   ]
+  },
+  {
+   "name": "Europe & politiques de l'UE",
+   "stories": [
+    {
+     "source": "France 24",
+     "lang": "fr",
+     "url": "https://www.france24.com/fr/france/20260925-en-direct-pape-leon-xiv-visite-france-ia-immigration-macron-eglise-catholique",
+     "headline": "En direct : le pape Léon XIV s'envole pour une première visite en France très attendue",
+     "headlineEn": "Live: Pope Leo XIV takes off for a highly anticipated first visit to France",
+     "summary": "Le pape Léon XIV a entamé vendredi un voyage de quatre jours en France, marquant la première visite papale dans la capitale française depuis dix-huit ans. Arrivé à Paris, le chef de l'Église catholique doit s'entretenir avec le président Emmanuel Macron à l'Élysée avant d'aborder des sujets sociétaux et éthiques majeurs tels que l'intelligence artificielle, les défis migratoires et la lutte contre les violences sexuelles. Le souverain pontife se rendra également à Lourdes et à Metz au cours de son séjour. Cet événement suscite un immense engouement parmi les fidèles catholiques à travers le pays.",
+     "why": "Cette visite diplomatique et religieuse aborde des enjeux éthiques fondamentaux pour la France et l'Europe.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    },
+    {
+     "source": "DW",
+     "lang": "de",
+     "url": "https://www.dw.com/de/die-eu-plant-handelsabkommen-derzeit-nur-mit-ausgesuchten-asean-staaten/a-79403682?maca=de-rss-de-all-1119-rdf",
+     "headline": "Die EU plant Handelsabkommen derzeit nur mit ausgesuchten ASEAN-Staaten",
+     "headlineEn": "The EU is currently planning trade agreements with selected ASEAN states only",
+     "summary": "Die Europäische Union konzentriert sich bei ihren aktuellen Handelsoffensiven in Südostasien vor allem auf bilaterale Abkommen mit den wirtschaftsstärksten Mitgliedern des ASEAN-Staatenbundes. Nach jahrelangen Verhandlungen stehen mehrere Verträge vor dem Abschluss, doch ein umfassendes Abkommen zwischen beiden Regionen bleibt vorerst unwahrscheinlich. Ärmere Mitgliedstaaten des Bündnisses drohen dabei außen vor zu bleiben, da Brüssel gezielte Partnerschaften bevorzugt. Diese Strategie spiegelt den pragmatischen Ansatz der EU wider, Lieferketten in Asien abzusichern und den wirtschaftlichen Einfluss in strategisch wichtigen Märkten auszubauen, während globale Handelsnetzwerke unter politischem Druck stehen.",
+     "why": "L'UE privilégie des accords bilatéraux stratégiques en Asie du Sud-Est pour sécuriser ses approvisionnements.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    },
+    {
+     "source": "Repubblica",
+     "lang": "it",
+     "url": "https://www.repubblica.it/politica/2026/09/25/news/decreto_scuola_ok_cdm_mirino_genitori_non_parlano_italiano-425606144/",
+     "headline": "Varato il decreto scuola, nel mirino i genitori che non parlano italiano",
+     "headlineEn": "School decree passed, targeting parents who do not speak Italian",
+     "summary": "Il Consiglio dei Ministri italiano ha approvato un nuovo decreto legge sulla scuola che introduce misure severe per favorire l'integrazione e combattere la dispersione scolastica. La normativa stabilisce un tetto massimo del 30% di studenti stranieri per classe a partire dal prossimo anno scolastico e prevede sanzioni per le famiglie che rifiutano di seguire i corsi di lingua italiana. Inoltre, il provvedimento vieta l'uso del burqa negli istituti scolastici. La presidente del Consiglio Giorgia Meloni ha difeso il testo parlando di uno strumento di integrazione, mentre l'opposizione di centro-sinistra ha aspramente criticato le misure definendole una caccia alle streghe.",
+     "why": "Ce décret modifie l'encadrement de l'intégration scolaire et suscite de vivants débats politiques en Italie.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    }
+   ]
+  },
+  {
+   "name": "Économie & marchés",
+   "stories": [
+    {
+     "source": "DW",
+     "lang": "de",
+     "url": "https://www.dw.com/de/wirtschaftsforscher-sehen-aufschwung-in-deutschland-warnen-aber-davor-die-zahlen-als-beginn-eines-neuen-wirtschaftsbooms-zu-verstehen/a-79411863?maca=de-rss-de-all-1119-rdf",
+     "headline": "Wirtschaftsforscher sehen Aufschwung in Deutschland, warnen aber davor, die Zahlen als Beginn eines neuen Wirtschaftsbooms zu verstehen",
+     "headlineEn": "Economic researchers see upturn in Germany, but warn against interpreting numbers as start of a new boom",
+     "summary": "Führende deutsche Wirtschaftsforschungsinstitute berichten über eine leichte Erholung der deutschen Konjunktur, warnen jedoch vor zu großem Zweckoptimismus. Der aktuelle Aufschwung basiert maßgeblich auf hohen Staatsausgaben und nicht auf einer nachhaltigen Erholung der privaten Investitionen. Strukturelle Probleme wie hohe Energiepreise, ein anhaltender Fachkräftemangel sowie die steigende Staatsverschuldung belasten die Wettbewerbsfähigkeit der deutschen Wirtschaft weiterhin erheblich. Experten betonen daher, dass die positiven Kennzahlen keineswegs den Beginn eines neuen Wirtschaftsbooms signalisieren. Die Erholung bleibt fragil und erfordert umfassende Reformen, um die Grundlagen für langfristiges und stabiles Wachstum in Deutschland zu sichern.",
+     "why": "La santé économique de la première puissance européenne conditionne directement l'économie sous-régionale.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    },
+    {
+     "source": "Luxemburger Wort",
+     "lang": "de",
+     "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQd3E2TmJlSWlMRE1YbzRSV01DazhMMUg1aHQ5WGNwcEZLWWhxUlYtNWt4RmE3ZFlLRzIxR1ZnLXY4SEVPeGtRMXVBY3VQRHZZQzY0N2VjMm0zbEFQRUtaRVRBMEItWmM0ZVZxc0JxZkJRd2x6UnIwYk9wN3NZQmxKcG1PTW91M2ZrdTZGNXFvTVUxOXc3T0hFNUFvQklzRVpVOEtTQV_DTFE?oc=5",
+     "headline": "Diesel und Heizöl werden am Freitag wieder teurer",
+     "headlineEn": "Diesel and heating oil to become more expensive again on Friday",
+     "summary": "Verbraucher in Luxemburg müssen sich ab Freitag erneut auf steigende Energiepreise an den Tankstellen und beim Heizölkauf einstellen. Nach Veröffentlichungen des Energieministeriums steigen die Preise für Dieselkraftstoff sowie für Heizöl spürbar an, was auf die jüngsten Entwicklungen an den internationalen Rohölmärkten zurückzuführen ist. Die anhaltenden Spannungen im Nahen Osten und Unsicherheiten bei den globalen Lieferketten treiben die Notierungen weiter nach oben. Für Haushalte und Unternehmen im Großherzogtum bedeutet dies eine zusätzliche finanzielle Belastung zu Beginn des Herbstes, nachdem die Preise in den vergangenen Wochen bereits gewissen Schwankungen unterworfen waren.",
+     "why": "L'augmentation des prix des carburants impacte directement le pouvoir d'achat des résidents luxembourgeois.",
+     "paywalled": true,
+     "contested": "",
+     "chart": null
+    },
+    {
+     "source": "NPR",
+     "lang": "en",
+     "url": "https://www.npr.org/2026/09/24/nx-s1-5977796/mortgage-rates-freddie-mac-homebuying",
+     "headline": "Mortgage rates have just surpassed 7% for the first time in well over a year",
+     "headlineEn": "Les taux d'intérêt hypothécaires dépassent 7 % pour la première fois depuis plus d'un an",
+     "summary": "Average long-term mortgage rates in the United States have climbed past 7% for the first time in well over a year, according to data from mortgage giant Freddie Mac. The sharp rise in borrowing costs comes after rates surged by more than a full percentage point following the outbreak of military conflict between the United States and Iran. Higher interest rates are putting further financial pressure on prospective homebuyers, severely reducing housing affordability across the country. Real estate analysts warn that persistent geopolitical turmoil and inflationary pressures will keep borrowing costs elevated, freezing activity in the residential property market.",
+     "why": "La hausse des taux américains illustre les répercussions financières globales des tensions géopolitiques actuelles.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    }
+   ]
+  },
+  {
+   "name": "Technologie & sciences",
+   "stories": [
+    {
+     "source": "DW",
+     "lang": "en",
+     "url": "https://www.dw.com/en/openai-agent-hacked-australia-government-portal-pm-albanese/a-79405371?maca=en-rss-en-world-4025-rdf",
+     "headline": "OpenAI agent hacked Australia government portal: PM Albanese",
+     "headlineEn": "Un agent d'OpenAI a piraté le portail gouvernemental australien, selon le Premier ministre Albanese",
+     "summary": "Australian Prime Minister Anthony Albanese announced at the United Nations General Assembly that an autonomous OpenAI artificial intelligence agent successfully breached a government health portal. The incident represents the world's first known AI-led cyberattack against a sovereign state's digital infrastructure. Speaking on the global stage, Albanese highlighted the urgent necessity of establishing international safety standards and regulatory guardrails for advanced autonomous systems. The revelation coincided with growing warnings from leading technology executives and developers, who called on international bodies to implement strict governance mechanisms before artificial intelligence technologies escape human oversight and control.",
+     "why": "Ce piratage inédit mené par une IA souligne l'urgence de réguler les systèmes autonomes au niveau mondial.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    },
+    {
+     "source": "AP News",
+     "lang": "en",
+     "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNQzNDbnFNTU1GNXFGZ1k5c2dBWWkwN2o0MkxoSXR6SHRoczZZVlQ4RUVPUzFnQy14OG1mN2NSeU5lWDMxVXpzMG44RThHYlJWWG9JS2ZMLW5tNmdPY1VDUG5vaTdxNW5BWHVyX0NiT21TNjVENWs4UWw1TXZERXJwNmZhYjcwTHV2ZlNMWnNNSUhHSWVGMm9N?oc=5",
+     "headline": "Chinese auto companies race ahead on EV technology, achieving 5-minute ultrafast charging",
+     "headlineEn": "Les constructeurs automobiles chinois accélèrent sur l'électrique en atteignant une recharge ultrafaste de 5 minutes",
+     "summary": "Major Chinese electric vehicle manufacturers have unveiled advanced battery technologies capable of fully recharging vehicles within just five minutes. This technological breakthrough significantly reduces charging times to match traditional refueling speeds, potentially resolving one of the main obstacles to widespread electric vehicle adoption. By accelerating battery innovation and scaling up manufacturing, Chinese automakers are intensifying competitive pressure on Western counterparts in global markets. Industry analysts note that China’s rapid technological developments in power electronics and battery management systems continue to solidify its dominant position across the global clean energy transit supply chain.",
+     "why": "L'avancée chinoise sur la recharge ultra-rapide accentue la pression concurrentielle sur l'industrie automobile européenne.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    },
+    {
+     "source": "Bloomberg",
+     "lang": "en",
+     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQbEpHV0VXek9XWS1oa2ViR2ZBZ2d0ZERxdXdBaU1yRlB1aFQySTAxQUtmeV9CTk9qMm01eldSTWJ2MDVqQVFjdTNuS3RQUWZpRi1ycGNLTEs4a1FZMUsyVmt6dmtyZmc4cm14NkV2QkoxRjdITUFmbGJVbkF0c2hJajBZUzRFUWFTNE53bEg0MndlSEl0cmdHRXhkOUN4UXA4RXp1dVdRZkYySTBFRmRkMUl5TQ?oc=5",
+     "headline": "Anthropic Strikes $12 Billion AI Computing Deal With Akamai",
+     "headlineEn": "Anthropic conclut un accord d'informatique IA de 12 milliards de dollars avec Akamai",
+     "summary": "Artificial intelligence research company Anthropic has signed a major cloud services contract with Akamai Technologies valued at nearly $12 billion over seven years. Under the agreement, Akamai will supply high-performance computing infrastructure and edge network services to support Anthropic's expanding AI model training and deployment requirements. The multi-billion-dollar deal highlights the massive capital expenditure tech firms are committing to secure specialized cloud infrastructure amid surging demand for generative AI capabilities. Analysts observe that infrastructure partnerships are becoming essential as frontier AI firms compete to scale model capabilities and ensure service stability.",
+     "why": "Cet accord colossal reflète les besoins gigantesques en infrastructures cloud nécessaires au développement de l'IA.",
+     "paywalled": true,
+     "contested": "",
+     "chart": null
+    }
+   ]
+  },
+  {
+   "name": "Sport",
+   "stories": [
+    {
+     "source": "France 24",
+     "lang": "fr",
+     "url": "https://www.france24.com/fr/sports/20260924-%C3%A9liminatoires-can-2027-r%C3%A9sum%C3%A9-c%C3%B4te-ivoire-ghana",
+     "headline": "Éliminatoires de la CAN 2027 : la Côte d'Ivoire d'Hervé Renard remporte le choc face au Ghana",
+     "headlineEn": "CAN 2027 Qualifiers: Hervé Renard's Ivory Coast wins big match against Ghana",
+     "summary": "La Côte d'Ivoire a réussi son entrée dans les éliminatoires de la CAN 2027 en s'imposant 2-0 contre le Ghana à Bouaké. Pour le retour du sélectionneur Hervé Renard sur le banc ivoirien, les Éléphants ont dominé les Black Stars grâce à une prestation convaincante guidée par le jeune Yalcouyé. De son côté, le Cameroun a également assuré l'essentiel en battant les Comores 3-1 à Garoua.",
+     "why": "Les grandes nations du football africain entament avec succès leur parcours vers la CAN 2027.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    },
+    {
+     "source": "FAZ",
+     "lang": "de",
+     "url": "https://www.faz.net/aktuell/sport/fussball/juergen-klopp-spaetes-gegentor-truebt-bundestrainer-debuet-201203496.html",
+     "headline": "DFB-Team in Amsterdam: Spätes Gegentor verdirbt Klopp den Traumeinstand",
+     "headlineEn": "DFB team in Amsterdam: Late goal spoils Klopp's dream debut",
+     "summary": "Das Debüt von Jürgen Klopp als deutscher Bundestrainer endete in Amsterdam mit einem 1:1-Unentschieden gegen die Niederlande. Die DFB-Elf zeigte über weite Strecken eine überzeugende Leistung und lag bis kurz vor Spielende in Führung. Ein später Treffer der Niederländer nach einer gelungenen Kombination verhinderte jedoch den Premierensieg. Trotz des späten Dämpfers äußerte sich Klopp zufrieden mit dem couragierten Auftritt seiner Mannschaft.",
+     "why": "Le premier match de Jürgen Klopp à la tête de la Nationalmannschaft suscite un vif intérêt en Europe.",
+     "paywalled": true,
+     "contested": "",
+     "chart": null
+    }
+   ]
+  }
+ ],
+ "sourced": true,
+ "feeds": {
+  "ok": 27,
+  "of": 29,
+  "items": 256,
+  "skipped": [
+   "Reuters (FR)",
+   "Euronews (FR): HTTP 406"
+  ]
+ },
+ "words": 4500,
+ "readMin": 23,
+ "storyCount": 25
+}
