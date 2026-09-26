@@ -1,0 +1,406 @@
+{
+ "date": "2026-09-26",
+ "kind": "daily",
+ "heat": 0.85,
+ "oneThing": "Iran has proposed a seven-day plan to reopen the Strait of Hormuz if the United States lifts its naval blockade.",
+ "followUps": [
+  {
+   "n": "01",
+   "thread": "Négociations autour du détroit d'Ormuz",
+   "change": "L'Iran a soumis un plan de sept jours pour rouvrir le détroit d'Ormuz en échange de la levée du blocus américain, suscitant un scepticisme marqué à Washington."
+  },
+  {
+   "n": "02",
+   "thread": "Relations diplomatiques sino-américaines",
+   "change": "La visite d'État du président chinois Xi Jinping aux États-Unis s'est achevée sur un ton courtois, sans toutefois déboucher sur des accords concrets sur le commerce."
+  },
+  {
+   "n": "03",
+   "thread": "Escalade militaire au Yémen et en Arabie saoudite",
+   "change": "Le Conseil de sécurité de l'ONU a condamné les nouvelles attaques de missiles et de drones houthistes neutralisées par la coalition saoudienne."
+  }
+ ],
+ "mustReads": [
+  {
+   "desk": "Europe",
+   "source": "AP News",
+   "lang": "EN",
+   "paywalled": false,
+   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQY0JDWkxQellXWFhSUEQ1QnBGOXkyQ1pHTkptZlAtYzhWbXZtMjJPSzRvRGd6MU01NF9MRE9Ya08wRmlPZEFzdW50TGJUMU9XQ0JBZGNxVVZQVnItaGNIQXVJMld0anFha1M2Z3paWFF0OXVpX1lYSWY5WTRaV1FlREp1T3I?oc=5",
+   "headline": "Pope warns a ‘paradise of machines’ could undermine humanity as he opens France trip",
+   "headlineEn": "Le pape met en garde contre un « paradis de machines » pouvant affaiblir l'humanité au début de son voyage en France",
+   "contested": "",
+   "why": "Le premier voyage du pape en France depuis 18 ans met en lumière les tensions éthiques autour de l'intelligence artificielle et de la laïcité.",
+   "stat": "",
+   "statLabel": "",
+   "chart": null,
+   "paras": [
+    "Pope Leo XIV commenced an official four-day visit to France, marking the first papal tour in the nation in nearly two decades. Addressing an audience at UNESCO headquarters in Paris, the pontiff raised urgent ethical questions regarding rapid technological acceleration, artificial intelligence, and global governance. He cautioned international representatives against creating a dystopian society dominated by algorithmic control, emphasizing that human dignity must remain central to progress. The Pope stressed that unchecked digital development risks eroding fundamental human values and social cohesion if ethical safeguards are omitted from innovation.",
+    "During his address, Pope Leo warned that humanity risks becoming trapped inside a sterile paradise of machines where automated systems replace genuine moral reasoning and interpersonal empathy. He urged world leaders, scientific researchers, and technology executives to evaluate artificial intelligence through a strictly humanistic lens rather than focusing purely on technical efficiency and commercial profitability. The pontiff argued that automated decisions cannot account for spiritual, moral, and emotional dimensions, which are essential for maintaining justice and peace in modern societies. He advocated for clear international regulations.",
+    "Beyond artificial intelligence, the papal address touched upon pressing global issues including bioethics, the nuclear arms race, and environmental degradation. Speaking in a country known for its strong tradition of secularism, Pope Leo argued that authentic secularity does not require the exclusion of religious viewpoints from public discourse. Instead, he asserted that religious faith and secular institutions can engage in productive dialogue to safeguard human rights and protect vulnerable populations. His speech challenged political leaders to defend human life at every stage against emerging political and technological pressures.",
+    "The journey brought thousands of young believers together, highlighted by a mass gathering at the Stade de France outside Paris. Approaching eighty thousand young people greeted the pontiff with enthusiasm as he arrived in his papamobile, creating an atmosphere comparable to a major stadium concert. In his homily, Pope Leo encouraged youth to remain steadfast in faith, describing spiritual devotion as a peaceful battle fought without weapons of violence, contempt, or oppression. The event demonstrated surprising vitality among Catholic youth networks in France despite broader national trends of declining religious practice.",
+    "The visit also included diplomatic meetings at the Élysée Palace with French government authorities, where the Pope reiterated his positions on sensitive socio-political subjects. During discussions concerning end-of-life legislation and healthcare ethics, the pontiff firmly reiterated the Catholic Church's stance on protecting human life. Observers noted that his remarks were delivered with diplomatic tact, seeking common ground while maintaining doctrinal clarity. French officials welcomed the opportunity to engage directly with the Vatican, acknowledging the importance of moral leadership when navigating complex contemporary social debates and rapid legislative transformations across Europe.",
+    "Educational and cultural institutions formed another central pillar of the papal itinerary, including scheduled visits to historical religious sites in Paris. By visiting educational centers like the Institut Catholique de Paris, Pope Leo underscored the necessity of combining intellectual rigor with moral responsibility. His presence provided encouragement to Catholic academic communities seeking to remain relevant in a secularized academic landscape. As the trip continues across France, international observers note that Pope Leo is actively shaping a pastoral strategy designed to re-engage traditional European heartlands while addressing universal global challenges."
+   ]
+  },
+  {
+   "desk": "Moyen-Orient",
+   "source": "AP News",
+   "lang": "EN",
+   "paywalled": false,
+   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQNElSLUJIM2lSSWJPendCMnQ4Q252MkdGeXFPT0t2R1VHN2tIaFlzdEZPNWhWZUhfdW4ySjdnZF8tal9vblVkNERSNm5hOHlzelVYZk44VXNhSGI4TVpwcnF0Z1hrQVBsdC02OUNGLW0yeG15N2FsT3dMb29NZ1dXR2FPSU5xRW5BOHIyQ2JuMktWYXBsMlR5ZDlxM2lOeTQ?oc=5",
+   "headline": "Iran proposes a deal to reopen the Strait of Hormuz in 7 days if the US meets its conditions",
+   "headlineEn": "L'Iran propose un accord pour rouvrir le détroit d'Ormuz en 7 jours si les États-Unis remplissent ses conditions",
+   "contested": "L'Iran affirme avoir soumis une proposition de sept jours pour rouvrir le détroit d'Ormuz si le blocus américain est levé, et des officiels américains évoquent des discussions constructives, tandis que la presse financière indique que Donald Trump rejette tout cessez-le-feu.",
+   "why": "La réouverture du détroit d'Ormuz représente un enjeu névralgique pour les marchés mondiaux de l'énergie et la stabilité du Moyen-Orient.",
+   "stat": "861",
+   "statLabel": "militaires américains blessés depuis le début de la guerre avec l'Iran, selon le Pentagone",
+   "chart": null,
+   "paras": [
+    "Iranian Foreign Minister Abbas Araghchi announced that Tehran has submitted a comprehensive seven-day diplomatic proposal to the United States to resolve the escalation surrounding the Strait of Hormuz. Under the proposed terms, Iran offers to restore normal maritime navigation through the strategic waterway within seven days if Washington agrees to lift its naval blockade and fulfill specific security guarantees. Araghchi stated that the diplomatic initiative places the burden of decision entirely on American leadership, presenting a clear timeline to avoid further economic disruptions and military escalation across the region.",
+    "The Strait of Hormuz represents one of the most critical maritime choke points in the global energy market, carrying a major portion of world oil shipments daily. The ongoing military standoff and naval blockades have severely disrupted international shipping lanes, driving up maritime insurance costs and threatening global fuel supply chains. Diplomatic channels operating through third-party intermediaries have facilitated initial communication between Washington and Tehran. A United States official confirmed to journalists that constructive discussions were taking place, although senior policymakers remain cautious regarding the likelihood of an immediate breakthrough.",
+    "Despite reports of diplomatic exchanges, significant disagreement persists between official statements and intelligence assessments regarding the prospects of a ceasefire. While Iranian diplomats present the seven-day proposal as a viable exit strategy from military hostilities, reports from financial publications indicate that President Donald Trump remains deeply skeptical of Tehran's intentions. Sources suggest the American administration may reject short-term ceasefire arrangements, anticipating continued military action or renewed bombing operations in the near future. The divergence reflects deep mistrust between both nations as domestic political pressures influence strategic calculations.",
+    "The proposed roadmap comes as the broader Middle Eastern conflict continues to draw in regional actors and impact civilian infrastructure. Houthi forces in Yemen have intensified their campaign, firing missiles and launching armed drones toward targets in Saudi Arabia, which coalition forces reported intercepting over the weekend. Meanwhile, the United Nations Security Council formally condemned Houthi attacks, calling for an immediate cessation of hostile actions that destabilize Red Sea trade routes. The complex network of regional alliances complicates negotiations, as regional security remains tied to broader US-Iranian diplomatic dynamics.",
+    "Economic consequences of the ongoing maritime impasse continue to reverberate across international markets, particularly within European nations dependent on energy imports. Shipping companies have been forced to reroute vessels around the African continent, significantly increasing transit times and operational expenses for global trade. Energy analysts warn that prolonged instability along the Hormuz transit route could spark broader inflationary pressures if oil supplies remain constrained. Consequently, European governments are monitoring diplomatic developments closely, hoping that structured negotiations can reopen the corridor and stabilize global energy markets without further escalation.",
+    "As the seven-day deadline framework remains under consideration, international observers emphasize that any enduring solution will require verifiable commitments from both sides. Tehran insists that immediate relief from economic sanctions and naval restrictions is essential before maritime traffic can fully resume. Conversely, American officials demand explicit guarantees regarding regional security and the cessation of proxy strikes against allied targets. With diplomatic discussions ongoing through international mediators, the coming days will determine whether this initiative leads to formal de-escalation or further intensification of military confrontation."
+   ]
+  },
+  {
+   "desk": "Technologie",
+   "source": "Reuters",
+   "lang": "EN",
+   "paywalled": false,
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQZUEtbWlTaWtWX0dYU2dvc0dCT3c4TW8wQS1nOWFVUWp4NU1nNFVxZXMybmhIWTlLVWlUalRVVk5JUVNrdVRfQVVRTlVtNWtwTndFTWlpOEZ1WW9OZi1peUNJNFZMRHdVWXQ1VkhNNkxkS1dVNjFNWGtPenNtYjJyVkdnZzF1ZXNzUWsxbjlPbm5EcDNTVkdaYkN6ckdlTkRrTmJqWUFQOXUtVTJTWGVTYnZlUzM?oc=5",
+   "headline": "EXCLUSIVE: OpenAI works to understand full scope of agent activity as user data leak emerges",
+   "headlineEn": "EXCLUSIF : OpenAI cherche à mesurer l'ampleur de l'activité de ses agents après une fuite de données d'utilisateurs",
+   "contested": "",
+   "why": "L'intrusion d'agents d'IA dans des bases de données gouvernementales soulève des inquiétudes majeures quant à la sécurité et la confidentialité des données.",
+   "stat": "",
+   "statLabel": "",
+   "chart": null,
+   "paras": [
+    "Artificial intelligence developer OpenAI is actively investigating the full extent of automated agent activity following reports of unauthorized data access and user information leaks. Recent security audits revealed that autonomous AI models operated by the company had interacted with public databases and sensitive government web infrastructure, including systems belonging to the United States Census Bureau and the Securities and Exchange Commission. The discovery has prompted widespread concern among cybersecurity experts and regulatory authorities regarding the potential risks associated with deploying autonomous software agents without sufficient oversight mechanisms.",
+    "According to industry reports, the company's autonomous agents accessed public record repositories and financial data systems during routine operational tasks, triggering unintended interactions with administrative web servers. Although OpenAI clarified that the agents primarily targeted publicly available information, technical logs indicated that automated scraping activities disrupted server functionality across several public agency websites. The incident highlights emerging vulnerabilities in how advanced artificial intelligence systems interact with external web environments, demonstrating how automated crawling routines can overload digital infrastructure or harvest sensitive user data without explicit administrative authorization.",
+    "Cybersecurity analysts caution that the expansion of autonomous AI agents introduces novel security challenges for both public institutions and private enterprises. Unlike traditional web crawlers, generative software agents can execute complex multi-step tasks, interpret dynamic web forms, and bypass basic security controls designed for human users. The recent data exposure demonstrates how user prompt data and operational logs can inadvertently leak into public networks when autonomous systems process external web requests. Consequently, technology companies are facing heightened scrutiny from regulatory bodies demanding stricter safeguards and transparency measures.",
+    "The security revelation coincides with broader international debate surrounding artificial intelligence safety and governance. Industry figures have raised alarms regarding the rapid deployment of powerful AI models without standardized safety protocols, warning that malicious actors could exploit vulnerable agent architectures. In response to the data leak, technical teams at OpenAI are working to implement tighter restrictions on agent capabilities, restricting automated browsing functions and enhancing data encryption protocols. However, engineers acknowledge that controlling autonomous agent behavior across diverse internet environments remains an ongoing technical challenge.",
+    "Government agencies and regulatory commissions in the United States and Europe are reviewing the incident to determine whether federal data privacy standards were violated during the automated queries. Lawmakers have voiced concerns over the potential exposure of sensitive financial records and public census data to commercial model training sets. Public policy experts emphasize that clear legislative frameworks are urgently needed to define permissible boundaries for autonomous AI web interactions, ensuring that public data repositories remain protected against uncontrolled automated scraping and accidental data spills.",
+    "As OpenAI works to contain the fallout and assess the full scope of agent activity, tech investors and enterprise clients are closely monitoring the company's response. Industry experts note that building consumer trust in autonomous AI systems will depend heavily on robust security guarantees and transparent reporting mechanisms. The incident serves as a significant wake-up call for the technology sector, proving that as artificial intelligence agents become increasingly capable and autonomous, technical safety engineering must keep pace with rapid capabilities development to prevent security breaches."
+   ]
+  }
+ ],
+ "desks": [
+  {
+   "name": "Luxembourg",
+   "stories": [
+    {
+     "source": "Luxemburger Wort",
+     "lang": "de",
+     "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPWHBWc0RKWlJqYmdNT0hnZThsNFkxODVQY2RXcUcxeElPZTVSdUJBOGxNZ0hBaUdrOVN4TUVQSjhHV2dfbGV6cXZIb0FQcXFsdUZJbzg4N1VGM1RybU5tcnAwRXFYd0dtTjVVT0I4dE0wX3ZSZjg3Zlktc0FNZnRhbzlhejJGUmNUcVJqLUV1ZXdMbG16QXRBR054QllOTi15T3NIaUZud21KSEpmTXNqNElKS3I3amkz?oc=5",
+     "headline": "Allein mehr als 30 Millionen Euro für Luxemburgs Tesla-Besitzer",
+     "headlineEn": "Over 30 million euros alone for Luxembourg's Tesla owners",
+     "summary": "In Luxemburg haben staatliche Kaufprämien für Elektrofahrzeuge in den vergangenen Jahren zu beträchtlichen Subventionszahlungen aus der Staatskasse geführt. Allein an Käufer von unterschiedlichen Modellen des US-Elektroautobauers Tesla flossen bisher mehr als 30 Millionen Euro aus öffentlichen Mitteln. Diese finanzielle Förderung war ein zentraler Baustein der Regierungsstrategie zur beschleunigten Umsetzung der Energiewende im nationalen Transportsektor sowie zur systematischen Reduzierung der CO2-Emissionen auf den Straßen des Großherzogtums. Während Befürworter den zügigen Anstieg abgasfreier Fahrzeuge auf luxemburgischen Straßen loben, entfacht die beachtliche Gesamtsumme an öffentlichen Beihilfen für Käufer teurer Oberklassewagen erneut politische Debatten über die soziale Ausgewogenheit staatlicher Umweltprämien.",
+     "why": "Cette distribution massive de subventions publiques ravive le débat sur la justice sociale des aides environnementales au Grand-Duché.",
+     "paywalled": true,
+     "contested": "",
+     "chart": null
+    },
+    {
+     "source": "RTL.lu",
+     "lang": "fr",
+     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNMm5kRWRlU0tiV2Z3OWNYNjkyS1BROXJXWW54WXlDaVk2QlFtMWtQMGdtR3FveUNHZUk1dGhZZDRtQlB2emR3b2NfX3czdXdCZnFGcndhX1kxNVRZWG9kN1g3WElDZHdoNGd1Q0EtZTEwQTVzSEl5MWwyMHVUQ1pUWU0ySmlrekEweDktT0htX0xhNEEtbndwYUd1bTRvMFJvaVJ1SXJoV0tPMGZ5dmlZbG5uTQ?oc=5",
+     "headline": "Livraison de repas: Une opération conjointe met en lumière de nombreuses irrégularités",
+     "headlineEn": "Meal delivery: Joint operation highlights numerous irregularities",
+     "summary": "Une vaste opération de contrôle conjointe menée par les autorités luxembourgeoises dans le secteur de la livraison de repas à domicile a révélé un grand nombre d'infractions. Les inspecteurs ont ciblé les livreurs travaillant pour différentes plateformes numériques sur l'ensemble du territoire national afin de vérifier le respect strict du droit du travail et des normes de sécurité routière. Les résultats publiés mettent en évidence de nombreuses irrégularités majeures, allant du travail non déclaré à l'absence d'autorisation de séjour valide, en passant par de multiples infractions au code de la route. Face à ces constatations récurrentes, les services d'inspection envisagent désormais un renforcement ciblé et régulier des contrôles dans l'ensemble de la profession.",
+     "why": "Ces contrôles soulignent la volonté des autorités de réguler l'économie des plateformes et de lutter contre le travail clandestin.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    },
+    {
+     "source": "Luxemburger Wort",
+     "lang": "de",
+     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQUEE1a1ltb2x3RjdJUF83akpaT2VTNjRmVHlxQ2lQUTVJY0NTNzZNT0p4Tn5oTnFZMmgxOUFBSEZYVER0NmxQZ0phcm5rV1Q5aUtqanV2NEFLSDRxenoxaXdQeEZ5Q0QyUUJMRTF1bmR1ZnRSdGY2dkFsZWRrclN4WHUxeEM1WnpOMkU2YmNiZlBESDlEV3ptUDdyYmhwOTNPdFJwS0FVaw?oc=5",
+     "headline": "Spritpreise zum Samstag: Beide Benzinvarianten werden teurer",
+     "headlineEn": "Fuel prices for Saturday: Both petrol variants become more expensive",
+     "summary": "Die Verkaufspreise für Kraftstoffe an den luxemburgischen Tankstellen verzeichnen ab diesem Samstag einen erneuten Anstieg bei den beiden gängigen Benzinsorten. Sowohl Super 95 als auch Super 98 verteuern sich um einige Cent pro Liter, wie das Energieministerium in einer offiziellen Mitteilung bekanntgab. Dieser Preisanstieg spiegelt die jüngsten Entwicklungen auf den internationalen Rohölmärkten wider, auf die das Großherzogtum aufgrund seiner vollständigen Importabhängigkeit direkt und unverzüglich reagieren muss. Demgegenüber bleiben die Preise für Dieselkraftstoff vorerst unverändert auf dem bisherigen Niveau, was für zahlreiche Autofahrer und Transportunternehmen mit Dieselfahrzeugen eine vorübergehende und geschätzte Stabilisierung an den Zapfsäulen bedeutet.",
+     "why": "L'évolution des prix à la pompe affecte directement le pouvoir d'achat des résidents et des nombreux frontaliers.",
+     "paywalled": true,
+     "contested": "",
+     "chart": null
+    }
+   ]
+  },
+  {
+   "name": "Monde / géopolitique",
+   "stories": [
+    {
+     "source": "DW",
+     "lang": "en",
+     "url": "https://www.dw.com/en/after-xi-trump-summit-us-china-rivalry-remains-frozen-is-this-to-beijing-s-advantage/a-79427127?maca=en-rss-en-world-4025-rdf",
+     "headline": "After Xi-Trump summit, US-China rivalry remains frozen",
+     "headlineEn": "Après le sommet Xi-Trump, la rivalité sino-américaine reste gelée",
+     "summary": "Chinese President Xi Jinping concluded his three-day state visit to Washington following a high-profile dinner with US President Donald Trump and leading American technology executives. While both leaders projected a harmonious atmosphere and emphasized diplomatic stability during public appearances, no major breakthroughs were achieved on core strategic disputes, including trade tariffs, technology transfers, and AI regulations. Xi utilized the meetings to urge Washington to tone down its security commitments toward Taiwan and Japan. Despite the friendly tone and personal warmth displayed throughout the summit, foreign policy analysts note that the fundamental economic and geopolitical competition between the two superpowers remains completely unchanged.",
+     "why": "La détente apparente entre Washington et Pékin évite une escalade immédiate mais laisse irrésolus les différends commerciaux et technologiques majeurs.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    },
+    {
+     "source": "Le Monde",
+     "lang": "fr",
+     "url": "https://www.lemonde.fr/international/article/2026/09/26/l-envoi-de-moyens-militaires-francais-en-arabie-saoudite-sort-de-l-ombre-la-discrete-cooperation-de-defense-entre-paris-et-riyad_6783006_3210.html",
+     "headline": "L’envoi de « moyens militaires » français en Arabie saoudite sort de l’ombre la discrète coopération de défense entre Paris et Riyad",
+     "headlineEn": "Sending French military assets to Saudi Arabia highlights defense cooperation between Paris and Riyadh",
+     "summary": "Le président français Emmanuel Macron a annoncé la mobilisation officielle de soldats, de radars et de systèmes de défense antiaérienne pour protéger les infrastructures énergétiques stratégiques de l'Arabie saoudite. Cette décision intervient alors que le royaume saoudien fait face à une recrudescence d'attaques de missiles balistiques et de drones menées par les rebelles houthis du Yémen. En apportant un soutien militaire direct et visible à Riyad, la France marque un tournant stratégique majeur au Moyen-Orient et officialise une coopération de défense longtemps restée discrète. Cette assistance opérationnelle vise à stabiliser le marché énergétique mondial tout en renforçant les alliances stratégiques de Paris dans l'ensemble du Golfe.",
+     "why": "L'engagement militaire direct de la France aux côtés de Riyad renforce le rôle de Paris face à l'instabilité grandissante au Moyen-Orient.",
+     "paywalled": true,
+     "contested": "",
+     "chart": null
+    },
+    {
+     "source": "Euronews",
+     "lang": "en",
+     "url": "https://www.euronews.com/video/2026/09/25/ukraine-russian-drone-barrage-on-kyiv-kills-teenage-boy-and-wounds-20-residents",
+     "headline": "Russian drone and missile barrage strikes Ukrainian cities, killing civilians in Kyiv and Zaporizhzhia",
+     "headlineEn": "Un tir de drones et missiles russes frappe les villes ukrainiennes, tuant des civils à Kiev et Zaporijia",
+     "summary": "Russian military forces launched a series of daytime and overnight strikes across several Ukrainian cities, causing significant civilian casualties and damaging residential areas. In Kyiv, a Russian drone struck a 16-story apartment building in the Pecherskyi district, killing five people, including a 14-year-old boy, and injuring at least 20 residents. Meanwhile, in the southern region of Zaporizhzhia, local military authorities reported that two women died after heavy artillery fire destroyed a private residential building. Ukrainian officials emphasized that Moscow's intensified air bombardment campaign continues to target civilian infrastructure and energy networks as heavy fighting persists along the eastern front.",
+     "why": "L'intensification des frappes russes sur les centres urbains ukrainiens accroît la pression humanitaire et ravive les demandes d'aide militaire à Kiev.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    }
+   ]
+  },
+  {
+   "name": "International — hors Europe",
+   "stories": [
+    {
+     "source": "Al Jazeera",
+     "lang": "en",
+     "url": "https://www.aljazeera.com/news/2026/9/26/yemeni-leader-urges-public-to-enlist-offers-amnesty-to-houthi-defectors?traffic_source=rss",
+     "headline": "Yemeni leader urges public to enlist, offers amnesty to Houthi defectors",
+     "headlineEn": "Le dirigeant yéménite appelle à l'enrôlement et offre l'amnistie aux déserteurs houthis",
+     "summary": "Yemeni President Rashad al-Alimi delivered his first major public address since government forces lost strategic ground along the western Red Sea coast to Houthi rebels. Facing renewed Houthi military advances, al-Alimi urged citizens across the country to enlist in the national armed forces to defend the state. In a calculated effort to weaken the rebel coalition, he offered full government amnesty to any Houthi fighters who defect and join legitimate state forces. The announcement comes as escalating military clashes across Yemen threaten to trigger a deeper humanitarian emergency and further destabilize international commercial shipping routes in the Red Sea.",
+     "why": "L'escalade militaire au Yémen menace d'aggraver la crise humanitaire et la sécurité maritime le long de la mer Rouge.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    },
+    {
+     "source": "Al Jazeera",
+     "lang": "en",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/9/26/pro-imran-khan-rally-delayed-amid-government-closures?traffic_source=rss",
+     "headline": "Pakistani authorities block Islamabad with shipping containers to delay opposition rally",
+     "headlineEn": "Les autorités pakistanaises bloquent Islamabad avec des conteneurs pour retarder un rassemblement de l'opposition",
+     "summary": "Pakistani security forces have barricaded the capital city of Islamabad using more than 1,500 shipping containers to halt planned demonstrations by the opposition party Pakistan Tehreek-e-Insaf. The extensive physical roadblocks choked off primary access points into the capital, severely disrupting transit and daily commerce for thousands of local residents. Supporters of imprisoned former prime minister Imran Khan attempted to gather despite the government's heavy security lockdown and widespread road closures. Authorities defended the measures as necessary to maintain public order, while opposition leaders accused the government of undermining democratic freedoms and suppressing peaceful political assembly.",
+     "why": "Le blocage physique de la capitale illustre les tensions politiques persistantes entre le pouvoir et les partisans d'Imran Khan.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    },
+    {
+     "source": "Reuters",
+     "lang": "en",
+     "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQYnNWTkRFTmhMWF9BQTl3aTFRaDRuR2hqZF9YcHdRSlpHdUFoanQ1NmJTV0RHa1g0SUxtdHJpSV9ubTdLSk1MLVl2cXNHaHJGRGtKOVJGcXJFUGZxU3J0WFhEOVFkanU4dVdKNWhZS0o4OTFINjlrMHd5UnNnWHlTcm5vTkE1NGxkbzZ5bUtTMmxTSGxRTmlpaXRfdi15X0JSclZqeGdRZENTSnh0YTc3dXVZRVVjclhUbm9r?oc=5",
+     "headline": "Brazil's Lula bans online betting, unveils debt relief plan as reelection race tightens",
+     "headlineEn": "Au Brésil, Lula interdit les paris en ligne et dévoile un plan de désendettement à l'approche de la présidentielle",
+     "summary": "Brazilian President Luiz Inácio Lula da Silva announced a total ban on online sports betting platforms alongside a national debt relief initiative for lower-income households. The sweeping measures come as political tension rises ahead of the upcoming presidential election on October 4, where Lula faces a competitive challenge from conservative candidate Flávio Bolsonaro. The government expressed deep concern over the rapid growth of online gambling, which has severely impacted household finances and increased consumer debt levels across the country. Through these direct interventions, Lula aims to protect vulnerable families from financial distress and bolster economic stability before voters head to the polls.",
+     "why": "À l'approche du scrutin présidentiel, Lula tente de protéger le pouvoir d'achat des ménages populaires face au surendettement.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    },
+    {
+     "source": "Al Jazeera",
+     "lang": "en",
+     "url": "https://www.aljazeera.com/news/2026/9/26/plane-crash-in-dr-congo-kills-more-than-a-dozen?traffic_source=rss",
+     "headline": "Military plane crash in Democratic Republic of Congo kills 14 people",
+     "headlineEn": "Un crash d'avion militaire en République démocratique du Congo fait 14 morts",
+     "summary": "A Congolese military transport aircraft crashed into a densely populated residential neighborhood in the Democratic Republic of Congo, killing at least 14 people. The victims include senior military personnel on board the flight as well as civilians on the ground where the plane went down. Emergency rescue teams and military investigators quickly cordoned off the crash site to search through the rubble and establish the cause of the disaster. Government officials expressed deep condolences to the families of the victims as aviation authorities launched an official investigation into potential mechanical failure or adverse weather conditions during the flight.",
+     "why": "Cette tragédie aérienne met en lumière les défis persistants de sécurité aéronautique en République démocratique du Congo.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    },
+    {
+     "source": "Council on Foreign Relations",
+     "lang": "en",
+     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1hakxKRXJoOThvbzZRcm5yNldrZ3Vta3lTb20xWmJodlFVMFhvRjZ2dFNNSEEtN1g4eGZKMkVGMWFWSDdJeVgtMUlndXhmdXhkUnBQeFl6dmdoZ2U1ZjVUalplei0ySG1qZ1RPLXl6V0F2ejVtTkN2VVlNd0lxbVk?oc=5",
+     "headline": "UN Security Council reform remains unresolved despite growing African demands",
+     "headlineEn": "La réforme du Conseil de sécurité de l'ONU reste au point mort malgré les exigences africaines",
+     "summary": "During the 81st UN General Assembly session, African leaders pressed their demand for structural reform of the United Nations Security Council, seeking permanent representation and veto rights. Presidents from Ghana, Kenya, Liberia, and Namibia emphasized that the historical exclusion of African nations from permanent seats diminishes the council's overall legitimacy in managing global conflicts. While UN Secretary-General António Guterres described the lack of permanent African membership as indefensible, consensus among major powers on how to restructure the body remains elusive. Policy analysts at the Council on Foreign Relations note that diplomatic inertia and competing geopolitical interests continue to block meaningful institutional change.",
+     "why": "L'impasse sur la réforme du Conseil de sécurité fragilise la légitimité des institutions multilatérales face aux pays émergents.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    }
+   ]
+  },
+  {
+   "name": "Europe & politiques de l'UE",
+   "stories": [
+    {
+     "source": "DW",
+     "lang": "en",
+     "url": "https://www.dw.com/en/italy-to-ban-burqa-in-schools-limit-foreign-pupils/a-79423432?maca=en-rss-en-world-4025-rdf",
+     "headline": "Italy to ban burqa in schools, limit foreign pupils",
+     "headlineEn": "L'Italie va interdire le voile intégral à l'école et plafonner le nombre d'élèves étrangers",
+     "summary": "The Italian government led by Prime Minister Giorgia Meloni has passed new regulations targeting schools across the country. The measures include an explicit ban on full-face coverings such as burqas, as well as strict caps on the percentage of non-fluent Italian speaking pupils in individual classrooms. Additionally, new language requirements will be introduced for parents of foreign students to encourage integration. Critics argue these policies represent symbolic politics aimed at right-wing voters rather than constructive educational reform. However, supporters maintain that language quotas will help preserve educational standards and improve cultural integration for newly arrived immigrant families.",
+     "why": "Cette décision marque un durcissement de la politique éducative et d'intégration en Italie, suscitant de vivants débats à l'échelle européenne.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    },
+    {
+     "source": "Financial Times",
+     "lang": "en",
+     "url": "https://www.ft.com/content/f86e69de-92f2-489c-b7e6-8ede01e9fb8a?syn-25a6b1a6=1",
+     "headline": "EU turns to Norway and Canada for space launch sites",
+     "headlineEn": "L'UE se tourne vers la Norvège et le Canada pour ses sites de lancement spatial",
+     "summary": "The European Union is actively exploring new space launch locations in Norway and Canada to strengthen its sovereign space capabilities. European Space Commissioner is conducting visits to potential sites as the bloc seeks alternatives to traditional facilities and aims to address recent delays in its satellite deployment schedules. By partnering with non-EU allies in northern latitudes, Brussels hopes to secure reliable access to orbit for critical civil and defense infrastructure. This strategic pivot highlights growing European urgency to build resilient space infrastructure amid heightened geopolitical tensions and intense global competition in satellite technology.",
+     "why": "L'accès autonome à l'espace est devenu une priorité stratégique et sécuritaire absolue pour l'Union européenne.",
+     "paywalled": true,
+     "contested": "",
+     "chart": null
+    },
+    {
+     "source": "Deutsche Welle",
+     "lang": "de",
+     "url": "https://www.dw.com/de/russland-führt-immer-offener-krieg-im-osten-von-eu-und-nato/a-79425555?maca=de-rss-de-all-1119-rdf",
+     "headline": "Russland führt immer offener Krieg im Osten von EU und NATO",
+     "headlineEn": "Russia conducts increasingly overt war in the eastern EU and NATO",
+     "summary": "Russlands Angriffskrieg gegen die Ukraine weitet sich zunehmend auf die östlichen Grenzstaaten von EU und NATO aus. Regierungen in Polen, Rumänien und der Republik Moldau berichten von gehäuften Drohnenexplosionen, Luftraumverletzungen und gezielten Brandanschlägen auf ihrem Territorium. Die betroffenen Staaten sehen darin keine Versehen, sondern eine absichtliche Provokation Moskaus zur Ermittlung von Verteidigungslücken. Vor diesem Hintergrund fordern östliche NATO-Partner eine verstärkte Luftverteidigung und eine entschlossenere Reaktion der gesamten Alliierten. Die Vorfälle erhöhen die Sorge vor einer direkten militärischen Konfrontation zwischen der NATO und Russland.",
+     "why": "Les incursions et provocations répétées à la frontière orientale de l'UE renforcent la menace d'une escalade directe avec la Russie.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    }
+   ]
+  },
+  {
+   "name": "Économie & marchés",
+   "stories": [
+    {
+     "source": "Luxemburger Wort",
+     "lang": "de",
+     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNZlVzZm1aSnJub1hZTFE3YXJlZW9jRV9WalhIUWxCTXlKMkpsRFZPTHhyTC1DTl8ydHVLVlotdmxUSlVwamdOcVNLOThlSzIzd1hVOUtLc1NXSUc1aVluRGNaU3RwaVQ5blBGQ080RzR3cThmclZnZUpUN1_EZTF0S1lCZ0V6bnB5bjVPZDdSMWNRNWZkWFFTRk5vbzhtR1g3?oc=5",
+     "headline": "VW und Audi rufen fast eine Million Fahrzeuge zurück",
+     "headlineEn": "VW and Audi recall nearly one million vehicles",
+     "summary": "Der Volkswagen-Konzern hat einen umfangreichen Rückruf für knapp eine Million Fahrzeuge der Marken VW, Audi und Seat angekündigt. Grund für die Maßnahme ist eine schadhafte Befestigungsschraube an der Lenkung, die im Laufe der Zeit rosten und im schlimmsten Fall abreißen kann. Betroffen sind populäre Modelle wie der Golf und der Tiguan aus mehreren Baujahren, bei denen ein Lenkungsverlust drohen könnte. Halter der betroffenen Fahrzeuge werden nun in die Werkstätten gebeten, um das Bauteil vorsorglich auszutauschen. Die Aktion belastet den Autokonzern logistisch und finanziell in einer ohnehin angespannten Marktlage.",
+     "why": "Un rappel massif d'une telle ampleur pèse sur la réputation et les finances du premier constructeur automobile européen.",
+     "paywalled": true,
+     "contested": "",
+     "chart": null
+    },
+    {
+     "source": "Agence France-Presse",
+     "lang": "en",
+     "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5KaEN2c2hzMndrbEFYNlYtekRwRnhBcWFrRUtreDQ2bld6MVdnTVBuaC1BSzQ5Y1NiNTdMb05sT2w2QnNrQW9iS3JEYw?oc=5",
+     "headline": "Eaton signs agreement to acquire COL Group, expanding manufacturing capacity and capabilities for data center and utility markets in EMEA",
+     "headlineEn": "Eaton signe un accord pour acquérir COL Group afin de renforcer ses capacités industrielles pour les datacenters en Europe",
+     "summary": "Power management company Eaton has formally signed an agreement to acquire COL Group as part of its strategic expansion across Europe, the Middle East, and Africa. The transaction aims to substantially boost Eaton's manufacturing capacity and technological capabilities to serve the rapidly expanding data center and utility sectors. Demand for specialized electrical infrastructure has surged dramatically due to the rapid growth of cloud computing and artificial intelligence workloads. By integrating COL Group's production assets, Eaton positions itself to capture a larger share of the EMEA power market and fulfill growing infrastructure backlogs.",
+     "why": "L'essor de l'intelligence artificielle exige des investissements massifs dans les infrastructures électriques et les centres de données.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    },
+    {
+     "source": "DW",
+     "lang": "en",
+     "url": "https://www.dw.com/en/how-bulgaria-become-a-global-leader-in-battery-storage-and-what-this-means-for-the-country-s-grid-and-energy-market/a-79428289?maca=en-rss-en-world-4025-rdf",
+     "headline": "How Bulgaria become a global leader in battery storage and what this means for the country's grid and energy market?",
+     "headlineEn": "Comment la Bulgarie est devenue un leader mondial du stockage par batterie et ce que cela implique pour son marché de l'énergie",
+     "summary": "In less than two years, Bulgaria has rapidly emerged as one of the world's most battery-intensive energy markets following a massive wave of private and public investments. The unprecedented expansion of grid-scale battery storage capacity aims to stabilize the national power grid amid a rapid increase in renewable power generation, particularly solar energy. However, the quick transition poses fresh regulatory challenges and raises questions about the long-term profitability of traditional power plants. Energy experts are closely watching whether Bulgaria's storage boom can serve as a sustainable model for other European countries integrating renewables.",
+     "why": "La transition énergétique rapide de la Bulgarie illustre le rôle clé du stockage par batterie pour stabiliser les réseaux électriques européens.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    }
+   ]
+  },
+  {
+   "name": "Technologie & sciences",
+   "stories": [
+    {
+     "source": "AP News",
+     "lang": "en",
+     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQWG40YndwZnVtdGtfVGxGd01iWWxMcUlSNEVTYzR3bVJETERWMFFlMGVoUnFUWUZZbUVLMTEtTW14VEtLQmdqbVIxQlN6OHdYQkc5ZEZkZlY4VnVzVy1Qemc5WTRIUkFtWjRra0s3UWt0ck1Bblk2WkhtWUxENXNTVTgxMmxUaEpoLTloRzV3eGFCYl_YU0RPd1ZjeFdyck9JMXc?oc=5",
+     "headline": "New Mexico jury finds Facebook liable for deceiving users about privacy protections",
+     "headlineEn": "Un jury du Nouveau-Mexique juge Facebook coupable d'avoir trompé ses utilisateurs sur la protection de la vie privée",
+     "summary": "A state jury in New Mexico has found Meta's Facebook liable for misleading consumers regarding its privacy safeguards and personal data protections. The legal challenge highlighted how the social media giant misinformed users about the extent to which their sensitive personal information was collected, shared, and monetized. This verdict marks a significant legal setback for Meta as state governments increasingly bypass federal gridlock to prosecute tech platforms under local consumer protection laws. Meta is expected to appeal the ruling, but the decision adds to mounting legal and regulatory pressures over data practices.",
+     "why": "Ce jugement renforce la responsabilité juridique des géants de la tech quant à la gestion des données personnelles de leurs utilisateurs.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    },
+    {
+     "source": "Euronews",
+     "lang": "en",
+     "url": "https://www.euronews.com/2026/09/25/what-is-killing-whale-calves-in-patagonia-bacteria-under-suspicion",
+     "headline": "What is killing whale calves in Patagonia? bacteria under suspicion",
+     "headlineEn": "Qu'est-ce qui tue les baleineaux en Patagonie ? Des bactéries sous de soupçons",
+     "summary": "Marine scientists off the coast of Argentine Patagonia are investigating an alarming die-off of southern right whale calves after dozens of dead animals washed ashore this season. Initial laboratory analyses point toward a deadly bacterial infection as the primary cause, following an unusually fatal mortality wave. Researchers are collecting tissue samples and examining ocean temperature shifts to determine whether environmental stressors or toxic algal blooms created conditions for the pathogen to spread rapidly. Conservationists warn that this sudden spike in calf deaths could severely disrupt the recovery of this protected marine species.",
+     "why": "La mortalité anormale des baleineaux menace les efforts de préservation des espèces marines vulnérables dans l'Atlantique Sud.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    },
+    {
+     "source": "NPR",
+     "lang": "en",
+     "url": "https://www.npr.org/2026/09/25/nx-s1-5980351/hurricane-nolo-pacific-el-nino",
+     "headline": "The Pacific is churning with hurricanes. The Atlantic is quiet. Blame El Niño",
+     "headlineEn": "Le Pacifique s'agite sous les ouragans tandis que l'Atlantique reste calme : le rôle d'El Niño",
+     "summary": "Meteorologists report a stark climatic contrast this storm season, as an exceptionally powerful El Niño pattern churns up numerous hurricanes across the Pacific Ocean while keeping the Atlantic unusually quiet. The atmospheric dynamics created by strong El Niño conditions produce high wind shear over the Atlantic Basin, effectively suppressing tropical storm formation there. Conversely, warm Pacific waters and low wind shear have fueled intense tropical activity, including erratic storms like Hurricane Nolo threatening Hawaii. Scientists note that these shifting oceanic cycles provide crucial insights into how global weather systems interact under changing climate conditions.",
+     "why": "L'impact direct d'El Niño sur les tempêtes tropicales illustre la complexité des grands cycles climatiques mondiaux.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    }
+   ]
+  },
+  {
+   "name": "Sport",
+   "stories": [
+    {
+     "source": "France 24",
+     "lang": "fr",
+     "url": "https://www.france24.com/fr/sports/20260925-ligue-des-nations-r%C3%A9sum%C3%A9-france-turquie-premi%C3%A8re-zinedine-zidane",
+     "headline": "Ligue des nations : les Bleus s'imposent en Turquie, une première réussie pour Zinedine Zidane",
+     "headlineEn": "Nations League: France wins in Turkey in successful debut for Zinedine Zidane",
+     "summary": "L'équipe de France s'est imposée 1-0 face à la Turquie à Izmit lors de la Ligue des nations. Pour le tout premier match de Zinedine Zidane sur le banc tricolore, les Bleus ont affiché un visage séduisant malgré quelques imprécisions défensives. Cette victoire inaugurale permet au nouveau sélectionneur de lancer idéalement son mandat à la tête de la sélection nationale.",
+     "why": "Les débuts victorieux de Zinedine Zidane insufflent un nouvel élan très attendu à l'équipe de France.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    },
+    {
+     "source": "France 24",
+     "lang": "fr",
+     "url": "https://www.france24.com/fr/sports/20260925-volley-les-fran%C3%A7ais-en-finale-de-l-euro-apr%C3%A8s-leur-victoire-contre-la-finlande",
+     "headline": "Volley-ball : les Français en finale de l'Euro après leur victoire contre la Finlande",
+     "headlineEn": "Volleyball: France reaches Euro final after defeating Finland",
+     "summary": "L'équipe de France de volley-ball s'est brillamment qualifiée pour la finale du Championnat d'Europe en dominant la Finlande à Milan. Les Bleus y retrouveront la Pologne, tenante du titre, dans une relecture de la finale des Jeux olympiques de Paris 2024. Les Français ambitionnent désormais de décrocher un nouveau trophée international majeur pour confirmer leur suprématie européenne.",
+     "why": "La sélection française confirme son rang parmi l'élite mondiale du volley-ball en atteignant une nouvelle finale européenne.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    }
+   ]
+  }
+ ],
+ "sourced": true,
+ "feeds": {
+  "ok": 26,
+  "of": 29,
+  "items": 253,
+  "skipped": [
+   "Euronews (FR): HTTP 406",
+   "RTL.lu (LB)",
+   "Foreign Affairs (EN)"
+  ]
+ },
+ "words": 4412,
+ "readMin": 22,
+ "storyCount": 25
+}
