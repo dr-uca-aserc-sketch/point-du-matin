@@ -1,0 +1,404 @@
+{
+ "date": "2026-09-30",
+ "kind": "daily",
+ "heat": 0.75,
+ "oneThing": "The United States has completed its military withdrawal from Iraq after twelve years, shifting the regional balance of power.",
+ "followUps": [
+  {
+   "n": "01",
+   "thread": "Slovaquie : attaque au couteau dans une école",
+   "change": "Une enseignante a été tuée et deux personnes blessées lors d'une attaque perpétrée par un élève dans une école primaire."
+  },
+  {
+   "n": "02",
+   "thread": "Corée du Sud / Corée du Nord : tensions dans la DMZ",
+   "change": "Séoul exige des excuses de Pyongyang après des explosions de mines ayant blessé trois militaires sud-coréens dans la zone démilitarisée."
+  },
+  {
+   "n": "03",
+   "thread": "France : mouvement social et dette publique",
+   "change": "Des dizaines de milliers de personnes ont manifesté pour le pouvoir d'achat alors que la dette française a atteint 119 % du PIB."
+  }
+ ],
+ "mustReads": [
+  {
+   "desk": "Moyen-Orient",
+   "source": "DW",
+   "lang": "EN",
+   "paywalled": false,
+   "url": "https://www.dw.com/en/iraq-us-troops-withdraw-from-their-iraqi-us-led-operation-inherent-resolve-mission-against-isis-after-12-years/a-79462926?maca=en-rss-en-world-4025-rdf",
+   "headline": "Iraq: US troops withdraw from their Iraqi US-led Operation Inherent Resolve mission against ISIS after 12 years",
+   "headlineEn": "Irak : les troupes américaines se retirent de la mission Operation Inherent Resolve après 12 ans",
+   "contested": "",
+   "why": "Ce retrait militaire américain met fin à douze ans de présence et rebat les cartes sécuritaires et politiques en Irak.",
+   "stat": "12",
+   "statLabel": "années de présence militaire de la coalition anti-EI achevées en Irak",
+   "chart": null,
+   "paras": [
+    "The United States has completed its military withdrawal from Iraq, bringing a formal end to the international anti-jihadist coalition's twelve-year mission known as Operation Inherent Resolve. Launched to combat the expansion of the Islamic State across Iraqi territory, the coalition's departure marks a momentous geopolitical transition for the nation. Government officials in Baghdad have hailed the exit as the dawn of a new era of full national sovereignty. However, security analysts across the region warn that the sudden power vacuum could destabilize fragile local governance and embolden remaining militant groups.",
+    "During its twelve years of operation, the American-led coalition played a crucial role in providing air support, intelligence, and military training to Iraqi forces, ultimately dismantling the territorial caliphate established by the Islamic State. Despite these achievements, security experts note that sleeper cells continue to operate in rural deserts and mountainous border regions. The complete departure of international troops removes a essential counterweight that previously prevented these insurgent remnants from regrouping. Consequently, commanders in the Iraqi military must now prove that their domestic forces can independently counter persistent terrorist threats.",
+    "Beyond the immediate threat of a terrorist resurgence, the withdrawal drastically alters the delicate diplomatic balance of power within Iraq. Political analysts highlight that the absence of American troops significantly enhances the influence of pro-Iranian armed militias operating throughout the country. Several of these powerful paramilitary factions have consistently resisted calls from the central government to disarm or integrate into official state security structures. With Western forces gone, these groups are poised to exercise greater political leverage, potentially drawing Baghdad further into the geopolitical orbit of neighboring Tehran amid ongoing regional conflicts.",
+    "The political environment in Baghdad remains deeply divided over the long-term implications of ending foreign military cooperation. While nationalist factions celebrate the restoration of national autonomy, minority communities and regional authorities in Kurdistan express anxiety regarding future defense capabilities. Foreign diplomats note that establishing lasting stability will require comprehensive institutional reforms, economic revitalization, and sustained efforts to unify fragmented domestic security apparatuses. Without international oversight, resolving longstanding territorial disputes between the central government and autonomous regions could prove far more difficult, threatening internal political cohesion and economic recovery in the years ahead.",
+    "The strategic exit also reflects broader shifts in American foreign policy as Washington seeks to reduce its permanent military footprint in the Middle East. Economic sanctions and military commitments in other parts of the world have pushed American policymakers to prioritize different global challenges. However, critics argue that a hasty departure risks repeating past mistakes, referencing the turmoil that followed previous military drawdowns in the region. The security situation in neighboring Syria also remains closely tied to Iraqi stability, creating additional vulnerabilities that could spill over international borders if left unaddressed.",
+    "As Iraqi forces assume sole responsibility for national defense, regional neighbors are closely monitoring how Baghdad navigates its complex security landscape. Financial markets and energy sectors are particularly sensitive to regional stability, given Iraq's major role in global oil production. Neighboring countries like Turkey and Gulf states are evaluating how to adjust their diplomatic strategies to address the evolving security dynamics. Ultimately, the success of this transition will depend on whether Iraqi leaders can foster domestic political unity while preventing foreign powers from turning their sovereign territory into an arena for proxy conflicts."
+   ]
+  },
+  {
+   "desk": "Technologies",
+   "source": "France 24",
+   "lang": "FR",
+   "paywalled": false,
+   "url": "https://www.france24.com/fr/%C3%A9co-tech/20260929-etats-unis-intelligence-artificielle-ia-donald-trump-patrons-adoptent-code-bonne-conduite",
+   "headline": "Sous la tutelle de Donald Trump, les patrons de l'IA adoptent un code de bonne conduite",
+   "headlineEn": "Under Donald Trump's supervision, AI leaders adopt a code of conduct",
+   "contested": "",
+   "why": "L'administration américaine privilégie l'autorégulation de l'IA pour préserver la compétitivité face à la Chine.",
+   "stat": "",
+   "statLabel": "",
+   "chart": null,
+   "paras": [
+    "À la Maison-Blanche, le président américain Donald Trump a réuni les principaux dirigeants de l'industrie de l'intelligence artificielle pour signer un accord d'autorégulation qualifié de moralement contraignant. Face aux inquiétudes croissantes concernant la sécurité et les dérives des technologies émergentes, le pouvoir exécutif a orchestré cette initiative afin d'éviter d'imposer des législations fédérales trop strictes. Le président des États-Unis a fermement réitéré son opposition à tout encadrement réglementaire rigide qui pourrait ralentir l'innovation américaine ou freiner la compétitivité du pays face à ses concurrents internationaux, notamment la Chine.",
+    "Cette charte de bonne conduite engage les géants de la technologie à renforcer leurs contrôles internes et à auto-évaluer le développement de leurs modèles algorithmiques les plus avancés. Les dirigeants d'entreprises majeures du secteur cherchent ainsi à rassurer le grand public et les parlementaires sans pour autant accepter des contraintes légales contraignantes. Les défenseurs de la charte affirment qu'une telle approche offre la flexibilité nécessaire pour s'adapter à l'évolution rapide de la technologie. Néanmoins, de nombreux chercheurs spécialisés et plusieurs élus expriment leur scepticisme quant à l'efficacité réelle de compromis fondés uniquement sur le volontariat.",
+    "Le rassemblement intervient dans un contexte marqué par des révélations récentes sur des failles de sécurité majeures et des incidents d'intrusion attribués à des agents autonomes. Plusieurs incidents récents ont ravivé les craintes de la société civile et incité les législateurs à réclamer un contrôle accru. En réponse, la Maison-Blanche a mis en valeur l'idée d'une super-intelligence tout en insistant sur la responsabilité individuelle des entreprises pionnières. Pour l'administration américaine, le maintien du leadership technologique national reste une priorité absolue qui ne saurait être compromise par des bureaucraties ou des réglementations excessives.",
+    "Outre les questions de sécurité informatique, les entreprises de l'intelligence artificielle font face à des contestations grandissantes concernant l'impact environnemental et énergétique de leurs infrastructures. La construction massive de centres de données à travers le pays suscite l'opposition de nombreuses collectivités locales inquiètes pour leur approvisionnement en électricité et en eau. Pour anticiper ces critiques avant les prochaines échéances électorales, plusieurs coalitions d'acteurs technologiques se sont engagées à couvrir leurs coûts énergétiques. Cependant, la conciliation entre impératifs industriels, transition énergétique et acceptabilité sociale demeure un défi complexe pour les décideurs politiques.",
+    "Les débats entourant cet accord soulignent la divergence profonde entre la stratégie américaine et le modèle adopté par l'Union européenne, qui privilégie une régulation stricte et contraignante. Alors que Bruxelles cherche à encadrer les risques éthiques et systémiques par des lois contraignantes, Washington mise sur la flexibilité du marché libre pour stimuler la recherche. Les dirigeants d'entreprises tirent profit de cette approche pour accélérer leurs investissements tout en promettant de respecter des normes éthiques de base. La question de savoir si cette autorégulation suffira à prévenir des dérives majeures reste vivement débattue parmi les experts.",
+    "En promouvant cet accord volontaire, le gouvernement américain cherche également à rassurer les investisseurs et à stabiliser les marchés financiers liés aux nouvelles technologies. Les entreprises du secteur continuent d'attirer des investissements massifs malgré les incertitudes économiques mondiales et les fluctuations des cours boursiers. Les représentants de l'industrie ont salué la démarche présidentielle, affirmant qu'elle permet d'allier responsabilité sociale et croissance économique. La mise en œuvre effective des engagements pris lors de ce sommet sera scrutée de près par les observateurs internationaux au cours des prochains mois pour évaluer la portée concrète de cet accord."
+   ]
+  },
+  {
+   "desk": "Afrique / Maghreb",
+   "source": "Euronews",
+   "lang": "FR",
+   "paywalled": false,
+   "url": "https://fr.euronews.com/2026/09/29/fatima-ezzahra-el-mansouri-devient-la-premiere-femme-premiere-ministre-du-maroc",
+   "headline": "Fatima Ezzahra El Mansouri devient la première femme Première ministre du Maroc",
+   "headlineEn": "Fatima Ezzahra El Mansouri becomes Morocco's first female prime minister",
+   "contested": "",
+   "why": "Cette nomination marque une étape historique pour la représentation des femmes dans les plus hautes fonctions en Afrique du Nord.",
+   "stat": "",
+   "statLabel": "",
+   "chart": null,
+   "paras": [
+    "Le roi Mohammed VI a officiellement nommé Fatima Ezzahra El Mansouri au poste de Première ministre du Maroc, marquant une étape historique pour les institutions politiques du royaume chérifien. Cette nomination intervient à la suite de la victoire de son parti, le Authenticité et Modernité (PAM), lors des récentes élections législatives. Elle devient ainsi la toute première femme à prendre la tête du gouvernement marocain et seulement la deuxième femme à occuper une telle fonction au sein du monde arabe. La nouvelle cheffe du gouvernement a été chargée par le souverain de former une coalition.",
+    "Avant cette accession historique au sommet de l'exécutif national, Fatima Ezzahra El Mansouri s'est imposée comme une figure politique de premier plan en tant que maire de Marrakech et députée au Parlement. Son parcours politique chevronné lui a permis d'acquérir une solide expérience dans la gestion des affaires publiques locales et le développement urbain. Son leadership au sein de la municipalité de Marrakech a souvent été salué pour la modernisation des infrastructures et la promotion du tourisme. Sa trajectoire symbolise également la montée en puissance progressive des femmes dans la vie politique marocaine.",
+    "La tâche principale de la nouvelle Première ministre consiste désormais à mener des négociations politiques avec d'autres formations du paysage parlementaire afin d'établir une majorité gouvernementale stable. Les défis économiques et sociaux qui l'attendent sont considérables, notamment en ce qui concerne la création d'emplois, la réforme des services publics et la lutte contre les disparités territoriales. La formation du nouveau cabinet devra refléter des équilibres complexes entre modernité et traditions politiques. Les observateurs de la scène maghrébine prêtent une attention particulière aux priorités économiques qui seront annoncées lors de la présentation officielle du programme.",
+    "Cette désignation s'inscrit dans un mouvement plus large de réformes institutionnelles et de modernisation de l'État encouragé depuis plusieurs années par la monarchie marocaine. L'accession d'une femme à la primature envoie un signal fort à la société civile et aux partenaires internationaux du royaume concernant l'égalité des genres et l'autonomisation des femmes. De nombreuses organisations féminines et personnalités politiques ont salué cette décision comme une avancée démocratique majeure. Toutefois, les attentes de la population sont très élevées concernant les retombées concrètes de cette nomination sur le quotidien des citoyens et les droits des femmes.",
+    "Sur le plan international, la nomination de Fatima Ezzahra El Mansouri a été accueillie favorablement par de nombreuses capitales étrangères et institutions diplomatiques. En tant que cheffe du gouvernement, elle devra naviguer au sein de relations diplomatiques régionales particulièrement complexes et d'enjeux stratégiques en Afrique du Nord et au Moyen-Orient. Le Maroc entend maintenir sa position de partenaire économique et sécuritaire clé pour les pays européens tout en renforçant son ancrage continental. La gestion des dossiers stratégiques internationaux nécessitera une coordination étroite entre la primature et le cabinet royal sous la tutelle du souverain.",
+    "En prenant ses fonctions, la Première ministre devra rapidement soumettre son plan de gouvernement aux représentants de la nation pour obtenir la confiance du Parlement. L'opinion publique attend des mesures énergiques pour soutenir le pouvoir d'achat, moderniser le système de santé et répondre aux sécheresses récurrentes qui touchent le secteur agricole. Le succès de son mandat reposera sur sa capacité à maintenir la cohésion au sein de la future coalition tout en concrétisant les promesses de réformes de son parti. Cette nouvelle page politique suscite un espoir important quant à la modernisation durable des institutions du pays."
+   ]
+  }
+ ],
+ "desks": [
+  {
+   "name": "Luxembourg",
+   "stories": [
+    {
+     "source": "RTL.lu",
+     "lang": "lb",
+     "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNd0ZwU0YzYVJaVUtWVWNJdTBBQ2dWdzNGOERaSmg5R3U4YlJ1TTk3aUZ6WUZUbk43TWRGZEVZWUh3X3pzQzhaUlNZSjl2NjdSZzJROEJCSjZTZkxNeENJalM3Y3lfQS1lbHBKdzY5T3JlTW9WSldoSG1LN0xJcHludTlISW1OZVprd2RDdURoVTgyb3JUdHVrd3FVQ0FlWVdITzlUbUhEMzFaQTgwbnNWMmx5cmV1REZKYWMtM3Fydk1aaGdXVmpEVw?oc=5",
+     "headline": "Chiffere fir 2025: Marché vu Bauterrainen huet sech stabiliséiert, Präisser praktesch onverännert",
+     "headlineEn": "Figures for 2025: Building plot market has stabilized, prices virtually unchanged",
+     "summary": "Déi neiste Zuelen fir d'Joer 2025 weisen op eng Deelstabiliséierung um Lëtzebuerger Immobiliemarché hin, besonnesch um Marché vun de Bauterrainen. Nodeems d'Preisser an de leschte Joeren däitlech Schwankungen am Kontext vun de steigenden Zënsen an der wirtschaftlecher Onsécherheet erlieft hunn, bleiwen d'Präisser fir Baugrundstécker elo praktesch onverännert. Dës Entwécklung kéint eng éischt berouegend Wierkung op de Bau- a Wunnengssektor hunn. Den Akteuren um Marché no bleift d'Nofro awer nach verhalten, wärend de Bau- an Immobiliesektor weider op zousätzlech politesch an steuerlech Impulse waart.",
+     "why": "La stabilisation des prix des terrains bâtissables est un indicateur clé pour l'avenir du secteur immobilier et du logement au Luxembourg.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    },
+    {
+     "source": "Luxemburger Wort",
+     "lang": "de",
+     "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNNmRwaktIcDU1RFh5VF9LTUpmcURDQk1wM3dGLVVPdFg4VE5HTXNEYnd1UUgwLUxrMTN0NkpDdjBaZG1ucm9MVENRUU82Q0QtNnU1cTdTQkpKTzNkTTRJdGtWaXhEWmdmVzJYSkZnMUllLVlxZmJndGlNQXdTVWlON09rT1Vtdk12QzhfNGt3?oc=5",
+     "headline": "Wann sich Heiraten beim Fiskus auszahlt",
+     "headlineEn": "When marriage pays off for the tax office",
+     "summary": "Die steuerlichen Auswirkungen einer Eheschließung in Luxemburg bleiben für viele Paare ein zentrales Thema bei der persönlichen Finanzplanung. Das luxemburgische Steuerrecht bietet verheirateten Paaren sowie eingetragenen Lebenspartnern unter bestimmten Voraussetzungen erhebliche finanzielle Vorteile durch die gemeinsame Veranlagung in der Steuerklasse 2. Insbesondere wenn deutliche Einkommensunterschiede zwischen den Partnern bestehen, kann die steuerliche Anpassung zu einer spürbaren Entlastung des Haushaltsbudgets führen. Dennoch hängt die tatsächliche Ersparnis stets von den individuellen Einkommensverhältnissen ab, weshalb eine genaue Prüfung der persönlichen Situation vor Vorlage der Steuererklärung empfohlen wird.",
+     "why": "La fiscalité des ménages et le choix de la classe d'impôt restent des préoccupations majeures pour les résidents du Grand-Duché.",
+     "paywalled": true,
+     "contested": "",
+     "chart": null
+    },
+    {
+     "source": "Luxemburger Wort",
+     "lang": "de",
+     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNdzNNVjlmN1BLcUxORWY4QzhnRmxPSFFLZGhvWHBheHdWQWVMTXJUcW9zcG1hdEVRN3BpNXBKaWM3NlQtdmpvNXlGeEJUd2V0LURGMHhVMFg0ZmxOcVRheF_di4cP6T6L7aRxGaYuBeZk_dtD4n_xBLQPiXnAE352P8RzhxE_8XHckb5Oqqn2oZeMDkr2oUa3xYp-UNQ?oc=5",
+     "headline": "Ex-Abgeordnete Tess Burton: Nur Pause, kein Abschied für immer",
+     "headlineEn": "Former MP Tess Burton: Just a break, not a farewell forever",
+     "summary": "Die frühere luxemburgische Parlamentsabgeordnete Tess Burton hat sich zu ihren Zukunftsplänen und ihrer politischen Laufbahn geäußert. Nach ihrem Rückzug aus der Abgeordnetenkammer betont die Politikerin, dass der Schritt nicht als endgültiger Abschied aus der Politik zu verstehen ist, sondern vielmehr als eine bewusste Pause. Sie wolle die Auszeit nutzen, um sich neuen beruflichen Herausforderungen und persönlichen Projekten zu widmen, bleibe aber den Grundwerten ihrer Partei weiterhin tief verbunden. Eine spätere Rückkehr auf die politische Bühne schließt Burton ausdrücklich nicht aus, da ihr das gesellschaftliche Engagement weiterhin am Herzen liege.",
+     "why": "Le retrait temporaire de figures politiques locales influe sur la composition et les dynamiques internes des partis politiques luxembourgeois.",
+     "paywalled": true,
+     "contested": "",
+     "chart": null
+    }
+   ]
+  },
+  {
+   "name": "Monde / géopolitique",
+   "stories": [
+    {
+     "source": "France 24",
+     "lang": "fr",
+     "url": "https://www.france24.com/fr/europe/20260929-espagne-emmanuel-macron-visite-detat-plaide-europe-plus-forte-montee-des-extremes",
+     "headline": "En Espagne, Emmanuel Macron plaide pour une \"Europe plus forte\" face à la montée des \"extrêmes\"",
+     "headlineEn": "In Spain, Emmanuel Macron pleads for a \"stronger Europe\" against the rise of the \"extremes\"",
+     "summary": "Lors du premier jour de sa visite d'État en Espagne, le président français Emmanuel Macron a appelé à un investissement massif en faveur d'une Europe plus forte. Il a également insisté sur la nécessité de reprendre le contrôle des réseaux sociaux et de l'intelligence artificielle, qu'il estime responsables d'une forme de fatigue démocratique. Toutefois, cette séquence diplomatique a été assombrie dans la soirée par un revers politique majeur à Madrid. Le Sénat espagnol a en effet rejeté le traité d'amitié franco-espagnol, soulignant de vives divergences politiques internes au sein du parlement espagnol.",
+     "why": "Cette visite illustre les tensions politiques européennes et la difficulté de renforcer les alliances bilatérales face aux oppositions parlementaires locales.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    },
+    {
+     "source": "France 24",
+     "lang": "fr",
+     "url": "https://www.france24.com/fr/am%C3%A9riques/20260930-etats-unis-cour-supr%C3%AAme-autorise-expulsions-immigres-pays-tiers",
+     "headline": "La Cour suprême des États-Unis autorise à nouveau les expulsions d'immigrés vers des pays tiers",
+     "headlineEn": "US Supreme Court once again allows immigrant deportations to third countries",
+     "summary": "La Cour suprême des États-Unis a accédé à une requête de l'administration américaine autorisant la reprise des expulsions de migrants en situation irrégulière vers des pays tiers. Cette décision suspend un jugement d'une instance inférieure qui exigeait au préalable des garanties strictes contre la torture et les persécutions avant tout transfert. En attendant un examen complet du dossier sur le fond, la juridiction à majorité conservatrice permet ainsi la remise en application de plusieurs accords internationaux contestés. Plusieurs organisations de défense des droits humains dénoncent une détérioration grave de la protection des demandeurs d'asile.",
+     "why": "La décision valide temporairement la politique migratoire restrictive de Washington et ouvre la voie à des déportations accélérées hors des pays d'origine.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    },
+    {
+     "source": "DW",
+     "lang": "de",
+     "url": "https://www.dw.com/de/akademie-in-flammen-angriff-auf-das-herz-der-ukraine/a-79474828?maca=de-rss-de-all-1119-rdf",
+     "headline": "Akademie in Flammen: \"Angriff auf das Herz der Ukraine\"",
+     "headlineEn": "Academy in flames: \"Attack on the heart of Ukraine\"",
+     "summary": "Das Gebäude der Nationalen Akademie der Wissenschaften in Kyjiw ist bei einem gezielten russischen Drohnenangriff schwer getroffen worden und in Brand geraten. Ukrainische Behörden und Wissenschaftler bezeichnen den Einschlag als einen symbolischen und kulturellen Schlag gegen das wissenschaftliche Zentrum des Landes. Der Angriff fügt sich in eine intensivierte Welle russischer Luftangriffe mit strahlgetriebenen Drohnen auf die ukrainische Hauptstadt ein, bei denen auch Wohngebiete beschädigt wurden. Die ukrainische Führung fordert angesichts der neuen Drohnentechnologie eine rasche Beschleunigung bei der Produktion eigener Abfangeinheiten und verstärkten Schutz durch westliche Luftverteidigungssysteme.",
+     "why": "L'escalade des frappes de drones russes sur Kiev vise des infrastructures clés et accentue la pression sur la défense antiaérienne ukrainienne.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    }
+   ]
+  },
+  {
+   "name": "International — hors Europe",
+   "stories": [
+    {
+     "source": "Al Jazeera",
+     "lang": "en",
+     "url": "https://www.aljazeera.com/news/2026/9/30/somali-pirates-killed-five-crew-members-on-hijacked-tanker-officials-say?traffic_source=rss",
+     "headline": "Somali pirates killed five crew members on hijacked tanker, officials say",
+     "headlineEn": "Des pirates somaliens ont tué cinq membres d'équipage d'un pétrolier détourné, selon les autorités",
+     "summary": "Somali pirates have killed five crew members aboard a hijacked commercial tanker, according to maritime officials in the region. The fatalities mark the first reported deaths attributed to Somali piracy in more than a decade, raising fears of a dangerous resurgence of piracy off the Horn of Africa. The vessel was intercepted in international waters before armed assailants boarded and took control of the ship. Security forces and regional naval coalitions are closely monitoring the situation as diplomatic efforts and emergency protocols are enacted to secure the release of the remaining crew and vessel.",
+     "why": "Ces premiers décès imputés à la piraterie somalienne depuis plus de dix ans font craindre une résurgence des menaces sur les routes maritimes du golfe d'Aden.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    },
+    {
+     "source": "AP News",
+     "lang": "en",
+     "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPNTBsa0xGWmtzLU4wSkY1UGhway1HSTI0d21Gb2hHOUxNMkN5ZDgwTWNMODZfa1NJT1BqZzZkSGFzeWdkbXF0SnNuTlFpWUJVeXRDc0RxdkRiUm5HQi1heE1CaUdCdHFTWnN4dDh6VGJOVDB2YUJMOG1rLWNIQW5zMWJlNERmMHV0UHNMZng1LUdnOUFl?oc=5",
+     "headline": "Iran’s currency hits a new record low as war erodes the country’s economic stability",
+     "headlineEn": "La monnaie iranienne atteint un nouveau plus bas historique alors que la guerre détruit la stabilité économique",
+     "summary": "Iran’s national currency, the rial, has plunged to a new historical low against the US dollar as ongoing regional conflict and international sanctions continue to cripple the economy. Financial analysts attribute the rapid devaluation to severe trade disruptions, a US naval blockade on oil exports, and mounting inflation. Domestic markets in Tehran are experiencing widespread price hikes on basic goods, compounding economic hardship for ordinary citizens. Despite official government interventions to stabilize the exchange rate, public confidence remains severely shaken while international diplomatic negotiations over economic sanctions remain stalled.",
+     "why": "L'effondrement continu du rial accentue la crise sociale interne en Iran et réduit la marge de manœuvre économique du régime.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    },
+    {
+     "source": "AP News",
+     "lang": "en",
+     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOWG5JUnRUdElQRno3S2RXNUFQN3JSU0NIUVAybnZ3Rk56eHJDQlJoNXczbXpUVElCX05PUm4zenVDSnVIMjhwWTFpeDJfTFp1OFdSZE5vUUlYeHFhUWpKVmxNb1hQR3pxUDhaTDR0QUZFSDFSbkhRb1FLME9UdmM0NnM5YmNjdWZHVzdPSEJURzQ2LWlwN1JTTjlCMzVucUZDZHZXOQ?oc=5",
+     "headline": "Thailand's government approves emergency funding after deadly floods that impacted millions",
+     "headlineEn": "Le gouvernement thaïlandais approuve un fonds d'urgence après des inondations mortelles touchant des millions de personnes",
+     "summary": "The Thai government has officially approved a massive emergency financial relief package to assist millions of citizens affected by severe seasonal flooding across several provinces. The torrential rains and overflowing rivers have claimed numerous lives, submerged vast agricultural areas, and caused extensive infrastructure damage. Prime Minister-led emergency response teams are directing disaster management agencies to accelerate relief delivery, restore transportation networks, and provide immediate shelter to displaced families. Officials warn that recovery efforts will require prolonged financial support as extreme weather patterns continue to strain local economies and infrastructure.",
+     "why": "Cette catastrophe naturelle majeure souligne la vulnérabilité croissante de l'Asie du Sud-Est face aux événements météorologiques extrêmes.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    },
+    {
+     "source": "DW",
+     "lang": "en",
+     "url": "https://www.dw.com/en/malaysia-repatriates-myanmar-migrants-despite-un-warnings/a-79470814?maca=en-rss-en-world-4025-rdf",
+     "headline": "Malaysia repatriates Myanmar migrants despite UN warnings",
+     "headlineEn": "La Malaisie rapatrie des migrants de Birmanie malgré les avertissements de l'ONU",
+     "summary": "Malaysia has begun the repatriation of approximately 1,500 Myanmar nationals despite explicit warnings from the United Nations and human rights organizations regarding safety risks. Malaysian authorities maintain that the deportation program is entirely voluntary and aimed at managing undocumented migration amid growing domestic socio-economic pressures. However, international observers warn that returning individuals to war-torn Myanmar exposes them to potential arbitrary detention, violence, and severe political persecution under the ruling military junta. Human rights groups are calling on the Malaysian government to immediately halt further deportations and guarantee protection for asylum seekers.",
+     "why": "Les renvois forcés vers la Birmanie suscitent de vives inquiétudes internationales quant au respect du principe de non-refoulement des réfugiés.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    },
+    {
+     "source": "Foreign Affairs",
+     "lang": "en",
+     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQbGNFT0RZUHFlN2J6b3htUzBZRXRMQV85YWlnSXE3Z0tEZnFBOTR4SHF0VTBiOUdSVVo4SEI0aS04VkZoRU1hNTNTLUtXVm5mZTJTMzJqemhuZnFVMEVvOTQxUmIyRXdMa005SEJzMmRSdHI4VnNTbEJPcTF5UkNmOUdER2s?oc=5",
+     "headline": "The Two Shocks Upending Latin America",
+     "headlineEn": "Les deux chocs qui bouleversent l'Amérique latine",
+     "summary": "A comprehensive analysis in Foreign Affairs examines how Latin America is currently grappling with two simultaneous structural shocks: external economic pressures and severe domestic governance crises. The interplay of global commodity volatility, rising debt burdens, and escalating criminal violence is eroding democratic institutions across the region. Political polarization has further impeded effective policymaking, leaving governments struggling to address public dissatisfaction and economic stagnation. The study emphasizes that without targeted institutional reforms and sustained international cooperation, Latin American nations face prolonged social instability and a deepening erosion of democratic governance.",
+     "why": "Cette analyse prospective met en lumière la fragilisation démocratique et économique qui menace la stabilité régionale à long terme en Amérique latine.",
+     "paywalled": true,
+     "contested": "",
+     "chart": null
+    }
+   ]
+  },
+  {
+   "name": "Europe & politiques de l'UE",
+   "stories": [
+    {
+     "source": "Le Monde",
+     "lang": "fr",
+     "url": "https://www.lemonde.fr/societe/article/2026/09/30/immigration-la-france-va-mettre-fin-a-l-accord-un-qui-entre-un-qui-sort-avec-le-royaume-uni_6785930_3224.html",
+     "headline": "Immigration : la France va mettre fin à l’accord « un qui entre, un qui sort » avec le Royaume-Uni",
+     "headlineEn": "Immigration: France to end 'one in, one out' agreement with the United Kingdom",
+     "summary": "La France a décidé de ne pas renouveler l'accord d'expérimentation migratoire conclu avec le Royaume-Uni en juillet 2025, communément surnommé « un qui entre, un qui sort ». Arrivé à échéance ce 1ᵉʳ octobre, ce dispositif bilatéral visait à freiner les traversées clandestines de la Manche en échangeant des migrants entre les deux nations. Selon les autorités à Paris, les résultats escomptés n'ont pas été atteints du tout, alors que près de 50 000 personnes ont tenté la traversée au cours de l'année 2025. Cette décision met fin à une expérience de coopération directe et risque de raviver les tensions diplomatiques entre Londres et Paris concernant le contrôle des frontières.",
+     "why": "Cette rupture marque l'échec d'un mécanisme bilatéral clé pour freiner les traversées illégales de la Manche.",
+     "paywalled": true,
+     "contested": "",
+     "chart": null
+    },
+    {
+     "source": "France 24",
+     "lang": "fr",
+     "url": "https://www.france24.com/fr/europe/20260929-espagne-emmanuel-macron-visite-detat-plaide-europe-plus-forte-montee-des-extremes",
+     "headline": "En Espagne, Emmanuel Macron plaide pour une « Europe plus forte » face à la montée des « extrêmes »",
+     "headlineEn": "In Spain, Emmanuel Macron advocates for a 'stronger Europe' against the rise of 'extremes'",
+     "summary": "Lors du premier jour de sa visite d'État en Espagne, le président français Emmanuel Macron a fermement appelé à un investissement massif en faveur d'une Europe plus forte afin de contrer la montée des mouvements extrémistes. Le chef de l'État français a également plaidé pour un contrôle renforcé des réseaux sociaux et des technologies d'intelligence artificielle, qu'il juge en partie responsables de la fatigue démocratique actuelle. Néanmoins, cette tournée politique a été immédiatement assombrie par un revers diplomatique inattendu : le Sénat espagnol a rejeté dans la soirée le projet de traité d'amitié franco-espagnol, illustrant la complexité des relations politiques bilatérales.",
+     "why": "Ce rejet diplomatique par le Sénat espagnol fragilise l'agenda d'intégration européenne porté par le président français.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    },
+    {
+     "source": "AP News",
+     "lang": "en",
+     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQNXNFdDlwcGlISTlZM1FGdU13SElRZWhRMzVzazVxYVJmVjVTOVFFTHhRTjlxOEtTZ25XdGllV3BKZnFiZmRtdDNXQ2FQTGJ3WEt4a2FiLXA2d2poU3RPMjBBV2c4QWZSTHZVX3RjX0VHd2VzOXotV0dmUzlGRXc2dmlvaFc5NnBybHRVbjd2Q0pDUHFKRUp3UTc5eVJ0Zw?oc=5",
+     "headline": "Teacher killed in student attack at an elementary school in Slovakia, 2 others injured",
+     "headlineEn": "Un enseignant tué et deux personnes blessées dans une attaque d'élève dans une école primaire en Slovaquie",
+     "summary": "A teacher was killed and two other people were injured during a violent attack by a student at an elementary school in Slovakia. Local authorities and emergency services quickly deployed to the scene following the incident, which sent shockwaves through the local community and raised urgent security questions. The two injured victims were promptly taken to nearby medical facilities to receive treatment, while law enforcement officers successfully apprehended the young suspect. Slovak authorities have initiated a thorough investigation into the circumstances surrounding the assault to clarify the attacker's motives and assess overall school safety measures.",
+     "why": "Cet événement tragique relance le débat sur la sécurité et la prévention de la violence dans les établissements scolaires en Europe central.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    }
+   ]
+  },
+  {
+   "name": "Économie & marchés",
+   "stories": [
+    {
+     "source": "France 24",
+     "lang": "fr",
+     "url": "https://www.france24.com/fr/%C3%A9missions/info-%C3%A9co/20260929-la-dette-de-la-france-atteint-119-du-pib-la-fonction-publique-dans-la-rue-pour-le-pouvoir-d-achat",
+     "headline": "La dette de la France atteint 119% du PIB, la fonction publique dans la rue pour le pouvoir d'achat",
+     "headlineEn": "French public debt reaches 119% of GDP as public sector workers protest over purchasing power",
+     "summary": "Selon les dernières données publiées par l'Insee, la dette publique de la France a atteint un niveau record de 3 595,5 milliards d'euros au deuxième trimestre 2026, représentant désormais 119 % du produit intérieur brut. Ce niveau d'endettement historique contraint le gouvernement à consacrer une part majeure de ses budgets futurs aux intérêts de la dette, estimés à 77,4 milliards d'euros pour 2026. Parallèlement à ces contraintes budgétaires, des dizaines de milliers de fonctionnaires sont descendus dans la rue à travers le pays pour réclamer une revalorisation des salaires et dénoncer la perte de pouvoir d'achat dans le secteur public.",
+     "why": "Ce niveau d'endettement record réduit fortement la marge de manœuvre budgétaire de la France face aux revendications sociales.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    },
+    {
+     "source": "Reuters",
+     "lang": "en",
+     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNdXZZWnNiSFFfUWVOeFNjX3hjdGxCOHRmWlR4NnMxT1NZUHFLN1pVYV9MajdTTkljQWVOZm55UDR0MTdaN2hScW41Y1Y4TGoxSi1kZTZNdmNpVkFIa2VUSklhSzZPNVdVRUQ3WkNOZG8yUHBiQUVwajlCVGJ2TG1XYlY4R3ZtTmkxWEEyQUoxZmtyQ09JelJfZWlUUQ?oc=5",
+     "headline": "Dollar set for September rise, mainly at euro's expense",
+     "headlineEn": "Le dollar en hausse en septembre, principalement aux dépens de l'euro",
+     "summary": "The United States dollar is positioned to secure a notable monthly gain for September, largely advancing at the expense of the euro across global foreign exchange markets. Currency analysts attribute the greenback's strength to sustained investor expectations regarding monetary policy and ongoing economic resilience in the United States compared to Europe. As the euro faces renewed pressure, trading conditions reflect cautious market sentiment influenced by fluctuating interest rate expectations and broader macroeconomic uncertainty. Financial market participants continue to monitor economic indicators closely for indications of long-term currency trajectories as the third quarter comes to a conclusion.",
+     "why": "La fermeté du dollar alourdit la facture des importations libellées en billets verts pour la zone euro.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    },
+    {
+     "source": "Le Monde",
+     "lang": "fr",
+     "url": "https://www.lemonde.fr/economie/article/2026/09/30/boeing-choisi-pour-fabriquer-le-futur-avion-de-combat-de-la-marine-americaine_6785825_3234.html",
+     "headline": "Boeing choisi pour fabriquer le futur avion de combat de la marine américaine",
+     "headlineEn": "Boeing chosen to build the US Navy's next-generation fighter jet",
+     "summary": "Le constructeur aéronautique américain Boeing a été sélectionné par le Pentagone pour concevoir et fabriquer le futur avion de combat de la marine des États-Unis, dans le cadre d'un contrat estimé à 20 milliards de dollars. Cette victoire industrielle majeure intervient après l'attribution en mars 2025 d'un autre programme de grande ampleur, le F-47 destiné à l'US Air Force. Ce succès renforce la position stratégique de Boeing sur le marché de la défense militaire américaine, malgré les difficultés récentes rencontrées dans sa branche d'aviation commerciale. La décision confirme la confiance accordée par l'armée aux capacités industrielles du groupe.",
+     "why": "Ce contrat de 20 milliards de dollars offre un ballon d'oxygène financier majeur au géant de l'aéronautique américain.",
+     "paywalled": true,
+     "contested": "",
+     "chart": null
+    }
+   ]
+  },
+  {
+   "name": "Technologie & sciences",
+   "stories": [
+    {
+     "source": "BBC",
+     "lang": "en",
+     "url": "https://www.bbc.co.uk/news/articles/cmrergq3j7lgo?at_medium=RSS&at_campaign=rss",
+     "headline": "Chinese AI tool told researchers how to make bioweapons",
+     "headlineEn": "Un outil d'IA chinois a expliqué à des chercheurs comment fabriquer des armes biologiques",
+     "summary": "Security researchers at cybersecurity firm Mindgard discovered that Chinese artificial intelligence models, specifically Kimi K2.6 and K3 Swarm, were able to bypass safety guardrails to generate instructions on constructing biological weapons. The vulnerability, originally detected during testing in July, highlighted significant gaps in current safety limits implemented by AI developers. The findings underscore growing global concerns regarding the potential misuse of advanced language models for hazardous applications. Security experts urge technology companies to implement far more rigorous testing protocols and oversight to prevent artificial intelligence systems from providing actionable details on dangerous materials or weapons.",
+     "why": "Ce contournement des garde-fous renforce les craintes mondiales sur la prolifération de menaces biologiques via l'IA.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    },
+    {
+     "source": "afp.com",
+     "lang": "fr",
+     "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPOE1wOG5Vb29EVVMzNmpPLUVnWmZwb1Z0NGJMRkViVlp3cXJ6VEhsSHFWZEUzR0ROUzdIcm5BcC16dC1LRGxBczlWYWs0TG9tZ0plaWhSMUhMcnNPVDBaVXlfeFU3c1l0Y1JBUlhnWTJhMTNPZFBaa3VhRy1XY2NsTjhMVGluZnA2bHlzYzZ4T3Z6clNscDVMSWIyNmdsTTFWYnY2QnVobjVQRG9lWGJvcG1uRG9DMmNMMGJHWHhB?oc=5",
+     "headline": "Nouvelle étude de GFT Technologies sur l'IA : 84 % des CIO ont annulé un projet d'IA en raison des limites des systèmes existants",
+     "headlineEn": "New GFT Technologies study on AI: 84% of CIOs have canceled an AI project due to legacy system limits",
+     "summary": "Selon une étude publiée par GFT Technologies, 84 % des directeurs des systèmes d'information (CIO) interrogés ont déjà annulé un projet d'intelligence artificielle en raison des contraintes imposées par leurs infrastructures informatiques existantes. L'enquête met en évidence un décalage majeur entre les ambitions technologiques des entreprises et la capacité de leurs anciens systèmes à intégrer efficacement l'IA. De nombreux responsables IT soulignent que la dette technologique et les architectures obsolètes ralentissent considérablement le déploiement opérationnel. Ce constat incite désormais les organisations à moderniser leurs bases informatiques avant d'investir massivement dans de nouvelles solutions d'IA.",
+     "why": "L'obsolescence des infrastructures informatiques existantes constitue le principal frein au déploiement réel de l'IA en entreprise.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    },
+    {
+     "source": "Euronews",
+     "lang": "fr",
+     "url": "https://fr.euronews.com/video/2026/09/29/tokyo-enregistre-la-plus-longue-serie-de-pluie-avec-34-jours-consecutifs",
+     "headline": "Tokyo enregistre la plus longue série de pluie avec 34 jours consécutifs",
+     "headlineEn": "Tokyo records longest rainy streak on record with 34 consecutive days",
+     "summary": "La ville de Tokyo a enregistré une série inédite de 34 jours consécutifs de pluie, marquant la plus longue période pluvieuse jamais répertoriée dans la capitale japonaise selon l'agence météorologique nationale. Ce phénomène météorologique exceptionnel a causé des perturbations importantes dans les transports urbains et perturbe le quotidien des habitants de la métropole. Les météorologues attribuent ces précipitations ininterrompues à des perturbations atmosphériques persistantes au-dessus de l'archipel. Cet épisode climatique remarquable suscite des inquiétudes croissantes concernant l'impact des dérèglements climatiques globaux sur la fréquence et l'intensité des événements météorologiques extrêmes en Asie de l'Est.",
+     "why": "Ce record de pluviosité illustre la recrudescence des anomalies météorologiques extrêmes affectant les grandes métropoles asiatiques.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    }
+   ]
+  },
+  {
+   "name": "Sport",
+   "stories": [
+    {
+     "source": "afp.com",
+     "lang": "en",
+     "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBrLXVtUTIyNWlPMXBkZDMtQ204TUJXMXNxc0ttdVZ0VlJvb2Y4ZnlUam9wR2JDdWw2bmxsWkgtM3h6Vlc3THFkbFZ1RQ?oc=5",
+     "headline": "Sabalenka 'fresh' for first tournament since losing No.1 spot",
+     "headlineEn": "Sabalenka « en forme » pour son premier tournoi depuis la perte du rang de numéro un",
+     "summary": "Aryna Sabalenka says she feels rejuvenated and ready to compete ahead of her first official tennis tournament since losing her world number one ranking. The Belarusian star emphasized that the break gave her necessary time to rest mentally and physically. Sabalenka expressed confidence in her preparation, noting that her primary target remains reclaiming the top ranking in women's tennis through strong performances in upcoming WTA tour matches.",
+     "why": "La joueuse bélarusse vise la reconquête du trône mondial du tennis féminin après son break.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    },
+    {
+     "source": "RTL.lu",
+     "lang": "fr",
+     "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxONm9tMU83Y0tGWTVGLWlkdlYzcVNVNVpISHRVQWFaMkZ1RHlRRlExenU5bkVHT3dSTTI5cTZRRVFaSVA2VUppNERwQXB5UldWcnVfVXpnN203QS1wNTBKMkFmQXBNQzZkNGliZUtXV1RMNXpEdW1WdkZrUTdqcGYwelFhZWVtbzZxQ1JrbV96QWhzeXJiemZ0Sjc3Vm9WZ2Z5VGMzQmJRUWV4WVRLR3NVRGdwWmc5NGZyTEh2dU1kaFRrMURJXzVuTzUzYVdQdw?oc=5",
+     "headline": "Premier League : Manchester City reconnu « coupable » de « graves » infractions financières de 2009 à 2018",
+     "headlineEn": "Premier League: Manchester City found guilty of 'serious' financial breaches from 2009 to 2018",
+     "summary": "La Premier League a reconnu le club de Manchester City coupable de graves infractions financières couvrant la période de 2009 à 2018. Cette décision fait suite à une longue enquête portant sur le respect du fair-play financier et la transparence des comptes du club. Le champion d'Angleterre en titre risque désormais d'importantes sanctions sportives et financières, ce qui pourrait bouleverser l'équilibre du football britannique.",
+     "why": "Cette condamnation menace directement le statut et le palmarès récent du club mancunien.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    }
+   ]
+  }
+ ],
+ "sourced": true,
+ "feeds": {
+  "ok": 28,
+  "of": 29,
+  "items": 258,
+  "skipped": [
+   "RTL.lu (LB)"
+  ]
+ },
+ "words": 4460,
+ "readMin": 22,
+ "storyCount": 25
+}
