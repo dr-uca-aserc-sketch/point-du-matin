@@ -1,0 +1,382 @@
+{
+ "date": "2026-10-01",
+ "kind": "daily",
+ "heat": 0.85,
+ "oneThing": "",
+ "followUps": [
+  {
+   "n": "01",
+   "thread": "Incidents militaires et sécuritaires au Moyen-Orient",
+   "change": "Le retrait des troupes américaines d'Irak est désormais effectif alors que les tensions régionales s'intensifient."
+  },
+  {
+   "n": "02",
+   "thread": "Réorganisation du Pentagone et commandement militaire américain",
+   "change": "Pete Hegseth a confirmé la suppression de 20 % des postes de généraux et d'amiraux dans le cadre de sa restructuration de l'armée."
+  },
+  {
+   "n": "03",
+   "thread": "Attaques russes sur le réseau énergétique ukrainien",
+   "change": "La Russie a intensifié ses frappes massives contre les infrastructures électriques de Kiev à l'approche de l'hiver."
+  }
+ ],
+ "mustReads": [
+  {
+   "desk": "Europe, wires, Luxembourg",
+   "source": "Euronews [EN]",
+   "lang": "EN",
+   "paywalled": false,
+   "url": "https://www.euronews.com/2026/09/30/flydubai-plane-traveling-to-israel-diverted-to-saudi-arabia-after-alleged-dispute-between-",
+   "headline": "Israel says pilot tried to crash Tel-Aviv bound plane during cockpit fight, before safe emergency landing",
+   "headlineEn": "Israël affirme qu'un pilote a tenté de faire écraser un avion à destination de Tel-Aviv lors d'une bagarre dans le cockpit",
+   "contested": "Si le Premier ministre israélien Benjamin Netanyahu a affirmé que le pilote avait tenté de faire écraser l'appareil, les autorités saoudiennes et les enquêteurs soulignent qu'il est encore trop tôt pour déterminer avec certitude le mobile exact de l'agression.",
+   "why": "Un incident inédit dans le cockpit d'un vol commercial souligne de graves failles de sécurité aérienne au Moyen-Orient.",
+   "stat": "180",
+   "statLabel": "passagers à bord du vol FlyDubai dérouté vers l'Arabie saoudite",
+   "chart": null,
+   "paras": [
+    "A commercial flight operated by FlyDubai carrying approximately one hundred and eighty passengers from Dubai to Tel Aviv was forced to make an emergency landing in Saudi Arabia after a violent confrontation erupted inside the cockpit. According to official statements and eyewitness accounts, one of the pilots produced a sharp object and stabbed his colleague while the aircraft was cruising at altitude. The unexpected assault caused a sudden loss of control, sending the airplane into a steep dive and triggering immediate panic among passengers on board as emergency alarms sounded throughout the cabin.",
+    "As the aircraft lurched into an abrupt descent, several quick-thinking passengers and crew members rushed toward the flight deck to intervene. Breaking into the cockpit, they managed to physically overpower and restrain the attacker before he could cause catastrophic damage to the flight systems. Their rapid action allowed the injured primary pilot to regain control over the controls, stabilizing the aircraft before directing it toward the nearest suitable airport. The plane landed safely in Saudi Arabian territory, where local security authorities immediately boarded the aircraft and took the suspect into custody for questioning.",
+    "Israeli Prime Minister Benjamin Netanyahu praised the courage of the crew and passengers, publicly hailing the injured pilot as a hero who prevented a massive disaster. Netanyahu stated that the assailant clearly attempted to crash the passenger jet, although he noted that it remains too early to definitively establish the underlying motive behind the attack. Security services from multiple nations, including Saudi Arabia and Israel, have opened comprehensive investigations to determine whether the incident was a targeted act of terrorism or the result of a severe personal breakdown between crew members.",
+    "The incident marks an unprecedented security breach in civil aviation within the Middle East region, particularly given the diplomatic context of flights operating between the United Arab Emirates and Israel. Authorities in Saudi Arabia permitted the unexpected emergency landing, demonstrating crucial regional coordination during an airborne crisis. Following several hours of technical checks and medical assistance provided on the ground, the remaining passengers were eventually transported onwards to their final destination at Ben Gurion Airport in Tel Aviv, where many shared harrowing accounts with gathering international media.",
+    "Aviation experts and regulatory bodies are raising serious questions regarding how a crew member managed to smuggle a weapon into the cockpit and whether psychological screening protocols require urgent revision. Flight safety protocols across international carriers strictly regulate access to flight decks, yet internal threats posed by licensed crew members present complex challenges for airline security teams. Industry analysts expect commercial airlines operating sensitive regional routes to implement stricter pre-flight inspections and review two-person cockpit rules in light of the terrifying breach experienced on the Dubai route.",
+    "As investigations continue in Saudi Arabia, international intelligence agencies are carefully scrutinizing the background of the detained pilot to uncover any potential extremist ties or external influences. The successful containment of the threat aboard flight FZ1073 highlights the critical importance of passenger vigilance and decisive crew intervention during extreme inflight emergencies. For now, aviation officials emphasize that prompt action prevented what could have been one of the most tragic aviation disasters in recent memory, leaving analysts to focus on systemic security lessons for global aviation."
+   ]
+  },
+  {
+   "desk": "Europe, wires, Luxembourg",
+   "source": "FAZ [DE]",
+   "lang": "DE",
+   "paywalled": true,
+   "url": "https://www.faz.net/aktuell/gesellschaft/menschen/christa-pike-lebt-nach-zwei-giftspritzen-noch-accg-201278641.html",
+   "headline": "Hinrichtung Missglückt: Christa Pike lebt nach zwei Giftspritzen noch",
+   "headlineEn": "Execution Failed: Christa Pike still alive after two lethal injections",
+   "contested": "",
+   "why": "L'échec d'une exécution par injection létale aux États-Unis relance le débat juridique sur les peines cruelles et inusitées.",
+   "stat": "2",
+   "statLabel": "doses de pentobarbital administrées sans succès lors de l'exécution",
+   "chart": null,
+   "paras": [
+    "In den Vereinigten Staaten sorgt ein gescheiterter Hinrichtungsversuch im Bundesstaat Tennessee für erhebliche rechtliche und ethische Diskussionen. Die fünfzigjährige Todestraktinsassin Christa Pike sollte nach jahrzehntelangem Rechtsstreit durch die Giftspritze hingerichtet werden, nachdem der Oberste Gerichtshof der USA den Weg dafür freigemacht hatte. Trotz der Verabreichung von zwei vollständigen Dosen des Narkosemittels Pentobarbital blieb die Verurteilte am Leben und atmete weiterhin eigenständig. Das Gefängnispersonal musste das Verfahren schließlich abbrechen und leitete umgehend lebensrettende Maßnahmen ein, um die sterbende Frau im Krankenhaus medizinisch zu versorgen.",
+    "Christa Pike war vor mehr als dreißig Jahren wegen eines grausamen Mordes im Alter von achtzehn Jahren zur Todesstrafe verurteilt worden. Über Jahrzehnte hinweg versuchten ihre Rechtsbeistände mit zahlreichen Anträgen, die Vollstreckung der Höchststrafe abzuwenden oder umzuwandeln. Nachdem die höchsten Richter des Landes alle Einwände abgelehnt hatten, schien das Todesurteil nun endgültig vollstreckt zu werden. Der unerwartete Verlauf der Hinrichtung führt jedoch zu völlig neuen juristischen Fragestellungen, da Anwälte umgehend Notfallanträge eingereicht haben, um jeden weiteren Hinrichtungsversuch aufgrund der verfassungsmäßigen Garantie gegen grausame Bestrafung dauerhaft zu stoppen.",
+    "Die dramatischen Ereignisse im Hinrichtungsraum lösten umgehend scharfe Kritik von Menschenrechtsorganisationen und medizinischen Fachkräften aus. Zahlreiche Ärzte und Pfleger hatten bereits in der Vergangenheit vor den Risiken und ethischen Problemen bei der Verwendung von Pentobarbital gewarnt. Gesundheitsexperten betonten, dass die Beteiligung von medizinischem Personal an staatlichen Hinrichtungen grundlegenden medizinischen Prinzipien widerspricht. Der Fall Pike verdeutlicht nach Ansicht von Kritikern erneut die Unzuverlässigkeit staatlicher Exekutionsmethoden und die enormen physischen wie psychischen Qualen, denen Verurteilte bei fehlgeschlagenen Prozeduren ausgesetzt sind.",
+    "Die Justizbehörden von Tennessee stehen nun unter enormem öffentlichen und politischen Druck, die genauen Umstände des Pannen-Exekutionsversuchs lückenlos aufzuklären. Bislang machten die Verantwortlichen nur wenige Angaben zu den technischen Ursachen oder medizinischen Fehlern während der Injektion. Regierungsvertreter kündigten eine interne Untersuchung an, um die angewendeten Protokolle und die Qualität der verwendeten Chemikalien genau zu prüfen. Bis zum Abschluss dieser Überprüfung wurden sämtliche anstehenden Termine für Hinrichtungen im gesamten Bundesstaat vorerst ausgesetzt, um weitere Zwischenfälle dieser Art verlässlich zu verhindern.",
+    "Der Fall stößt auch international auf große Aufmerksamkeit und verstärkt die Debatte über die Abschaffung der Todesstrafe in den Vereinigten Staaten. Während Befürworter der Todesstrafe die Schwere des ursprünglichen Verbrechens betonen und Gerechtigkeit für die Opfer fordern, sehen Gegner in dem Vorfall einen klaren Beweis für das Scheitern des Systems. Juristische Beobachter erwarten, dass die Verteidiger von Christa Pike den Fall bis vor die höchsten Instanzen tragen werden, um zu verhindern, dass die Insassin ein weiteres Mal dem qualvollen Prozess ausgesetzt wird.",
+    "Der Zustand von Christa Pike im Krankenhaus wird von den Behörden weiterhin streng überwacht, während ihre Anwälte täglichen Zugang zu medizinischen Unterlagen fordern. Die erneute Debatte könnte weitreichende Konsequenzen für die Gesetzgebung in Tennessee und anderen US-Bundesstaaten haben, die weiterhin an der Giftspritze festhalten. Ob die Justiz einen erneuten Hinrichtungsversuch wagen kann, bleibt rechtlich äußerst umstritten und wird in den kommenden Monaten die US-Gerichte intensiv beschäftigen, während Bürgerrechtler eine endgültige Umwandlung der Strafe in lebenslange Haft ohne Begnadigung fordern."
+   ]
+  }
+ ],
+ "desks": [
+  {
+   "name": "Luxembourg",
+   "stories": [
+    {
+     "source": "Luxemburger Wort",
+     "lang": "de",
+     "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNZlZwRnpfMzYzSGtrNVV6ZFVBdXlCNE55eDBZSjdKQ0lpT1hHQjFWTEhJaTI5WUJyYnA0MzNfaEl3V2JHQjhtd1dyMEhDTEZTTm9uT2pWeDA3UVY0NHNsMWVvTzFPYWRvYzFkczlLVGJpd1NmRWtVTizeqXNlcVdqZkg1cXViQnpvRkJlMHJDQ1JVa3hHak9LMkVfZERzQ2RqV3FfUEc0cF9IaHBrUQ?oc=5",
+     "headline": "Nach der Causa Fridman bekräftigt Luc Frieden seine Ukraine-Linie",
+     "headlineEn": "After the Fridman case, Luc Frieden reaffirms his Ukraine stance",
+     "summary": "Nach den jüngsten öffentlichen Auseinandersetzungen um den russischen Geschäftsmann Mikhail Fridman hat Premierminister Luc Frieden den politischen Kurs der luxemburgischen Regierung zur Unterstützung der Ukraine erneut ausdrücklich bekräftigt. Der Regierungschef betonte vor diesem Hintergrund, dass das Großherzogtum weiterhin unerschütterlich an der Seite Kiews stehe und sämtliche europäischen Sanktionen gegen Russland vollständig und konsequent mittrage. Die Kontroverse um Fridman hatte in den vergangenen Tagen intensive politische Debatten über Finanzbeziehungen und Sanktionsprüfungen in Luxemburg ausgelöst. Frieden stellte klar, dass die Einhaltung rechtsstaatlicher Verfahren garantiert bleibe, Luxemburg seine solidarische Haltung gegenüber der Ukraine jedoch uneingeschränkt fortführen werde.",
+     "why": "Ce positionnement du Premier ministre vise à rassurer les partenaires européens sur la fermeté de Luxembourg face à la Russie après la polémique Fridman.",
+     "paywalled": true,
+     "contested": "",
+     "chart": null
+    },
+    {
+     "source": "Luxemburger Wort",
+     "lang": "de",
+     "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPTjA2WkZSZnRVMHRZQjlJbk5fdnExS0hrUW1yTksxUWhGeUpqa2pkaUZrbmUzNklwbkVEQzFKODBMOU0xUnNwTkdSNjRSMmxfR2JIYzAzS2FrTFhZaHhNQ2pUNnM2RkV2a2RFX3dZMndkYnp0THl5RDdiVnJLYTNkb3BQcld1dDY4aHVNdkhVTXdRbjRE?oc=5",
+     "headline": "BIL-Verkauf: „Der Staat sollte die Bank kaufen“",
+     "headlineEn": "BIL sale: \"The state should buy the bank\"",
+     "summary": "Angesichts der aktuellen Verkaufspläne für die Banque Internationale à Luxembourg (BIL) werden die Forderungen nach einem direkten staatlichen Eingreifen im Großherzogtum immer lauter. Verschiedene politische Akteure und Finanzexperten sprechen sich dafür aus, dass der luxemburgische Staat die Bank selbst erwerben sollte, um die Stabilität des heimischen Finanzplatzes dauerhaft zu sichern. Die BIL gehört zu den ältesten und bedeutendsten Kreditinstituten des Landes und nimmt eine Schlüsselrolle bei der Finanzierung der lokalen Wirtschaft ein. Durch eine staatliche Übernahme könnte verhindert werden, dass strategisch wichtige Entscheidungsgewalten künftig vollständig an ausländische Investoren ohne engen Bezug zum Standort Luxemburg abgegeben werden.",
+     "why": "L'avenir de la BIL est un enjeu stratégique majeur pour la souveraineté financière et l'économie du Grand-Duché.",
+     "paywalled": true,
+     "contested": "",
+     "chart": null
+    },
+    {
+     "source": "Luxemburger Wort",
+     "lang": "de",
+     "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOY2RwTzNheXZ2aXZlTDV5WlRfenRrNjdSWUxRWUZBelJpS1FhdHBGdWVsMDlyN0t6bXg0Ry1PLVFUTzNZRHZrTE1mdGZyeXpKWjVFZjdMRklZSlRwclBrQVAzRVRZQ2MzM19RYm1XeGQxUXlrQzBxbWFNUDdFeWoxWHU0M3Q1UzBPQ0ZjcWYzbnhxcWhkdjYtdEhMT0tJOXlObXUwUHJMYWV2XzZ2LWc?oc=5",
+     "headline": "Bommeleeër-Bis-Berufungsprozess beginnt am 27. Oktober",
+     "headlineEn": "Bommeleeër-Bis appeal trial begins on October 27",
+     "summary": "Der lang erwartete Berufungsprozess im sogenannten Bommeleeër-Bis-Verfahren wird am 27. Oktober vor dem luxemburgischen Bezirksgericht officially beginnen. Das Verfahren dreht sich um die mysteriöse Bombenserie der 1980er-Jahre, die das Großherzogtum über Jahre hinweg in Atem hielt und schwere Erschütterungen im Polizeiapparat auslöste. In dieser Berufungsinstanz sollen offene Rechtsfragen und mutmaßliche Versäumnisse der bisherigen Ermittlungen erneut juristisch aufgerollt und bewertet werden. Für die luxemburgische Justiz und die Öffentlichkeit stellt dieser Prozess einen entscheidenden Schritt dar, um das dunkelste Kapitel der jüngeren Kriminalgeschichte des Landes endlich aufzuarbeiten.",
+     "why": "Ce procès en appel ravive l'une des affaires criminelles et politiques les plus marquantes et mystérieuses de l'histoire moderne de Luxembourg.",
+     "paywalled": true,
+     "contested": "",
+     "chart": null
+    }
+   ]
+  },
+  {
+   "name": "Monde / géopolitique",
+   "stories": [
+    {
+     "source": "BBC News",
+     "lang": "en",
+     "url": "https://www.bbc.co.uk/news/articles/ckjw5jx2l393o?at_medium=RSS&at_campaign=rss",
+     "headline": "Russia launches largest attack on Ukraine energy infrastructure since spring",
+     "headlineEn": "La Russie lance sa plus grande attaque contre les infrastructures énergétiques ukrainiennes depuis le printemps",
+     "summary": "Russia has launched its largest coordinated missile and drone strike against Ukraine’s energy infrastructure since last spring, targeting facilities across eleven separate regions. The extensive overnight bombardment triggered immediate power outages and heightened blackout risks in Kyiv and other major urban centres as winter approaches. Ukrainian government officials confirmed that at least seven people, including a child, were killed while residential buildings and key railway routes sustained heavy damage. President Volodymyr Zelensky and military leaders warned that Moscow is deliberately attempting to destroy electricity supplies to render Ukrainian cities unlivable during the freezing months ahead.",
+     "why": "Ces frappes massives à l'approche de l'hiver visent à paralyser le réseau électrique ukrainien et à briser le moral de la population civile.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    },
+    {
+     "source": "DW",
+     "lang": "de",
+     "url": "https://www.dw.com/de/usa-beenden-offiziell-militäreinsatz-im-irak/a-79488891?maca=de-rss-de-all-1119-rdf",
+     "headline": "USA beenden offiziell Militäreinsatz im Irak",
+     "headlineEn": "US officially ends military mission in Iraq",
+     "summary": "Die Vereinigten Staaten haben ihren langjährigen Militäreinsatz zur Bekämpfung der Terrormiliz „Islamischer Staat“ im Irak nun offiziell für beendet erklärt. Nach mehr als zwei Jahrzehnten US-amerikanischer Truppenpräsenz zogen die verbliebenen Verbände aus ihren verbliebenen Stützpunkten im Land ab, was in Bagdad von offiziellen Feierlichkeiten begleitet wurde. Während viele Iraker das Ende der ausländischen Militärpräsenz feierten, blicken Analysten und Diplomaten mit großer Sorge auf die künftige Sicherheitslage in der Region. Es besteht die Befürchtung, dass der vollständige Abzug das geopolitische Kräfteverhältnis im Nahen Osten weiter massiv zugunsten Teherans verschieben könnte.",
+     "why": "Le retrait américain met fin à plus de 20 ans de présence militaire et laisse un vide sécuritaire que Téhéran cherche à exploiter.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    },
+    {
+     "source": "Le Monde",
+     "lang": "fr",
+     "url": "https://www.lemonde.fr/international/article/2026/10/01/aux-etats-unis-pete-hegseth-le-secretaire-a-la-defense-revendique-une-reduction-de-20-du-nombre-de-hauts-grades-et-poursuit-la-reconfiguration-de-l-armee_6786428_3210.html",
+     "headline": "Aux Etats-Unis, Pete Hegseth, le secrétaire à la défense, revendique une réduction de 20 % du nombre de hauts gradés et poursuit la reconfiguration de l’armée",
+     "headlineEn": "In the US, Defense Secretary Pete Hegseth claims 20% cut in top commanders and continues military overhaul",
+     "summary": "Le secrétaire américain à la Défense, Pete Hegseth, a annoncé une réduction drastique de 20 % du nombre de généraux et d'amiraux au sein des forces armées des États-Unis. Lors de son discours sur l'état de la force devant des cadres militaires, le chef du Pentagone a réaffirmé sa volonté d'opérer une véritable révolution culturelle dans les rangs armés. Il entend réorienter l'institution vers les guerres du futur, en simplifiant la chaîne de commandement et en éliminant la bureaucratie excessive. Cette mesure sans precedent suscite de vives réactions au sein du haut commandement militaire et du Congrès.",
+     "why": "Cette restructuration majeure de la hiérarchie militaire américaine traduit la volonté de l'administration Trump de réorienter l'armée vers les conflits modernes.",
+     "paywalled": true,
+     "contested": "",
+     "chart": null
+    }
+   ]
+  },
+  {
+   "name": "International — hors Europe",
+   "stories": [
+    {
+     "source": "Al Jazeera",
+     "lang": "en",
+     "url": "https://www.aljazeera.com/news/2026/10/1/afghanistan-says-nine-killed-in-pakistani-air-raids-on-kunar-helmand?traffic_source=rss",
+     "headline": "Pakistan says 22 fighters killed in air attacks on Afghanistan hideouts",
+     "headlineEn": "Le Pakistan affirme avoir tué 22 combattants lors de frappes aériennes sur des repaires en Afghanistan",
+     "summary": "Pakistani military forces launched air strikes targeting militant hideouts inside eastern Afghanistan, claiming to have killed twenty-two fighters in the cross-border operation. Islamabad stated that the raids targeted armed groups responsible for carrying out recent terrorist attacks inside Pakistani territory from across the border. However, Taliban officials in Kabul strongly condemned the military action, asserting that the bombardments in Kunar and Helmand provinces resulted in the deaths of nine civilians, including women and children. The conflicting accounts highlight growing diplomatic and security tensions between the two neighboring Asian nations along their volatile border.",
+     "why": "Ces frappes transfrontalières aggravent dangereusement les tensions diplomatiques et sécuritaires entre Islamabad et le régime taliban.",
+     "paywalled": false,
+     "contested": "Le Pakistan affirme avoir éliminé 22 combattants armés, tandis que les autorités talibanes à Kaboul soutiennent que les frappes ont tué neuf civils, dont des femmes et des enfants.",
+     "chart": null
+    },
+    {
+     "source": "Washington Post",
+     "lang": "en",
+     "url": "https://www.washingtonpost.com/world/2026/09/29/morocco-appoints-its-first-female-prime-minister/",
+     "headline": "Morocco appoints its first female prime minister",
+     "headlineEn": "Le Maroc nomme sa première femme Première ministre",
+     "summary": "King Mohammed VI of Morocco has issued an official royal decree appointing Fatima Zahra El Mansouri as the country’s first female prime minister in history. El Mansouri, who previously served as mayor of Marrakech and held senior government roles, has been tasked with forming a new cabinet and leading coalition negotiations with political parties. Her landmark nomination represents a major political milestone for gender representation across North Africa and the broader Arab region. The incoming Prime Minister and her coalition will face immediate challenges, including addressing inflation, boosting youth employment, and driving national economic reforms.",
+     "why": "Cette nomination historique marque une étape majeure pour la représentation des femmes dans les plus hautes fonctions politiques du monde arabe.",
+     "paywalled": true,
+     "contested": "",
+     "chart": null
+    },
+    {
+     "source": "Euronews",
+     "lang": "en",
+     "url": "https://www.euronews.com/2026/10/01/japans-sanae-takaichi-announces-new-tightened-measures-for-foreigners-seeking-permanent-re",
+     "headline": "Japan's Sanae Takaichi announces new tightened measures for foreigners seeking permanent residency",
+     "headlineEn": "La Japonaise Sanae Takaichi annonce de nouvelles mesures renforcées pour les étrangers demandant la résidence permanente",
+     "summary": "Japanese Prime Minister Sanae Takaichi has announced a series of strict new measures governing foreign nationals seeking permanent residency status in Japan. The conservative leader outlined the immigration reforms to fulfill campaign promises made during her decisive supermajority election victory in February. Under the updated regulations, applicant screening will become significantly more rigorous, with stricter tax compliance checks and higher income thresholds required. Takaichi stated that while Japan continues to welcome skilled labor to address demographic shortages, the government must ensure that long-term immigration policies uphold national security and social cohesion.",
+     "why": "Ces restrictions reflètent le virage conservateur du gouvernement japonais, cherchant à concilier besoin de main-d'œuvre et contrôle strict de l'immigration.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    },
+    {
+     "source": "Al Jazeera",
+     "lang": "en",
+     "url": "https://www.aljazeera.com/economy/2026/10/1/south-koreas-exports-hit-record-high-on-ai-boom?traffic_source=rss",
+     "headline": "South Korea’s exports hit record high on AI boom",
+     "headlineEn": "Les exportations de la Corée du Sud atteignent un niveau record grâce au boom de l'IA",
+     "summary": "South Korea’s monthly export revenues have surged to an all-time high, driven by unprecedented global demand for advanced semiconductors and artificial intelligence technology components. Official trade data revealed that total exports jumped by 83.5 percent year-on-year, surpassing 120 billion dollars in a single month for the first time in history. Leading tech manufacturers in Seoul benefited directly from the booming international market for high-bandwidth memory chips essential for AI infrastructure. Economists noted that while tech exports remain exceptionally strong, trade officials are closely monitoring rising energy costs and potential international tariff adjustments.",
+     "why": "La demande mondiale massive en puces mémoire pour l'intelligence artificielle propulse l'économie sud-coréenne vers des sommets historiques.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    },
+    {
+     "source": "Foreign Affairs",
+     "lang": "en",
+     "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5xQldDUHA1dUd3OWxkQVRYX1B2RjlKQ0w4Ym8wYUhKUjBLdExJbm9KR3dwM2VIQ3dUOS1XV3pLbWFObGQtbHZYZGZ3dENTcjBDdXpjSy1vcWtxUkJBZ3RVNHkzbWU3aW5EaVhuMERzTnc?oc=5",
+     "headline": "Why Iran Escalates",
+     "headlineEn": "Pourquoi l'Iran choisit l'escalade",
+     "summary": "An in-depth analysis in Foreign Affairs examines the strategic motivations driving Iran’s increasingly aggressive regional posture and military signaling across the Middle East. The article details how internal political dynamics, economic pressures, and fear of regime weakness have pushed Tehran’s leadership to rely heavily on deterrence through escalation. By leveraging regional proxy networks and accelerating its nuclear capabilities, Iran aims to project strength and force foreign powers into diplomatic concessions. Foreign policy experts argue that without a coherent international strategy combining credible deterrence with economic engagement, regional instability is likely to intensify further.",
+     "why": "Une analyse approfondie des leviers internes et géopolitiques qui poussent Téhéran à la surenchère militaire au Moyen-Orient.",
+     "paywalled": true,
+     "contested": "",
+     "chart": null
+    }
+   ]
+  },
+  {
+   "name": "Europe & politiques de l'UE",
+   "stories": [
+    {
+     "source": "DW",
+     "lang": "en",
+     "url": "https://www.dw.com/en/five-eu-states-plan-first-deportation-center-in-africa-for-2027/a-79490162?maca=en-rss-en-world-4025-rdf",
+     "headline": "Five EU states plan first deportation center in Africa for 2027",
+     "headlineEn": "Cinq États membres de l'UE prévoient de créer un premier centre de rétention en Afrique pour 2027",
+     "summary": "Five European Union member states, including Germany, Austria, Greece, Denmark, and the Netherlands, are advancing plans to build a collective deportation center in Africa by 2027. According to reports, an African partner nation has already been chosen to host the facility, which will process and hold asylum seekers whose claims have been rejected within the bloc. The joint initiative reflects a growing political consensus among several European governments to externalize migration management and speed up returns. Critics and human rights organizations have voiced concerns over legal safeguards, accountability, and the humanitarian conditions in offshore facilities.",
+     "why": "Cette initiative marque une nouvelle étape vers l'externalisation de la gestion des demandes d'asile et de l'éloignement des migrants hors des frontières de l'UE.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    },
+    {
+     "source": "France 24",
+     "lang": "fr",
+     "url": "https://www.france24.com/fr/vid%C3%A9o/20260930-blocages-des-lyc%C3%A9es-la-mobilisation-se-poursuit",
+     "headline": "Blocages des lycées : la mobilisation se poursuit",
+     "headlineEn": "High school blockades: Mobilisation continues in France",
+     "summary": "En France, le mouvement de protestation des lycéens contre la pénurie d'enseignants et le surpeuplement des classes se poursuit sur l'ensemble du territoire national. L'Union syndicale lycéenne a d'ores et déjà annoncé le lancement d'un nouvel acte de mobilisation prévu pour le 6 octobre prochain. Selon les bilans officiels communiqués par les autorités, les rassemblements et blocages ont donné lieu à 119 blessés parmi les élèves et le personnel, ainsi qu'à 625 interpellations depuis le début du mouvement. La situation suscite de vives tensions politiques alors que de nombreux établissements demeurent perturbés.",
+     "why": "La contestation étudiante met sous pression le gouvernement français sur la question des moyens alloués aux services publics de l'éducation.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    },
+    {
+     "source": "BBC",
+     "lang": "en",
+     "url": "https://www.bbc.co.uk/news/articles/c6n8m33pn9djo?at_medium=RSS&at_campaign=rss",
+     "headline": "Six smugglers jailed for manslaughter over worst Channel small boats disaster",
+     "headlineEn": "Six passeurs condamnés à de la prison pour homicide involontaire après le pire naufrage dans la Manche",
+     "summary": "A French court has sentenced six human smugglers to prison terms for manslaughter following the tragic sinking of a migrant boat in November 2021, which resulted in thirty-one deaths in the English Channel. The judicial investigation revealed that the convicted individuals belonged to two distinct human trafficking networks operating along the northern French coastline. The tragedy represents the deadliest disaster recorded involving small migrant craft crossing the Channel toward the United Kingdom. British and French judicial authorities hailed the verdict as a crucial step in dismantling criminal syndicates exploiting vulnerable migrants seeking passage.",
+     "why": "Ce jugement marque l'aboutissement judiciaire du drame le plus meurtrier lié aux traversées clandestines de la Manche.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    }
+   ]
+  },
+  {
+   "name": "Économie & marchés",
+   "stories": [
+    {
+     "source": "FAZ",
+     "lang": "de",
+     "url": "https://www.faz.net/aktuell/wirtschaft/mehr-wirtschaft/tankrabatt-startet-mit-schnell-fallenden-preisen-accg-201278642.html",
+     "headline": "Benzin und Diesel: Tankrabatt startet mit schnell fallenden Preisen",
+     "headlineEn": "Petrol and diesel: Fuel discount starts with rapidly falling prices",
+     "summary": "In Deutschland ist der staatliche Tankrabatt in der Nacht zum Donnerstag offiziell in Kraft getreten, um Autofahrer angesichts sehr hoher Energiepreise spürbar zu entlasten. An zahlreichen Zapfsäulen fielen die Kraftstoffpreise bereits um Mitternacht deutlich, sodass Super E10 an einigen Tankstellen wieder für unter zwei Euro pro Liter angeboten werden konnte. Die staatliche Maßnahme zielt darauf ab, die Literpreise für Benzin und Diesel um etwa 17 Cent zu senken. Verbraucherschützer und der Autoclub ADAC äußerten sich jedoch skeptisch darüber, ob und wie nachhaltig diese Vergünstigungen letztlich an die Verbraucher weitergegeben werden.",
+     "why": "L'efficacité du rabais à la pompe allemand sera scrutée de près par ses voisins européens confrontés à l'inflation des carburants.",
+     "paywalled": true,
+     "contested": "",
+     "chart": null
+    },
+    {
+     "source": "France 24",
+     "lang": "fr",
+     "url": "https://www.france24.com/fr/%C3%A9co-tech/20260930-rachat-warner-bros-accord-entre-paramount-12-etats-americains-valide-par-juge-cinema-television-etats-unis-streaming-californienne",
+     "headline": "Rachat de Warner Bros : l'accord entre Paramount et 12 États américains validé par une juge",
+     "headlineEn": "Warner Bros acquisition: Settlement between Paramount and 12 US states approved by judge",
+     "summary": "Une juge fédérale américaine d'Oakland a officiellement validé l'accord amiable conclu entre le groupe Paramount Skydance et douze États américains. Cette décision judiciaire lève l'ultime obstacle juridique à la réalisation du rachat historique de Warner Bros pour un montant de 110 milliards de dollars. La procédure, initiée en juillet dernier en raison de craintes de distorsion de la concurrence dans le secteur du cinéma et du streaming, prend ainsi fin. Le rapprochement va donner naissance à un géant mondial des médias, remodelant profondément le paysage audiovisuel américain et international.",
+     "why": "Ce feu vert judiciaire concrétise l'une des plus importantes fusions du secteur des médias et du divertissement.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    },
+    {
+     "source": "FT",
+     "lang": "en",
+     "url": "https://www.ft.com/content/bc38ab9d-d8b1-4f48-a804-f7c186e98b9b?syn-25a6b1a6=1",
+     "headline": "Boots set to get carved out of private equity",
+     "headlineEn": "Boots s'apprête à être cédé par la société de capital-investissement",
+     "summary": "Private equity firm Sycamore Partners is nearing an agreement valued at approximately nine billion dollars to sell the British pharmacy chain Boots to the billionaire Weston family. The transaction represents a major restructuring for the iconic High Street retailer, which had previously been acquired by Walgreens Boots Alliance. Negotiations are in their final stages as the buyers seek to acquire full operational control of the retail network. If completed, this deal will mark one of the largest retail transactions in the United Kingdom this year, restoring local ownership to the long-standing national drugstore chain.",
+     "why": "La vente de la célèbre chaîne de pharmacies britannique témoigne du désengagement progressif des fonds de private equity de la distribution physique.",
+     "paywalled": true,
+     "contested": "",
+     "chart": null
+    }
+   ]
+  },
+  {
+   "name": "Technologie & sciences",
+   "stories": [
+    {
+     "source": "BBC",
+     "lang": "en",
+     "url": "https://www.bbc.co.uk/news/articles/c6n9w0ypjwl9o?at_medium=RSS&at_campaign=rss",
+     "headline": "Swiss glaciers suffer 'disastrous' year of ice loss, threatening water supplies",
+     "headlineEn": "Les glaciers suisses subissent une année « désastreuse » de perte de glace, menaçant l'approvisionnement en eau",
+     "summary": "Glaciologists in Switzerland report another disastrous year of rapid melting, with more than five percent of the total ice volume of Swiss glaciers vanishing in 2026 alone. Scientists emphasize that such accelerated ice loss is directly linked to persistent high summer temperatures and changing global climate patterns. The shrinking glaciers pose severe risks to freshwater supplies, hydroelectric power generation, and regional ecosystems across continental Europe. Researchers warn that under current climatic conditions, Alpine glaciers lack the capacity to recover, signaling long-term structural environmental changes that will affect downstream communities for decades to come.",
+     "why": "La fonte accélérée des glaciers alpins menace directement les réserves d'eau douce et le réseau hydroélectrique européen.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    },
+    {
+     "source": "Reuters",
+     "lang": "en",
+     "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOYzhEbGpQTnhlQWp0SnozRGlpaGlBQ3Fud3lnTHB5Wi15NmJDaXhZZ2RGc2ZSUDJVYjZuY3RaQ3V5ajUtelBiU3E5UDlMVUtMY3hOUG02ZW9McXotTWdPeUVRMG9uWG00ZG1ZVTZTUTBWVm1aSUxvdVJRajZ5NTR4aGdoblF6dktQV2VSVDVENmJybDBRaldyTDRSclVVRVBKeHFfeW14Vk5pVEl3NlE?oc=5",
+     "headline": "AI agents tried to hack Canadian government website, research firm says",
+     "headlineEn": "Des agents d'IA ont tenté de pirater un site gouvernemental canadien, selon une entreprise de recherche",
+     "summary": "Autonomous artificial intelligence agents attempted to infiltrate an official Canadian government website, according to new research published by cybersecurity firm Asymmetric Security. The investigation highlights novel tactics deployed by AI-driven tools, which actively obscured their malicious reconnaissance activities to bypass standard security filters. Experts warn that the incident represents a growing trend where sophisticated AI models are leveraged to automate cyberattacks against critical public infrastructure. The findings have prompted security analysts to call for enhanced safeguards and stricter regulatory standards to mitigate the emerging risks associated with autonomous software deployment in online threat landscapes.",
+     "why": "L'utilisation d'agents d'IA autonomes dans des cyberattaques franchit un nouveau palier dans les menaces pesant sur les infrastructures publiques.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    },
+    {
+     "source": "Reuters",
+     "lang": "en",
+     "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNR3F1ZTMtVFZsOVNXOEU4X09jTTI0RDVYNUJmQUNVVUhJQkV6YlRmdldFaWwyVzU1UnZLQl9Ia0tqTHlBZ09SUXZ6VC1kcEx6bjQyQlgxXzI1YVpwYldSV3NwNXZRRkFPSWQzclhFbE04anBtbnRZV2FwRUlIMmU2eVV3M0VscEE1Znd5bU5rNEhwWVVXdlR0c2tIbnlnald3VVBJdVFiTDZMUmhqV0x1bE1jVVR2STZ5bHdF?oc=5",
+     "headline": "China’s Tencent leases 100,000 chips from Oracle to accelerate AI push, FT reports",
+     "headlineEn": "Tencent loue 100 000 puces auprès d'Oracle pour accélérer son offensive dans l'IA, selon le FT",
+     "summary": "Chinese technology giant Tencent has entered into a major agreement to lease 100,000 advanced artificial intelligence processing chips from Oracle, according to media reports. The strategic computing deal aims to significantly boost Tencent’s technical capability to train and deploy complex generative AI models despite tightening trade restrictions. By securing cloud-based hardware infrastructure from an American vendor, the Shenzhen-based firm seeks to maintain its competitive edge in the rapidly expanding global artificial intelligence market. The arrangement illustrates how international tech companies continue to navigate regulatory hurdles to fulfill the surging demand for high-performance AI chips.",
+     "why": "Ce contrat contourne partiellement les restrictions d'exportation américaines pour alimenter la course chinoise aux modèles d'IA de pointe.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    }
+   ]
+  },
+  {
+   "name": "Sport",
+   "stories": [
+    {
+     "source": "SZ",
+     "lang": "de",
+     "url": "https://www.sueddeutsche.de/sport/klopp-muenchen-pressekonferenz-kapitaen-li.3556612",
+     "headline": "DFB-Team: Klopps kleine Verteidigungsrede",
+     "headlineEn": "DFB team: Klopp's brief speech of defense",
+     "summary": "Vor dem bevorstehenden Länderspiel der deutschen Nationalmannschaft gegen Serbien hat Bundestrainer Jürgen Klopp um Geduld für den neu eingeschlagenen Kurs gebeten. In Abwesenheit des verletzten Stammkapitäns Joshua Kimmich wählte der Coach eine pragmatische Lösung für die Kapitänsfrage. Klopp betonte, dass der Umbau der Mannschaft Zeit benötige, um auf höchstem internationalem Niveau wieder dauerhaft erfolgreich zu agieren und stabile Ergebnisse zu erzielen.",
+     "why": "Jürgen Klopp versucht, vor dem Serbien-Spiel den Erwartungsdruck auf den Neuaufbau der Nationalmannschaft zu dämpfen.",
+     "paywalled": true,
+     "contested": "",
+     "chart": null
+    },
+    {
+     "source": "AP",
+     "lang": "en",
+     "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOMmpYX3poc0tZNU9vdWM5ZVpaTjg0dFNyMDA5bEU2S041Wkw4NGZNOFEwSzgwYVFOVVVDcldkRmVNWGI1b25PQ3VqT3FicHFBQ0JjR2R0SnB0cVhzeUhlN2xCVzdhcjlwZG9LcDRUQ3dPUlNJcHJxdGpLamxoaEVPLXBpRlczVDFOWHhHN3c5UXBhQ0dHaWc?oc=5",
+     "headline": "Potential sanctions against Man City could range from fines to expulsion from the Premier League",
+     "headlineEn": "Les sanctions potentielles contre Man City pourraient aller d'amendes à l'exclusion de la Premier League",
+     "summary": "Premier League champion Manchester City faces severe potential disciplinary sanctions as hearings into alleged financial rule breaches continue. Legal experts note that penalties could span from substantial financial fines and points deductions to outright expulsion from the top flight. The outcome of the high-stakes proceedings is being closely watched across European football, with rival clubs demanding strict enforcement of financial fair play rules.",
+     "why": "L'issue de la procédure contre Manchester City pourrait rédéfinir les règles du fair-play financier du football européen.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    }
+   ]
+  }
+ ],
+ "sourced": true,
+ "feeds": {
+  "ok": 28,
+  "of": 29,
+  "items": 256,
+  "skipped": [
+   "Euronews (FR): HTTP 406"
+  ]
+ },
+ "words": 3712,
+ "readMin": 19,
+ "storyCount": 24
+}
