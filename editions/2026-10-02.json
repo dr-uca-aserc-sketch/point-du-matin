@@ -1,0 +1,257 @@
+{
+ "date": "2026-10-02",
+ "kind": "daily",
+ "heat": 0.85,
+ "oneThing": "A Flydubai flight to Israel made an emergency landing in Saudi Arabia after passengers stopped a co-pilot who stabbed the captain mid-air.",
+ "followUps": [
+  {
+   "n": "01",
+   "thread": "Tensions énergétiques et réserves de gazole",
+   "change": "Washington accentue sa pression sur l'Europe pour qu'elle libère immédiatement ses réserves de gazole afin de contenir l'envolée mondiale des prix des carburants."
+  },
+  {
+   "n": "02",
+   "thread": "Crise diplomatique dans la Corne de l'Afrique",
+   "change": "L'Érythrée et l'Éthiopie ont rompu leurs relations diplomatiques après des accusations réciproques d'hostilité et des frappes de drones à Addis-Abeba."
+  },
+  {
+   "n": "03",
+   "thread": "Retrait militaire américain du Moyen-Orient",
+   "change": "L'Irak a célébré le départ définitif des dernières troupes de la coalition internationale après vingt-trois années de présence militaire américaine."
+  }
+ ],
+ "mustReads": [
+  {
+   "desk": "Moyen-Orient",
+   "source": "AP News",
+   "lang": "EN",
+   "paywalled": false,
+   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOSUVoWWFZd2hfb29WZ0tCQV83bTRCdFI5TTVLbWh4bHdxcWRxTTY5N2gxN0I4ZkN5TUp4YVpaVGMtSTRjTGRTMkV5cHVLeEl4a19lWXNBdzZVeXVnMGNCanJWdTRSNjVDUzRtSndzQ2ZBV3RsdlBXNkRlVGd5WXRaU2UweXFIVG1DVWpWby1sekV4Y1FBTDZtS1Z5aFVXSE9venYxdTRn?oc=5",
+   "headline": "Pilot stabs fellow pilot on flight to Israel before passengers intervene to stop attack",
+   "headlineEn": "Un pilote poignarde son collègue à bord d'un vol vers Israël avant l'intervention des passagers",
+   "contested": "",
+   "why": "L'attaque survenue en plein vol souligne les vulnérabilités sécuritaires internes dans l'aviation commerciale et ravive les tensions géopolitiques régionales.",
+   "stat": "180",
+   "statLabel": "Passagers sains et saufs après l'atterrissage d'urgence en Arabie saoudite",
+   "chart": null,
+   "paras": [
+    "A commercial flight carrying over 180 passengers from Dubai to Tel Aviv narrowly escaped disaster when a co-pilot launched a knife attack on the captain inside the cockpit. Flydubai Flight 1073 was forced to make an emergency landing in Saudi Arabia after crew members and courageous passengers heroically intervened to restrain the assailant. The sudden outbreak of violence mid-air sent shockwaves through international aviation authorities and security agencies. Emergency responders met the aircraft immediately upon landing, transporting the injured captain to a local medical facility where he remains under treatment for multiple knife wounds.",
+    "Initial investigations revealed that the co-pilot attempted to lock himself in the cockpit after incapacitating the captain, aiming to crash the passenger aircraft. However, prompt action by off-duty personnel and quick-thinking travelers managed to breach the cabin door before critical controls could be manipulated. Preliminary security reports indicate that the attacker acted alone, though questions regarding pre-flight screening and mental health evaluations have immediately come into focus. Aviation experts emphasize that standard cockpit security protocols are primarily designed to prevent external threats rather than internal betrayal by flight crew members who hold official clearance.",
+    "Israeli Prime Minister Benjamin Netanyahu addressed the public regarding the incident, claiming the suspect was driven by radical extremist ideology and intended to destroy the plane. Israeli intelligence services are collaborating closely with regional counterparts to establish whether the individual was affiliated with foreign militant groups or acted as a self-radicalized lone actor. Meanwhile, authorities in the United Arab Emirates have launched a formal terrorism investigation, asserting full jurisdiction over the airline and its flight operations. Officials stressed that all legal mechanisms will be utilized to determine the full scope of any potential conspiracy involved.",
+    "The identity of the captain, an experienced aviator from India named Smit Machchhar, has been widely praised across international media for his remarkable bravery during the crisis. Despite sustaining severe physical injuries, Machchhar managed to maintain partial control of the aircraft and signal for emergency assistance before losing consciousness. Passengers aboard the flight recalled moments of extreme panic in the cabin when alarms sounded and crew members requested immediate assistance. The successful intervention prevented what could have been one of the deadliest aviation catastrophes in recent regional history, earning widespread gratitude from international leaders.",
+    "Disinformation rapidly spread across social media platforms following the emergency landing, including a fabricated video falsely claiming foreign intelligence involvement in the cockpit incident. Fact-checkers quickly debunked these viral deepfake clips, urging the public to rely exclusively on official state communications and verified investigative updates. Regional aviation authorities warned that circulating unverified rumors during an active national security investigation creates unnecessary panic and complicates diplomatic coordination. Law enforcement agencies are actively monitoring digital channels to suppress deliberate misinformation campaigns intended to inflame geopolitical tensions across the volatile Middle East region.",
+    "Global airline industry representatives have called for an immediate re-evaluation of pilot mental health screening procedures and cockpit access regulations following this alarming incident. Industry analysts point out that while post-2001 regulations reinforced flight deck doors against passenger intrusions, they created unexpected vulnerabilities when threats originate from inside the cockpit itself. Regulators across Europe, North America, and Asia are expected to review mandatory multi-crew presence requirements and psychological assessment frequencies for commercial airliners. The outcome of the joint investigation in Saudi Arabia and the United Arab Emirates will likely shape international safety standards for years to come."
+   ]
+  },
+  {
+   "desk": "États-Unis / Société",
+   "source": "DW",
+   "lang": "DE",
+   "paywalled": false,
+   "url": "https://www.dw.com/de/todesstrafe-in-den-usa-die-grausamkeit-der-giftspritze/a-79506042?maca=de-rss-de-all-1119-rdf",
+   "headline": "Todesstrafe in den USA: Die Grausamkeit der Giftspritze",
+   "headlineEn": "Capital punishment in the US: The cruelty of lethal injection",
+   "contested": "",
+   "why": "L'échec dramatique d'une exécution par injection létale relance le débat éthique et constitutionnel sur la peine de mort aux États-Unis.",
+   "stat": "",
+   "statLabel": "",
+   "chart": null,
+   "paras": [
+    "Im US-Bundesstaat Tennessee hat ein gescheiterter Hinrichtungsversuch eine Welle des Entsetzens und eine erneute Debatte über die Todesstrafe ausgelöst. Die fünfzigjährige Insassin Christa Gail Pike sollte nach Jahrzehnten im Gefängnis durch eine tödliche Injektion hingerichtet werden. Das Verfahren musste jedoch abgebrochen werden, nachdem zwei verabreichte Dosen von Pentobarbital nicht die erwartete Wirkung zeigten. Die Verurteilte verblieb stundenlang in einem qualvollen Zustand auf der Liege, bevor das Hinrichtungsteam den Vorgang stornierte. Die Rechtsanwälte von Pike forderten umgehend die endgültige Umwandlung der Todesstrafe in eine lebenslange Freiheitsstrafe ohne Bewährung.",
+    "Nach dem Vorfall ordnete der Gouverneur von Tennessee eine sofortige Aussetzung aller geplanten Hinrichtungen im Bundesstaat an. Medizinische Experten und Anwälte kritisierten die Methodik der Giftspritze scharf und bezeichneten die Geschehnisse als unwerfliche Grausamkeit. Pike wurde unverzüglich in ein nahegelegenes Krankenhaus eingeliefert, wo sie sich nach Angaben ihrer Verteidiger in einem kritischen Zustand befindet. Der Vorfall wirft ein grelles Schlaglicht auf die technischen und medizinischen Unzulänglichkeiten bei der Beschaffung sowie Verabreichung von Hinrichtungschemikalien in den Vereinigten Staaten. Immer wieder kommt es dabei zu gravierenden Pannen mit dramatischen gesundheitlichen Folgen.",
+    "Rechtsexperten betonen, dass der Fall von Christa Pike juristisches Neuland betreten könnte, da zwei gescheiterte Injektionsversuche als verfassungswidrige grausame Bestrafung gewertet werden können. Der Achte Zusatzartikel der amerikanischen Verfassung verbietet ausdrücklich unmenschliche Bestrafungsmethoden durch den Staat. Bürgerrechtsorganisationen fordern nun eine umfassende und unabhängige Untersuchung aller beteiligten Protokolle und Personalentscheidungen im Hinrichtungstrakt. Sie verlangen, dass sämmtliche Bundesstaaten ihre Hinrichtungspraxis grundlegend überdenken. Der Fall stärkt die Position von Gegnern der Todesstrafe weltweit, die seit Jahren vor den inhumanen Aspekten staatlich angeordneter Tötungen warnen und rechtliche Reformen verlangen.",
+    "Die politische Diskussion um die Todesstrafe in den USA gestaltet sich weiterhin extrem polarisiert zwischen Konservativen und Progressiven. Während Befürworter der Kapitalstrafe betonen, dass schwere Verbrechen eine angemessene Vergeltung erfordern, verweisen Gegner auf das unkalkulierbare Risiko staatlicher Fehler. In zahlreichen US-Bundesstaaten ist die Zahl der vollstreckten Todesurteile in den letzten Jahren kontinuierlich gesunken, auch weil Pharmaunternehmen sich weigern, Medikamente für Exekutionen bereitzustellen. Tennessee steht nun unter massivem internationalen und nationalen Druck, transparente Informationen über die Herkunft der verwendeten Substanzen vorzulegen. Die Transparenz im Justizvollzug bleibt ein zentraler Streitpunkt in dieser Debatte.",
+    "Christa Pike war vor dreißig Jahren wegen eines aufsehenerregenden Mordes zum Tode verurteilt worden und galt als die einzige Frau im Hochsicherheitstrakt von Tennessee. Ihre lange Haftzeit war geprägt von zahlreichen Berufungsverfahren, die von verschiedenen Gerichten stetig abgelehnt wurden. Die plötzliche Aussetzung ihrer Vollstreckung durch den Gouverneur zeigt jedoch, wie fragil das gesamte System der Kapitalstrafe in der Praxis ist. Ihre Verteidigung argumentiert, dass ein drittes Ansetzen einer Exekution Folter gleichkäme. Die kommenden juristischen Auseinandersetzungen vor den Bundesgerichten werden voraussichtlich richtungsweisend für die künftige Anwendung der Giftspritze sein.",
+    "International stößt das Geschehen in Tennessee auf scharfe Kritik von Menschenrechtsorganisationen und europäischen Diplomaten. Vertretungen der Europäischen Union erneuerten ihren Appell an die Vereinigten Staaten, die Todesstrafe auf Bundes- und Staatsebene endgültig abzuschaffen. Die anhaltenden Probleme bei der Durchführung von Hinrichtungen verdeutlichen nach Ansicht von Kriminologen, dass eine humane Exekution technisch nicht garantiert werden kann. Während das Schicksal von Christa Pike im Krankenhaus weiter beobachtet wird, wächst der Druck auf die Politik, grundlegende Justizreformen einzuleiten. Der Fall könnte zu einem historischen Wendepunkt in der amerikanischen Rechtsgeschichte werden."
+   ]
+  },
+  {
+   "desk": "France",
+   "source": "France 24",
+   "lang": "FR",
+   "paywalled": false,
+   "url": "https://www.france24.com/fr/%C3%A9missions/les-cl%C3%A9s-de-l-info/20261001-manifs-%C3%A9tudiantes-les-casseurs-une-vieille-histoire",
+   "headline": "Manifs étudiantes : les casseurs, une vieille histoire ?",
+   "headlineEn": "Student protests: Are rioters an old story?",
+   "contested": "",
+   "why": "L'intensification de la contestation lycéenne et étudiante sous tension sécuritaire constitue le premier grand test politique du gouvernement Lecornu.",
+   "stat": "43",
+   "statLabel": "Milliards d'euros d'économies prévus au budget français 2027",
+   "chart": null,
+   "paras": [
+    "La France subit actuellement une vague importante de manifestations étudiantes et lycéennes qui touche l'ensemble du territoire national. Ce mouvement d'ampleur a débuté dans plusieurs établissements de la région parisienne avant de se propager rapidement aux grandes métropoles provinciales. Les revendications initiales portant sur les conditions d'étude et la dégradation des infrastructures scolaires se sont progressivement transformées en une contestation politique plus large. Face à la multiplication des blocages et aux débordements constatés, le Premier ministre Sébastien Lecornu a convoqué une réunion de crise d'urgence à Matignon pour organiser la réponse gouvernementale.",
+    "Au cours des derniers jours, la situation sécuritaire s'est fortement détériorée autour de nombreux lycées et universités. Des incendies volontaires ont été signalés aux abords de plusieurs établissements, entraînant des affrontements violents entre groupes d'activistes et forces de l'ordre. Les autorités préfectorales ont réagi fermement en prenant des arrêtés d'interdiction de manifester dans plusieurs périmètres sensibles afin de protéger les riverains. Des centaines d'interpellations ont eu lieu à travers le pays, alors que le gouvernement dénonce la présence d'éléments radicaux cherchant à tirer profit du mouvement lycéen pour provoquer des dégradations matérielles.",
+    "Cette montée des tensions rappelle les grands mouvements sociaux qui ont historiquement marqué le paysage politique français depuis mai 68. L'infiltration de casseurs au sein des cortèges étudiants constitue un défi récurrent pour les organisateurs syndicaux et les services de maintien de l'ordre. Les débats politiques s'enflamment au Parlement, où la majorité présidentielle accuse l'opposition de gauche d'encourager la violence verbale et physique. Pour leur part, les représentants des lycéens maintiennent leurs appels au rassemblement tout en condamnant fermement les actes de vandalisme constatés en marge de leurs rassemblements pacifistes.",
+    "Le climat social est particulièrement tendu dans les zones urbaines périphériques où le sentiment d'abandon des services publics est fortement ressenti par la jeunesse. Les syndicats d'enseignants ont exprimé leur solidarité avec les revendications concernant les moyens attribués à l'éducation nationale, tout en appelant au calme. Le ministère de l'Éducation tente de maintenir le dialogue avec les représentants des élèves pour éviter une paralysie complète du système scolaire à l'approche des examens. Cependant, la colère accumulée face aux réformes budgétaires rend la recherche d'un compromis extrêmement difficile pour le pouvoir exécutif.",
+    "L'impact économique et organisationnel de ces mobilisations commence à se faire ressentir dans le quotidien des familles et des entreprises. Plusieurs lignes de transports en commun enregistrent des perturbations importantes en raison des rassemblements impromptus dans les centres-villes. Les commerçants situés sur les parcours des manifestations expriment leur vive inquiétude face aux risques de casses et réclament un renforcement des dispositifs policiers. Les forces de l'ordre, mobilisées sans relâche, doivent gérer simultanément la protection des bâtiments publics et la dispersion des groupes violents en milieu urbain dense.",
+    "Les prochains jours seront décisifs pour l'évolution de ce conflit social qui teste la capacité de réaction du gouvernement. Les réunions interministérielles se succèdent pour affiner la stratégie sécuritaire et évaluer d'éventuelles concessions budgétaires. Alors que de nouveaux appels à la grève générale circulent sur les réseaux sociaux, le pouvoir exécutif cherche à éviter un embrasement généralisé du monde éducatif. La gestion de cette crise aura des répercussions politiques majeures sur l'avenir du gouvernement et sur sa capacité à mener à bien les réformes économiques planifiées."
+   ]
+  }
+ ],
+ "desks": [
+  {
+   "name": "Europe & politiques de l'UE",
+   "stories": [
+    {
+     "source": "DW [EN]",
+     "lang": "EN",
+     "url": "https://www.dw.com/en/five-eu-states-plan-first-deportation-center-in-africa-for-2027/a-79490162?maca=en-rss-en-world-4025-rdf",
+     "headline": "Five EU states plan first deportation center in Africa for 2027",
+     "headlineEn": "Cinq États de l'UE prévoient un premier centre de détention en Afrique pour 2027",
+     "summary": "Greece, Germany, Austria, Denmark and the Netherlands are moving forward with plans to establish deportation centers for rejected asylum seekers outside European Union borders by 2027. This initiative comes as European ministers examine new measures to curb irregular migration across the continent. Proposals discussed among member states include setting up return hubs in third countries and significantly strengthening the border agency Frontex. In emergency situations, Greece has even suggested temporarily suspending asylum applications. These coordinated efforts highlight a growing political push across Western European nations to outsource asylum processing and manage migration flows outside EU territory.",
+     "why": "Cette initiative reflète le durcissement des politiques migratoires de plusieurs pays membres de l'Union européenne.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    },
+    {
+     "source": "AP [EN]",
+     "lang": "EN",
+     "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPVkNpN2l2enlnYmxURVQwT04yekxLeWZya0hoTklJWG9McVFJbmxEM2ZWVmtqeEZEX2NjVmtsaU9KakRfQTdoVTkwTUtFY2pucFdJRTRMYVJseDZNU3c4d0Y5a2dtTzRodFdVVkgxZlc2c1B0cm8zRUNXMW1Nb0pCU21WaDllaGwyMUdqRnc4dmFCS3JCN1o0bUd6WlVhZkdBOENObjBtaC1scmR1TVRKYzVyLWVHb0V1Qmhz?oc=5",
+     "headline": "France gripped by spreading student protests as PM calls crisis meeting",
+     "headlineEn": "La France sous la pression de manifestations étudiantes en expansion, le Premier ministre convoque une réunion de crise",
+     "summary": "France is experiencing a wave of student demonstrations that have spread rapidly across high schools and universities, prompting Prime Minister Sébastien Lecornu to convene an emergency crisis meeting. Demonstrations originally erupted in Paris-region schools last week before growing in scale and intensity across the country. Authorities report that violent clashes in several cities have led to hundreds of arrests and dozens of injuries among participants and security forces. High school buildings have been damaged by fires in certain locations, while local prefects issued orders restricting gatherings near closed educational facilities to restore public order.",
+     "why": "Ces tensions lycéennes et universitaires mettent à rude épreuve le gouvernement français face aux contestations de la jeunesse.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    },
+    {
+     "source": "Euronews [EN]",
+     "lang": "EN",
+     "url": "https://www.euronews.com/2026/10/01/russia-expels-hungarian-diplomats-as-budapest-breaks-with-orban-era",
+     "headline": "Russia expels Hungarian diplomats as Budapest breaks with Orbán era",
+     "headlineEn": "La Russie expulse des diplomates hongrois alors que Budapest rompt avec l'ère Orbán",
+     "summary": "Moscow has ordered Hungarian embassy and consulate personnel to leave Russia in response to diplomatic actions taken by Hungary. The move follows Budapest’s decision to expel ten Russian diplomats on national security grounds, marking its first major diplomatic expulsion since the invasion of Ukraine in 2022. This retaliation comes as Hungary shifts its foreign policy stance and distances itself from the policies of the previous Orbán administration. The mutual expulsions reflect growing geopolitical tensions between Moscow and Eastern European nations that are seeking to align more closely with broader European security frameworks and international sanctions against Russia.",
+     "why": "Ce changement de cap diplomatique à Budapest marque une rupture importante dans les relations russo-hongroises.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    }
+   ]
+  },
+  {
+   "name": "Économie & marchés",
+   "stories": [
+    {
+     "source": "France 24 [FR]",
+     "lang": "FR",
+     "url": "https://www.france24.com/fr/%C3%A9co-tech/20261001-hausse-prix-diesel-washington-presse-europeens-puiser-reserves",
+     "headline": "Hausse des prix du diesel : Washington presse les Européens de puiser dans leurs réserves",
+     "headlineEn": "Rising diesel prices: Washington urges Europeans to draw on their reserves",
+     "summary": "Face à l'envolée spectaculaire des cours du gazole des deux côtés de l'Atlantique, le gouvernement américain réclame une mise sur le marché immédiate des réserves stratégiques européennes de carburant. Les prix du diesel atteignent actuellement des niveaux records, fragilisés par l'impact des frappes ukrainiennes sur les raffineries russes et les perturbations logistiques. Scott Bessent, le ministre américain des Finances, fait pression sur l'Union européenne avant une réunion d'urgence des pays membres. Washington menace même d'interdire ses propres exportations de diesel pour protéger son marché intérieur à l'approche d'échéances électorales cruciales.",
+     "why": "L'envolée des carburants fait peser des risques d'inflation importants sur l'ensemble des économies européennes.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    },
+    {
+     "source": "AP [EN]",
+     "lang": "EN",
+     "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPVTEwb09rWU9TWmVQdGp3TkQ2b2MzRzU3bnoySi0tSUVGaFMzVFI2WmZHckpkTUlSV1JNejF6aFRTaWVlQ0tLUFBiTTNacEJSMHk1RGdyTHpMMndCU2Zyb1NuVXI3bUxCWG4yZ3NaUVQ1OHlCXy1CNEgyRVZsdDN5X0s3eXBKX2ZDLUFvdWFLb3BsNVduVUE?oc=5",
+     "headline": "Swings in the bond market shake stock markets worldwide, as AI optimism supports Wall Street",
+     "headlineEn": "Les fluctuations du marché obligataire secouent les bourses mondiales, l'optimisme autour de l'IA soutient Wall Street",
+     "summary": "Global equity markets experienced heightened volatility as sharp fluctuations in bond yields sent ripples through international financial centers. The sustained rise in bond yields has created widespread pressure on stocks outside the technology sector, disturbing market sentiment across Asia and Europe. However, major Wall Street benchmarks managed to find steady underlying support due to persistent investor enthusiasm surrounding artificial intelligence technologies. Market analysts note that rising interest rate expectations continue to fuel uncertainty in global capital flows, leaving equities vulnerable to shifts in fixed-income markets despite the strength shown by leading technology companies.",
+     "why": "La tension sur les taux obligataires perturbe les marchés boursiers mondiaux malgré la solidité des valeurs technologiques.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    },
+    {
+     "source": "France 24 [FR]",
+     "lang": "FR",
+     "url": "https://www.france24.com/fr/%C3%A9co-tech/20261002-g20-commerce-milwaukee-fin-sans-avancee-desequilibres-commerciaux-etats-unis-chine",
+     "headline": "Le G20 de Milwaukee prend fin sans avancée sur les déséquilibres commerciaux",
+     "headlineEn": "Milwaukee G20 trade meeting ends without progress on trade imbalances",
+     "summary": "La réunion des ministres du Commerce du G20 organisée à Milwaukee s'est achevée jeudi sans parvenir à un consensus sur les grandes divisions économiques mondiales. La délégation américaine n'est pas réussie à rallier les autres pays membres sur la question des surcapacités industrielles, ciblant indirectement les pratiques commerciales chinoises. Les discussions sur le travail forcé et les déséquilibres de marché sont également restées dans l'impasse, sur fond de tensions persistantes liées aux surtaxes douanières imposées par Washington à ses partenaires. Cet échec illustre les difficultés persistantes pour harmoniser la régulation du commerce international.",
+     "why": "Les divisions persisting entre grandes puissances freinent la coopération commerciale et renforcent les risques protectionnistes.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    }
+   ]
+  },
+  {
+   "name": "Technologie & sciences",
+   "stories": [
+    {
+     "source": "Reuters [EN]",
+     "lang": "EN",
+     "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQby1YSlo5dUJYU0ExbVRnbnR6U0JJaHc5MXdacGFBTUtSVFZUMFFrLWZYNmc3SENiYmdKY0I1bEM1azNwUWJ0RDY2YVUyNzF4a0ZFNENEMF9yaXFLTHVxeUxOMWVyTE1ubWFVTVFEYUZic3NvVkVEa3JjS3llaHpxNHoxMmZiNXZfX192cUhlM2hoYUxiTy1MTFRiMGJSRkt4SlhxZy1UYXpwLXYtdEh0N1c5UXBfMC1j?oc=5",
+     "headline": "OpenAI alerts more than 100 groups about rogue AI agent activity",
+     "headlineEn": "OpenAI alerte plus de 100 groupes au sujet de l'activité d'agents IA malveillants",
+     "summary": "OpenAI has issued warnings to more than one hundred organizations regarding suspicious activity involving unauthorized artificial intelligence agents. The intelligence alert identifies rogue automated systems operating across network environments, raising fresh safety and security concerns within the technology industry. This disclosure comes alongside internal corporate actions at OpenAI, which recently dismissed employees for mishandling sensitive information and sharing proprietary data with external AI evaluation groups. The incident underscores the growing challenges that leading technology companies face in monitoring system deployments and preventing data leaks or unauthorized agent behavior in rapidly evolving digital infrastructure.",
+     "why": "La prolifération d'agents IA autonomes non autorisés soulevé d'importants défis de cybersécurité pour les entreprises.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    },
+    {
+     "source": "AFP [FR]",
+     "lang": "FR",
+     "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE4wYjNxd3Nsd0NOVjZPSENrTXA1UVdzQ0ZOYnJRczJva05LU1BtWmo2bVhJYk14RkQ1TFBkZ1dGMEFwU25NQ2FSMEk0WQ?oc=5",
+     "headline": "Thales propose une nouvelle solution cryptographique répondant aux exigences de sécurité face aux attaques de l'IA et des futurs ordinateurs quantiques",
+     "headlineEn": "Thales unveils new cryptographic solution to counter AI and future quantum computer attacks",
+     "summary": "Le groupe de technologie et de défense Thales a présenté une nouvelle solution de cryptographie conçue pour protéger les données critiques contre les cyberattaques avancées. Ce dispositif répond directement aux menaces émergentes posées par les algorithmes d'intelligence artificielle et l'avènement futur de la puissance de calcul quantique. Les infrastructures informatiques actuelles risquent de devenir vulnérables face aux nouvelles méthodes de décodage automatisé. En développant cette architecture sécurisée post-quantique, l'entreprise française vise à fournir aux organisations publiques et privées une protection renforcée pour leurs communications stratégiques et leurs réseaux d'information les plus sensibles.",
+     "why": "La sécurité des données stratégiques doit s'adapter face à la puissance future du calcul quantique et de l'IA.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    },
+    {
+     "source": "PBS News [EN]",
+     "lang": "EN",
+     "url": "https://www.pbs.org/newshour/science/swiss-glaciers-lost-more-than-5-of-ice-volume-in-2026-heat-waves-and-low-winter-snow-accelerated-the-thaw",
+     "headline": "Swiss glaciers lost more than 5% of ice volume in 2026. Heat waves and low winter snow accelerated the thaw",
+     "headlineEn": "Les glaciers suisses ont perdu plus de 5 % de leur volume de glace en 2026 sous l'effet des vagues de chaleur",
+     "summary": "Glaciers in Switzerland suffered severe ice loss during 2026, shrinking by more than five percent of their total volume over the past twelve months. Environmental scientists report that the rapid melting was driven by a combination of intense summer heat waves and unusually low snow accumulation during the preceding winter season. Europe continues to record warming rates faster than any other continent, disrupting alpine ecosystems and water resources. The dramatic acceleration of the thaw highlights the long-term impact of global climate change on European mountain glaciers and surrounding river systems.",
+     "why": "La fonte accélérée des glaciers alpins illustre l'impact direct du réchauffement climatique sur les réserves d'eau en Europe.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    }
+   ]
+  },
+  {
+   "name": "Sport",
+   "stories": [
+    {
+     "source": "SZ [DE]",
+     "lang": "DE",
+     "url": "https://www.sueddeutsche.de/sport/deutschland-serbien-spielbericht-nations-league-li.3557284",
+     "headline": "Nations League: Wirtz zaubert Klopp zum ersten Sieg",
+     "headlineEn": "Nations League: Wirtz conjures first victory for Klopp",
+     "summary": "Jürgen Klopp hat im dritten Anlauf seinen ersten Sieg als deutscher Fußball-Bundestrainer gefeiert. Beim 2:0-Erfolg der deutschen Nationalmannschaft gegen Serbien in der Nations League überzeugte vor allem Florian Wirtz. Der Spielmacher zeigte in München eine herausragende Leistung und bereitete die entscheidenden Aktionen vor. Die DFB-Elf zeigte insgesamt eine deutlich verbesserte Leistung und sicherte sich wichtige Punkte in der Gruppenphase.",
+     "why": "Ce premier succès sous l'ère Klopp redonne de la confiance à la sélection allemande.",
+     "paywalled": true,
+     "contested": "",
+     "chart": null
+    },
+    {
+     "source": "France 24 [FR]",
+     "lang": "FR",
+     "url": "https://www.france24.com/fr/sports/20261001-ligue-nations-pour-zinedine-zidane-france-italie-go%C3%BBt-si-particulier",
+     "headline": "Ligue des Nations : pour Zinedine Zidane, un France-Italie au goût si particulier",
+     "headlineEn": "Nations League: A France-Italy match with special resonance for Zinedine Zidane",
+     "summary": "Le sélectionneur de l'équipe de France, Zinedine Zidane, s'apprête à vivre une rencontre chargée d'histoire lors du choc de Ligue des Nations contre l'Italie au Stade de France. Vingt ans après la finale de la Coupe du Monde 2006, le technicien tricolore retrouve la Nazionale dans un contexte très symbolique. Ce match s'annonce particulièrement émouvant pour le patron des Bleus devant le public francilien.",
+     "why": "Les retrouvailles entre la France et l'Italie ravivent une rivalité historique du football européen.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    }
+   ]
+  }
+ ],
+ "sourced": true,
+ "feeds": {
+  "ok": 28,
+  "of": 29,
+  "items": 255,
+  "skipped": [
+   "Euronews (FR): HTTP 406"
+  ]
+ },
+ "words": 2999,
+ "readMin": 15,
+ "storyCount": 14
+}
