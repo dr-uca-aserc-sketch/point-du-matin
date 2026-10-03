@@ -1,0 +1,310 @@
+{
+ "date": "2026-10-03",
+ "kind": "daily",
+ "heat": 0.7,
+ "oneThing": "G7 nations agreed to release 100 million barrels of crude oil and diesel from strategic reserves to combat surging energy prices.",
+ "followUps": [
+  {
+   "n": "01",
+   "thread": "Épidémie d'Ebola en RDC",
+   "change": "Le bilan officiel franchit la barre des 4 000 morts parmi plus de 8 000 cas confirmés dans l'est du pays."
+  },
+  {
+   "n": "02",
+   "thread": "Élections présidentielles au Brésil",
+   "change": "Les États-Unis et l'Australie suspendent leurs services consulaires en raison de risques sécuritaires avant le scrutin."
+  },
+  {
+   "n": "03",
+   "thread": "Tensions au Yémen et en mer Rouge",
+   "change": "Les combats s'intensifient autour de Taëz et Sanaa, tandis qu'un nouveau tanker a été touché au large d'Oman."
+  }
+ ],
+ "mustReads": [
+  {
+   "desk": "Aviation & Sécurité",
+   "source": "AP News",
+   "lang": "EN",
+   "paywalled": false,
+   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOQWQ0bnZHZTRpU08tcW9kNURFSWpUdzlmUVF4RW1aWEcxQlJwM2paM01Sc1Q1eTZyWkxtSDNWbE1QcjNSR2N6NGtxUjNINF9HYmk2YzJib3p2V0l3NXQ5Smx6c0hhazBIU1RKc2VpcWhpTm5XdzhFckR2MnNxWENHcjlNUm1xemp0RTFQa3dqLUZaVlYzamFzMjdBTnlfUXpGMmlF?oc=5",
+   "headline": "In-flight attack on FlyDubai pilot puts aviation security measures under fresh scrutiny",
+   "headlineEn": "L'attaque en vol contre le pilote de FlyDubai place les mesures de sécurité aérienne sous une nouvelle surveillance",
+   "contested": "",
+   "why": "Cette tentative de détournement en plein vol met en lumière de graves failles dans le contrôle des équipages aériens.",
+   "stat": "4 000",
+   "statLabel": "morts franchis lors de l'épidémie d'Ebola en République démocratique du Congo",
+   "chart": null,
+   "paras": [
+    "A harrowing incident aboard a FlyDubai flight operating between Dubai and Tel Aviv has drawn international attention and sparked an urgent review of aviation security protocols. During the flight, the aircraft's co-pilot launched a sudden violent knife attack against the captain, Smit Machchhar, inside the cockpit. Despite suffering severe wounds, Captain Machchhar managed to unlock the armored cockpit door to allow assistance. Four alert Israeli passengers quickly stepped in, physically confronting and overpowering the assailant before he could gain control of the controls or crash the plane into the sea below.",
+    "Following the emergency landing, investigators began examining the co-pilot's background and security record. Emerging reports reveal that aviation authorities in Oman had previously barred the individual from flying due to documented concerns over religious extremism and radical views. Questions are now being raised about how these critical warnings were missed or ignored during the hiring process at FlyDubai. Aviation security experts emphasize that pre-employment background checks and ongoing behavioral monitoring must be significantly strengthened across international carriers to prevent individuals with radical affiliations from accessing commercial aircraft cockpits.",
+    "The heroic actions of Captain Machchhar and the passengers averted what could have been a catastrophic tragedy over the Middle East. Recounting the ordeal from his hospital bed in Abu Dhabi, Captain Machchhar expressed that his primary focus was ensuring the survival of everyone on board. The incident has sent shockwaves through the aviation sector, prompting commercial airlines and regulatory bodies worldwide to re-evaluate physical security measures inside cockpits. Discussions are currently underway regarding potential modifications to door access systems and mandatory multi-person cockpit protocols during routine commercial operations worldwide.",
+    "The geopolitical ramifications of the attack are also reverberating across the region, particularly amid heightening political tensions in Israel. Israeli political figures and international observers have highlighted the attack as an alarming manifestation of targeted violence, given that the flight was carrying numerous Israeli citizens. Diplomatic channels between the United Arab Emirates, Israel, and Oman are actively engaged as investigators piece together the timeline of events. The security lapse has intensified public scrutiny over regional flight routes and international aviation cooperation, forcing authorities to address vulnerabilities in threat intelligence sharing.",
+    "In the immediate aftermath of the incident, several regional carriers temporarily suspended or altered flight schedules on routes connecting the Gulf states with Tel Aviv. Passengers arriving at international hubs reported increased security screenings and heightened vigilance from airport personnel. Industry analysts predict that regulatory agencies, including the International Civil Aviation Organization, will soon issue updated security guidelines mandating stricter background checks for flight crews. Stricter vetting mechanisms will likely become compulsory for pilots operating across borders, particularly in regions affected by political instability or heightened security risks.",
+    "As the investigation progresses, legal authorities are preparing formal charges against the detained co-pilot, who remains in custody facing multiple severe offenses. The case underscores the essential role of vigilance among aircrews and passengers when unexpected threats materialize mid-air. Aviation safety organizations are reviewing the physical layout and locking mechanisms of commercial cockpits to balance security against unauthorized entry with emergency access requirements. Ultimately, this terrifying event serves as a stark reminder of the continuous challenges involved in safeguarding global civil aviation against unexpected internal threats."
+   ]
+  },
+  {
+   "desk": "Énergie & Économie",
+   "source": "AP News",
+   "lang": "EN",
+   "paywalled": false,
+   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQNmdrZUxCUmk5aFZiQnpzdGRQa2kyc1dIc1hzSFpxUnNVY1U4bWhGdUxYa3hPRzVRUnZSQ3lRaWZlano1aGdUOTc4TG1LZGhYWGpXTWsxbWN0dnIxeFFxWlpSRnZaanNwdFJ4V3B6RndadE9QdVM4ZncxSm1lTjdyRmFMY2M5WnMtM112MV_3SGpGT2tleVE?oc=5",
+   "headline": "G7 nations will release 100 million barrels of oil and diesel fuel after prices soar",
+   "headlineEn": "Les pays du G7 vont libérer 100 millions de barils de pétrole et de gazole après la flambée des prix",
+   "contested": "",
+   "why": "L'injection massive de réserves stratégiques vise à juguler l'inflation énergétique et à éviter un embargo américain sur le gazole.",
+   "stat": "",
+   "statLabel": "",
+   "chart": null,
+   "paras": [
+    "In a major coordinated economic intervention, member countries of the Group of Seven have officially agreed to release one hundred million barrels of crude oil and diesel fuel from their strategic emergency reserves. This decisive move comes directly in response to surging global energy prices that have placed immense pressure on industrial economies and household budgets worldwide. The joint announcement represents one of the largest synchronized releases of strategic energy stockpiles in recent history, aimed at stabilizing volatile energy markets and preventing further inflation across international trade routes.",
+    "The decision follows intense diplomatic negotiations spearheaded by United States President Donald Trump, who urged international allies to take swift action against escalating fuel costs. Prior to the agreement, speculation surrounding potential unilateral trade restrictions, including possible bans on American diesel exports, had heightened anxiety among European and Latin American trading partners. However, following the G7 consensus, official statements confirmed that export bans would not be pursued, offering much-needed clarity to global markets. The coordinated release is designed to buffer supply chains and prevent severe fuel shortages.",
+    "Market analysts note that European nations and developing economies in Latin America are particularly dependent on imported diesel for commercial transportation, agricultural production, and industrial manufacturing. Had an export prohibition been implemented by Washington, energy experts warned that several vulnerable economies could have been pushed into severe recessions. By deploying national strategic reserves, G7 leaders intend to cool down spot prices for refined petroleum products and provide immediate relief to transport sectors facing unsustainable operational costs. Energy traders reacted swiftly, leading to a temporary easing of crude benchmark prices.",
+    "The policy shift comes at a critical political juncture in the United States, as the administration faces growing domestic discontent over rising living expenses ahead of upcoming midterm elections. Higher pump prices for diesel and gasoline have consistently driven up consumer prices across supply chains, fueling broader inflationary pressures. By coordinating with G7 partners to inject substantial volume into global supply networks, policymakers hope to stabilize retail energy prices for consumers and businesses alike. The strategic reserve deployment highlights the deep interconnectedness of global energy markets and domestic political dynamics.",
+    "Despite the immediate market relief provided by the emergency release, long-term structural concerns regarding global energy security remain unresolved. Industry experts emphasize that tapping strategic reserves offers only a temporary buffer against broader geopolitical disruptions and production bottlenecks. Ongoing conflicts, shipping route vulnerabilities, and shifts in global refining capacity continue to pose significant risks to fuel supply stability. Energy policy advisors suggest that member nations must balance short-term market interventions with long-term investments in infrastructure and diversified supply sources to build resilience against future price shocks.",
+    "Implementation of the reserve release will occur over the coming weeks, with individual G7 nations contributing specific allocations from their respective national stockpiles. Technical teams are currently coordinating logistics to ensure efficient distribution into regional markets without causing logistical disruptions at major ports and pipelines. Monitoring committees will closely track price movements and supply indicators to evaluate the effectiveness of the intervention. As global markets adjust to the additional inventory, international observers will be watching closely to see whether this collective action successfully stabilizes long-term energy prices."
+   ]
+  },
+  {
+   "desk": "Société & Éducation",
+   "source": "France 24",
+   "lang": "FR",
+   "paywalled": false,
+   "url": "https://www.france24.com/fr/france/20261002-mobilisation-lyc%C3%A9enne-d%C3%A9bordements-maintien-ordre-en-question",
+   "headline": "Mobilisation lycéenne : face aux débordements, le maintien de l'ordre en question",
+   "headlineEn": "High school student mobilization: facing unrest, law enforcement tactics come into question",
+   "contested": "",
+   "why": "La contagion de la contestation scolaire fragilise le gouvernement français en pleine préparation du budget 2027.",
+   "stat": "",
+   "statLabel": "",
+   "chart": null,
+   "paras": [
+    "Le mouvement de protestation lycéenne qui secoue la France depuis plusieurs jours a pris une ampleur nationale inédite, provoquant de vives tensions à travers le pays. Plus de sept cents établissements scolaires ont été touchés par des blocages, des rassemblements et des manifestations de grande ampleur à Paris, Toulouse ou Lille. Les élèves dénoncent fermement la dégradation des conditions d'enseignement, le manque récurrent de professeurs et la baisse globale des moyens alloués à l'éducation nationale. Cette colère étudiante intervient dans un contexte politique particulièrement tendu autour de la préparation du budget.",
+    "Au fil des jours, les mobilisations devant les lycées ont donné lieu à des affrontements répétés entre jeunes manifestants et forces de l'ordre. Plusieurs incidents violents, incluant des tirs de projectiles, des feux de poubelles et l'usage massif de gaz lacrymogènes, ont été recensés dans différentes agglomérations. La présence policière importante autour des établissements scolaires suscite de vives controverses, certains élèves et syndicats dénonçant des méthodes de maintien de l'ordre disproportionnées. Face à ces débordements, le gouvernement tente de maintenir la fermeté tout en évitant une escalade incontrôlable.",
+    "La gestion gouvernementale de cette crise suscite de vives polémiques au sein de la classe politique et des médias. Des déclarations récentes de responsables exécutifs, évoquant des agressions de personnels ou d'élèves, ont été vivement contestées par des observateurs et des syndicats enseignants qui dénoncent des exagérations sécuritaires. La politisation croissante du mouvement accentue les divisions entre la majorité et les oppositions parlementaires. Alors que le Premier ministre cherche à rassurer sur l'autorité de l'État, les syndicats lycéens promettent de poursuivre les blocages jusqu'à l'obtention de garanties budgétaires claires.",
+    "Cette vague de contestation survient à un moment particulièrement délicat pour l'exécutif français, fragilisé par des débats budgétaires difficiles pour l'année à venir. Les restrictions de dépenses envisagées dans les services publics alimentent un mécontentement social plus large au sein de la communauté éducative et des familles. Les représentants des parents d'élèves expriment leur vive inquiétude face aux perturbations répétées des cours tout en partageant le constat sur le manque d'enseignants. La convergence potentielle avec d'autres mouvements sociaux fait craindre au pouvoir une détérioration rapide du climat social général.",
+    "Sur le terrain, les dispositifs de sécurité aux abords des lycées continuent d'être renforcés pour empêcher de nouveaux blocages systématiques. Les préfets ont reçu des consignes de grande vigilance afin d'assurer la protection des bâtiments scolaires et de garantir l'accès aux élèves souhaitant étudier. Toutefois, cette approche sécuritaire peine à éteindre le mécontentement de fond exprimé par la jeunesse. Dans de nombreuses villes, des assemblées générales d'élèves s'organisent quotidiennement pour coordonner les actions et maintenir la pression sur le ministère de l'Éducation nationale durant la semaine.",
+    "L'issue de ce bras de fer dépendra de la capacité du gouvernement à ouvrir un dialogue constructif avec les organisations lycéennes. Plusieurs responsables éducatifs réclament un plan d'urgence d'investissements pour pallier les pénuries de personnel et améliorer le cadre de vie scolaire. Sans réponses concrètes aux revendications matérielles des lycéens, la paralysie du système éducatif risque de se prolonger durablement. Les jours à venir seront déterminants pour mesurer si le mouvement peut trouver une issue apaisée ou s'il s'enfoncera dans une crise politique et sociale encore plus profonde."
+   ]
+  }
+ ],
+ "desks": [
+  {
+   "name": "Luxembourg",
+   "stories": [
+    {
+     "source": "Luxemburger Wort",
+     "lang": "de",
+     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPRHJXOUFidURBajNuUVNNWFJJemVWc1phT2VwZTRrOEllOFNrQml6LVpyXzNlbTNTaEpzc0lzY1d4aUpCZUNqNXFzdjByOF9vTVNCWjIyOTJBcnFGcUZOemlxc3FBakFKT2dkMTgxcURTMk1SZzlMMTZQS0tLRlIyUGZRNzlQUkVvWlIweW9ON0c1ZzBHb0RzVmRfQjQyZ2JtNi15U2o2OXdRT3V3NjVtc2prSmtWQQ?oc=5",
+     "headline": "Léon Gloden über Stadhaus-Affär: Benötigen „Vier-Augen-Prinzip“",
+     "headlineEn": "Léon Gloden on the City Hall affair: \"Four-eyes principle\" needed",
+     "summary": "Innenminister Léon Gloden hat sich im Zusammenhang mit der Unregelmäßigkeiten-Affäre im luxemburgischen Gemeindewesen für spürbar schärfere Kontrollmechanismen ausgesprochen. Um künftige Finanzmanipulationen, Fehlverhalten und administrative Missbräuche in den Kommunen wirksam zu verhindern, fordert er die konsequente Einführung eines Vier-Augen-Prinzips bei allen wesentlichen Finanz- und Verwaltungsentscheidungen. Der Minister betonte vor der Presse, dass mehr Transparenz und eine engmaschigere Aufsicht unverzichtbar seien, um das erschütterte Vertrauen der Bürger in die lokalen Institutionen wiederherzustellen. Die jüngsten Vorkommnisse haben im ganzen Land eine grundlegende Debatte über die Reform der Kommunalaufsicht und die rechtliche Verantwortung der Gemeindeverantwortlichen ausgelöst.",
+     "why": "Cette affaire relance le débat sur la gouvernance locale et la nécessité de renforcer le contrôle administratif des communes au Luxembourg.",
+     "paywalled": true,
+     "contested": "",
+     "chart": null
+    },
+    {
+     "source": "Luxemburger Wort",
+     "lang": "de",
+     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxObko4SjdNZ2JZTlFVZUhVMWNXWld5SU9abmxPOWZ0bWw1bXlvRlI5MGY0MFBPNlpYWWlKejlwVWQtTGtmSERMeW16U1dkX3R3dEdXVF9yN3piMW5XWXd5RjlOVS02YzR6alRMNDI4SXp0UzdPOXVCMFJDVzdFWVotcWZuLVJ5VVlqQUg1UTlkLWlnNGM1MC1BVUxqMVZpN083dTVDRTk5bw?oc=5",
+     "headline": "Amazon tritt in Luxemburg auf die Bremse beim Stellenabbau",
+     "headlineEn": "Amazon slows down job cuts in Luxembourg",
+     "summary": "Der US-amerikanische Onlinehandelsriese Amazon verlangsamt überraschend seine Sparmaßnahmen und den geplanten Personalabbau an seinem europäischen Hauptsitz in Luxemburg. Während in zahlreichen anderen internationalen Niederlassungen des Technologiekonzerns weiterhin Stellen gestrichen werden, erweist sich der Standort im Großherzogtum als vergleichsweise stabil. Branchenkenner führen diese Entscheidung vor allem auf die zentrale strategische Bedeutung des Luxemburger Hauptsitzes für das gesamte europäische Logistik-, Finanz- und Verwaltungsgeschäft zurück. Die Ankündigung sorgt bei den Beschäftigten vor Ort für spürbare Erleichterung, wenngleich lokale Gewerkschaften weiterhin zur Vorsicht mahnen und die künftige Entwicklung auf dem Arbeitsmarkt aufmerksam beobachten.",
+     "why": "La stabilisation des effectifs d'Amazon est un signal rassurant pour le marché de l'emploi et l'attractivité économique du Grand-Duché.",
+     "paywalled": true,
+     "contested": "",
+     "chart": null
+    },
+    {
+     "source": "RTL.lu",
+     "lang": "fr",
+     "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNV211akFmYlp1UmZ5OWZzRXBzUjltTnZXaXJkTmRhQkw4MWpBekNpSmlrUml6dlNnbzBDOG1oOExoMXFGLTVUTGFmZHNDMlFoQzM5d1Vja29qNWtXMjF1aXoyYlJjY0JxRUZ1THFvOUczaEdrSWxYVTNUUVdiaWNJMDRndTZ6eUJzRUdfRnd1a2JuMjVwTEJ2bkg3Zm1EeThCOTE1STEzQTlkTjRobmc?oc=5",
+     "headline": "Météo: La sécheresse se prolonge, le Luxembourg est toujours assoiffé",
+     "headlineEn": "Weather: Prolonged drought continues, Luxembourg remains thirsty",
+     "summary": "Le Luxembourg continue de faire face à un déficit pluviométrique particulièrement persistant qui affecte l'ensemble du territoire national depuis plusieurs mois. Les services météorologiques officiels confirment que cette période de sécheresse exceptionnelle se prolonge, entraînant une baisse inquiétante et continue des niveaux des nappes phréatiques ainsi que des cours d'eau. Les secteurs agricole, horticole et forestier subissent de plein fouet les conséquences économiques et environnementales de ce manque d'eau prolongé. Face à cette situation critique, les autorités gouvernementales réitèrent leur appel à l'ensemble de la population pour une consommation d'eau mesurée et responsable.",
+     "why": "La persistance de la sécheresse menace la gestion des ressources en eau et pèse sur les exploitations agricoles du pays.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    }
+   ]
+  },
+  {
+   "name": "Monde / géopolitique",
+   "stories": [
+    {
+     "source": "DW",
+     "lang": "en",
+     "url": "https://www.dw.com/en/spain-s-parliament-rejects-housing-bill-as-protests-continue/a-79522683?maca=en-rss-en-world-4025-rdf",
+     "headline": "Spain's parliament rejects housing bill as protests continue",
+     "headlineEn": "Le Parlement espagnol rejette la loi sur le logement sur fond de manifestations",
+     "summary": "Spain's minority government led by Prime Minister Pedro Sánchez suffered a major political setback after parliament rejected two emergency measures aimed at easing the national housing crisis. The legislative proposal was pushed forward following widespread public outrage and street protests sparked by the eviction of an 87-year-old pensioner. Opposition parties combined forces to defeat the bills, arguing the proposals failed to address structural issues in the rental market. This parliamentary defeat escalates political pressure on Sánchez, with opposition figures renewing calls for snap elections amid broader political difficulties.",
+     "why": "Le rejet de ce texte fragilise davantage le gouvernement de Pedro Sánchez et accentue la crise sociale liée au logement en Espagne.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    },
+    {
+     "source": "BBC",
+     "lang": "en",
+     "url": "https://www.bbc.co.uk/news/articles/c6wyv44y4ywjo?at_medium=RSS&at_campaign=rss",
+     "headline": "Intensified Russian strikes are tearing Kyiv apart, warns mayor",
+     "headlineEn": "L'intensification des frappes russes ravage Kiev, prévient le maire",
+     "summary": "Kyiv Mayor Vitaliy Klitschko has warned that Ukraine’s capital is facing a very dramatic situation as Russian forces intensify targeted drone and missile strikes against critical infrastructure. The repeated attacks have severely damaged essential supply lines, including major bridges across the Dnipro River such as the Pivdenny Bridge, causing severe transport disruptions. Local authorities report civilian casualties and growing damage to power and transit networks essential for the city’s three million residents. Military analysts note that Moscow appears to be executing a systematic campaign to paralyze key urban centers across Ukraine.",
+     "why": "Les attaques ciblées contre les infrastructures de la capitale ukrainienne risquent de paralyser la vie quotidienne à l'approche de l'hiver.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    },
+    {
+     "source": "Le Monde",
+     "lang": "fr",
+     "url": "https://www.lemonde.fr/international/article/2026/10/03/royaume-uni-deux-iraniens-inculpes-pour-un-projet-d-acte-terroriste-contre-la-communaute-juive-a-manchester_6787225_3210.html",
+     "headline": "Royaume-Uni : deux Iraniens inculpés pour un projet d’acte terroriste contre la communauté juive à Manchester",
+     "headlineEn": "UK: Two Iranians charged over alleged terror plot targeting Jewish community in Manchester",
+     "summary": "Deux ressortissants iraniens âgés d'une trentaine d'années ont été inculpés au Royaume-Uni pour la préparation d'un acte terroriste visant la communauté juive de Manchester. Selon les autorités britanniques, les deux hommes auraient communiqué via des applications cryptées afin d'obtenir le matériel nécessaire à la fabrication d'un engin explosif artisanal. L'enquête menée par la police antiterroriste a permis d'intercepter le projet avant tout passage à l'acte, alors que la sécurité autour des lieux de culte est renforcée. L'affaire suscite une vive inquiétude au sein de la communauté juive britannique à l'approche des fêtes religieuses.",
+     "why": "Cette inculpation met en lumière la menace terroriste persistante et les tensions sécuritaires entourant les communautés religieuses au Royaume-Uni.",
+     "paywalled": true,
+     "contested": "",
+     "chart": null
+    }
+   ]
+  },
+  {
+   "name": "International — hors Europe",
+   "stories": [
+    {
+     "source": "Al Jazeera",
+     "lang": "en",
+     "url": "https://www.aljazeera.com/news/liveblog/2026/10/3/iran-war-live-fighting-intensifies-in-yemen-hundreds-killed-or-injured?traffic_source=rss",
+     "headline": "Fighting intensifies in Yemen as clashes leave hundreds killed or injured",
+     "headlineEn": "L'escalade des combats au Yémen fait des centaines de morts et de blessés",
+     "summary": "Military conflict across Yemen has escalated dramatically as ground forces and airstrikes hit key positions around the capital, Sanaa, and the city of Taiz. Yemeni military officials reported conducting hundreds of strikes within a 24-hour window, targeting Houthi combat units and infrastructure. Heavy bombardments overnight resulted in significant casualties, with hundreds of fighters and civilians reported killed or wounded across multiple frontlines. The intense flare-up has raised fresh international fears of a full-scale regional conflict, complicating ongoing diplomatic efforts to secure a ceasefire and deliver humanitarian relief.",
+     "why": "L'escalade militaire brusque au Yémen menace de faire basculer la région dans un conflit généralisé et d'aggraver la crise humanitaire.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    },
+    {
+     "source": "Al Jazeera",
+     "lang": "en",
+     "url": "https://www.aljazeera.com/news/2026/10/3/us-and-australia-suspend-diplomatic-operations-in-brazil-before-election?traffic_source=rss",
+     "headline": "US and Australia suspend diplomatic operations in Brazil before election",
+     "headlineEn": "Les États-Unis et l'Australie suspendent leurs activités diplomatiques au Brésil avant l'élection",
+     "summary": "The United States and Australia have temporarily suspended consular operations across Brazil due to heightened security concerns ahead of Sunday’s presidential election. The high-stakes vote sees incumbent President Luiz Inácio Lula da Silva face off against Flávio Bolsonaro, son of former president Jair Bolsonaro, in a deeply polarized campaign. Foreign diplomatic missions cited potential civil unrest and safety risks surrounding political rallies in major urban centers as the reason for closing services. The decision highlights international apprehension over possible election-related violence and democratic instability during the final voting rounds.",
+     "why": "La suspension des services diplomatiques étrangers reflète de vives inquiétudes quant au risque de violences électorales dans un Brésil très polarisé.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    },
+    {
+     "source": "Euronews",
+     "lang": "en",
+     "url": "https://www.euronews.com/2026/10/02/dr-congo-ebola-outbreak-killed-more-than-4000-official-figures",
+     "headline": "DR Congo Ebola outbreak killed more than 4,000: official figures",
+     "headlineEn": "L'épidémie d'Ebola en RDC a fait plus de 4 000 morts, selon les chiffres officiels",
+     "summary": "The ongoing Ebola epidemic in the Democratic Republic of Congo has crossed a grim threshold, killing more than 4,000 people out of over 8,000 confirmed cases, health officials reported. The outbreak is now recognized as the worst in the nation’s history, exacerbated by persistent armed conflict and local community distrust in affected eastern provinces. Health teams are utilizing mobile laboratories to drastically reduce diagnosis times, but response efforts remain severely constrained by security threats. International aid organizations and medical workers continue to face immense operational hurdles as they struggle to contain the virus's spread.",
+     "why": "Cette épidémie sans précédent menace la sécurité sanitaire régionale et requiert une mobilisation internationale accrue malgré l'insécurité.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    },
+    {
+     "source": "DW",
+     "lang": "en",
+     "url": "https://www.dw.com/en/argentina-launches-cash-for-citizenship-scheme/a-79520708?maca=en-rss-en-world-4025-rdf",
+     "headline": "Argentina launches cash-for-citizenship scheme",
+     "headlineEn": "L'Argentine lance un programme de « passeports dorés » pour attirer des capitaux étrangers",
+     "summary": "Argentina's government under President Javier Milei has unveiled a new cash-for-citizenship program aimed at attracting foreign capital to bolster its struggling economy. Under the new regulations, wealthy foreign investors can obtain Argentine citizenship by making a non-refundable contribution of $350,000 or by purchasing $800,000 in government bonds. The initiative is designed to replenish foreign currency reserves and service pressing national debt obligations. While the government hopes to generate crucial dollar inflows, critics warn that golden passport schemes carry financial compliance risks and could face international regulatory scrutiny.",
+     "why": "Le gouvernement argentin cherche des devises pour réduire sa dette, mais ces programmes suscitent des craintes en matière de sécurité financière.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    },
+    {
+     "source": "Council on Foreign Relations (CFR)",
+     "lang": "en",
+     "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPUXlkdWs1YThTcHhQLTF6c0FDOUczRmZhM2FBSWwwRGhvWlRzNGlmeUJ1aWdyTzNiR3dGOTMteGxQN0otRF9IUmc3M1dONHZIMjFSZ0JSb0VRN2tySDUxVkNwYlpjeFhxV0VjeXJFWXp0ekhkRG1Lck0zTWNzekkxQ1_wMW1sNms?oc=5",
+     "headline": "Lessons From Anniversaries: October 7, Three Years On",
+     "headlineEn": "Les leçons des anniversaires : trois ans après le 7 octobre",
+     "summary": "A three-year retrospective analysis by the Council on Foreign Relations examines the lasting geopolitical consequences of the October 7 attacks on Middle Eastern stability and global diplomacy. The study outlines how the ensuing military campaigns transformed regional security alliances, deepened humanitarian crises, and reshaped U.S. foreign policy priorities in the region. Experts highlight that traditional deterrence mechanisms have faltered, necessitating new diplomatic frameworks to prevent wider regional escalation. The report concludes that long-term stability requires addressing root political grievances rather than relying solely on military containment strategies.",
+     "why": "Cette analyse du CFR dresse le bilan stratégique trois ans après l'attaque du 7 octobre et interroge l'efficacité des doctrines de sécurité au Moyen-Orient.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    }
+   ]
+  },
+  {
+   "name": "Europe & politiques de l'UE",
+   "stories": [
+    {
+     "source": "DW",
+     "lang": "en",
+     "url": "https://www.dw.com/en/spain-s-parliament-rejects-housing-bill-as-protests-continue/a-79522683?maca=en-rss-en-world-4025-rdf",
+     "headline": "Spain's parliament rejects housing bill as protests continue",
+     "headlineEn": "Le Parlement espagnol rejette le projet de loi sur le logement sur fond de manifestations",
+     "summary": "Spain's minority government has suffered a major legislative defeat in parliament after failing to pass a pair of emergency measures aimed at making housing more affordable across the country. The vote followed widespread public outrage and street protests triggered by the eviction of an 87-year-old pensioner. Opposition parties joined forces to vote down the proposed legislation, leaving Prime Minister Pedro Sánchez facing heightened political pressure and renewed calls from opponents for a snap election. The failure highlights the acute political fragility of the ruling coalition as it struggles to address the nation's escalating housing crisis.",
+     "why": "Cet échec parlementaire fragilise le gouvernement Sánchez et ravive les tensions sociales autour du coût de la vie en Europe.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    },
+    {
+     "source": "DW",
+     "lang": "en",
+     "url": "https://www.dw.com/en/eu-ministers-mull-new-ways-to-curb-irregular-migration/a-79509375?maca=en-rss-en-world-4025-rdf",
+     "headline": "EU ministers mull new ways to curb irregular migration",
+     "headlineEn": "Les ministres de l'UE envisagent de nouvelles mesures pour restreindre l'immigration irrégulière",
+     "summary": "European Union interior ministers are currently considering a series of controversial new proposals to tighten border controls and curb irregular migration into the bloc. Key measures under discussion include establishing offshore return hubs in non-EU countries for rejected asylum seekers and strengthening the mandate of the border management agency Frontex. Meanwhile, member states such as Greece have even proposed temporarily suspending asylum applications during acute emergency situations. These high-level ministerial talks reflect an ongoing political shift toward significantly stricter migration policies across Europe amid growing political pressure on national leaders.",
+     "why": "Les gouvernements européens cherchent à durcir la politique migratoire commune face à des tensions politiques internes croissantes.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    },
+    {
+     "source": "France 24",
+     "lang": "fr",
+     "url": "https://www.france24.com/fr/europe/20261002-brexit-royaume-uni-union-europ%C3%A9enne-retour-trop-gros-trop-t%C3%B4t-burnham-breturn",
+     "headline": "Brexit : \"Trop gros, trop tôt\" pour envisager un retour du Royaume-Uni au sein de l'UE",
+     "headlineEn": "Brexit: \"Too big, too soon\" to consider UK return to the EU",
+     "summary": "Dix ans après le référendum sur le Brexit, l'hypothèse d'une réintégration du Royaume-Uni au sein de l'Union européenne refait surface dans le débat politique britannique. Le Premier ministre Andy Burnham a récemment évoqué la possibilité d'un retour progressif de Londres dans le bloc communautaire. Cependant, de nombreux observateurs et analystes estiment qu'un tel scénario reste très prématuré et irréaliste à court terme. Si une adhésion complète paraît encore lointaine, les spécialistes soulignent qu'il existe un potentiel considérable pour renforcer la coopération bilatérale et améliorer les accords existants plutôt que de maintenir le statu quo actuel.",
+     "why": "Le débat britannique sur la relation post-Brexit évolue vers un pragmatisme renforcé avec Bruxelles.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    }
+   ]
+  },
+  {
+   "name": "Économie & marchés",
+   "stories": [
+    {
+     "source": "DW",
+     "lang": "en",
+     "url": "https://www.dw.com/en/argentina-launches-cash-for-citizenship-scheme/a-79520708?maca=en-rss-en-world-4025-rdf",
+     "headline": "Argentina launches cash-for-citizenship scheme",
+     "headlineEn": "L'Argentine lance un programme d'octroi de la nationalité contre de l'argent",
+     "summary": "Cash-strapped Argentina has officially announced a new \"golden passport\" scheme intended to attract foreign investment and boost the nation's foreign currency reserves. Under the proposals unveiled by President Javier Milei's administration, wealthy foreigners can secure Argentine citizenship either by making a non-refundable financial contribution of $350,000 or by purchasing $800,000 in government bonds. The libertarian government is seeking novel sources of hard currency to service its substantial international debt obligations. While similar investment programs have generated significant revenues for smaller economies globally, critics caution that citizenship-by-investment schemes carry inherent risks regarding financial transparency and international regulatory oversight.",
+     "why": "Le gouvernement Milei tente de renflouer ses caisses de devises étrangères pour faire face à une dette écrasante.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    }
+   ]
+  }
+ ],
+ "sourced": true,
+ "feeds": {
+  "ok": 28,
+  "of": 29,
+  "items": 256,
+  "skipped": [
+   "Euronews (FR): HTTP 406"
+  ]
+ },
+ "words": 3482,
+ "readMin": 17,
+ "storyCount": 18
+}
