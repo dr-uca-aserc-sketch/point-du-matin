@@ -1,0 +1,422 @@
+{
+ "date": "2026-10-04",
+ "kind": "weekly",
+ "heat": 0.78,
+ "oneThing": "G7 energy ministers released emergency oil reserves following US threats and Hormuz shipping disruptions, stabilizing volatile global fuel markets ahead of winter.",
+ "followUps": [
+  {
+   "n": "01",
+   "thread": "Crise du logement et contestations sociales en Espagne",
+   "change": "Après le rejet par le Parlement espagnol du projet de loi d'urgence sur le logement poussé par le gouvernement de Pedro Sánchez, des dizaines de milliers de manifestants ont envahi les rues de Madrid et d'autres grandes villes ce weekend pour exiger des encadrements stricts des loyers et des protections renforcées pour les locataires."
+  },
+  {
+   "n": "02",
+   "thread": "Législatives en Lettonie face aux menaces hybrides russes",
+   "change": "Le Premier ministre centriste pro-européen Andris Kulbergs a remporté une victoire historique aux élections législatives lettonnes avec 35,3 % des voix, repoussant l'influence des partis populistes et assurant la poursuite d'une coalition fermement alignée sur l'UE et le soutien à l'Ukraine."
+  },
+  {
+   "n": "03",
+   "thread": "Débat sur la peine de mort aux États-Unis après une exécution ratée",
+   "change": "L'échec dramatique de l'exécution par double injection létale de Christa Pike au Tennessee a entraîné la démission du directeur de l'administration pénitentiaire de l'État et relancé les recours judiciaires sur la constitutionnalité des méthodes d'exécution aux États-Unis."
+  }
+ ],
+ "mustReads": [
+  {
+   "desk": "à la une",
+   "source": "AP News",
+   "lang": "EN",
+   "paywalled": false,
+   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOTm53alVRRTlka3JlQllEQUdvclBOMzVxOUFvQnhkMGowdDlNeXIyTFZ3ZU1GblhLOUF2VDhTRVdzRjJfZmJRWEZMcUhaMGxXVEI0NzhFYWJ6bk1USDU2VDdzcWZ4WEcwQTd4bzMzUEcyZ0lBdFRsck8zbDZ5MTdLeFBPdEFaV2llTXViWTlleDl3SE5lTWxEMThJa09WSGdH?oc=5",
+   "headline": "Ax-wielding FlyDubai co-pilot had been flagged over extremism concerns",
+   "headlineEn": "Un co-pilote de FlyDubai armé d'une hache avait été signalé pour des liens extrémistes",
+   "contested": "",
+   "why": "L'infiltration d'extrémistes au sein des équipages aériens commerciaux révèle une faille de sécurité majeure pour l'aviation civile internationale.",
+   "stat": "17,000",
+   "statLabel": "Feet plunged during cockpit attack",
+   "chart": null,
+   "paras": [
+    "The week opened with shocking news from the aviation sector when an unprecedented security breach occurred aboard a FlyDubai commercial flight heading toward Tel Aviv. Initial reports indicated that a mid-air struggle erupted inside the cockpit after the co-pilot attempted to disable the aircraft's primary navigation controls and plunge the vessel into a dangerous dive. Passengers and off-duty crew members intervened swiftly to prevent a catastrophic crash, enabling the injured captain to make a emergency landing. This horrifying incident sent immediate shockwaves across international civil aviation authorities worldwide.",
+    "Initial disclosures focused primarily on the heroic actions of captain Smit Machchhar and brave passengers who restrained the attacker while the plane descended thousands of feet over international airspace. Governments across the Middle East immediately launched comprehensive forensic investigations to understand how an authorized pilot could bypass multiple airport screening protocols and access flight operations with violent intent. Security analysts underscored that cockpit access protocols, heavily reinforced after historic aviation tragedies, had failed to account for insider threats originating from within the flight crew itself, creating an unprecedented dilemma for international regulatory agencies.",
+    "As the investigation deepened midweek, regional security agencies revealed that the co-pilot, identified as Hamam al-Hammami, had utilized an emergency crash axe stored inside the flight cabin during his violent assault. Intelligence agencies in neighboring Oman disclosed that al-Hammami had previously been barred from flying with Oman Air after being flagged by internal security officers for displaying increasingly radical political and religious views. Despite these explicit warning signs, al-Hammami successfully transitioned to FlyDubai without undergoing adequate background screening, raising severe questions regarding cross-border intelligence sharing between Middle Eastern nations and commercial airlines.",
+    "The revelation of prior extremism warnings prompted global aviation bodies to review intelligence sharing mechanisms between civil aviation authorities and national security databases. Australian intelligence officials and state police launched complementary probes into potential local connections, while Israeli defense officials faced domestic political backlash regarding how an individual with known extremist flags operated a flight carrying Israeli citizens. Critics argued that routine passenger screening is rendered useless if pilots and flight personnel are not subjected to real-time security clearances, forcing international aviation boards to demand immediate overhauls of internal screening frameworks worldwide.",
+    "By the weekend, official statements from the United Arab Emirates formally classified the mid-air assault as an attempted terrorist attack, confirming that al-Hammami acted with premeditated political motives. Captain Machchhar, recovering from severe injuries in Abu Dhabi, detailed the harrowing moments before he unlocked the armored cockpit door to allow passenger intervention. Airline operators across Europe and Asia have instituted temporary emergency protocols, requiring mandatory secondary vetting for all pilots assigned to sensitive international routes, while investigators continue sifting through al-Hammami's electronic communications and personal contacts.",
+    "Aviation authorities in multiple jurisdictions are now auditing third-party contractor vetting procedures and intelligence exchange systems to identify systemic vulnerabilities in pilot recruitment. The incident has also disrupted flight schedules as carriers conduct retrospective background checks on current personnel, leading to union resistance and operational friction across major international hubs. While the physical threat aboard flight operations was contained, the diplomatic and regulatory fallout continues to expand across civil aviation departments, highlighting profound gaps in how radicalization risks are monitored within critical transport infrastructure.",
+    "Moving forward, the primary catalyst for further developments will be the release of the final joint investigation report by Emirati, Omani, and international aviation investigators. If investigators discover an organized terrorist network facilitated al-Hammami's placement at FlyDubai, Western transit hubs will likely mandate biometric screening and continuous background surveillance for all international aircrews. Furthermore, international civil aviation organizations are expected to debate binding multilateral agreements that mandate real-time sharing of pilot blacklists across foreign jurisdictions, fundamentally altering privacy standards for commercial aviators.",
+    "Another crucial factor will be how national parliaments and transport ministries respond to public demands for stricter cockpit security technology. Proposed measures under consideration include automated pilot-monitoring artificial intelligence systems capable of detecting erratic flight maneuvers or physical distress and overriding manual inputs from within the cockpit. If legislative bodies enforce these technological mandates, airlines will face immense capital expenditures to retrofit existing fleets, marking a historic shift toward autonomous safety systems in commercial aviation to mitigate the risk of rogue crew members."
+   ]
+  },
+  {
+   "desk": "à la une",
+   "source": "BBC",
+   "lang": "EN",
+   "paywalled": false,
+   "url": "https://www.bbc.co.uk/news/articles/ck87zg8jnwngo?at_medium=RSS&at_campaign=rss",
+   "headline": "G7 to release millions of barrels of oil and diesel after Trump threat",
+   "headlineEn": "Le G7 va libérer des millions de barils de pétrole et de gazole après la menace de Trump",
+   "contested": "",
+   "why": "L'intervention coordonnée du G7 sur les réserves pétrolières vise à stabiliser les prix mondiaux de l'énergie face à l'escalade des tensions dans le détroit d'Hormuz.",
+   "stat": "100M",
+   "statLabel": "Barrels released by G7 nations",
+   "chart": null,
+   "paras": [
+    "The week began under severe geopolitical strain across global energy markets after the United States rejected an Iranian proposal to reopen commercial shipping routes through the strategic Strait of Hormuz. With crude oil prices surging rapidly and bond markets retreating worldwide, energy analysts warned that lingering inflation risks would severely impair European and North American economic recovery efforts. Tanker traffic through the vital maritime corridor plummeted, creating immediate supply bottlenecks for crude oil and refined petroleum products, while international shipping companies suspended transit operations across the region.",
+    "European governments faced rising domestic discontent as fuel costs at pump stations escalated, prompting emergency political debates regarding consumer subsidies and strategic reserves. In Washington, foreign policy officials maintained a firm stance against Tehran, insisting that maritime access could not be negotiated under military coercion. Consequently, global futures markets priced in extended supply disruptions, driving diesel and heating oil futures to multi-year highs and forcing industrial consumers across Europe to prepare for potential rationing as the winter heating season approached rapidly.",
+    "The crisis escalated mid-week when American President Donald Trump issued a stern ultimatum to European allies, threatening to ban all exports of American diesel fuel unless Western nations acted collectively to suppress market prices. Simultaneously, Washington urged European governments to immediately tap their national strategic petroleum reserves to offset shortages caused by Persian Gulf transit restrictions. This aggressive diplomatic maneuver created initial friction between Washington and European capitals, with EU officials cautioning that depleting strategic fuel buffers without long-term supply guarantees could leave European economies exposed.",
+    "Despite initial diplomatic hesitation, international energy ministers convened emergency virtual consultations to coordinate a unified response to the accelerating fuel price crisis. Market volatility intensified as bond yields reacted to impending inflationary pressures, prompting central bankers to express concerns over monetary policy trajectories. The prospect of an American export embargo on refined fuels forced European regulators to concede that unilateral national measures, such as temporary fuel tax cuts implemented in Germany, were insufficient to curb systemic price spikes across integrated transatlantic supply networks.",
+    "By the weekend, G7 leaders reached a landmark agreement to execute a coordinated release of 100 million barrels of crude oil and diesel fuel from public emergency reserves. The International Energy Agency confirmed that 325 million barrels had already been authorized for market intervention across participating member states, with an additional 75 million barrels scheduled for distribution in coming weeks. President Trump subsequently retreated from his threat to ban diesel exports, characterizing his earlier statements as a tactic designed to compel rapid international cooperation.",
+    "Following the joint G7 announcement, global oil markets experienced a minor stabilization, although crude prices remained elevated compared to pre-crisis baselines. Major energy traders noted that while the release of strategic reserves provides immediate liquidity to refined product markets, it does not resolve the underlying maritime security crisis in the Strait of Hormuz. Meanwhile, OPEC+ delegates indicated that member nations intend to maintain steady production quotas for November, resisting Western calls to increase baseline output and leaving market balances delicate.",
+    "The primary variable determining future market trajectories will be whether commercial oil tankers can resume safe passage through Persian Gulf transit points without military escorts. If naval confrontations between Iranian forces and international shipping vessels escalate, the temporary relief provided by strategic reserve releases will dissipate rapidly, forcing G7 nations to consider additional emergency draws. Alternatively, diplomatic overtures aimed at securing neutral transit guarantees could restore normal shipping volumes, lowering global risk premiums and stabilizing transatlantic energy trade routes.",
+    "Another crucial milestone will be the upcoming OPEC+ ministerial meeting, where member states will decide whether to maintain quota caps or adjust production quotas in response to changing global demand forecasts. If major producers choose to constrain production despite depleted Western reserves, energy costs could surge again ahead of peak winter heating demand. Such an outcome would force Western governments to consider structural interventions, including price caps or direct transport subsidies, further altering international energy governance dynamics."
+   ]
+  },
+  {
+   "desk": "Monde / géopolitique",
+   "source": "DW [DE]",
+   "lang": "DE",
+   "paywalled": false,
+   "url": "https://www.dw.com/de/ukraine-kanzler-merz-in-kyjiw-drohne-trifft-nordbrücke/a-79535157?maca=de-rss-de-all-1119-rdf",
+   "headline": "Ukraine: Kanzler Merz in Kyjiw - Drohne trifft Nordbrücke",
+   "headlineEn": "Ukraine: Chancellor Merz in Kyiv - Drone hits North Bridge",
+   "contested": "",
+   "why": "La visite du chancelier allemand à Kiev intervient sur fond d'intensification des frappes russes contre les infrastructures vitales ukrainiennes avant l'hiver.",
+   "stat": "60%",
+   "statLabel": "Taux de neutralisation des drones russes",
+   "chart": null,
+   "paras": [
+    "Die Woche begann mit einer dramatischen Intensivierung der russischen Luftangriffe auf die ukrainische Energieinfrastruktur und strategische Verkehrsknotenpunkte. Bereits am Wochenanfang meldeten die Behörden in Kyjiw schwere Drohnen- und Raketeneinschläge, die das Stromnetz vor dem bevorstehenden Winter massiv schwächten. Die Führung in Moskau machte deutlich, dass sie ihre Angriffe auf zivile und militärische Logistikzentren systematisch ausweiten werde. Dies verstärkte in Europa die Sorge vor einer humanitären Katastrophe und einer neuen Wucht hybrider Kriegführung, die den europäischen Kontinent direkt herausfordert.",
+    "In Deutschland löste die Welle russischer Angriffe erneute Debatten über die Bereitschaft aus, die militärische Unterstützung für die Ukraine aufzugreifen und zu verstärken. Bundeskanzler Friedrich Merz betonte die Notwendigkeit einer entschlossenen europäischen Antwort, während Diplomaten im Hintergrund versuchten, zusätzliche Luftverteidigungssysteme für Kyjiw zu organisieren. Die ukrainische Regierung warnte ihrerseits eindringlich davor, dass ohne rasche Waffenlieferungen wichtige Großstädte im Winter unbewohnbar werden könnten. Die Lage an der Front blieb unterdessen durch erbitterte Kämpfe und hohe Verluste auf beiden Seiten extrem angespannt.",
+    "Im Laufe der Woche verdichteten sich die Hinweise auf eine gezielte Kampagne Russlands, die Binneninfrastruktur der ukrainischen Hauptstadt Kyjiw lahmzulegen. Insbesondere die Brücken über den Dnipro gerieten ins Visier neuartiger russischer Strahldrohnen, deren hohe Geschwindigkeit die ukrainische Flugabwehr vor gewaltige Probleme stellte. Parallel dazu verstärkten die europäischen Staaten ihre diplomatischen Konsultationen über erweiterte Sanktionspakete. Trotz anhaltender Drohungen aus dem Kreml hielten die westlichen Verbündeten an ihren Zusagen fest, Kyjiw finanziell und militärisch abzusichern, um den Druck auf die russische Staatsführung aufrechtzuerhalten.",
+    "Gleichzeitig verschärften sich die sicherheitspolitischen Spannungen im gesamten Ostseeraum durch Berichte über russische Sabotageversuche und hybride Angriffe auf kritische Infrastrukturen in den baltischen Staaten. Die europäische Debatte drehte sich zunehmend um die Frage, wie die Verteidigungsbereitschaft der NATO-Ostflanke gestärkt werden kann, ohne eine direkte militärische Eskalation mit Moskau zu provozieren. Während die Ukraine eigene Drohnenangriffe auf russische Raffinerien durchführte, wuchs der Druck auf die westlichen Regierungen, zusätzliche Luftverteidigungsgüter bereitzustellen, um den Schutz ukrainischer Großstädte vor weiteren schweren Zerstörungen zu gewährleisten.",
+    "Am Wochenende reiste Bundeskanzler Friedrich Merz zusammen mit Wirtschaftsministerin Katherina Reiche zu einem überraschenden Solidaritätsbesuch nach Kyjiw. Während ihrer Ankunft heulten in der ukrainischen Hauptstadt die Sirenen, und eine russische Drohne traf die strategisch wichtige Nordbrücke über den Dnipro, was zu gewaltigen Explosionen führte. Trotz dieser unmittelbaren Bedrohung versicherte Merz der ukrainischen Führung unverbrüchliche deutsche Unterstützung. Er kündigte neue Lieferungen von Flugabwehrsystemen und Munition an, um der ukrainischen Zivilbevölkerung das Überleben im kommenden harten Winter zu sichern.",
+    "Der Besuch des deutschen Kanzlers unterstreicht die Entschlossenheit Berlins, trotz der russischen Drohgebärden fest an der Seite Kyjiws zu stehen. Experten betonen jedoch, dass die physische Zerstörung der Verkehrsinfrastruktur in Kyjiw die zivile Logistik zunehmend beeinträchtigt. Die ukrainischen Einsatzkräfte arbeiten pausenlos an der Reparatur der beschädigten Brücken und Stromnetze, während internationale Hilfsorganisationen Notstromaggregate und Heizmaterial bereitstellen. Die politischen Führungen in Europa stehen vor der Herausforderung, die zugesagte Militärhilfe rasch in greifbare Verteidigungskapazitäten vor Ort umzusetzen.",
+    "Der entscheidende Faktor für die kommenden Wochen wird die Geschwindigkeit sein, mit der die angekündigten westlichen Flugabwehrsysteme an die ukrainische Front geliefert werden. Sollte es der ukrainischen Armee gelingen, die neuen russischen Düsendrohnen wirksam abzufangen, könnte die Hauptstadtinfrastruktur stabilisiert werden. Andernfalls drohen weitere schwere Ausfälle in der Energieversorgung, die Millionen Menschen beeinträchtigen würden. Zudem beobachten internationale Analysten aufmerksam, ob die russische Streitkräfte versuchen werden, ihre Angriffe auf die westukrainischen Nachschublinien auszuweiten, um westliche Waffenlieferungen frühzeitig zu unterbrechen.",
+    "Ein weiterer wichtiger Impuls könnte von den bevorstehenden internationalen Geberkonferenzen und den Verhandlungen über ein weiteres EU-Hilfspaket ausgehen. Falls die Mitgliedstaaten der Europäischen Union neue Finanzmittel für den Wiederaufbau der ukrainischen Infrastruktur freigeben, würde dies die wirtschaftliche Widerstandskraft Kyjiws nachhaltig stärken. Darüber hinaus wird die Reaktion der USA auf die jüngste Angriffs-Eskalation Russlands entscheidend sein für die Koordinierung künftiger Langstreckenwaffen-Lieferungen. Die geopolitische Dynamik rund um den Ukraine-Konflikt bleibt somit ein zentraler Belastungstest für die europäische Sicherheitsarchitektur."
+   ]
+  },
+  {
+   "desk": "International — hors Europe",
+   "source": "France 24",
+   "lang": "FR",
+   "paywalled": false,
+   "url": "https://www.france24.com/fr/vid%C3%A9o/20261004-pr%C3%A9sidentielle-au-br%C3%A9sil-lula-porte-les-espoirs-de-la-gauche",
+   "headline": "Présidentielle au Brésil : Lula porte les espoirs de la gauche",
+   "headlineEn": "Presidential election in Brazil: Lula carries the hopes of the left",
+   "contested": "",
+   "why": "L'élection présidentielle brésilienne oppose le président sortant Lula à Flávio Bolsonaro dans un scrutin décisif pour l'avenir politique et environnemental de l'Amérique latine.",
+   "stat": "160M",
+   "statLabel": "Électeurs brésiliens appelés aux urnes",
+   "chart": null,
+   "paras": [
+    "La semaine s'est ouverte au Brésil sur une polarisation politique extrême à l'approche du premier tour de l'élection présidentielle. Le président sortant de gauche, Luiz Inácio Lula da Silva, âgé de 80 ans, brigue un quatrième mandat historique face à son principal rival d'extrême droite, Flávio Bolsonaro, fils de l'ancien chef d'État. Dès les premiers jours de la semaine, le gouvernement Lula avait multiplié les mesures économiques à destination des ménages modestes, notamment l'interdiction des paris en ligne, afin de préserver le pouvoir d'achat.",
+    "L'opposition conservatrice a rapidement dénoncé ces initiatives comme des manœuvres électoralistes destinées à masquer les difficultés économiques résiduelles du pays. Les partisans de Flávio Bolsonaro ont axé leur campagne sur la sécurité publique et la défense des valeurs traditionnelles, mobilisant massivement les réseaux sociaux pour attaquer le bilan gouvernemental. De leur côté, les analystes politiques soulignaient que le scrutin s'annonçait particulièrement serré, l'électorat brésilien demeurant profondément divisé en deux blocs idéologiques irréconciliables depuis la dernière crise politique majeure.",
+    "Au milieu de la semaine, la tension politique est encore montée d'un cran en raison de vifs débats sur les ingérences étrangères supposées dans le processus électoral. Plusieurs représentations diplomatiques, dont celles des États-Unis et de l'Australie, ont temporairement suspendu certaines opérations consulaires par mesure de précaution face aux risques de débordements violents. Les deux candidats ont jeté leurs dernières forces dans la bataille lors de gigantesques rassemblements à São Paulo, la plus grande métropole du pays, cherchant à convaincre les derniers électeurs indécis.",
+    "La compétition s'est particulièrement focalisée sur le vote des femmes, qui représentent la majorité du corps électoral et avaient été déterminantes lors de la victoire de Lula en 2022. Les deux camps ont rivalisé de promesses sociales et sécuritaires pour séduire cet électorat clé, tandis que les sondages d'opinion continuaient d'afficher une égalité quasi parfaite entre les deux prétendants. Cette indécision persistante a accru la nervosité sur les marchés financiers brésiliens, les investisseurs craignant une contestation des résultats au soir du premier tour.",
+    "Ce dimanche 4 octobre, environ 160 millions d'électeurs brésiliens se rendent aux urnes pour départager les candidats dans ce scrutin sous haute surveillance institutionnelle. Les bureaux de vote ont ouvert sur l'ensemble du territoire national sous la présence renforcée des forces de sécurité et des observateurs électoraux. Les dernières enquêtes d'opinion confirment un coude-à-coude serré, rendant la perspective d'un second tour extrêmement probable entre Lula et Flávio Bolsonaro, alors que la population attend les premiers dépouillements dans une atmosphère de vive tension.",
+    "Les autorités électorales brésiliennes ont réaffirmé avec fermeté l'inviolabilité du système de vote électronique, cherchant à rassurer l'opinion publique face aux rumeurs de fraudes propagées durant la campagne. Malgré ces garanties officielles, la polarisation sociale reste extrêmement palpable dans les grandes villes comme dans les régions rurales du pays. L'issue de ce premier tour s'annonce déterminante non seulement pour l'avenir institutionnel du Brésil, mais également pour la trajectoire économique et la protection environnementale de toute l'Amérique latine.",
+    "Le facteur déterminant des prochains jours sera la publication des résultats officiels par le Tribunal supérieur électoral et la réaction des deux états-majors politiques. Si l'un des candidats conteste la régularité du résultat ou appelle ses partisans à manifester dans la rue, le Brésil pourrait basculer dans une période de grave instabilité politique. Inversement, une reconnaissance rapide des chiffres ouvrirait officiellement la campagne pour le second tour, obligeant les deux finalistes à négocier des alliances stratégiques avec les partis centristes.",
+    "À plus long terme, le résultat final aura des répercussions majeures sur les relations diplomatiques du Brésil avec les grandes puissances mondiales, notamment les États-Unis et la Chine. Une victoire de Lula consoliderait le rôle du Brésil au sein des BRICS et renforcerait la coopération environnementale internationale, tandis qu'un succès de Flávio Bolsonaro réorienterait la politique étrangère vers des positions nettement plus conservatrices et alignées sur Washington. L'évolution de ce scrutin sera donc observée de très près par l'ensemble de la communauté internationale."
+   ]
+  }
+ ],
+ "desks": [
+  {
+   "name": "Luxembourg",
+   "stories": [
+    {
+     "source": "Luxemburger Wort",
+     "lang": "de",
+     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPR05sWUtTZ2A1UGxJLXpxbGFaNGN6dzQyaEd2Yk94cWxpSm5Cc3dRcERwSDhWeVk4Y3I4VWFhQnBwd0dEVkxyT3JiODl5aGNQcXpULUhDcVJmRkljTmJSc2RjTEcwWG9USWZmSkxlb0x0cWdZeGFzazIzMzFKbkpYMmpoRjdPSldScWFWai1SaGY1ZmdDVzM5LTJfWDdwMU90emc?oc=5",
+     "headline": "Großherzog Guillaume – sein erstes Regentenjahr in Bildern",
+     "headlineEn": "Grand Duke Guillaume – his first year as regent in pictures",
+     "summary": "Das erste Regentenjahr von Großherzog Guillaume markiert einen bedeutenden Meilenstein in der Geschichte der luxemburgischen Monarchie. Der Übergang an der Spitze des Staates verlief schrittweise und zeichnete sich durch eine sehr hohe Präsenz bei offiziellen Anlässen im In- und Ausland aus. Das gesamte Jahr war geprägt von zahlreichen diplomatischen Empfängen, gesellschaftlichen Terminwahrnehmungen sowie der aktiven Repräsentation des Großherzogtums bei internationalen Foren und Gipfeltreffen. Diese umfassende Bilanz verdeutlicht die Kontinuität der großherzoglichen Familie als einigendes und stabilisierendes Element der gesamten Nation. Zugleich unterstreicht der Rückblick das deutliche Bestreben des neuen Regenten, moderne Akzente in der Staatsführung zu setzen und die Nähe zu allen Bürgerinnen und Bürgern im Land weiter zu stärken.",
+     "why": "Le premier bilan du règne du grand-duc Guillaume illustre la continuité institutionnelle et le rôle stabilisateur de la monarchie au Luxembourg.",
+     "paywalled": true,
+     "contested": "",
+     "chart": null
+    },
+    {
+     "source": "Luxemburger Wort",
+     "lang": "de",
+     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOcXoyLUoyZERBaVZYb2dOMFpRVzFEQm9pN1hBRlh6alA3b1B0Q2IydUVQaGVEOUEzOEpqTVBMR1FzdnNKVE5yX1BGcTFRQUpzRmY0b2ZjdHdRcEFocXRGZnB6RjlXY0IwSml4UVEwVnpMcTZ5SXNtYi0tZTByZVU3WF_EN1RSc0J4Q2hoTnpRYnF6VDZPeXBYT0VPdDFSZ1dNRzVtaXRR?oc=5",
+     "headline": "Sternekoch übernimmt Bistro im künftigen Wäinhaus",
+     "headlineEn": "Michelin-starred chef takes over bistro in future Wäinhaus",
+     "summary": "Ein renommierter Sternekoch wird die gastronomische Leitung des Bistros im künftigen Wäinhaus an der Mosel übernehmen. Das ehrgeizige Projekt gilt als zentraler Baustein für den regionalen Tourismus und die nachhaltige Förderung der luxemburgischen Weinbaukultur. Durch die gezielte Kombination von gehobener Kulinarik und erstklassigen lokalen Weinspezialitäten soll die Attraktivität der gesamten Moselregion für einheimische Besucher und internationale Gäste spürbar gestärkt werden. Die Entscheidung unterstreicht das gemeinsame Bestreben der regionalen Akteure, das kulturelle Erbe des Weinbaus mit innovativen gastronomischen Konzepten zu verbinden. Damit setzt die Region ein wichtiges wirtschaftliches Signal für den Ausbau des hochwertigen Qualitätstourismus in ganz Luxemburg.",
+     "why": "Valoriser le patrimoine viticole de la Moselle renforce l'attractivité touristique et économique du Grand-Duché.",
+     "paywalled": true,
+     "contested": "",
+     "chart": null
+    },
+    {
+     "source": "RTL.lu",
+     "lang": "fr",
+     "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNc3g5Y1Q0OUl1SXNlNHhaNHJyR1BvRlpSMFlqaTdtcWkySGlzR3RYZjFEdmtGbmk3V1Y3eVZxWTMxbEtNcmlGV3J3ODZJQnk2c0RkdkdHWmlTejRrSjZIbU1QTTFIWGFTZXYxQ2JyMmpkNXNDZm1jdVdNMldGZUoyNTdocXVGMzlEMTBnY2RZT3loenVQbEE?oc=5",
+     "headline": "École saccagée à Roodt-sur-Syre: Trois jeunes âgés de 13 à 16 ans interpellés",
+     "headlineEn": "Vandalized school in Roodt-sur-Syre: Three youths aged 13 to 16 arrested",
+     "summary": "L'enquête concernant les dégradations commises dans l'école fondamentale de Roodt-sur-Syre a progressé rapidement cette semaine. Trois adolescents âgés de 13 à 16 ans ont été interpellés par les forces de l'ordre après les actes de vandalisme perpétrés dans l'établissement scolaire. Cet incident avait suscité une vive émotion parmi les habitants de la commune et l'équipe éducative en raison de l'ampleur des dégâts matériels occasionnés. La prise en charge de ces mineurs par la justice ravive le débat sur la délinquance juvénile et le suivi disciplinaire au sein des infrastructures locales. Les autorités communales travaillent désormais à la remise en état complète des locaux impactés.",
+     "why": "Cet acte de vandalisme remet en avant les enjeux de sécurité dans les infrastructures scolaires et la gestion de la délinquance juvénile.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    }
+   ]
+  },
+  {
+   "name": "Monde / géopolitique",
+   "stories": [
+    {
+     "source": "Reuters",
+     "lang": "en",
+     "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOVFNoVUJwWFRHa2hyMjdWTnQwNWJzeEsxN004aTEwczk5Y2tDeW0wdW9od2FjUlJNVVBLTUEtRTJ3YWlQaHgyTlZxV2RBVEdsMERUdnZzU1BQeVhrTXRnR0RuSXJlUUFhWkNRanY5akk5aEE5aTdMUGxBaFFSRjlZbzd3N00yWjRIRjMyZlIyUGNCOTNaNjc1QUcwSWlUWGtOaEhyU2F2WVB4NXA1WnY2Tw?oc=5",
+     "headline": "Latvian PM on track to lead pro-Ukraine coalition after election win",
+     "headlineEn": "Le Premier ministre letton en passe de diriger une coalition pro-Ukraine après sa victoire électorale",
+     "summary": "Prime Minister Andris Kulbergs and his pro-European, pro-Ukraine party secured a decisive victory in the Latvian parliamentary elections this week. Winning over 35% of the vote, the ruling party achieved a historic score that effectively keeps populist forces at bay. Kulbergs is now positioned to lead coalition talks aimed at maintaining Latvia's strong support for Kyiv and reinforcing NATO’s eastern flank against Russian hybrid threats. The election outcome brings political stability to the Baltic nation amid heightened regional security tensions. Observers note that the clear mandate will allow the incoming government to press ahead with structural reforms and defense investments.",
+     "why": "La victoire nette des forces pro-européennes en Lettonie garantit la stabilité du flanc oriental de l'OTAN face aux menaces hybrides russes.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    },
+    {
+     "source": "DW",
+     "lang": "en",
+     "url": "https://www.dw.com/en/bosnia-herzegovina-votes-amid-divisive-campaigns-eu-bid/a-79535336?maca=en-rss-en-world-4025-rdf",
+     "headline": "Bosnia-Herzegovina votes amid divisive campaigns, EU bid",
+     "headlineEn": "La Bosnie-Herzégovine vote dans un climat de campagne divisé et d'aspirations à l'UE",
+     "summary": "Voters across Bosnia and Herzegovina went to the polls on Sunday in a complex multi-tiered general election shaped by deep ethnic divisions and economic struggles. The vote involves selecting the three members of the country's multi-ethnic presidency as well as national and regional lawmakers. Pro-Russian nationalist rhetoric and separatist threats from Bosnian Serb leaders heavily dominated the campaign, raising concerns about the country's stability and its stalled bid for European Union membership. International observers are closely monitoring the election process as the Balkan nation attempts to navigate internal administrative complexity. The outcome will prove crucial for the country's geopolitical alignment and democratic reforms.",
+     "why": "Les tensions ethniques et la rhétorique séparatiste en Bosnie menacent la stabilité des Balkans occidentaux et bloquent son rapprochement avec l'UE.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    },
+    {
+     "source": "Euronews",
+     "lang": "en",
+     "url": "https://www.euronews.com/2026/10/03/azerbaijan-turkey-and-uzbekistan-join-forces-in-major-military-exercise",
+     "headline": "Azerbaijan, Turkey and Uzbekistan join forces in major military exercise",
+     "headlineEn": "L'Azerbaïdjan, la Turquie et l'Ouzbékistan unissent leurs forces lors d'un exercice militaire majeur",
+     "summary": "Thousands of military personnel from Azerbaijan, Turkey, and Uzbekistan took part in the joint 'Power of Unity 2026' military exercise in the Karabakh region this week. This marks a significant escalation in security cooperation among Turkic nations, aimed at bolstering regional defense capabilities and interoperability. Other countries, including Iran, participated as observers, highlighting the broader geopolitical interest in the South Caucasus. The maneuvers demonstrate Azerbaijan's growing military alliances following its full recovery of the Karabakh territory. Analysts suggest that such joint exercises signal a shifting balance of power in Central Asia and the Caucasus away from traditional regional hegemony.",
+     "why": "L'approfondissement de la coopération militaire turcique dans le Caucase redéfinit les équilibres géopolitiques régionaux aux dépens de l'influence russe.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    }
+   ]
+  },
+  {
+   "name": "International — hors Europe",
+   "stories": [
+    {
+     "source": "Reuters",
+     "lang": "en",
+     "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNVXVqai1NbFo5LVhWcnM3RElRUWVwa21sQ3p6dVhFXzBwQVBtN3BGR09DOGZhaXV5Z09BQ0RXN0JfODgtS2VoeUVqV3I0OFd3cVFjMzNLSGV3QnBidDY4eTVIUzc4YThTalE0b3JNRndHbHhQdW43S3MxN25NOWRnckZKUDU2MGl3V1YtZUVaRG5IMF9PUTVWMVM3NUptZGdkaUlYSDdLcTQxMlVxMWlkcg?oc=5",
+     "headline": "Government forces seize capital of Ethiopia's Tigray region from rebels",
+     "headlineEn": "Les forces gouvernementales s'emparent de la capitale du Tigré en Éthiopie",
+     "summary": "Ethiopian government forces captured Mekelle, the regional capital of Tigray, as rebel fighters abandoned the city following a rapid military advance. The renewed fighting marks a severe collapse of the 2022 peace agreement and has sparked fears of a wider regional conflict across the Horn of Africa. Neighboring powers, including Eritrea, Egypt, and Gulf nations, are increasingly drawn into the diplomatic and military fallout of the crisis. Humanitarian organizations have expressed urgent concerns for civilian safety and the delivery of critical aid to affected populations. The recapture of the capital shifts control, but analysts warn that guerrilla resistance could prolong the instability.",
+     "why": "La reprise des combats au Tigré menace de faire basculer l'ensemble de la Corne de l'Afrique dans une guerre régionale incontrôlable.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    },
+    {
+     "source": "Reuters",
+     "lang": "en",
+     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxObzhqSHU5T0JDRmgtY29mZXNTWG0yaXBkcGJLcjRyd2JnUEFNbTJWSl9IdVBiWlBKSEE2dUs2ZTNjaklUT3ZVRHlfYngtSHU5THA5SG9HZDgxX2JUYXNoOWJFdWQ2bkRhb2YzeFd6d19oWWVBcThXeDVVOEt1dlViWDlxMGpqMmdCVmlXcXlwaVlNaHV2aGhpNGg0RQ?oc=5",
+     "headline": "Japan's Takaichi protests to US after Marine accused of murder in Okinawa",
+     "headlineEn": "La Japonaise Takaichi proteste auprès des États-Unis après l'accusation de meurtre visant un Marine à Okinawa",
+     "summary": "Japanese Minister Sanae Takaichi lodged a formal protest with US officials after an American Marine was arrested and accused of murdering a local woman in Okinawa. The incident has reignited long-standing public anger and political friction regarding the heavy presence of US military personnel on the island. Local residents and politicians have renewed calls for a reduction in American troops and a review of the bilateral status of forces agreement. The diplomatic fallout threatens to complicate defense coordination between Tokyo and Washington at a time of rising tensions in East Asia. The Japanese government has demanded strict measures to prevent future crimes.",
+     "why": "Cet incident ravive les tensions populaires à Okinawa et fragilise la coopération militaire américano-japonaise face aux défis sécuritaires en Asie.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    },
+    {
+     "source": "France 24",
+     "lang": "fr",
+     "url": "https://www.france24.com/fr/vid%C3%A9o/20261004-viol-pr%C3%A9sum%C3%A9-%C3%A0-cornell-ouverture-d-une-enqu%C3%AAte-externe-sur-la-gestion-de-l-affaire-par-l-universit%C3%A9",
+     "headline": "Viol présumé à Cornell: ouverture d'une enquête externe sur la gestion de l'affaire par l'université",
+     "headlineEn": "Alleged rape at Cornell: external investigation launched into university's handling of the case",
+     "summary": "L'université américaine Cornell a annoncé l'ouverture d'une enquête externe indépendante menée par un cabinet d'avocats pour examiner la gestion par l'établissement d'une affaire de viol en réunion présumé. Le scandale, survenu en 2024 au sein d'une fraternité étudiante, suscite une vague d'indignation nationale après des révélations selon lesquelles la police du campus aurait altéré la déposition de la victime. Face à la pression des étudiants et des élus, la gouverneure de l'État de New York a nommé la procureure générale Letitia James comme procureure spéciale. L'affaire relance le débat sur la sécurité des campus universitaires et l'impunité des fraternités aux États-Unis.",
+     "why": "Le traitement des violences sexuelles dans les universités américaines suscite un débat national sur la responsabilité des institutions éducatives.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    },
+    {
+     "source": "Al Jazeera",
+     "lang": "en",
+     "url": "https://www.aljazeera.com/features/2026/10/4/inside-the-kill-box-the-Yemenis-who-stayed-behind-in-Houthi-held-Mocha",
+     "headline": "Inside the ‘kill box’: The Yemenis who stayed behind in Houthi-held Mocha",
+     "headlineEn": "Dans la « zone de tir » : les Yéménites restés à Mocha sous contrôle houthi",
+     "summary": "Civilians trapped in the Red Sea port city of Mocha face catastrophic humanitarian conditions as military escalation between Houthi forces and regional coalitions intensifies. Fresh airstrikes and artillery shelling have devastated local infrastructure, leaving residents with severely limited access to food, clean water, and medical supplies. The escalation comes amid claims of strikes on regional oil facilities and heightened confrontation along maritime shipping routes. Local reports describe deteriorating safety conditions for those unable to flee the combat zones. International humanitarian groups are appealing for an immediate cessation of hostilities to allow life-saving assistance to reach stranded populations in Yemen.",
+     "why": "L'embrasement du conflit au Yémen aggrave la crise humanitaire et menace la sécurité maritime stratégique en mer Rouge.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    }
+   ]
+  },
+  {
+   "name": "Europe & politiques de l'UE",
+   "stories": [
+    {
+     "source": "BBC",
+     "lang": "en",
+     "url": "https://www.bbc.co.uk/news/articles/cm2kej47095no?at_medium=RSS&at_campaign=rss",
+     "headline": "'Anger in the streets': Tens of thousands protest in Spain over housing crisis",
+     "headlineEn": "« La colère dans la rue » : des dizaines de milliers de manifestants en Espagne face à la crise du logement",
+     "summary": "Tens of thousands of demonstrators took to the streets across Madrid and major Spanish cities this weekend to demand urgent government action on the soaring cost of housing. The massive protests erupted after Spain's parliament rejected emergency legislation proposed by Prime Minister Pedro Sánchez's coalition aimed at capping rents and restricting speculative buyers. Tenant rights organizations warned that unmanageable rent hikes are pricing local residents out of urban centers and driving social inequality. The political setback in parliament leaves the minority government in a fragile position as calls grow for rent strikes. The housing debate reflects a broader social crisis affecting major European metropolitan areas.",
+     "why": "Le rejet du texte sur le logement fragilise le gouvernement espagnol et illustre la crise de l'accès au logement dans les métropoles européennes.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    },
+    {
+     "source": "Le Monde",
+     "lang": "fr",
+     "url": "https://www.lemonde.fr/economie/article/2026/10/04/l-absence-de-ventes-du-fabricant-asml-en-europe-symbole-du-manque-d-investissements-dans-les-puces-electroniques_6788218_3234.html",
+     "headline": "L’absence de ventes du fabricant ASML en Europe, symbole du manque d’investissements dans les puces électroniques",
+     "headlineEn": "Equipment maker ASML's lack of European sales highlights underinvestment in microchips",
+     "summary": "Le géant néerlandais ASML, unique fabricant mondial de machines d'équipement de lithographie extrême ultraviolet pour semi-conducteurs, ne vend actuellement aucun de ses équipements de pointe à des fonderies implantées en Europe. Cette situation met en évidence les carences du premier Chips Act européen, qui visait pourtant à relocaliser la production stratégique de puces sur le continent. Alors que la Commission européenne prépare un nouveau volet de ce plan, la dépendance industrielle européenne vis-à-vis de l'Asie et des États-Unis reste très forte. L'absence d'investissements massifs des industriels locaux entrave les ambitions de souveraineté technologique de l'Union. Ce fossé industriel préoccupe grandement les décideurs économiques européens.",
+     "why": "Le manque de commandes de puces en Europe révèle l'échec relatif du Chips Act et fragilise la souveraineté technologique de l'UE.",
+     "paywalled": true,
+     "contested": "",
+     "chart": null
+    },
+    {
+     "source": "DW [DE]",
+     "lang": "de",
+     "url": "https://www.dw.com/de/zahl-der-asylanträge-in-der-eu-um-fast-ein-viertel-gesunken/a-79536199?maca=de-rss-de-all-1119-rdf",
+     "headline": "Zahl der Asylanträge in der EU um fast ein Viertel gesunken",
+     "headlineEn": "Le nombre de demandes d'asile dans l'UE a chuté de près d'un quart",
+     "summary": "Die Zahl der ersten Asylanträge in den Mitgliedstaaten der Europäischen Union ist im bisherigen Jahresverlauf um knapp ein Viertel gesunken. Dies geht aus aktuellen Daten der EU-Asylagentur hervor, die eine deutliche Rückgangsdynamik auf allen wesentlichen Migrationsrouten nach Europa belegen. Deutschland, das lange Zeit das unangefochtene Hauptzielland für Schutzsuchende war, liegt in der aktuellen europäischen Statistik nur noch an dritter Stelle hinter anderen EU-Staaten. Experten führen diesen spürbaren Trend vor allem auf verschärfte Grenzkontrollen, bilaterale Abkommen sowie veränderte regionale Migrationsmuster zurück. Trotz des deutlichen Rückgangs halten die intensiven politischen Debatten über eine gemeinsame europäische Migrationspolitik unvermindert an.",
+     "why": "La baisse sensible des demandes d'asile en Europe modifie la pression migratoire mais n'éteint pas les débats politiques sur les contrôles aux frontières.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    }
+   ]
+  },
+  {
+   "name": "Économie & marchés",
+   "stories": [
+    {
+     "source": "Reuters",
+     "lang": "en",
+     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQWDBEcXY1UUtrRGxIaE9neHYxeDlTWDNYaVlWdlp2UUhxSGtUV2RVZlR4Q25UUTlDTTR0QXlLYlVNZ1lMNEJfQkVmZnVtcFNaVW5mZE42d21uV1BZZzRESkxvVkxoM1_FNkhoVThRWXYtUGR1eGZ6VmYtUHNrTWs5eXZfV1kxZ3ZnSHR2UWtmQWd5YVltQlNseWs0RGhXeVItVGVwQXNKbXpZVG9G?oc=5",
+     "headline": "Revolut's rise to become Europe's $115 billion big bank rival",
+     "headlineEn": "L'ascension de Revolut, désormais rival à 115 milliards de dollars des grandes banques européennes",
+     "summary": "Financial technology giant Revolut has completed a new secondary share sale that elevates its market valuation to an unprecedented $115 billion. This surge highlights the rapid expansion of digital banking rivals across Europe, directly challenging traditional financial institutions in retail banking and payments. Supported by strong user acquisition and expanding financial services, Revolut's rise reflects a structural shift in consumer banking behavior. Investors continue to inject capital into fintech leaders despite broader economic uncertainties and tighter regulatory oversight in western markets. The valuation milestone cements Revolut's position as one of Europe's most valuable private technology firms.",
+     "why": "L'évaluation record de Revolut illustre la transformation numérique du secteur bancaire européen face aux établissements traditionnels.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    },
+    {
+     "source": "Bloomberg",
+     "lang": "en",
+     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPZ3lQRmNrSGZSeVZuaEF5RldlMXJYN1RENDlHMFlnUkwtTEY5Sm9FMFBJeXhxZ1hUYjgyWi03akp5STd3U3NtVkNwTW9YaEgxeGM3MXVEVzNuemxBTnlUYzE0b3BOdHlBY2syc2xRMm5TYmFpZWd3V09XOVVfRk5JRjE0VzVJNE5VTkxHMG1BcGtNUDBvZFpxZlVxeG5uM1FUQUIxTENUS2ZTVTJJVGlkVG9yTQ?oc=5",
+     "headline": "OPEC+ Has Deal Outline for Steady November Quotas, Delegates Say",
+     "headlineEn": "L'OPEP+ s'accorde sur le maintien des quotas de production pour novembre",
+     "summary": "Delegates from the OPEC+ alliance have agreed on an outline to maintain current crude oil production quotas completely unchanged through November during their latest preliminary consultations. The decision comes amidst high market volatility driven by ongoing Middle Eastern geopolitical tensions and releases from strategic reserves by G7 countries. Key producers favored a cautious strategy to stabilize crude prices while assessing global demand forecasts for the upcoming winter season. Maintaining steady supply targets provides crucial reassurance to global energy markets concerned about further inflationary pressures. The alliance will formally ratify the agreement during its next scheduled ministerial meeting later this month.",
+     "why": "Le maintien des quotas par l'OPEP+ cherche à stabiliser les cours du pétrole brut face à la volatilité géopolitique mondiale.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    },
+    {
+     "source": "FAZ",
+     "lang": "de",
+     "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/porsche-in-der-krise-michael-leiters-riskanter-verbrenner-kurs-accg-201268752.html",
+     "headline": "Neustart bei Porsche: Autos, die keiner braucht",
+     "headlineEn": "Nouveau départ chez Porsche : le pari risqué du retour aux moteurs thermiques",
+     "summary": "Der neue Vorstandsvorsitzende von Porsche, Michael Leiters, leitet angesichts deutlich schwächelnder globeler Absatzzahlen eine strategische Kehrtwende beim traditionellen Sportwagenbauer ein. Aufgrund der anhaltend zurückhaltenden Nachfrage nach reinen Elektrofahrzeugen setzt das Unternehmen wieder sehr viel verstärkter auf die Entwicklung neuer Modelle mit Verbrennungsmotor. Dieser radikale Kurswechsel birgt jedoch erhebliche Zukunftsrisiken, da Porsche damit wertvolle Zeit bei der unabdingbaren Transformation zur Elektromobilität verlieren könnte. Die Krise verdeutlicht die tiefgreifenden strukturellen Herausforderungen der deutschen Automobilindustrie im globalen Wettbewerb, insbesondere gegenüber dynamischen chinesischen Anbietern. Branchenexperten bezweifeln ernsthaft, ob die Rückkehr zu traditionellen Antrieben langfristig den Unternehmenserfolg sichern kann.",
+     "why": "Les difficultés de Porsche illustrent les hésitations des constructeurs européens face à la transition vers le véhicule électrique.",
+     "paywalled": true,
+     "contested": "",
+     "chart": null
+    }
+   ]
+  },
+  {
+   "name": "Technologie & sciences",
+   "stories": [
+    {
+     "source": "NYT",
+     "lang": "en",
+     "url": "https://www.nytimes.com/2026/10/04/world/asia/nuclear-reactors-moon.html",
+     "headline": "Superpowers Race to Put Nuclear Reactors on the Moon",
+     "headlineEn": "La course des superpuissances pour installer des réacteurs nucléaires sur la Lune",
+     "summary": "The global race for space dominance has entered a critical phase as the United States and a Sino-Russian alliance compete to deploy nuclear reactors on the moon. Washington aims to operationalize a lunar surface reactor by 2030 to power permanent research bases, while Moscow and Beijing target a joint installation by 2036. Leading scientists and international legal experts warn that placing nuclear technology in outer space carries major environmental and security risks. The ambition underscores how lunar resources and strategic positioning are becoming the new frontier of geopolitical rivalry. Current international space treaties offer limited regulation for such high-stakes technological deployments.",
+     "why": "L'installation de réacteurs nucléaires sur la Lune marque une escalade technologique et stratégique dans la conquête spatiale.",
+     "paywalled": true,
+     "contested": "",
+     "chart": null
+    },
+    {
+     "source": "DW",
+     "lang": "en",
+     "url": "https://www.dw.com/en/ai-giants-not-being-nearly-careful-enough-warns-outgoing-openai-safety-engineer/a-79533080?maca=en-rss-en-world-4025-rdf",
+     "headline": "AI giants 'not being nearly careful enough,' warns outgoing OpenAI safety engineer",
+     "headlineEn": "Les géants de l'IA « ne sont de loin pas assez prudents », prévient un ingénieur démissionnaire d'OpenAI",
+     "summary": "A departing safety engineer from OpenAI has issued a stark public warning regarding the rapid deployment of frontier artificial intelligence models. Speaking shortly after US President Donald Trump signed a voluntary safety framework with major technology firms, the whistleblower argued that self-regulation is dangerously insufficient. He forcefully called for binding regulatory oversight similar to strict safety standards used in commercial aviation or nuclear power generation. The engineer expressed deep concern that competitive pressure to launch autonomous AI agents is overshadowing critical safety testing. This critique adds momentum to growing calls from independent researchers for mandatory government safeguards on advanced AI systems.",
+     "why": "Les avertissements d'experts internes renforcent les doutes sur l'efficacité de l'autorégulation de l'IA promue par la Maison-Blanche.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    },
+    {
+     "source": "PBS News",
+     "lang": "en",
+     "url": "https://www.pbs.org/newshour/science/could-the-international-space-station-win-a-nobel-peace-prize-heres-what-to-know",
+     "headline": "Could the International Space Station win a Nobel Peace Prize? Here's what to know",
+     "headlineEn": "La Station spatiale internationale pourrait-elle remporter le prix Nobel de la paix ?",
+     "summary": "Speculation is growing ahead of the upcoming Nobel Peace Prize announcement, with foreign policy analysts tipping the International Space Station as a strong contender. For over two decades, the orbital laboratory has served as an unparalleled platform for peaceful scientific collaboration among nations, including during periods of intense geopolitical strife on Earth. Supporters argue that honoring the ISS would highlight the power of international cooperation in science and technology. However, critics point out that the station approaches the end of its operational lifespan amid rising tensions between Western nations and Russia. A Nobel award would symbolize a historic triumph for peaceful orbital research.",
+     "why": "Récompenser la Station spatiale internationale soulignerait le rôle de la science coopérative comme vecteur de diplomatie mondiale.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    }
+   ]
+  },
+  {
+   "name": "Sport",
+   "stories": [
+    {
+     "source": "SZ",
+     "lang": "de",
+     "url": "https://www.sueddeutsche.de/sport/nations-league-klopp-kimmich-serbien-mittelfeld-frage-li.3557499",
+     "headline": "DFB-Team: Jürgen Klopp und das Lied von Joshua Kimmich",
+     "headlineEn": "Équipe d'Allemagne : Jürgen Klopp et la question Joshua Kimmich",
+     "summary": "Nach dem jüngsten Erfolg in der Nations League steht Bundestrainer Jürgen Klopp vor bedeutenden taktischen Grundsatzfragen. Das fehlende Mitwirken von Kapitän Joshua Kimmich im Mittelfeld heizt die sportliche Debatte über die optimale Aufstellung weiter an. Klopp versucht jedoch, die aufkommende Unruhe in den Medien zu dämpfen und betont die hohe Flexibilität des gesamten Kaders vor den anstehenden wegweisenden Länderspielen.",
+     "why": "La gestion tactique du capitaine Kimmich constitue le premier vrai test d'autorité pour Jürgen Klopp.",
+     "paywalled": true,
+     "contested": "",
+     "chart": null
+    },
+    {
+     "source": "France 24",
+     "lang": "fr",
+     "url": "https://www.france24.com/fr/%C3%A9missions/sports/20261004-football-carton-plein-pour-l-argentine-face-au-burkina-faso-avant-les-adieux-de-messi",
+     "headline": "Carton plein pour l'Argentine face au Burkina Faso avant les adieux de Messi",
+     "headlineEn": "Full house for Argentina against Burkina Faso ahead of Messi's farewell",
+     "summary": "L'équipe nationale d'Argentine a offert une démonstration offensive particulièrement impressionnante à Buenos Aires en écrasant le Burkina Faso sur le score sans appel de 7 à 0. Cette victoire spectaculaire sert de répétition générale idéale à trois jours seulement du match d'adieu très attendu de la star Lionel Messi sous le maillot de la sélection nationale, prévu face à la sélection du Bénin.",
+     "why": "Cette victoire écrasante prépare les adieux historiques de Lionel Messi à la sélection argentine.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    }
+   ]
+  }
+ ],
+ "sourced": true,
+ "feeds": {
+  "ok": 28,
+  "of": 29,
+  "items": 252,
+  "skipped": [
+   "Euronews (FR): HTTP 406"
+  ]
+ },
+ "words": 5425,
+ "readMin": 27,
+ "storyCount": 25
+}
