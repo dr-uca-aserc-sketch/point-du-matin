@@ -1,0 +1,255 @@
+{
+ "date": "2026-10-09",
+ "kind": "daily",
+ "heat": 0.75,
+ "oneThing": "The Pentagon announced that the military execution of Fort Hood shooter Nidal Hasan will be publicly livestreamed on December third.",
+ "followUps": [
+  {
+   "n": "01",
+   "thread": "Crise des lycées en France",
+   "change": "Le gouvernement annonce l'arrivée de 3 000 professeurs remplaçants, mais l'intersyndicale appelle à une nouvelle journée de mobilisation le 13 octobre."
+  },
+  {
+   "n": "02",
+   "thread": "Tensions diplomatiques Séoul-Kiev",
+   "change": "La Corée du Sud va rappeler son ambassadeur en Ukraine après la divulgation publique à l'ONU du transfert de prisonniers de guerre nord-coréens."
+  },
+  {
+   "n": "03",
+   "thread": "Présidentielle au Brésil",
+   "change": "Flavio Bolsonaro reçoit le soutien de trois anciens candidats, renforçant sa position avant le second tour prévu le 25 octobre contre Lula."
+  }
+ ],
+ "mustReads": [
+  {
+   "desk": "Europe",
+   "source": "France 24",
+   "lang": "FR",
+   "paywalled": false,
+   "url": "https://www.france24.com/fr/france/20261008-mobilisation-lyc%C3%A9ens-3-000-professeurs-annonc%C3%A9s-nouvel-appel-manifestation-13-octobre",
+   "headline": "Mobilisation des lycéens : 3 000 professeurs annoncés et un nouvel appel à manifester le 13 octobre",
+   "headlineEn": "High school student mobilization: 3,000 teachers announced and new protest called for October 13",
+   "contested": "",
+   "why": "Ce mouvement social met sous pression le gouvernement français à l'approche d'échéances politiques majeures.",
+   "stat": "3 000",
+   "statLabel": "professeurs remplaçants annoncés par le gouvernement français dans les lycées en crise",
+   "chart": null,
+   "paras": [
+    "La France traverse une période d'intense contestation sociale portée par les lycéens et les étudiants à travers tout le territoire. Le jeudi huit octobre, une nouvelle journée de mobilisation nationale a rassemblé plus de soixante-dix-sept mille personnes, dont vingt-quatre mille cinq cents dans la capitale selon les chiffres transmis par le ministère. De nombreuses villes comme Rennes, Nantes, Lille, Marseille et Créteil ont été le théâtre de manifestations et de blocages d'établissements scolaires. Bien que cent cinquante lycées soient restés fermés ce jour-là, la pression sur le gouvernement ne faiblit absolument pas.",
+    "En réponse à la colère grandissante concernant la dégradation des conditions d'enseignement et le manque chronique d'effectifs, le ministre de l'Éducation nationale, Édouard Geffray, a formulé des annonces d'urgence. Le gouvernement promet ainsi l'affectation imminente de trois mille professeurs remplaçants au sein des lycées confrontés aux manques les plus critiques. Toutefois, ces mesures d'urgence peinent à convaincre les syndicats et les organisations lycéennes. Ceux-ci estiment en effet que cette réponse demeure insuffisante face à la crise structurelle du système éducatif public et aux besoins quotidiens des enseignants et des élèves.",
+    "L'allocution télévisée prononcée la veille par le Premier ministre Sébastien Lecornu n'a pas réussi à apaiser les esprits ni à désamorcer la contestation. Malgré les appels au calme du gouvernement, l'intersyndicale étudiante et professionnelle maintient sa posture offensive et appelle déjà à une nouvelle journée d'actions et de manifestations prévues pour le treize octobre. La crainte d'une convergence des luttes préoccupe au plus haut point l'exécutif français. En effet, la contestation des élèves rejoint désormais les inquiétudes portées par d'autres secteurs professionnels en colère, notamment le monde agricole et les transports publics.",
+    "Les rassemblements ont été marqués par des tensions palpables entre les manifestants et les forces de l'ordre devant plusieurs établissements bloqués. Des heurts ont éclaté dans certaines métropoles, accompagnés de jets de gaz lacrymogène et d'incendies de poubelles signalés à proximité des enceintes scolaires. Cette montée des tensions attire également une vive attention internationale. Les autorités iraniennes ont ouvertement critiqué la réaction policière française, ce qui a immédiatement provoqué une vive réplique du gouvernement à Paris. Les diplomates français ont en effet dénoncé une campagne manifeste de désinformation orchestrée par Téhéran.",
+    "La question budgétaire se trouve au centre de l'affrontement entre la jeunesse mobilisée et le pouvoir exécutif. Alors que les investissements publics dans le secteur éducatif font l'objet d'un débat national intense, le gouvernement cherche à rééquilibrer les finances publiques dans un contexte de forte dette. De leur côté, les protestataires dénoncent des locaux délabrés, des cours annulés faute de remplaçants et une baisse constante de la qualité de l'apprentissage. La crise dépasse désormais le simple cadre scolaire et devient un enjeu politique majeur en vue des prochaines échéances électorales nationales.",
+    "Face à l'échéance du treize octobre, Sébastien Lecornu tente d'éviter une généralisation de la grève et des blocages d'infrastructures. La réaction des parents d'élèves et des enseignants demeure mitigée face aux promesses administratives récemment formulées par le ministère de l'Éducation. Les prochains jours s'annoncent ainsi décisifs pour déterminer si l'affectation des trois mille enseignants remplaçants suffira à faire baisser la tension ou si le mouvement étudiant parviendra à durcir encore davantage le rapport de force politique. L'exécutif demeure en alerte maximale pour empêcher un blocage prolongé du pays."
+   ]
+  },
+  {
+   "desk": "Europe",
+   "source": "DW",
+   "lang": "DE",
+   "paywalled": false,
+   "url": "https://www.dw.com/de/italien-parlament-billigt-melonis-umstrittenes-wahlrecht/a-79596399?maca=de-rss-de-all-1119-rdf",
+   "headline": "Italien: Parlament billigt Melonis umstrittenes Wahlrecht",
+   "headlineEn": "Italy: Parliament approves Meloni's controversial electoral law",
+   "contested": "",
+   "why": "Cette réforme électorale modifie en profondeur le paysage politique italien et la formation des futures coalitions.",
+   "stat": "",
+   "statLabel": "",
+   "chart": null,
+   "paras": [
+    "Das italienische Parlament hat die von Ministerpräsidentin Giorgia Meloni vorgelegte und heftig umstrittene Wahlrechtsreform nach intensiven Debatten gebilligt. Damit hat die Regierungschefin einen entscheidenden Machtpoker im Parlament vorerst für sich entschieden. Im Vorfeld der Abstimmung hatte Meloni den Abgeordneten offen mit personellen und politischen Konsequenzen gedroht, falls das Gesetzesvorhaben keine Mehrheit finden sollte. Die Reform stellt das derzeitige Wahlsystem auf eine reine Verhältniswahl um und verändert damit die Spielregeln für kommende Parlamentswahlen in Italien grundlegend. Dieser Schritt markiert eine bedeutende Weichenstellung für die politische Zukunft des Landes.",
+    "Ein zentraler Bestandteil des neuen Wahlrechts ist die Festlegung einer Mehrheitsprämie sowie konkreter Sperrklauseln für politische Parteien und Bündnisse. Künftig steht auf den Stimmzetteln nicht mehr direkt der Name der geplanten Führungsperson für das Amt des Ministerpräsidenten, sondern vorrangig die Parteienkoalitionen. Zudem führt das Gesetz die Möglichkeit von Vorzugsstimmen für Wähler wieder ein, was die direkte Bindung zwischen Abgeordneten und der Bevölkerung stärken soll. Eine weitere wichtige Neuerung betrifft Bürger, die außerhalb ihres Heimatortes studieren oder arbeiten: Sie können nun an ihrem aktuellen Wohnort abstimmen.",
+    "Trotz des erfolgreichen Votums im Parlament gestaltet sich die praktische Umsetzung des neuen Wahlrechts keineswegs unkompliziert. Kritiker und politische Beobachter weisen darauf hin, dass die Bildung tragfähiger Regierungsbündnisse unter den neuen Regeln deutlich schwieriger werden könnte. Die Verpflichtung zu breiten Parteienkoalitionen erfordert künftig umfassende Kompromisse zwischen ideologisch unterschiedlichen Gruppierungen. Zudem gibt es weiterhin verfassungsrechtliche Bedenken hinsichtlich der genauen Ausgestaltung der Mehrheitsprämie und der Obergrenzen für Mandate im Parlament. Die finale Entscheidung des Verfassungsgerichts über wesentliche Teile der Reform steht derzeit noch aus.",
+    "Die Opposition reagierte umgehend auf den Beschluss des Parlaments und beschleunigt nun ihrerseits die eigenen Vorbereitungen für kommende Wahlen. Parteien des linken und mittleren Spektrums versuchen, ihre Programme abzustimmen und gemeinsame Bündnisse zu schmieden. Giuseppe Conte kündigte an, dass verschiedene Oppositionskräfte in Kürze zusammenkommen werden, um über eine Koalition zu beraten. Die Debatte über die künftige Ausrichtung der Außenpolitik und der Wirtschaftspolitik bleibt jedoch ein verbleibender Streitpunkt innerhalb des linken Lagers. Die politische Landschaft Italiens steht somit vor einer Phase tiefgreifender Neusortierung und intensivster parteipolitischer Auseinandersetzungen.",
+    "Innerhalb der Regierungskoalition sorgte die Reformdebatte im Vorfeld ebenfalls für erhebliche Spannungen zwischen den Regierungspartnern. Verschiedene Strömungen versuchten, eigene Akzente zu setzen und Zugeständnisse bezüglich regionaler Autonomierechte durchzusetzen. Dass Meloni die Abstimmung schließlich erfolgreich durchsetzen konnte, stärkt ihre Position an der Spitze des Kabinetts deutlich. Dennoch bleiben strategische Differenzen hinsichtlich der langfristigen Regierungsführung bestehen. Die Staatsführung behält die weiteren Entwicklungen genau im Blick, während die Parteien ihre Strukturen auf die geänderten Wahlbestimmungen vorbereiten. Die Wahlrechtsreform wird somit zur Belastungsprobe für das gesamte Parteiensystem.",
+    "Mit der Billigung der Wahlrechtsreform beginnt in Italien eine Phase intensivster politischer Vorbereitungen. Sämtliche Fraktionen müssen ihre internen Nominierungsverfahren anpassen und strategische Partnerschaften neu aushandeln. Ob die angestrebte Stabilität des politischen Systems durch das geänderte Wahlsystem tatsächlich erreicht werden kann, bleibt unter Experten hochgradig umstritten. Die kommenden Monate werden zeigen, ob sich die Parteienlandschaft effektiv konsolidiert oder ob die Regierungsbildung künftig noch komplexer wird. Die Reform wird das politische Geschehen Italiens auf absehbare Zeit maßgeblich prägen und festlegen."
+   ]
+  },
+  {
+   "desk": "Americas",
+   "source": "BBC",
+   "lang": "EN",
+   "paywalled": false,
+   "url": "https://www.bbc.co.uk/news/articles/cmy0r96xygx6o?at_medium=RSS&at_campaign=rss",
+   "headline": "Fort Hood attacker's execution by firing squad will be livestreamed, Pentagon says",
+   "headlineEn": "L'exécution par peloton d'exécution de l'auteur de l'attentat de Fort Hood sera diffusée en direct, selon le Pentagone",
+   "contested": "",
+   "why": "Cette décision inédite d'effectuer et de diffuser publiquement une exécution militaire suscite d'importants débats juridiques et éthiques aux États-Unis.",
+   "stat": "",
+   "statLabel": "",
+   "chart": null,
+   "paras": [
+    "The United States Department of Defense has officially announced that the upcoming military execution of Nidal Hasan will be publicly livestreamed. Hasan, the former Army psychiatrist responsible for the deadly two thousand and nine shooting attack at Fort Hood, is scheduled to die by firing squad on December third. Defense Secretary Pete Hegseth initially stated that the execution would be open to the public, and Pentagon officials later clarified that a live broadcast would be provided. This decision marks the first United States military execution carried out in more than sixty years.",
+    "Legal experts and human rights observers across the nation have expressed immediate concern regarding the unprecedented decision to broadcast a lethal military execution. Legal scholars emphasize that publicizing a capital punishment procedure places the military justice system on highly uncertain legal terrain. While federal officials defend the public broadcast as a demonstration of transparency and justice for victims, critics argue that broadcasting an execution raises severe constitutional and ethical questions. The debate continues to intensify among legal specialists, civil liberties organizations, and government officials as the scheduled execution date approaches.",
+    "The tragic event underlying this military court decision occurred in November two thousand and nine at the Fort Hood military base in Texas. Hasan opened fire on unarmed soldiers preparing for deployment overseas, killing thirteen people and injuring more than thirty others. Following an extensive court-martial proceeding, the military tribunal found Hasan guilty of premeditated murder and sentenced him to death. Over the subsequent years, multiple legal appeals were reviewed and ultimately rejected by federal military courts, leaving the original capital sentence intact for final approval and execution by authorities.",
+    "The choice of a firing squad as the execution method represents a rare occurrence in modern American military legal history. While lethal injection remains the primary method for capital punishment in most jurisdictions across the country, military regulations allow alternative methods under specific legal conditions. Recent legal challenges surrounding botched lethal injection procedures in civilian prisons have renewed public scrutiny regarding capital punishment methods nationwide. Consequently, the defense department's adoption of a firing squad, coupled with a public broadcast, has drawn renewed international attention to American capital punishment practices.",
+    "Reactions from victims' families and military personnel remain deeply divided following the Pentagon's public announcement. Some relatives of those killed during the Fort Hood attack view the public nature of the execution as a long-overdue measure of accountability and closure after years of waiting. Conversely, other observers express worry that broadcasting the lethal event publicly could serve as a dangerous precedent or provoke unnecessary trauma among viewers. Defense officials maintain that all logistical procedures for the broadcast will adhere strictly to established military operational protocols.",
+    "As December third approaches, government attorneys and military authorities continue finalizing the technical and security logistics required for the livestreamed execution. Civil rights organizations may attempt additional legal filings in federal courts to halt the public broadcast or challenge the military's execution procedures. Regardless of potential last-minute court motions, the decision reflects a significant policy shift in how the Pentagon handles high-profile military death penalty cases. The event is set to remain a focal point of national media coverage and intense legal controversy over the coming weeks."
+   ]
+  }
+ ],
+ "desks": [
+  {
+   "name": "Europe & politiques de l'UE",
+   "stories": [
+    {
+     "source": "Euronews",
+     "lang": "fr",
+     "url": "https://fr.euronews.com/video/2026/10/08/des-centaines-dagriculteurs-manifestent-a-paris-contre-laccord-ue-mercosur-et-les-importat",
+     "headline": "Des centaines d’agriculteurs à Paris pour dire non à l’accord UE-Mercosur",
+     "headlineEn": "Hundreds of farmers in Paris to say no to the EU-Mercosur agreement",
+     "summary": "Des centaines d'agriculteurs français sont venus manifester avec leurs tracteurs devant l'Assemblée nationale à Paris pour protester vivement contre l'accord commercial négocié entre l'Union européenne et le bloc du Mercosur. Les manifestants dénoncent une concurrence déloyale de la part des producteurs d'Amérique du Sud, soumis à des normes sanitaires et environnementales moins strictes. Ils réclament une protection renforcée du secteur agricole français et des garanties sur la qualité des importations alimentaires. Cette mobilisation symbolise l'opposition croissante du monde agricole européen face aux traités de libre-échange transcontinentaux actuellement négociés par la Commission européenne.",
+     "why": "Ce rassemblement illustre la pression croissante sur l'UE pour protéger les agriculteurs locaux face aux traités de libre-échange.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    },
+    {
+     "source": "DW",
+     "lang": "en",
+     "url": "https://www.dw.com/en/eu-pulls-sponsorship-from-disinfo2026-event-in-lithuania/a-79599615?maca=en-rss-en-world-4025-rdf",
+     "headline": "EU pulls sponsorship from Disinfo2026 event in Lithuania",
+     "headlineEn": "L'UE retire son parrainage de l'événement Disinfo2026 en Lituanie",
+     "summary": "The European Union’s diplomatic service, alongside Canada and host nation Lithuania, has withdrawn its formal support from the Disinfo2026 conference in Vilnius. The decision followed intense political debate and reported pressure from Washington regarding the framing of several panel topics at the summit. EU officials stated that they grew uncomfortable with how certain discussions were structured, leading to the decision to step back from official sponsorship. The conference was originally designed to bring together international experts to counter foreign information manipulation and election interference, but the fallout highlights growing political sensitivities surrounding government-backed anti-disinformation initiatives across Western nations.",
+     "why": "La décision montre les tensions diplomatiques entre alliés occidentaux sur la définition et la lutte contre la désinformation.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    },
+    {
+     "source": "DW",
+     "lang": "en",
+     "url": "https://www.dw.com/en/security-in-the-black-sea-region-is-bulgaria-the-weak-link-in-europe-s-defense-against-threats-from-russia/a-79592663?maca=en-rss-en-world-4025-rdf",
+     "headline": "Security in the Black Sea region: is Bulgaria the weak link in Europe's defense against threats from Russia?",
+     "headlineEn": "Sécurité dans la mer Noire : la Bulgarie est-elle le maillon faible de la défense européenne face à la Russie ?",
+     "summary": "Concerns over security in the Black Sea region have intensified following recent drone attacks that led to the sinking of two commercial vessels off the coasts of Bulgaria and Romania. Despite the incidents, Bulgarian authorities have hesitated to directly attribute the attacks to Russian military forces, sparking debate among European defense analysts about the country's posture. As the European Union seeks to expand trade along the Middle Corridor maritime route, these naval incidents underscore the persistent security risks in the Black Sea. Analysts warn that Bulgaria's cautious stance could expose vulnerabilities in NATO's eastern flank during escalating regional tensions.",
+     "why": "L'insécurité accrue en mer Noire menace la sécurité maritime européenne et fragilise les routes commerciales stratégiques de l'UE.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    }
+   ]
+  },
+  {
+   "name": "Économie & marchés",
+   "stories": [
+    {
+     "source": "Reuters",
+     "lang": "en",
+     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxONW0wejJNQmpGTE9heFBmZG8wTWE5a010VFNMSDBqcThNXzBFTjZkbWF3NnpxSWxoVkRJSEhMcDk4VDh5OVp3bzlZNzdiS0pNTnd6aGkwQVZsU0JiOU9wb0k1ckN1V2ZUVl9sTFRuZnVhLXFlaDUwZGIxT2VxNW1RZUwyNlJ3c2ZxRkdONll5RVdtTnlfcDllN0pnLWE4VU1FblRvbHdkTkIwbHNk?oc=5",
+     "headline": "Oil falls as Trump comments on Iran talks ease supply concerns",
+     "headlineEn": "Le pétrole baisse alors que les propos de Trump sur l'Iran apaisent les craintes d'approvisionnement",
+     "summary": "Crude oil prices declined in global energy markets following public remarks from US President Donald Trump regarding potential diplomatic talks with Iran. The statements helped ease trader anxieties about immediate supply disruptions through the Strait of Hormuz, where recent attacks on commercial tankers had triggered sharp price increases. Market analysts noted that while physical risks to regional energy infrastructure remain elevated, speculative buying slowed as investors reassessed the geopolitical risk premium. The dip in oil futures offers temporary relief to global markets, though energy traders stay attentive to potential escalations that could swiftly alter global crude supply dynamics.",
+     "why": "La baisse des prix du pétrole détend temporairement la pression inflationniste mondiale et rassure les marchés de l'énergie.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    },
+    {
+     "source": "Reuters",
+     "lang": "fr",
+     "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNdWh1bmNCekdpU1k1WTFvM25zbDhMX1l2YU1Wb1FEbVZmWnlnWlg5bXRVa05GdWNtTVRNbWVlU3dtMzdya21YbFVXZDg3S2ZFN0NDdGVhZEtHUHBYbWRhUDMyRmFWallUNXlrYUt2RndrUlBkWkkzT2NvLXBFTVhlV25ZX3NrRzhBOHVqN3pKdjN3MzkzVGNsTFo3SkRXZHYwMVZwS1lHUFdBRmdDV1dTLW5BT0xtTEdOR2k4Ug?oc=5",
+     "headline": "EXCLUSIF Les USA et la Russie étudient la possibilité de vendre du gaz à l'Europe",
+     "headlineEn": "EXCLUSIVE US and Russia study possibility of selling gas to Europe",
+     "summary": "Les États-Unis et la Russie explorent la possibilité de coopérer pour approvisionner l'Europe en gaz, selon des sources proches des discussions. Les pourparlers confidentiels visent à établir de nouveaux mécanismes d'exportation qui permettraient de restructurer les flux énergétiques vers le continent européen. Cette initiative inédite intervient alors que l'Europe cherche à stabiliser ses approvisionnements énergétiques et à réduire la volatilité des marchés. Les détails de l'accord potentiel restent confidentiels, mais des responsables économiques suivent attentivement la réaction des gouvernements européens, très soucieux de préserver leur souveraineté énergétique et leur sécurité économique face à des arrangements multilatéraux complexes.",
+     "why": "Une reprise de telles négociations gazières pourrait redéfinir la sécurité énergétique et les équilibres géopolitiques du continent européen.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    },
+    {
+     "source": "RTL.lu",
+     "lang": "fr",
+     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxORVREaGdPeG5PTkYwN0EzRGxnMVotUnpwbTRvWktSeUd2aVFEZmllWnJrRGg5LVdtRzVyWUxabnRrNkVoVWZPcnNpeVBSLWJuUTE1YkhkNWVkTnpObHNfVExycG8yUU9qN2RZNllJUWJJNEZoaW5xRXZIUXVRRFJRSXBSanhXWlItNHFnS05SY0d4dUFBNmZZVkd0UnZ2X1R1?oc=5",
+     "headline": "À la pompe: Le diesel repasse au-dessus de 2 euros au Luxembourg",
+     "headlineEn": "At the pump: Diesel passes above 2 euros again in Luxembourg",
+     "summary": "Au Grand-Duché de Luxembourg, les prix des carburants affichent une nouvelle hausse significative à la pompe, portant le tarif du diesel au-dessus de la barre des deux euros le litre. Cette augmentation reflète les récentes tensions observées sur les marchés pétroliers internationaux et impacte directement le pouvoir d'achat des ménages et des frontaliers. Le mazout de chauffage connaît également une progression de son prix de vente. Cette envolée tarifaire crée des inquiétudes pour les transporteurs routiers et les consommateurs luxembourgeois à l'approche de la saison hivernale, incitant le secteur logistique à surveiller étroitement la situation tarifaire.",
+     "why": "Le franchissement du seuil des deux euros pèse directement sur le pouvoir d'achat des résidents et des nombreux frontaliers luxembourgeois.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    }
+   ]
+  },
+  {
+   "name": "Technologie & sciences",
+   "stories": [
+    {
+     "source": "DW",
+     "lang": "en",
+     "url": "https://www.dw.com/en/south-korea-warns-of-ai-aided-hacking-after-bank-data-breaches/a-79592922?maca=en-rss-en-world-4025-rdf",
+     "headline": "South Korea warns of AI-aided hacking after bank data breaches",
+     "headlineEn": "La Corée du Sud met en garde contre le piratage assisté par IA après des failles bancaires",
+     "summary": "Government officials in South Korea have issued urgent security warnings after cyberattacks targeting major financial institutions revealed the use of artificial intelligence tools by hackers. Investigation reports indicate that cybercriminals leveraged advanced AI software to bypass traditional banking firewalls and gain unauthorized access to sensitive customer data. Authorities warned that these automated penetration techniques could soon be deployed against public sector agencies and critical infrastructure. In response to the breaches, commercial software developers and financial regulators are tightening cybersecurity protocols, while pushing for stronger international standards to counteract AI-driven cyber threats targeting global banking networks.",
+     "why": "L'utilisation de l'intelligence artificielle pour pirater des banques préfigure une nouvelle menace majeure pour la cybersécurité financière.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    },
+    {
+     "source": "Euronews",
+     "lang": "fr",
+     "url": "https://fr.euronews.com/video/2026/10/08/incendie-dans-un-centre-de-donnees-de-yandex-apres-une-attaque-de-drone-ukrainienne",
+     "headline": "Incendie dans un centre de données de Yandex après une attaque de drone ukrainienne",
+     "headlineEn": "Fire at Yandex data center after Ukrainian drone attack",
+     "summary": "Un incendie spectaculaire s'est déclaré dans un important centre de données du géant technologique Yandex situé dans la région russe de Riazan. Selon les déclarations officielles de l'entreprise, le sinistre a été provoqué par une attaque de drone ukrainienne, contraignant les ingénieurs à mettre immédiatement les installations hors ligne. Cet incident s'inscrit dans une série de frappes ciblant les infrastructures numériques et énergétiques russes. Bien que la firme tente de rediriger le trafic réseau pour limiter les coupures de service, la destruction partielle du site souligne la vulnérabilité croissante des serveurs informatiques stratégiques en période de conflit armé.",
+     "why": "La vulnérabilité des centres de données face aux attaques physiques rappelle que la sécurité du réseau numérique dépend d'infrastructures terrestres fragiles.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    },
+    {
+     "source": "AP",
+     "lang": "en",
+     "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQNzlTM0pnaG9JM2k2Z19LSllNREhMckxuUE15MnZZdHZMYVUyendPbnBOejU3bS1RWXdJZXFPZllWb2hOMGdHS2ZPMTFqMTdGRFM4Yll1blQ2M2xMWC1YLTR4OVhsTVdyTUxkdm5CN1RUTXltMUpMdlhuLVoxcUVyTDFqejZyeTdvRHY5WGFMLURMTWRBZ1poYUl1WVI3VTMwajI0UzgwTzBKaU45eTVianM3eHhKSWtGVWc?oc=5",
+     "headline": "Isaias strengthens into Category 2 hurricane on collision course with the US Gulf Coast",
+     "headlineEn": "Isaias se renforce en ouragan de catégorie 2 et menace la côte américaine du golfe du Mexique",
+     "summary": "Hurricane Isaias has intensified into a Category 2 storm as it advances across the Gulf of Mexico toward the southern coast of the United States. Meteorologists at the National Hurricane Center warn of dangerous storm surges, heavy rainfall, high winds, and potential tornadoes along coastal regions. Emergency management officials have issued evacuation orders for low-lying areas and urged residents to complete storm preparations. Isaias marks the first major hurricane of the season in the Atlantic basin, prompting regional energy producers to secure offshore oil platforms and local authorities to set up emergency shelters in anticipation of landfall.",
+     "why": "Le renforcement d'Isaias met sous pression les infrastructures côtières américaines et menace la production énergétique du golfe du Mexique.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    }
+   ]
+  },
+  {
+   "name": "Sport",
+   "stories": [
+    {
+     "source": "DW",
+     "lang": "de",
+     "url": "https://www.dw.com/de/dfb-frauen-nutzt-mahmutovic-ihre-tor-chance-gegen-berger/a-79598336?maca=de-rss-de-all-1119-rdf",
+     "headline": "DFB-Frauen: Nutzt Mahmutovic ihre Tor-Chance gegen Berger?",
+     "headlineEn": "German women's team: Will Mahmutovic seize her chance in goal against Berger?",
+     "summary": "Die deutsche Fußballnationalmannschaft der Frauen absolviert wichtige Testspiele gegen Australien und Japan. Dabei steht die 22-jährige Torhüterin Ena Mahmutovic vom FC Bayern München im Fokus. Sie gilt als Wunschnachfolgerin der erfahrenen Stammkeeperin Ann-Katrin Berger. Mahmutovic möchte die bevorstehenden Länderspiele nutzen, um sich mit überzeugenden Leistungen im DFB-Tor zu etablieren und ihren Anspruch auf den Stammplatz langfristig zu untermauern.",
+     "why": "Le renouvellement au poste de gardienne est un enjeu clé pour la transition générationnelle de la sélection allemande.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    },
+    {
+     "source": "France 24",
+     "lang": "fr",
+     "url": "https://www.france24.com/fr/vid%C3%A9o/20261008-can-2025-le-s%C3%A9n%C3%A9gal-r%C3%A9clame-que-le-droit-du-sport-soit-dit-au-tas",
+     "headline": "CAN 2025 : le Sénégal réclame que \"le droit du sport soit dit\" au TAS",
+     "headlineEn": "AFCON 2025: Senegal demands sports law be upheld at CAS",
+     "summary": "Le Sénégal et le Maroc se sont présentés devant le Tribunal arbitral du sport concernant le litige relatif à la finale de la Coupe d'Afrique des nations 2025. La partie sénégalaise a exigé une stricte application des règlements sportifs. Après l'audition des représentants des deux fédérations, les juges ont entamé leurs délibérations avant de rendre leur verdict très attendu par le football africain.",
+     "why": "L'arbitrage du TAS tranchera un litige majeur qui impacte la gouvernance et le calendrier du football africain.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    }
+   ]
+  }
+ ],
+ "sourced": true,
+ "feeds": {
+  "ok": 29,
+  "of": 29,
+  "items": 269,
+  "skipped": []
+ },
+ "words": 2990,
+ "readMin": 15,
+ "storyCount": 14
+}
