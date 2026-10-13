@@ -1,0 +1,272 @@
+{
+ "date": "2026-10-13",
+ "kind": "daily",
+ "heat": 0.85,
+ "oneThing": "European gas prices surged to late-2022 highs after US President Donald Trump unilaterally suspended sanctions on Russian diesel fuel, angering Ukraine and European allies.",
+ "followUps": [
+  {
+   "n": "01",
+   "thread": "Guerre en Ukraine et marchés de l'énergie",
+   "change": "Les prix du gaz européen ont atteint leur plus haut niveau depuis fin 2022 en raison des inquiétudes sur l'approvisionnement hivernal et des tensions entre Washington et Kiev."
+  },
+  {
+   "n": "02",
+   "thread": "Mouvement lycéen et étudiant en France",
+   "change": "Les manifestations se poursuivent avec un Acte V de blocages d'établissements, rejoint par la militante Greta Thunberg dans la banlieue parisienne."
+  },
+  {
+   "n": "03",
+   "thread": "Crise politique en Allemagne",
+   "change": "Le ministre-président Friedrich Merz a défendu ses réformes économiques devant les patrons alors que la démission de la ministre de l'Emploi ébranle la coalition."
+  }
+ ],
+ "mustReads": [
+  {
+   "desk": "Europe / Géopolitique",
+   "source": "Deutsche Welle",
+   "lang": "DE",
+   "paywalled": false,
+   "url": "https://www.dw.com/de/ukraine-und-usa-in-der-krise-was-folgt-auf-den-diesel-deal-mit-russland/a-79646257?maca=de-rss-de-all-1119-rdf",
+   "headline": "Ukraine und USA in der Krise: Was folgt auf den Diesel-Deal mit Russland?",
+   "headlineEn": "Ukraine and US in crisis: What follows the diesel deal with Russia?",
+   "contested": "Donald Trump affirme qu'un cessez-le-feu sur les infrastructures énergétiques a été conclu, ce que le président ukrainien Volodymyr Zelensky dément catégoriquement, affirmant que les frappes russes se poursuivent.",
+   "why": "La décision américaine de lever temporairement les sanctions sur le gazole russe crée une fracture sans précédent entre Washington, Kiev et les alliés européens.",
+   "stat": "6",
+   "statLabel": "sites énergétiques ukrainiens frappés par la Russie depuis l'annonce américaine",
+   "chart": null,
+   "paras": [
+    "Die überraschende Entscheidung von US-Präsident Donald Trump, den Ausnahmezustand für den Import von russischem Dieselkraftstoff auszurufen, hat eine erhebliche diplomatische Krise zwischen Washington, Kyjiw und den europäischen Partnern ausgelöst. Während das Weiße Haus diese Maßnahme mit der Notwendigkeit begründet, die weltweit steigenden Kraftstoffpreise zu dämpfen und die amerikanischen Verbraucher vor wirtschaftlichen Belastungen zu schützen, stößt der Vorstoß auf scharfe Kritik. Kritiker argumentieren, dass diese Entscheidung die mühsam aufgebauten westlichen Sanktionen gegen Moskau untergräbt und dem Kreml eine wichtige Einnahmequelle zur Finanzierung seines laufenden Krieges eröffnet.",
+    "In Kyjiw löste die Ankündigung tiefes Entsetzen und parteiübergreifende Entrüstung aus. Die ukrainische Führung betrachtet den Schritt als einen schweren Verrat an den gemeinsamen Sicherheitsinteressen und als eine direkte Schwächung ihrer Verteidigungsposition. Zudem widersprach der ukrainische Präsident Volodymyr Zelensky vehement den Äußerungen aus Washington, wonach zwischen den Kriegsparteien eine Vereinbarung über einen gegenseitigen Stopp von Angriffen auf die Energieinfrastruktur erzielt worden sei. Nach ukrainischen Angaben wurden stattdessen kurz nach der Ankündigung erneut mehrere strategisch wichtige Energieanlagen im ganzen Land von russischen Flugkörpern und Drohnen gezielt beschossen.",
+    "Auch in den europäischen Hauptstädten herrscht erhebliche Verunsicherung über den neuen Kurs der amerikanischen Administration. Führende europäische Politiker befürchten, dass ein Alleingang der Vereinigten Staaten die europäische Energie- und Sicherheitspolitik ins Wanken bringen könnte. Während Europa erhebliche Anstrengungen unternommen hat, um seine Abhängigkeit von russischen Rohstoffen schrittweise abzubauen, sendet der US-Handel mit Moskau ein verheerendes Signal an die internationalen Märkte. Zudem führt die Unsicherheit über die künftige Lieferlage bereits zu spürbaren Preisausschlägen an den europäischen Handelsplätzen für Erdgas und Erdöl, was die Angst vor einer neuen Welle der Inflation schürt.",
+    "In Moskau hingegen wurde die Nachricht aus den USA mit Genugtuung aufgenommen. Die russische Führung sieht in der Lockerung der US-Sanktionen einen deutlichen Beleg dafür, dass der Westen nicht in der Lage ist, die globale Versorgung ohne russische Energieträger aufrechtzuerhalten. Die dadurch generierten Einnahmen bieten dem Kreml finanziellen Handlungsspielraum, um den militärischen Apparat trotz der bestehenden europäischen Restriktionen weiter zu konsolidieren. Sicherheitsexperten warnen davor, dass dieser wirtschaftliche Erleichterungseffekt die Verhandlungsbereitschaft Russlands spürbar schwächen und den Konflikt in der Ukraine auf unbestimmte Zeit verlängern könnte, da der wirtschaftliche Druck nachlässt.",
+    "Gleichzeitig wächst der Druck auf US-Präsident Donald Trump im eigenen Land. Mehrere einflussreiche Senatoren, darunter auch prominente Vertreter der Republikanischen Partei, äußerten öffentlich erhebliche Vorbehalte gegen das Geschäft mit Moskau. Sie fordern eine umgehende parlamentarische Überprüfung der rechtlichen Grundlage dieser Maßnahme und warnen vor den langfristigen geopolitischen Folgen für das Bündnis. Der Vorwurf, die strategischen Interessen der Ukraine zugunsten kurzfristiger innenpolitischer Effekte vor den anstehenden Kongresswahlen zu opfern, sorgt für heftige Debatten in Washington. Die politische Führung steht nun vor der Herausforderung, den spürbaren Riss im transatlantischen Bündnis zu kitten.",
+    "Die kommenden Wochen werden zeigen, ob Kyjiw und seine westlichen Verbündeten eine gemeinsame Strategie entwickeln können, um auf diesen unerwarteten Wendepunkt in der Energiepolitik zu reagieren. Die Zuspitzung der Lage verdeutlicht eindringlich, wie eng die globalen Rohstoffmärkte mit der militärischen Dynamik in Osteuropa verflochten sind. Sollte Washington an seiner Position festhalten, könnte dies zu einer dauerhaften Umgestaltung der internationalen Sanktionsarchitektur führen. Für die Ukraine bedeutet dies eine weitere Erschwerung ihrer Bemühungen, den russischen Vormarsch aufzuhalten und gleichzeitig die elementare Strom- und Wärmeversorgung der eigenen Bevölkerung für den bevorstehenden Winter zu sichern."
+   ]
+  },
+  {
+   "desk": "Moyen-Orient / Sécurité",
+   "source": "PBS News",
+   "lang": "EN",
+   "paywalled": false,
+   "url": "https://www.pbs.org/newshour/world/saudis-probe-how-defense-systems-failed-to-stop-deadly-houthi-attack-on-riyadh-airport",
+   "headline": "Saudis probe how defense systems failed to stop deadly Houthi attack on Riyadh airport",
+   "headlineEn": "Les Saoudiens enquêtent sur l'échec des systèmes de défense après l'attaque mortelle des Houthis contre l'aéroport de Riyad",
+   "contested": "",
+   "why": "L'échec de la défense antiaérienne saoudienne face aux attaques de drones et de missiles houthis menace directement la stabilité du Golfe et l'économie du Royaume.",
+   "stat": "12",
+   "statLabel": "personnes tuées lors de l'attaque des Houthis contre l'aéroport de Riyad",
+   "chart": null,
+   "paras": [
+    "Saudi Arabian military officials have launched an urgent investigation into the severe failure of their air defense systems following a devastating strike by Houthi rebels on King Khalid International Airport in Riyadh. Initial findings indicate that the Yemeni group utilized a sophisticated saturation tactic, deploying a swarm of low-flying attack drones to overwhelm and distract radar networks right before launching a coordinated salvo of cruise and ballistic missiles. The attack resulted in at least twelve fatalities and left more than three hundred people injured, forcing the temporary shutdown of one of the region's busiest transit hubs.",
+    "The strike marks a major escalation in the regional conflict and highlights the vulnerability of critical infrastructure despite multi-billion-dollar investments in Western air defense technology. Saudi military analysts are examining how the incoming projectiles managed to bypass advanced Patriot missile batteries and secondary interceptors stationed around the capital. Defense experts suggest that the combination of low-altitude drones and high-speed missiles created serious tracking bottlenecks for radar operators. The breach has raised troubling questions inside the kingdom regarding operational readiness and the overall effectiveness of current defensive deployments against increasingly complex aerial threats.",
+    "In the immediate aftermath of the strike, the Saudi government vowed swift retaliation against the Iranian-backed movement, conducting series of airstrikes against military positions in northern Yemen. Crown Prince Mohammed bin Salman faces a daunting strategic dilemma as he balances national security imperatives against ambitious economic diversification plans that rely heavily on foreign investment and international tourism. Disruptions to commercial aviation and heightened security risks in major urban centers directly threaten these economic goals, forcing leadership to reconsider its long-term regional posture and military strategy in the ongoing regional proxy confrontation.",
+    "The attack has also drawn intense international interest and concern, with Washington closely monitoring developments and evaluating potential military responses. President Donald Trump indicated that his administration is actively considering joining direct offensive operations against Houthi command structures to restore deterrence and protect international air and maritime transport routes. However, defense officials in Washington remain divided over the scope of potential military intervention, fearing that deep engagement could spark broader regional instability and further disrupt global energy markets already suffering from supply uncertainties and price volatility.",
+    "Regional analysts point out that the successful strike on a major civil aviation hub represents a significant intelligence failure for both Saudi Arabia and its international partners. The Houthis have repeatedly demonstrated their capability to modify and upgrade imported technology, turning relatively low-cost drones into effective precision tools capable of penetrating heavily defended airspace. As Saudi authorities work to repair airport infrastructure and restore public confidence, security agencies are conducting comprehensive reviews of early warning networks, communications protocols, and interceptor placement across all major energy and civilian installations.",
+    "The incident underscores the growing challenges that modern armed forces face when defending against asymmetric warfare tactics in densely populated areas. As investigations continue, international defense contractors and military advisors are assisting Saudi personnel in recalibrating sensor systems to better detect low-signature targets. Until comprehensive upgrades are completed and operational procedures adjusted, the commercial aviation sector in the region remains on high alert. The ongoing crisis threatens to stall recent diplomatic rapprochement efforts and could drag regional powers deeper into a protracted confrontation with far-reaching global economic consequences."
+   ]
+  },
+  {
+   "desk": "Italie / Santé & Vatican",
+   "source": "La Repubblica",
+   "lang": "IT",
+   "paywalled": true,
+   "url": "https://www.repubblica.it/cronaca/2026/10/13/news/papa_leone_xiv_operazione_news_di_oggi-425644768/",
+   "headline": "Papa Leone XIV arriva al Gemelli: sarà operato oggi",
+   "headlineEn": "Pope Leo XIV arrives at Gemelli hospital: surgery scheduled for today",
+   "contested": "",
+   "why": "L'hospitalisation imprévue du souverain pontife percute la gouvernance de l'Église catholique à un moment de réformes délicates.",
+   "stat": "",
+   "statLabel": "",
+   "chart": null,
+   "paras": [
+    "Papa Leone XIV è giunto nella mattinata di oggi presso il Policlinico Agostino Gemelli di Roma per essere sottoposto a un delicato intervento chirurgico al polmone. L'operazione si è resa necessaria dopo che gli ultimi esami clinici avevano evidenziato la presenza di un nodulo polmonare da asportare tempestivamente. La notizia del ricovero ha sorpreso molti fedeli e osservatori vaticani, poiché la Santa Sede aveva mantenuto la massima riservatezza sulle condizioni di salute del pontefice. Una folla si è subito radunata nei pressi della struttura sanitaria romana per esprimere vicinanza.",
+    "L'équipe medica incaricata di eseguire l'intervento chirurgico è guidata dal professor Stefano Margaritora, rinomato docente ordinario e direttore del reparto di chirurgia toracica del Policlinico Gemelli da oltre dieci anni. I medici hanno predisposto un piano d'azione dettagliato per garantire la massima sicurezza del Santo Padre durante la procedura. Secondo le prime informazioni filtrate dall'ospedale, si tratta di un intervento programmato per via mininvasiva, volto ad analizzare ed eliminare la formazione nodulare prima che possa causare ulteriori complicazioni respiratorie o compromettere le funzioni vitali complessive.",
+    "Il ricovero del pontefice avviene in un momento particolarmente denso di impegni pastorali e riforme strutturali per la Chiesa cattolica. Negli ultimi mesi, Papa Leone XIV aveva intensificato la sua agenda con numerose udienze pubbliche, viaggi apostolici e incontri decisivi con le conferenze episcopali internazionali. La sospensione temporanea delle udienze e delle attività ufficiali imporrà un inevitabile rallentamento nei lavori della Curia romana, mentre la Segreteria di Stato cercherà di riorganizzare il calendario dei prossimi mesi in attesa di indicazioni chiare da parte dei medici curanti.",
+    "La notizia della salute del Papa ha prontamente suscitato una vasta e profonda reazione di solidarietà da parte dei leader religiosi e politici di tutto il mondo. Numerosi messaggi di auguramento per una rapida e completa guarigione sono giunti in Vaticano dalle massime istituzioni italiane ed internazionali. Le comunità dei fedeli in vari continenti si sono unite in preghiera per sostenere il pontefice in questo momento di prova. La Cei ha invitato tutte le diocesi italiane a dedicare intenzioni speciali durante le celebrazioni liturgiche previste per la giornata.",
+    "Il Policlinico Gemelli si conferma ancora una volta il punto di riferimento medico fondamentale per la cura dei pontefici, proseguendo una lunga tradizione storica iniziata decenni fa. La struttura ha allestito l'appartamento papale situato al decimo piano dell'edificio, garantendo le condizioni necessarie sia per la convalescenza sia per la gestione della sicurezza. I medici hanno sottolineato che i tempi di degenza dipenderanno strettamente dall'esito dell'operazione e dalla risposta dell'organismo, ma si stima che il Papa dovrà rimanere a riposo assoluto per diverse settimane.",
+    "L'evoluzione delle condizioni di salute del pontefice sarà costantemente monitorata attraverso bollettini medici ufficiali rilasciati dalla Sala Stampa della Santa Sede nelle prossime ore. Gli ambienti vaticani mantengono un cauto ottimismo sull'esito della procedura chirurgica, confidando nella grande tempra del sovrano pontife e nella comprovata professionalità del personale sanitario dell'ospedale. Tutta la comunità ecclesiale attende ora con ansia i primi aggiornamenti post-operatori per conoscere i tempi effettivi di recupero e il ritorno del Santo Padre all'esercizio delle sue piene funzioni guida."
+   ]
+  }
+ ],
+ "desks": [
+  {
+   "name": "Luxembourg",
+   "stories": [
+    {
+     "source": "Luxemburger Wort",
+     "lang": "de",
+     "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1fRVYwQmtia2VGak1CalpEQnJOT3lEYXMwbXpNdXVsTXp2MFY2WWxmYzZ5V2ZKMEFmOE9pbXE5cVVFSFhsZ2dISnAzcTQ?oc=5",
+     "headline": "Budget 2027",
+     "headlineEn": "2027 Budget",
+     "summary": "Die Vorbereitungen für den staatlichen Haushalt des Jahres 2027 werfen ihre Schatten voraus, während die politischen Parteien in Luxemburg über die künftigen Prioritäten beraten. Die Regierung strebt eine nachhaltige Finanzplanung an, um sowohl die wirtschaftliche Stabilität des Großherzogtums als auch dringende soziale Aufgaben abzusichern. Angesichts globaler wirtschaftlicher Unsicherheiten stehen wichtige Investitionen in die Infrastruktur, den Wohnungsbau sowie Klimaschutzmaßnahmen im Mittelpunkt der parlamentarischen Debatte. Die Opposition fordert hingegen stärkere Entlastungen für Haushalte und präzise Maßnahmepläne. In den kommenden Wochen werden die detaillierten Zahlen und Budgetentwürfe in den zuständigen Ausschüssen der Abgeordnetenkammer eingehend analysiert und verhandelt.",
+     "why": "Le cadrage du budget 2027 détermine les orientations financières de l'État luxembourgeois.",
+     "paywalled": true,
+     "contested": "",
+     "chart": null
+    }
+   ]
+  },
+  {
+   "name": "Europe & politiques de l'UE",
+   "stories": [
+    {
+     "source": "AP News",
+     "lang": "en",
+     "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPMTJPTHc4YkdLRVc4S2RXZG1kVEFYRTNDR1pzdHk1anYybkY3ZFd1c0xaWS1kZ256M2hGM1dMMU84alVTbUQwVTBwUktsUWVzaXIzUnl0cnBWV3Y0aHFGQnhZZzllSjFfdjI0TjdyVGJxNXdwOFp5Y0liU3VoVE5pYXNTVjVTQTg1cUtvcE8tNzZvbzhjSUE?oc=5",
+     "headline": "Drones hit ships in Black Sea, sinking 1 and prompting rescue operations, Bulgaria says",
+     "headlineEn": "Des drones frappent des navires en mer Noire, l'un d'eux coule au large de la Bulgarie",
+     "summary": "Bulgarian authorities reported that drone strikes targeted merchant ships in the Black Sea overnight, causing one vessel to sink and triggering extensive search and rescue operations. Eleven crew members from the sunken merchant ship remain missing following the attack. The escalating maritime strikes in international waters have heightened security concerns across eastern Europe and prompted diplomatic reactions, including Bulgaria summoning the Russian ambassador. NATO officials expressed deep concern over the growing risks to commercial shipping routes, reiterating the alliance's commitment to monitoring regional security and protecting critical maritime corridors in the Black Sea.",
+     "why": "L'escalade des attaques de drones contre la navigation commerciale en mer Noire menace la sécurité maritime et l'approvisionnement régional aux portes de l'OTAN.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    },
+    {
+     "source": "Le Monde",
+     "lang": "fr",
+     "url": "https://www.lemonde.fr/international/article/2026/10/13/la-hongrie-commence-a-supprimer-les-lois-anti-lgbt-de-l-ere-orban_6793088_3210.html",
+     "headline": "La Hongrie commence à supprimer les lois anti-LGBT+ de l’ère Orban",
+     "headlineEn": "Hungary begins repealing Orban-era anti-LGBT+ laws",
+     "summary": "La Hongrie a entamé l'abrogation progressive des lois restrictives visant la communauté LGBT+, promulguées sous l'ancien gouvernement de Viktor Orban. Ce virage politique marque un changement significatif dans les orientations sociétales du pays depuis l'accession au pouvoir du dirigeant conservateur Péter Magyar. Les autorités hongroises entendent ainsi répondre aux exigences d'alignement sur les normes européennes en matière de droits fondamentaux tout en répondant aux attentes d'une partie de l'opinion publique. Cette initiative signale une volonté manifeste de normaliser les relations diplomatiques de Budapest avec les institutions de l'Union européenne et plusieurs de ses partenaires continentaux.",
+     "why": "Ce revirement législatif en Hongrie annonce un apaisement majeur dans les tensions récurrentes entre Budapest et Bruxelles sur le respect de l'État de droit.",
+     "paywalled": true,
+     "contested": "",
+     "chart": null
+    },
+    {
+     "source": "Deutsche Welle",
+     "lang": "de",
+     "url": "https://www.dw.com/de/deutschlands-china-strategie-ändert-sich-seit-der-chinesische-importdruck-die-vorteile-deutscher-exporte-nach-china-in-den-schatten-stellt/a-79644973?maca=de-rss-de-all-1119-rdf",
+     "headline": "Deutschlands China-Strategie ändert sich, seit der chinesische Importdruck die Vorteile deutscher Exporte nach China in den Schatten stellt",
+     "headlineEn": "Germany's China strategy shifts as import pressures eclipse export benefits",
+     "summary": "Deutschland vollzieht einen spürbaren Wandel in seiner Handelspolitik gegenüber China, da der zunehmende Importdruck heimische Schlüsselindustrien stark belaste. Jahrelang zögerte die Bundesregierung aus Sorge vor Wirtschaftssanktionen, schärfere Schutzmaßnahmen zu ergreifen, doch der veränderte Markt verlangt nun entschlosseneres Handeln. Berlin fordert vor diesem Hintergrund stärkere handelspolitische Schutzinstrumente auf Ebene der Europäischen Union, um den europäischen Binnenmarkt besser abzusichern. Experten werten diesen Schritt als eine grundlegende Neuausrichtung, welche die bisherige Priorisierung von Exportinteressen auf dem chinesischen Markt schrittweise ablöst und den Fokus auf den Schutz der heimischen Produktion verlagert.",
+     "why": "Le changement de cap de la première économie européenne face à Pékin pourrait durcir la politique commerciale globale de l'Union européenne.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    }
+   ]
+  },
+  {
+   "name": "Économie & marchés",
+   "stories": [
+    {
+     "source": "AP News",
+     "lang": "en",
+     "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPYUxIN3FQeEQ2NmZOTVRueTY3MlM3N0ExVTlRMlpzaGIxeEhiLWUwdldDRkRpRzRlMGFpMEhJZkxadkZkWmQwVk9OelRlX2FpZmhnWjZZdVFfQ0FVaUk5Yk1xdDVFU0F0aUFrOVRoOEZwalJJVEtEVEdOU1I2NWtQN3h1SjBSNTJNckJtc0d2T1dMQQ?oc=5",
+     "headline": "2 American economists win Nobel for work on managing economic shocks",
+     "headlineEn": "Deux économistes américains remportent le prix Nobel pour leurs travaux sur la gestion des chocs économiques",
+     "summary": "Two American economists have been awarded the Nobel Memorial Prize in Economic Sciences for their pioneering research on how nations can effectively manage severe macroeconomic shocks. The Royal Swedish Academy of Sciences highlighted their analytical framework, which explains price rigidity and offers critical guidance for central banks dealing with unexpected market downturns. Their theoretical work provides essential tools for understanding recession dynamics and evaluating monetary intervention options in volatile market conditions. Economists and policymakers worldwide praised the decision, noting that these insights remain especially relevant as modern global economies confront ongoing inflationary pressures and trade disruptions.",
+     "why": "Les recherches récompensées fournissent des clés théoriques directes aux banques centrales pour ajuster leurs politiques monétaires en période de crise.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    },
+    {
+     "source": "La Repubblica",
+     "lang": "it",
+     "url": "https://www.repubblica.it/economia/2026/10/13/news/inflazione_istat_100_anni_prezzi_casa_alimenti_utenze-425644656/",
+     "headline": "La corsa dell’inflazione: dal 2000 i prezzi sono aumentati del 63%. E la casa costa il doppio",
+     "headlineEn": "Inflation in Italy: prices up 63% since 2000 and housing costs double",
+     "summary": "I dati storici dell'Istat rivelano che dal 2000 ad oggi i prezzi al consumo in Italia sono cresciuti complessivamente del 63 per cento, registrando rincari marcati per le famiglie. A guidare la spinta inflazionistica sono stati soprattutto i costi legati all'abitazione, che risultano raddoppiati nel corso degli ultimi due decenni, insieme alle bollette energetiche e ai beni alimentari. Diversamente, settori come l'istruzione, la sanità e i servizi informatici hanno mostrato una dinamica di prezzi decisamente più contenuta o persino in calo. L'analisi sottolinea la forte perdita di potere d'acquisto per le famiglie con redditi medio-bassi di fronte all'aumento delle spese obbligate.",
+     "why": "Cette hausse cumulée illustre la pression prolongée sur le pouvoir d'achat et le coût du logement dans l'une des principales économies de la zone euro.",
+     "paywalled": true,
+     "contested": "",
+     "chart": null
+    },
+    {
+     "source": "France 24",
+     "lang": "fr",
+     "url": "https://www.france24.com/fr/%C3%A9missions/info-%C3%A9co/20261013-l-%C3%A9tat-actionnaire-un-portefeuille-de-230-milliards-d-euros",
+     "headline": "L'État actionnaire : un portefeuille de 230 milliards d'euros",
+     "headlineEn": "French state actionnaire: a portfolio worth 230 billion euros",
+     "summary": "Le portefeuille d'actifs géré par l'Agence des participations de l'État a progressé de près de 10 % en un an pour atteindre la valeur globale de 230 milliards d'euros. L'État français détient désormais des participations financières dans 87 entreprises et entités corporatives stratégiques sur l'ensemble du territoire national. Les autorités concentrent prioritairement leurs investissements dans les secteurs jugés cruciaux pour la souveraineté économique, tels que l'énergie, les transports et les technologies de défense. Cette valorisation à la hausse témoigne de la solidité financière des fleurons industriels dans lesquels la puissance publique conserve un rôle d'actionnaire de référence.",
+     "why": "La montée en valeur des participations étatiques françaises renforce les capacités stratégiques de Paris dans un contexte de souveraineté industrielle accrue.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    }
+   ]
+  },
+  {
+   "name": "Technologie & sciences",
+   "stories": [
+    {
+     "source": "Reuters",
+     "lang": "en",
+     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNUnFfeURETmxJbjhUUjBib3BFZmRrQ2JyU09MZkIzVGJncnQ1bWMxME95c3p3a2d6c1pTZDJobkhXX1hPc204SElBUC1xQXE3S2JvMDV3RW5Lemxnb09TTkxuakpFeS1lUUk3aXZBWE5xQzFvdkV2cnVhM3hXeWhRSjg4SVg3SUdNc1VrbExfdzBaeUpzNWJuQlBxZFg1T2pNTHBkTVIxUkFmdkk?oc=5",
+     "headline": "Scientists call for international body to oversee advanced AI",
+     "headlineEn": "Des scientifiques appellent à la création d'un organisme international pour encadrer l'IA avancée",
+     "summary": "A global coalition of leading computer scientists has published a joint statement calling for the immediate establishment of an international agency to oversee advanced artificial intelligence models. The researchers argue that rapid technological breakthroughs outpace existing national regulatory frameworks, creating risks that require multilateral governance. They advocate for mandatory safety audits, standardized risk assessments, and transparency standards prior to releasing cutting-edge models to the public. The proposal draws explicit comparisons to nuclear safety organizations, emphasizing that international cooperation is vital to prevent unchecked risks while ensuring technological benefits are shared globally across democratic nations.",
+     "why": "L'appel des chercheurs renforce la pression sur les gouvernements pour instaurer une régulation transfrontalière contraignante des modèles d'IA les plus puissants.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    },
+    {
+     "source": "RTL.lu",
+     "lang": "fr",
+     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQTGxNaWRiM2twSnhQeloyUjhCT3BvUnlhVzd5aGN3VkZpUHRDU1I2aUgzbzJ0QTgwSkNPWlpTenFkUVdabzVVVkZHMmNnNFhKcEFCTzI4UUcwclpibFE3Q2dMMVV2cVY3LTg0Q2hjc3FnN2ZpUzAxQWVseXRpb2VLd3dOWWpDWUhqWXBORXNJTGM1SE5jd0Qxc3hLd2dQLWlQREk5cHk3Zw?oc=5",
+     "headline": "Intermarché, Leclerc, Carrefour: Des supermarchés français touchés par une cyberattaque inédite",
+     "headlineEn": "Intermarché, Leclerc, Carrefour: French supermarkets hit by unprecedented cyberattack",
+     "summary": "Plusieurs grandes enseignes de la distribution en France, notamment Intermarché, Leclerc et Carrefour, font face aux conséquences d'une cyberattaque inédite ayant ciblé leurs systèmes informatiques. L'intrusion malveillante a directement paralysé la gestion des installations frigorifiques dans de nombreux magasins, contraignant les commerçants à jeter d'importantes quantités de denrées alimentaires. Les équipes techniques travaillent activement au rétablissement des réseaux logistiques et à la sécurisation des infrastructures numériques touchées. Cet incident met en lumière la vulnérabilité croissante des chaînes d'approvisionnement critiques face aux piratages informatiques à grande échelle en Europe.",
+     "why": "Cette attaque inédite démontre le risque systémique que font peser les cybermenaces sur la chaîne de distribution alimentaire et la sécurité des infrastructures.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    },
+    {
+     "source": "BBC News",
+     "lang": "en",
+     "url": "https://www.bbc.co.uk/weather/articles/cmlye0d7q7zno?at_medium=RSS&at_campaign=rss",
+     "headline": "Super El Niño sets another record as it strengthens to 'unprecedented levels'",
+     "headlineEn": "Un « Super El Niño » atteint des niveaux inédits et bat de nouveaux records",
+     "summary": "Meteorologists report that the ongoing Super El Niño event has reached historically unprecedented levels, setting new temperature records across key oceanic monitoring zones in the Pacific. Climate experts warn that this intense warming phenomenon is significantly amplifying extreme weather occurrences, including record hurricane activity and severe drought cycles globally. The atmospheric shifts are disrupting traditional rainfall patterns, increasing risks of flash flooding in South America while compounding heatwaves across oceanic regions. Scientists emphasize that the exceptional strength of this event highlights broader shifts in global climate stability, urging emergency management agencies to adapt.",
+     "why": "L'intensification record d'El Niño accroît la fréquence des événements météorologiques extrêmes et menace la stabilité climatique à l'échelle mondiale.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    }
+   ]
+  },
+  {
+   "name": "Sport",
+   "stories": [
+    {
+     "source": "France 24",
+     "lang": "fr",
+     "url": "https://www.france24.com/fr/sports/20261013-f1-retour-afrique-avec-grand-prix-rwanda",
+     "headline": "La F1 de retour en Afrique avec un Grand Prix au Rwanda",
+     "headlineEn": "Formula 1 returns to Africa with Grand Prix in Rwanda",
+     "summary": "La Formule 1 a officialisé son grand retour sur le continent africain après la signature d'un accord avec le Rwanda pour l'organisation d'un Grand Prix au début des années 2030. Cette annonce constitue une étape historique pour le championnat du monde de F1, qui cherchait depuis de nombreuses années à réintégrer une épreuve africaine dans son calendrier international.",
+     "why": "Cette décision signe le retour symbolique de la Formule 1 sur le continent africain après des décennies d'absence.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    },
+    {
+     "source": "La Repubblica",
+     "lang": "it",
+     "url": "https://www.repubblica.it/sport/calcio/serie-a/juventus/2026/10/13/news/cristiano_ronaldo_juventus_arretrati_cassazione-425644820/",
+     "headline": "Ronaldo e i 9,7 milioni di arretrati dalla Juventus, il club ricorre in Cassazione",
+     "headlineEn": "Ronaldo and 9.7 million in back pay from Juventus: club appeals to Supreme Court",
+     "summary": "La Juventus ha deciso di ricorrere in Corte di Cassazione nella controversia legale con Cristiano Ronaldo riguardante i 9,7 milioni di euro di stipendi arretrati. Il club bianconero era stato condannato nei primi due gradi di giudizio a saldare le mensilità sospese durante la pandemia. La società intende ora esaurire tutti i gradi della giustizia ordinaria per difendere la propria posizione finanziaria.",
+     "why": "Le litige financier se prolonge devant la più alta instance judiciaire italienne, avec de fortes implications pour les comptes de la Juventus.",
+     "paywalled": true,
+     "contested": "",
+     "chart": null
+    }
+   ]
+  }
+ ],
+ "sourced": true,
+ "feeds": {
+  "ok": 29,
+  "of": 29,
+  "items": 262,
+  "skipped": []
+ },
+ "words": 3133,
+ "readMin": 16,
+ "storyCount": 15
+}
