@@ -1,0 +1,404 @@
+{
+ "date": "2026-10-17",
+ "kind": "daily",
+ "heat": 0.85,
+ "oneThing": "US President Donald Trump suspended newly passed Russia sanctions citing national security, prompting praise from Moscow and concern among European allies.",
+ "followUps": [
+  {
+   "n": "01",
+   "thread": "Sanctions américaines contre la Russie",
+   "change": "Donald Trump a signé un décret suspendant les nouvelles sanctions votées par le Congrès au nom de l'intérêt national."
+  },
+  {
+   "n": "02",
+   "thread": "Mouvements sociaux en France",
+   "change": "Des lycéens, gilets jaunes et syndicats se mobilisent ce samedi à travers le pays contre la vie chère et Parcoursup."
+  },
+  {
+   "n": "03",
+   "thread": "Communication de la Maison-Blanche",
+   "change": "Katie Zacharia quitte son poste de porte-parole après seulement cinq jours marqués par de vives controverses."
+  }
+ ],
+ "mustReads": [
+  {
+   "desk": "International",
+   "source": "Reuters",
+   "lang": "EN",
+   "paywalled": false,
+   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQUWRsWXNvbUVMb01QdTFTbEhpSGhZLVZYVXZramJkQjg2RXUzbXRaZjZlcnY1QTNoeU1zQzhhOEhwOFZVSkRySFFZNWI3RjZtUHJLaDhybEhWVzFBTF9uVlZjWlNSQk5aX25iZ0EySjRQYjR5aVRiM1VERjVFWmpTOTR0Y1ZhNUtaTHpTaWdZZVRPUmppTUJtYl9IZlhGQnM3WkVSNmRreVBjaDF5anFfSHhqN1ZUc2p3cjRoU0pyUzRkZjlBM05B?oc=5",
+   "headline": "Trump waives key Russia-related sanctions, tariffs before they take effect under new law",
+   "headlineEn": "Trump suspend d'importantes sanctions et tarifs contre la Russie avant leur entrée en vigueur",
+   "contested": "",
+   "why": "Cette décision unilatérale américaine affaiblit la stratégie de pression économique alliée contre Moscou au moment où la situation militaire en Ukraine reste très critique.",
+   "stat": "70",
+   "statLabel": "milliards d'euros réclamés par Volodymyr Zelensky à l'UE",
+   "chart": null,
+   "paras": [
+    "US President Donald Trump has issued an executive order waiving key Russia-related sanctions and energy tariffs just before they were set to take effect under newly enacted legislation. The measures had been recently approved by Congress through the Graham Act, marking the first major congressional initiative aimed at penalizing Moscow since Trump returned to office. Citing paramount national security interests, the administration effectively placed the entire punitive package on hold. The decision came as a surprise to lawmakers in Washington who had overwhelmingly supported the legislative action to maintain firm economic pressure on Moscow.",
+    "In Moscow, officials reacted with swift enthusiasm to the unexpected executive order signed by President Trump. Kirill Dmitriev, a prominent Russian presidential envoy, publicly praised the decision, characterising the suspension of economic restrictions as a significant and truly historic moment for international diplomacy. Russian state commentators highlighted that waiving energy tariffs would ease commercial friction and open possibilities for future bilateral discussions. Meanwhile, foreign policy analysts noted that the move effectively neutered congressional efforts to impose mandatory sanctions on Russian oil and gas exports, delivering a key diplomatic victory to the Kremlin.",
+    "The timing of the White House decision has heightened tensions between Washington and Kyiv, where Ukrainian leadership is facing critical military and economic challenges. Speaking at an EU summit in Brussels, Ukrainian President Volodymyr Zelenskyy reiterated an urgent plea for seventy billion euros in European assistance to keep the country afloat. Zelenskyy warned that reduced American backing and restrictions on satellite internet systems like Starlink could severely impair front-line defense capabilities. Tensions between the two leaders have escalated visibly, with Trump recently describing the Ukrainian president as an obstacle to achieving a peace settlement.",
+    "European leaders gathered in Brussels expressed deep concern regarding the sudden shift in American strategy toward Moscow. While European Union officials reaffirmed their commitment to supporting Kyiv through the winter, several national representatives admitted that filling the prospective financial and military vacuum left by Washington remains daunting. Italian Defense Minister Guido Crosetto publicly criticized the policy, stating that restricting support or waiving sanctions against Russia was completely wrong and risked prolonging the full-scale invasion rather than ending it. European diplomats now face complex negotiations to sustain economic pressure on Russia without unified Transatlantic alignment.",
+    "Back in Washington, the executive order triggered immediate backlash from both Democratic and Republican members of Congress who sponsored the Graham Act. Lawmakers argued that bypassing bipartisan legislation undermines the constitutional authority of Congress in foreign policy matters and sends a dangerous signal to global adversaries. Key senators demanded detailed briefings from the State Department regarding the national security justification cited in the order. Congressional aides indicated that committees may hold oversight hearings to examine whether executive waivers were granted appropriately or if legislative action will be required to reinstate mandatory sanctions.",
+    "Market reactions across global energy sectors were immediate as traders adjusted to the unexpected regulatory shift. The prospect of unhindered Russian energy flows helped calm supply anxieties that had previously pushed crude oil prices to elevated levels. However, political risk consultants warn that long-term uncertainty will continue to cloud international energy markets as long as policy shifts remain unpredictable. As Ukraine prepares for another harsh winter amid relentless missile attacks on its energy grid, the sudden thaw in US regulatory enforcement marks a pivotal turning point in global diplomatic dynamics."
+   ]
+  },
+  {
+   "desk": "France",
+   "source": "France 24",
+   "lang": "FR",
+   "paywalled": false,
+   "url": "https://www.france24.com/fr/france/20261017-france-en-direct-mobilisation-17-octobre-gilets-jaunes-lyceens-font-converger-leurs-coleres-dans-la-rue",
+   "headline": "Mobilisation du 17 octobre : Gilets jaunes et lycéens font converger leurs luttes",
+   "headlineEn": "October 17 mobilization: Yellow Vests and high school students unify their protest movements",
+   "contested": "",
+   "why": "Cette journée de contestation sociale teste la capacité des mouvements citoyens et étudiants à créer un front commun face aux politiques d'austérité et au coût de la vie.",
+   "stat": "17",
+   "statLabel": "octobre, date choisie pour la journée nationale de blocages",
+   "chart": null,
+   "paras": [
+    "La France fait face samedi à une vaste journée de mobilisation nationale marquée par la convergence inédite de plusieurs mouvements sociaux. Anciens gilets jaunes, lycéens, étudiants, militants du climat et syndicalistes se rassemblent dans de nombreuses villes du pays pour protester contre la vie chère et l'injustice sociale. Les autorités locales et les forces de l'ordre s'attendent à d'importants blocages d'axes routiers, de raffineries et de centres commerciaux. Les organisateurs espèrent transformer les colères sectorielles en un mouvement populaire unifié capable d'infléchir les décisions gouvernementales sur le pouvoir d'achat.",
+    "La jeunesse représente le fer de lance de cette nouvelle vague de contestation sociale à travers le territoire national. Les lycéens et étudiants dénoncent fermement les conditions de vie précaires, l'augmentation des coûts du logement ainsi que les défaillances perçues du système éducatif. La plateforme d'orientation Parcoursup concentre une part majeure des griefs, étant perçue par de nombreux jeunes comme un vecteur d'inégalité et d'anxiété. Des blocus d'établissements scolaires et des défilés spontanés se sont multipliés ces derniers jours, créant une dynamique de contestation qui rejoint désormais les revendications syndicales traditionnelles.",
+    "Du côté des gilets jaunes, cette journée du dix-sept octobre constitue une tentative majeure de réinvestir l'espace public et de relancer le mouvement. Après plusieurs mois de mobilisations dispersées, les figures locales cherchent à fédérer un mécontentement grandissant face à l'inflation persistante sur les produits de première nécessité et l'énergie. Les rond-points emblématiques et les axes stratégiques font à nouveau l'objet d'incitations au rassemblement. Cette alliance avec les organisations de jeunesse vise à donner un second souffle à une contestation citoyenne qui entendpeser lourdement dans le débat politique actuel.",
+    "Face à cette montée des tensions, le gouvernement et le ministère de l'Intérieur ont déployé un dispositif de sécurité particulièrement vigilant. Les préfectures redoutent des débordements violents ou des infiltrations d'éléments radicaux susceptibles de perturber les défilés déclarés. Des consignes de fermeté ont été transmises aux forces de l'ordre pour maintenir la circulation sur les grands axes autoroutiers et protéger les infrastructures critiques. Les autorités craignent également l'impact économique de cette journée sur le commerce de détail, déjà fragilisé par la baisse de la consommation des ménages ces derniers mois.",
+    "Les spécialistes en sciences politiques s'interrogent sur la viabilité à long terme de cette alliance entre générations et causes diverses. Si la baisse du pouvoir d'achat constitue un socle commun évident, les méthodes d'action et les priorités idéologiques diffèrent parfois sensiblement entre lycéens, militants écologistes et gilets jaunes. Les débats internes sur la réforme de la plateforme Parcoursup ou sur la fiscalité des carburants illustrent la complexité de construire un programme de revendications cohérent. La réussite de cette journée dépendra largement de la capacité des leaders à maintenir une cohésion durable.",
+    "Cette journée de manifestations s'inscrit dans un contexte économique mondial sous tension, marqué par l'incertitude et la hausse des coûts de l'énergie. Alors que les arbitrages budgétaires nationaux s'annoncent particulièrement difficiles pour l'année à venir, le gouvernement observe attentivement le niveau de participation dans la rue. Une forte mobilisation pourrait contraindre l'exécutif à concéder des mesures d'urgence pour les étudiants et les ménages modestes. À l'inverse, un faible essor renforcerait la position des autorités, qui mettent en avant la nécessité d'assainir les finances publiques face aux contraintes budgétaires."
+   ]
+  },
+  {
+   "desk": "United States",
+   "source": "AP News",
+   "lang": "EN",
+   "paywalled": false,
+   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNMkktYkRQVnVXZmFmWVBvdE5LXzJzWnhRN0h4d093YWZJc2F5akw4N0VjTy1pWVV6RjZ2dC00OHZNNFBLd1BENWJ3OGNaLWNDbVhwcVNCYWR0ZlFpWm1IWlhkMzhJWWJnQlFQdXdISEZOc0VteWdrb1NMLW96Q3dYMWNzUmFKdFQ2b1BKdGQ3QUFpYUJ4WG1kR1BSMDA?oc=5",
+   "headline": "Embattled White House press secretary Katie Zacharia is leaving the job after less than a week",
+   "headlineEn": "La porte-parole de la Maison-Blanche Katie Zacharia quitte son poste après moins d'une semaine",
+   "contested": "",
+   "why": "Cette démission éclair souligne le tumulte permanent au sein de l'équipe de communication de la Maison-Blanche et la pression extrême entourant les nominations officielles.",
+   "stat": "5",
+   "statLabel": "jours passés par Katie Zacharia au poste de porte-parole de la Maison-Blanche",
+   "chart": null,
+   "paras": [
+    "White House Press Secretary Katie Zacharia is leaving her position after less than five days on the job, marking one of the shortest tenures for a chief spokesperson in modern American history. Senior administration officials confirmed that Zacharia is transitioning out of the high-profile role following an extraordinarily brief and tumultuous start. Appointed to replace Karoline Leavitt, the former conservative media commentator faced intense scrutiny almost immediately upon taking the podium. Her swift departure reflects deep internal concerns within the administration regarding media management and effective public communication during a volatile political season.",
+    "Troubles for the newly appointed press secretary began during her very first official press briefing on Monday. Reporters pressed Zacharia extensively on her professional background, particularly regarding past statements where she referred to herself as an attorney. When questioned directly about which state bar examination she had passed, her evasive answers raised immediate doubts among journalists and political observers. Subsequent media reports revealed discrepancies in her credentials, leading to swift criticism across conservative and mainstream news outlets. The controversy rapidly overshadowed official administration policy announcements and generated persistent distractions for the White House.",
+    "In addition to professional credential scrutiny, Zacharia faced sharp backlash for several off-the-cuff remarks made during informal media appearances earlier in the week. Commentators highlighted inappropriate humor regarding international matters, including dismissive comments about facilities in foreign countries that drew public reprimands. President Trump reportedly expressed growing frustration with the daily media coverage focused on his press secretary rather than his policy achievements. Speaking to reporters on Thursday, Trump admitted publicly that the role might not be suitable for her, signaling that a leadership change in the press office was imminent and unavoidable.",
+    "The rapid turnover highlights broader structural challenges within the White House communications office as it attempts to manage an aggressive media landscape. Staff members acknowledged behind closed doors that vetting procedures for high-level appointments have come under severe strain due to rapid hiring decisions. Political strategists noted that serving as the primary public spokesperson for President Trump requires an exceptionally rare combination of legal precision, political discipline, and media savvy. Zacharia’s inability to regain control of the podium narrative made her continued presence in the briefings untenable for senior advisers.",
+    "Reactions from political opponents and media analysts were swift following the announcement of Zacharia’s exit. Democratic lawmakers cited the incident as further evidence of administrative instability and flawed executive vetting. Meanwhile, conservative commentators voiced disappointment that a prominent media personality failed to adapt to the rigorous demands of official government messaging. Within press circles in Washington, the brevity of Zacharia’s tenure prompted widespread discussion regarding the intense pressure faced by White House officials and the immediate career consequences when misrepresenting legal or professional qualifications to the public.",
+    "The White House has not yet announced a permanent successor to fill the vacant press secretary position. Deputy communications staff will temporarily handle daily briefings and press inquiries while senior leadership conducts a refreshed search for a replacement. Administration officials emphasized that the upcoming appointment will undergo rigorous background checks to prevent a repetition of recent controversies. As crucial legislative battles and mid-term campaigns approach, securing a steady, credible voice at the White House briefing podium remains a critical priority for an administration striving to convey authority and stability."
+   ]
+  }
+ ],
+ "desks": [
+  {
+   "name": "Luxembourg",
+   "stories": [
+    {
+     "source": "Luxemburger Wort",
+     "lang": "de",
+     "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPWUxIWTk5Rk1GVTF1eUtJR290SjRTX1NDV0FGS0JZdFNDRGl2Y2d5SnlTcTRoYUMzSFB4Vm9HM3lPWHRxUFpWQWxnTndUUlRpbXFubXdpQmRPS2ZuS01OZlhIZjFyVVBJSTVNY3FFTDN3SmpaWEhKUDVNdVhoNWdvRDJrY1FBeE5yb2ZlSDdZbzNWQnNZTDhiSV9SUV9Zc0RtZXF3ejU3dFNOS3Y3eDFlUw?oc=5",
+     "headline": "Nur jeder Zweite schafft den Schulabschluss in der vorgesehenen Zeit",
+     "headlineEn": "Only every second student completes secondary school on time",
+     "summary": "In Luxemburg gelingt es aktuell nur der Hälfte der Schülerinnen und Schüler, ihren Schulabschluss innerhalb der regulär vorgesehenen Zeitspanne zu erreichen. Diese Daten werfen ein Schlaglicht auf die Herausforderungen im luxemburgischen Bildungssystem sowie auf die Effizienz der schulischen Orientierung und Förderung. Experten und Bildungspolitiker diskutieren intensiv über mögliche Reformansätze, um Verzögerungen im Schulverlauf abzubauen. Die hohe Wiederholungsquote stellt sowohl für das Bildungswesen als auch für die betroffenen Jugendlichen eine erhebliche Belastung dar.",
+     "why": "Cette statistique met en lumière les difficultés structurelles du système éducatif luxembourgeois.",
+     "paywalled": true,
+     "contested": "",
+     "chart": null
+    },
+    {
+     "source": "RTL.lu",
+     "lang": "fr",
+     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPeDFoUzBuRzlYTEYtVEhzSlBKYncybnZrRlNCSWJ0Tk1MWEtCWFIzNHUtRE41MndQSVVCQ2N2MVkyc2FKemlMRXhfdk1oM0UtZVVtZnhvWWo4NkZOeWVwOU9BVkFCYzlVV29Qd0J2bEhHY25PWGVVYWNpZXBGTFhvNUpjUUlOdDdNdW1qcWtNVThYM3RGbnV1WWxHUjRaVUQ0dGRTdjFkWm54Zm5u?oc=5",
+     "headline": "Vignette belge: Les régions frontalières paieront aussi, sans aucune exception",
+     "headlineEn": "Belgian vignette: Border regions will also pay, without any exception",
+     "summary": "La Belgique confirme l'application de sa nouvelle vignette routière aux conducteurs circulant dans le pays, y compris dans les zones frontalières. Aucune exemption particulière ne sera accordée aux résidents frontaliers luxembourgeois ou français qui traversent régulièrement la frontière pour des raisons professionnelles ou personnelles. Cette mesure suscite de vives inquiétudes parmi les navetteurs et les autorités locales de la Grande Région. Les responsables belges maintiennent toutefois que le dispositif doit s'appliquer uniformément à l'ensemble du réseau routier concerné.",
+     "why": "L'absence d'exemption pour les frontalier impactera directement les déplacements quotidiens vers et depuis la Belgique.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    },
+    {
+     "source": "Luxemburger Wort",
+     "lang": "de",
+     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNVmJnY08ydHRuUFlQTEFhT00xclMtNWg5ZXNDUzNTSGJhNE9RaG9pZnVYeElTUVZ5QlNHdjZiTmZFNlF6dnl3OGR2TS1rWW5VT25yRnQtLUo1em04WGUtRWJJTjZzb0RINmNoaUNGX3ZHSFhlUWpCbGpSLXp1ZXRQeFBJOGVVVU5BU1FpaUQ2WlVsXzFnMEc4bmJNcUFWMVU3eDZzNnRnMUtMOHM?oc=5",
+     "headline": "Landwirtin aus Luxemburg wird von den Vereinten Nationen geehrt",
+     "headlineEn": "Female farmer from Luxembourg honored by the United Nations",
+     "summary": "Eine Landwirtin aus Luxemburg ist von den Vereinten Nationen für ihr außergewöhnliches Engagement in der nachhaltigen Landwirtschaft ausgezeichnet worden. Die Ehrung würdigt innovative Ansätze zur Förderung der Biodiversität und zum Schutz natürlicher Ressourcen im Agrarsektor. Dieser internationale Preis unterstreicht die wachsende Bedeutung nachhaltiger Produktionsmethoden in der luxemburgischen Landwirtschaft. Der Erhalt der Auszeichnung stieß bei Branchenvertretern und Umweltverbänden im Großherzogtum auf sehr positive Resonanz.",
+     "why": "Cette reconnaissance internationale valorise les initiatives luxembourgeoises en matière d'agriculture durable.",
+     "paywalled": true,
+     "contested": "",
+     "chart": null
+    }
+   ]
+  },
+  {
+   "name": "Monde / géopolitique",
+   "stories": [
+    {
+     "source": "Süddeutsche Zeitung",
+     "lang": "de",
+     "url": "https://www.sueddeutsche.de/wirtschaft/verbrenner-aus-merz-macron-eu-regeln-automobilindustrie-elektromobilitaet-li.3564320",
+     "headline": "EU-Regeln: „Das Verbrenner-Aus ist dann damit Geschichte“",
+     "headlineEn": "EU rules: 'The combustion engine ban is history'",
+     "summary": "Deutschland und Frankreich haben sich auf einen wegweisenden Kompromiss zu den künftigen EU-Vorschriften für die Automobilindustrie geeinigt. Die Vereinbarung sieht Anpassungen bei den strengen Zielvorgaben für den Ausstieg aus dem Verbrennungsmotor vor, um der europäischen Industrie mehr Flexibilität zu gewähren. Während Befürworter von einem notwendigen Schritt zur Sicherung von Arbeitsplätzen sprechen, warnen Kritiker vor einer Aufweichung der Klimaziele der Europäischen Union. Dieser Konsens der beiden größten EU-Staaten dürfte maßgeblichen Einfluss auf die anstehenden Gesetzgebungsverfahren in Brüssel haben.",
+     "why": "L'accord franco-allemand façonne l'avenir de l'industrie automobile européenne et la trajectoire climatique de l'UE.",
+     "paywalled": true,
+     "contested": "",
+     "chart": null
+    },
+    {
+     "source": "The New York Times",
+     "lang": "en",
+     "url": "https://www.nytimes.com/2026/10/16/world/europe/pope-leo-putin-ukraine-cease-fire.html",
+     "headline": "Pope Asks Putin for a Cease-Fire for a Ukrainian City Under Siege",
+     "headlineEn": "Le Pape demande à Poutine un cessez-le-feu pour une ville ukrainienne assiégée",
+     "summary": "Recovering from lung cancer surgery, Pope Leo XIV communicated with Russian President Vladimir Putin to make an urgent humanitarian plea for a cease-fire in the Ukrainian town of Oleshky. Thousands of civilians in the area remain trapped by heavy surrounding minefields and persistent drone attacks, raising immediate risks of severe starvation and lack of medical care. The Vatican emphasized the critical necessity of opening secure humanitarian corridors to allow emergency supplies to reach the beleaguered population. The initiative underlines the Pope's continued diplomatic efforts to alleviate civilian suffering despite his own health challenges.",
+     "why": "Cette démarche pontificale directe vise à éviter une catastrophe humanitaire immédiate pour les civils piégés.",
+     "paywalled": true,
+     "contested": "",
+     "chart": null
+    },
+    {
+     "source": "AP News",
+     "lang": "en",
+     "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNTzFrRE5pMHU0QUV5V2ZHeTBuUHR3cnJDY09QMnEyMndIVVA5TG5aUE5zSkhIdWNhZVVLcEJPSGMweVFtVGFma3RXcWlZa2xaeVpMWjg3UnFsUXQ0SXQ1ZFdwdXY0cG4zc3U3NlJBRm81eEkyanlKcG1ENGJWS21CWHN5M3RmZkcxY1dnWTBDNFNna0o1WDgyNnZvTlJOSDlwN1VyeDY1VHktNnVyU0E?oc=5",
+     "headline": "Drone strikes in the Black Sea raise fears of Russian escalation to test NATO’s response",
+     "headlineEn": "Les attaques de drones en mer Noire font craindre une escalade russe pour tester la réponse de l'OTAN",
+     "summary": "Recent drone strikes targeting maritime commercial traffic in exclusive economic zones across the Black Sea have heightened concerns regarding potential Russian military escalation. Defense analysts suggest these actions may be aimed at testing NATO's collective resolve and response thresholds in strategic maritime corridors. The attacks have already resulted in fatalities and missing crew members while imperiling critical international shipping lanes. Regional coastal states and alliance partners are closely monitoring the security situation, deliberating on potential measures to safeguard navigation and prevent further destabilization in the region.",
+     "why": "Ces frappes maritimes risquent d'entraîner une confrontation directe entre la Russie et l'OTAN en mer Noire.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    }
+   ]
+  },
+  {
+   "name": "International — hors Europe",
+   "stories": [
+    {
+     "source": "Al Jazeera",
+     "lang": "en",
+     "url": "https://www.aljazeera.com/news-analysis/2026/10/17/can-yemens-government-forces-sustain-their-offensive-against-the-houthis?traffic_source=rss",
+     "headline": "Can Yemen’s government forces sustain their offensive against the Houthis?",
+     "headlineEn": "Les forces gouvernementales du Yémen peuvent-elles maintenir leur offensive contre les Houthis ?",
+     "summary": "Yemeni government forces are facing mounting operational pressures as they attempt to sustain their military offensive against Houthi fighters across key frontlines. Escalating Houthi missile and drone strikes targeting critical coastal supply routes along the Red Sea have severely complicated logistics and troop movements. Military analysts emphasize that without reinforced external backing and improved supply chain security, pro-government positions near strategic urban centers like Taiz remain precarious. The ongoing offensive highlights the persistent military stalemate and the growing humanitarian strain affecting civilian populations throughout the region.",
+     "why": "L'évolution des combats au Yémen menace la stabilité des voies maritimes stratégiques en mer Rouge.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    },
+    {
+     "source": "BBC News",
+     "lang": "en",
+     "url": "https://www.bbc.co.uk/news/articles/c65ynk7212vqo?at_medium=RSS&at_campaign=rss",
+     "headline": "Palestinians and US journalist injured by Israeli settlers in West Bank harvest attack",
+     "headlineEn": "Des Palestiniens et un journaliste américain blessés par des colons israéliens en Cisjordanie",
+     "summary": "Masked Israeli settlers launched violent attacks against Palestinian farmers attempting to harvest olives in the occupied West Bank, injuring several residents and an American photojournalist. Witnesses reported that the assailants assaulted workers, destroyed farm equipment, and set fire to local property during the confrontation. The annual olive harvest represents a crucial economic lifeline and cultural tradition for Palestinian rural communities across the territory. Human rights organizations and international observers have voiced deep concern over the recent sharp surge in settler violence and called for enhanced protection for civilian agricultural workers.",
+     "why": "L'escalade de la violence des colons en Cisjordanie aggrave la précarité économique et sécuritaire des agriculteurs palestiniens.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    },
+    {
+     "source": "AP News",
+     "lang": "en",
+     "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPNlcwLW12UDlEZm1YNlAzTHVxTUJ0Zmh3OFZnZ0h5bmpmSUZzalllbG9XREtXYTZQUjNkYUNzWXpRTTFXWExjLV9vb1VpTVZCX1pBTFdZNGhoeE9lb0lGdTY1a0kwdldpNFE2c3VvUEx2b0JpTTBhc096THIwbWJGdVc2U0diMnhSNlgxZFVhR3pDeGxLc2J6US1tWG1MUElueFNxdGFvUTE?oc=5",
+     "headline": "Teen shooter who killed 4 at Oregon elementary school was a former student, police say",
+     "headlineEn": "L'auteur de la fusillade dans une école de l'Oregon ayant tué 4 personnes était un ancien élève",
+     "summary": "Law enforcement officials revealed that the 16-year-old gunman who killed three children and a teacher at an elementary school in Bend, Oregon, was a former student who had attended special educational needs classes there. The suspect opened fire inside a classroom before being confronted and shot by an armed parent of two enrolled pupils. Authorities praised the courageous actions of individuals on site who intervened to prevent further casualties. The tragic incident has renewed intense national discussions regarding school safety protocols, firearm accessibility, and support systems for youth in distress.",
+     "why": "Cette nouvelle tuerie en milieu scolaire relance les débats nationaux sur la sécurité des écoles et le contrôle des armes aux États-Unis.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    },
+    {
+     "source": "France 24",
+     "lang": "fr",
+     "url": "https://www.france24.com/fr/am%C3%A9riques/20261016-br%C3%A9sil-la-d%C3%A9forestation-en-amazonie-au-plus-bas-depuis-pr%C3%A8s-de-40-ans",
+     "headline": "Brésil : la déforestation en Amazonie au plus bas depuis près de 40 ans",
+     "headlineEn": "Brazil: Deforestation in the Amazon at its lowest level in nearly 40 years",
+     "summary": "La déforestation dans la forêt amazonienne brésilienne a atteint son niveau le plus bas depuis près de quatre décennies, selon les dernières données environnementales gouvernementales. Sous la présidence de Luiz Inacio Lula da Silva, la destruction du couvert forestier a chuté de plus de 70 % par rapport aux niveaux enregistrés sous la présidence précédente. Ces résultats s'expliquent par le renforcement des contrôles, des sanctions financières accrues et un soutien renforcé aux organismes de protection de l'environnement. Ces chiffres marquent une étape majeure pour les politiques climatiques globales à l'approche d'échéances électorales clés au Brésil.",
+     "why": "La réduction spectaculaire de la déforestation amazonienne est essentielle pour les engagements climatiques mondiaux du Brésil.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    },
+    {
+     "source": "Council on Foreign Relations",
+     "lang": "en",
+     "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE43OUIxMHNwSW04WUVCMm9kdjd0MDBNWjBaeWl1aWZqT3VEODFEamJiWHRsRHBBQ1Q2eVFYRGdsbFVmb1cwRjZDN3JyZWpOQjhBbEdmVWNfVEgycV9uREtJMEYwMzdSaDJZb3E2UUgxeFgyMVhkT3V2OA?oc=5",
+     "headline": "The Victory of Asymmetry in the Iran War",
+     "headlineEn": "La victoire de l'asymétrie dans la guerre en Iran",
+     "summary": "An analytical evaluation by foreign policy experts examines how asymmetric warfare strategies have redefined military engagements and strategic leverage in conflicts involving Iran. Non-state regional proxy networks and low-cost technological assets, such as uncrewed aerial vehicles and anti-ship missiles, have effectively countered conventionally superior military forces. This strategic shift poses formidable challenges to traditional defense doctrines and alliance structures operating across the Middle East. The analysis underscores that future regional stability will increasingly depend on countering decentralized threat vectors rather than relying solely on conventional military deterrence.",
+     "why": "Cette analyse éclaire la manière dont les tactiques asymétriques redéfinissent l'équilibre des forces au Moyen-Orient.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    }
+   ]
+  },
+  {
+   "name": "Europe & politiques de l'UE",
+   "stories": [
+    {
+     "source": "France 24",
+     "lang": "fr",
+     "url": "https://www.france24.com/fr/europe/20261016-boud%C3%A9-trump-volodymyr-zelensky-tourne-nouvelle-fois-vers-europ%C3%A9ens",
+     "headline": "Boudé par Trump, Volodymyr Zelensky se tourne une nouvelle fois vers les Européens",
+     "headlineEn": "Spurned by Trump, Volodymyr Zelensky turns once again to Europeans",
+     "summary": "S'adressant aux dirigeants européens réunis en sommet à Bruxelles, le président ukrainien Volodymyr Zelensky a formellement sollicité une enveloppe d'aide financière supplémentaire de 70 milliards d'euros pour soutenir l'effort de guerre. Cette demande survient dans un contexte de détérioration marquée des relations diplomatiques entre Kyiv et la Maison Blanche. Le président français Emmanuel Macron a réaffirmé l'engagement européen en assurant que les Vingt-Sept ne délaisseraient pas l'Ukraine, tout en précisant qu'il demeurait trop tôt pour entériner un chiffre définitif. L'Union européenne examine désormais l'ensemble des options budgétaires pour consolider son soutien à Kyiv à l'approche de l'hiver.",
+     "why": "L'attitude réservée de Washington contraint l'Ukraine à dépendre presque exclusivement des financements européens pour maintenir sa défense face à la Russie.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    },
+    {
+     "source": "Luxemburger Wort",
+     "lang": "de",
+     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNVFdmX0VjeUtsdnlpd29rd0pZRGlIbHJQMTZXUDdZNy1XcXVUSjhIZU1OMGNQdTFvM3RFOTVscGpUajhOM1Jja2JjaDNWVGoya2xlSkR4X1BYV0t4VGUwSV9NUU8talBxdnc4T0RLVlI5SG5MQ1hNbDJrLXRRZFptdmhZTXExcEFGM1h5dzdsTmhCdzdyNHRhNlJwd1pGNElyaGozY1ZyQTc5YjA?oc=5",
+     "headline": "Deutschland und Frankreich vor Einigung bei Verbrenner-Aus",
+     "headlineEn": "Germany and France on the verge of agreement over combustion engine ban",
+     "summary": "Deutschland und Frankreich stehen kurz vor einer Einigung über den künftigen rechtlichen Rahmen für den schrittweisen Ausstieg aus dem Verbrennungsmotor in der Europäischen Union. Nach intensiven Verhandlungen erzielten beide Seiten einen Kompromiss über die künftigen EU-Vorgaben für die Automobilhersteller. Die Einigung soll den Herstellern mehr Planungssicherheit bei der Umstellung auf Elektromobilität bieten und gleichzeitig politische Spannungen innerhalb der europäischen Führung bereinigen. Während Umweltverbände die Regelung aufmerksam verfolgen, erwarten Branchenvertreter, dass die Einigung den Übergang zur Elektromobilität in Europa stabilisieren und verbindliche Zielvorgaben für die kommenden Jahrzehnte festlegen wird.",
+     "why": "Un compromis entre Paris et Berlin débloquerait les réglementations européennes clés pour la transition de l'industrie automobile.",
+     "paywalled": true,
+     "contested": "",
+     "chart": null
+    },
+    {
+     "source": "DW",
+     "lang": "de",
+     "url": "https://www.dw.com/de/veto-flut-gegen-eu-anwärter-wer-blockiert-wen-und-warum/a-79676189?maca=de-rss-de-all-1119-rdf",
+     "headline": "Veto-Flut gegen EU-Anwärter: Wer blockiert wen - und warum?",
+     "headlineEn": "Flood of vetoes against EU candidates: Who is blocking whom - and why?",
+     "summary": "Der Erweiterungsprozess der Europäischen Union wird derzeit zunehmend durch eine Welle nationaler Vetos einzelner Mitgliedstaaten gegen beitrittswillige Kandidatenländer behindert. Häufig stehen hinter diesen strategischen Blockaden nicht das Fehlen notwendiger Reformen in den jeweiligen Beitrittsländern, sondern rein innenpolitische Motive oder bilaterale Streitigkeiten der blockierenden Regierungen. Diese anhaltende Veto-Politik verzögert wichtige Verhandlungskapitel erheblich und führt zu wachsender Frustration in den betroffenen Staaten auf dem Westbalkan und in Osteuropa. Beobachter warnen eindringlich davor, dass diese Blockaden die Glaubwürdigkeit der europäischen Außenpolitik nachhaltig schwächen.",
+     "why": "L'usage répété des vétos nationaux paralyse le processus d'élargissement de l'UE et fragilise sa crédibilité géopolitique.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    }
+   ]
+  },
+  {
+   "name": "Économie & marchés",
+   "stories": [
+    {
+     "source": "AFP",
+     "lang": "en",
+     "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBtRnNDZVpZaFhIR3Q0LVlfdVExLW5ST1ExUHQ3RVhmTC16UE54ZUJXZFB0YkNSVzVjcE5MSlZfOXcwVDA0cHVjcGs5bw?oc=5",
+     "headline": "US budget deficit grows to nearly $2 trillion, highest since 2021",
+     "headlineEn": "Le déficit budgétaire américain grimpe à près de 2 000 milliards de dollars, au plus haut depuis 2021",
+     "summary": "The United States fiscal deficit expanded to nearly $2 trillion for the fiscal year 2026, marking its highest level since 2021 as government spending continued to outpace revenue collection. Official data indicates that rising interest payments on existing federal debt and increased spending on mandatory social programs drove the substantial increase. Economists warn that the expanding fiscal gap threatens to constrain future government borrowing and elevate long-term interest rates across capital markets. The figures have intensified debates in Washington regarding federal budget priorities and fiscal sustainability heading into upcoming legislative sessions.",
+     "why": "L'explosion de la dette américaine ravive les inquiétudes sur la trajectoire budgétaire à long terme des États-Unis.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    },
+    {
+     "source": "AFP",
+     "lang": "en",
+     "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE4xeVVoWGFWRzBrMWhvQzZaNHBldXlvaUtESC1oWTV0TmlyVno2RFc1SlVZcmRXZnU4ekV4Q08wLVpsNE84MUVDZDUzYw?oc=5",
+     "headline": "Stocks rise as tech bounces after rout over AI worries",
+     "headlineEn": "Les actions progressent alors que la technologie rebondit après la chute due aux craintes sur l'IA",
+     "summary": "Global equity markets experienced a welcome rebound as major technology shares recovered following an extended sell-off triggered by concerns over artificial intelligence investments. Investors had previously dumped mega-cap tech stocks due to anxieties regarding delayed returns on massive capital expenditures in AI infrastructure. Bargain hunting and reassuring corporate statements helped stabilize broader market indexes across Wall Street and European exchanges. Analysts note that while short-term sentiment has improved, equity markets remain susceptible to volatile swings as traders closely monitor upcoming quarterly corporate earnings reports.",
+     "why": "La volatilité sur les valeurs technologiques reflète les doutes des investisseurs quant à la rentabilité immédiate de l'intelligence artificielle.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    },
+    {
+     "source": "Reuters",
+     "lang": "en",
+     "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQWVhYcEpDM002Y1VwaUFBYktyNFdkVG9XbXZaTU44b3k4ZzZRcmdLR294VXZkMDlYLXg1d0dJbUpoMzg3RHBoNi1qcXh1eU14UjJiSmNhTXdUUFNsakJYZFBrZ1BZVV9rdmQ3bHc5b0QycjZRUHBqcENmak5LclBVNmhWYnhTaVZtQzV4bExZamxKSEtDRllrMkNObjlFd3VoU0VIQkZaS2hpQnAzeGh3dzBqdWVHZm9sVllvQ1BEdw?oc=5",
+     "headline": "Anthropic offers Blackstone double-digit yield in chip-financing deal, FT reports",
+     "headlineEn": "Anthropic offre à Blackstone un rendement à deux chiffres dans un accord de financement de puces, selon le FT",
+     "summary": "Artificial intelligence startup Anthropic has proposed a high-yield financing agreement to private equity giant Blackstone to secure capital for purchasing specialized semiconductors. The deal reportedly offers double-digit returns to Blackstone, underscoring the extreme funding requirements needed to support advanced AI infrastructure and model training. Financial institutions are increasingly devising creative debt and equity structures to meet the multi-billion-dollar infrastructure demand of leading technology firms. If finalized, the transaction would represent one of the largest non-traditional financing arrangements recorded in the rapidly expanding artificial intelligence supply chain.",
+     "why": "Ce montage financier illustre la quête frénétique de capitaux des géants de l'IA pour sécuriser la puissance de calcul nécessaire à leurs modèles.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    }
+   ]
+  },
+  {
+   "name": "Technologie & sciences",
+   "stories": [
+    {
+     "source": "France 24",
+     "lang": "fr",
+     "url": "https://www.france24.com/fr/am%C3%A9riques/20261016-br%C3%A9sil-la-d%C3%A9forestation-en-amazonie-au-plus-bas-depuis-pr%C3%A8s-de-40-ans",
+     "headline": "Brésil : la déforestation en Amazonie au plus bas depuis près de 40 ans",
+     "headlineEn": "Brazil: Amazon deforestation at lowest level in nearly 40 years",
+     "summary": "La déforestation dans la forêt amazonienne brésilienne a atteint son niveau le plus bas depuis près de quarante ans, selon les dernières données environnementales publiées par le gouvernement. Sous la présidence de Luiz Inacio Lula da Silva, la destruction du couvert forestier a chuté de 71,2 % au cours des quatre dernières années, inversant la hausse enregistrée sous la gouvernance de son prédécesseur Jair Bolsonaro. Ce recul historique témoigne du renforcement des contrôles environnementaux et des opérations d'application de la loi dans la région. Les experts soulignent que la préservation de l'Amazonie demeure un pilier crucial dans la régulation du climat mondial.",
+     "why": "Le déclin de la déforestation amazonienne est un succès majeur pour les politiques environnementales mondiales de lutte contre le changement climatique.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    },
+    {
+     "source": "AP News",
+     "lang": "en",
+     "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPU0VXNjdtQWhONTUxd0ZKTm1jRTJndEVFbGpCYzJFV0c5RTNFQ1BwclF2TmlEZHVCMDdZNkNsWEtSUkVpbDVYZ3U0SUlNTzVILUd6bVJVRkg4OWRnN0NJd0hrZ3ZkMTUtdVZnd1U4U2xOM3UwYXdrMkJSTWJ1aVlBQnVOZDNZUnpnMUJzWG9ZQ0Y1RVJx?oc=5",
+     "headline": "US is reviving shuttered nuclear plants to meet growing electricity demand and to power data centers",
+     "headlineEn": "Les États-Unis relancent des centrales nucléaires fermées pour répondre à la demande d'électricité et alimenter les centres de données",
+     "summary": "Energy companies across the United States are working to reactivate decommissioned nuclear power plants to supply clean electricity to massive data centers powering artificial intelligence applications. The unprecedented surge in electrical power demand from tech hyperscalers has forced utilities and grid operators to seek reliable, continuous carbon-free power sources. Federal regulators and local authorities are reviewing safety protocols and operational permits to facilitate the restart of these facilities. Industry leaders believe nuclear power revival will play an essential role in balancing grid stability while meeting energy transition commitments.",
+     "why": "L'essor de l'intelligence artificielle nécessite d'énormes quantités d'énergie décarbonée, relançant la filière nucléaire américaine.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    },
+    {
+     "source": "Euronews",
+     "lang": "fr",
+     "url": "https://fr.euronews.com/video/2026/10/16/turquie-des-plongeurs-mettent-au-jour-les-tresors-dune-epave-vieille-de-4-700-ans",
+     "headline": "Turquie : des plongeurs mettent au jour les trésors d’une épave vieille de 4 700 ans",
+     "headlineEn": "Turkey: Divers uncover treasures from a 4,700-year-old shipwreck",
+     "summary": "Au large des côtes d'Antalya en Turquie, une équipe d'archéologues sous-marins explore les vestiges d'une épave antique datée de près de 4 700 ans. La cargaison mise au jour comprend de nombreuses amphores et artefacts précieux qui témoignent de l'intensité des réseaux commerciaux maritimes en Méditerranée durant l'âge du bronze. Les chercheurs s'attellent à préserver la structure immergée et à analyser la composition des conteneurs pour en déduire les marchandises transportées. Cette campagne d'exploration promet de fournir de précieuses informations historiques sur les premières civilisations navigatrices.",
+     "why": "Cette découverte archéologique sous-marine exceptionnelle éclaire le commerce méditerranéen au début de l'âge du bronze.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    }
+   ]
+  },
+  {
+   "name": "Sport",
+   "stories": [
+    {
+     "source": "DW",
+     "lang": "de",
+     "url": "https://www.dw.com/de/uefa-gegen-infantino-lager-belauern-sich-bei-fifa-council-europa-sucht-nach-gegenkandidat/a-79677520?maca=de-rss-de-all-1119-rdf",
+     "headline": "UEFA gegen Infantino: Lager belauern sich bei FIFA-Council - Europa sucht nach Gegenkandidat",
+     "headlineEn": "UEFA vs Infantino: Camps eye each other at FIFA Council - Europe searches for opposing candidate",
+     "summary": "Beim ersten Zusammentreffen des FIFA-Councils nach den jüngsten Kontroversen hat Präsident Gianni Infantino um Entschuldigung gebeten, konnte seine europäischen Kritiker jedoch keineswegs überzeugen. Die UEFA bleibt somit auf klarem Konfrontationskurs und sucht bereits intensiv nach einem geeigneten Gegenkandidaten für die nächste Wahl. Die europäischen Verbände fordern eine transparente Führung sowie mehr Mitspracherecht bei grundlegenden Entscheidungen des Weltfußballverbandes.",
+     "why": "L'opposition européenne à la présidence de la FIFA reflète une fracture profonde sur la gouvernance du football mondial.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    },
+    {
+     "source": "France 24",
+     "lang": "fr",
+     "url": "https://www.france24.com/fr/%C3%A9missions/caf%C3%A9-des-sports/20261017-le-psg-au-sommet-et-le-reveil-du-real-madrid-une-ligue-des-champions-spectaculaire",
+     "headline": "Le PSG au sommet et le réveil du Real Madrid : une Ligue des champions spectaculaire",
+     "headlineEn": "PSG at the top and Real Madrid's awakening: a spectacular Champions League",
+     "summary": "La Ligue des champions a offert des rencontres spectaculaires cette semaine. Le Paris Saint-Germain a marqué les esprits en s'imposant avec autorité sur la pelouse de Manchester City à l'Etihad Stadium. De son côté, le Real Madrid a signé un retour impressionnant en renversant la Roma après une remontée mémorable. Ces victoires prestigieuses confirment la forme étincelante du PSG et le réveil de l'ogre madrilène.",
+     "why": "Ces résultats marquants confirment l'intensité de la compétition européenne au sommet du football professionnel.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    }
+   ]
+  }
+ ],
+ "sourced": true,
+ "feeds": {
+  "ok": 28,
+  "of": 29,
+  "items": 254,
+  "skipped": [
+   "Washington Post (EN): HTTP 502"
+  ]
+ },
+ "words": 4219,
+ "readMin": 21,
+ "storyCount": 25
+}
