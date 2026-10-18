@@ -1,0 +1,424 @@
+{
+ "date": "2026-10-18",
+ "kind": "weekly",
+ "heat": 0.85,
+ "oneThing": "The sudden US pause on Russian energy sanctions has shattered transatlantic unity just as domestic cost-of-living protests spiral into violence across Europe.",
+ "followUps": [
+  {
+   "n": "01",
+   "thread": "Préparation aux crises et sécurité dans les transports au Luxembourg",
+   "change": "Après les annonces de nouvelles mesures de sécurité dans les transports publics et la distribution d'un guide d'urgence de 72 heures, le dossier entre dans sa phase d'application sur le terrain sans nouvelle polémique majeure cette semaine."
+  },
+  {
+   "n": "02",
+   "thread": "Élection présidentielle au Brésil et protection de l'Amazonie",
+   "change": "Alors que le second tour de l'élection présidentielle brésilienne approche entre Lula et Flávio Bolsonaro, les données officielles confirmant une baisse historique de la déforestation amazonienne recadrent le débat politique environnemental."
+  },
+  {
+   "n": "03",
+   "thread": "Gouvernance du football mondial et fronde contre la présidence de la FIFA",
+   "change": "L'initiative des fédérations européennes de l'UEFA pour présenter une candidature d'opposition face à Gianni Infantino se poursuit à huis clos avant la date limite d'enregistrement fixée au mois de novembre."
+  }
+ ],
+ "mustReads": [
+  {
+   "desk": "à la une",
+   "source": "France 24",
+   "lang": "FR",
+   "paywalled": false,
+   "url": "https://www.france24.com/fr/france/20261017-affrontements-incendies-sc%C3%A8nes-de-chaos-%C3%A0-l-issue-des-manifestations-contre-la-vie-ch%C3%A8re-macron-melenchon-paris",
+   "headline": "Mobilisation contre la vie chère en France : des manifestations massives submergées par une vague d'émeutes urbaines",
+   "headlineEn": "Cost-of-living mobilization in France: massive protests overwhelmed by a wave of urban riots",
+   "contested": "",
+   "why": "L'explosion des violences urbaines lors des manifestations contre la vie chère fragilise le gouvernement français et accentue la polarisation politique à l'échelle européenne.",
+   "stat": "1200",
+   "statLabel": "interpellations enregistrées en France lors des manifestations",
+   "chart": null,
+   "paras": [
+    "La contestation sociale française s'est ouverte en début de semaine par des appels ciblés à la mobilisation des lycéens et des syndicats enseignants. Les revendications initiales dénonçaient l'augmentation constante du coût de la vie, l'érosion continue du pouvoir d'achat ainsi que la dégradation marquée des conditions d'encadrement dans le système éducatif. Cette grogne grandissante mettait déjà une pression considérable sur le gouvernement, incapable de répondre aux attentes légitimes des familles modestes touchées par l'inflation. Les syndicats appelaient alors à une grande journée de convergence nationale pour faire entendre la colère citoyenne face à l'austérité.",
+    "Au cours de la semaine, le mouvement a gagné en ampleur avec le ralliement officiel des Gilets jaunes et de nombreuses organisations citoyennes. La jonction inédite entre la jeunesse estudiantine et les mouvements populaires a permis de bâtir un front commun particulièrement déterminé. Les appels à manifester pour la journée du 17 octobre se sont multipliés sur l'ensemble du territoire national, préfigurant un test majeur pour l'exécutif. Face à cette montée des tensions, le gouvernement tentait de maintenir une posture de fermeté tout en appelant au calme et au respect strict de l'ordre public.",
+    "La journée de samedi a concrétisé cette dynamique avec des défilés imposants réunissant entre cinq cent mille et huit cent mille personnes à travers le pays. Dans la plupart des grandes métropoles, les foules ont marché pacifiquement pour exprimer leur exaspération économique. Cependant, la journée a basculé au fil des heures lorsque des groupes violents ont infiltré les cortèges, transformant la protestation sociale en affrontements d'une rare intensité. Des bâtiments emblématiques ont été pris pour cibles, gâchant l'expression démocratique et plongeant plusieurs centres-villes dans un climat d'insécurité totale et incontrôlable.",
+    "La situation sur le terrain a atteint un point de rupture critique pendant la soirée de samedi. À Limoges, l'hôtel de ville historique datant de plus d'un siècle a été totalement incendié par des émeutiers. À Marseille, la mairie a été prise d'assaut et vandalisée par des manifestants radicaux, tandis qu'à Lyon, un office de tourisme a été dévasté par les flammes. De nombreuses scènes de pillages et de destructions de commerces ont été répertoriées dans plusieurs agglomérations, contraignant les forces de l'ordre à intervenir massivement.",
+    "Le bilan humain et matériel dressé par la préfecture et les autorités nationales au lendemain des violences s'avère particulièrement lourd. Les forces de sécurité ont procédé à plus de mille deux cents interpellations à l'échelle du pays, dont un chiffre record de huit cent cinquante-cinq arrestations dans la seule capitale. Au moins cent cinquante policiers et gendarmes ont été blessés lors des affrontements urbains. De plus, les secours ont déploré le décès tragique d'un manifestant, victime d'un arrêt cardiorespiratoire en marge des rassemblements parisiens.",
+    "Sur la scène politique, ces dérapages d'une violence inouïe suscitent une onde de choc et des réactions extrêmement vives. Le Premier ministre a fermement condamné une violence organisée et inacceptable, tandis que le président Emmanuel Macron a rappelé l'exigence de respecter l'ordre républicain. L'opposition de droite dénonce le chaos urbain et réclame un durcissement immédiat des sanctions judiciaires. De leur côté, les dirigeants de la gauche et de la majorité se renvoient la responsabilité politique de cette détérioration sociale, qui fracture encore davantage la société.",
+    "L'évolution future de cette crise sociale dépendra directement de la capacité de l'exécutif à rétablir l'ordre républicain sans étouffer le débat démocratique. Le gouvernement doit impérativement présenter des réponses économiques concrètes et rapidement vérifiables sur le pouvoir d'achat pour désamorcer la colère populaire. Si les mesures d'urgence restent insuffisantes, le risque d'une radicalisation durable des cortèges syndicaux et de nouvelles émeutes urbaines s'accroîtra. Une poursuite des violences renforcerait l'exaspération collective et alimenterait la polarité politique à l'approche des prochaines échéances électorales nationales.",
+    "Enfin, le sort de ce mouvement syndical reposera sur la réaction des organisations syndicales face aux exactions commises en marge des défilés. Si les intersyndicales parviennent à encadrer strictly leurs rassemblements et à se désolidariser clairement des émeutiers, le dialogue social pourra éventuellement reprendre avec le pouvoir central. À l'inverse, l'absence de clarification ou un pourrissement du conflit risquent de paralyser durablement l'activité économique du pays. La gestion des jours à venir déterminera si la France s'enfonce dans une crise politique prolongée ou retrouve le chemin de l'apaisement."
+   ]
+  },
+  {
+   "desk": "à la une",
+   "source": "BBC News",
+   "lang": "EN",
+   "paywalled": false,
+   "url": "https://www.bbc.co.uk/news/articles/cxr5yvzv7rp0o?at_medium=RSS&at_campaign=rss",
+   "headline": "Trump waives key Russia sanctions as US-Ukraine diplomatic rift deepens over fuel deals",
+   "headlineEn": "Trump accorde une exemption sur des sanctions majeures contre la Russie alors que la fracture diplomatique entre Washington et Kiev s'aggrave",
+   "contested": "",
+   "why": "Le gel des sanctions américaines contre Moscou rompt le front uni occidental et contraint l'Ukraine à dépendre quasi exclusivement du soutien financier de l'UE.",
+   "stat": "",
+   "statLabel": "",
+   "chart": null,
+   "paras": [
+    "The geopolitical alignment surrounding the war in Ukraine underwent a dramatic shift early this week when Washington reached a surprise energy agreement with Moscow. The deal permitted temporary purchases of Russian diesel and gas, officially aimed at easing domestic energy price inflation in the United States. However, the announcement triggered immediate fury in Kyiv, where officials viewed the move as an unacceptable breach of the Western economic blockade. President Volodymyr Zelensky publicly condemned the transaction, arguing that buying Russian energy directly funded Moscow’s military operations and weakened global coalition solidarity.",
+    "In response to Kyiv’s scathing criticism, the political rift between Washington and Ukraine escalated rapidly into open hostility. US President Donald Trump retaliated verbally, declaring that it was time for Ukraine to elect a new president and questioning the wisdom of continued American financial aid. The rhetoric sent shockwaves through European capitals, which found themselves caught between their primary security guarantor and their frontline Eastern ally. Meanwhile, reports emerged that critical Starlink satellite communication access for Ukrainian forces had experienced unexpected technical throttling, further heightening operational anxiety on the battlefield.",
+    "As diplomatic ties frayed, Ukrainian authorities scrambled to secure alternative financial and military assurances from European Union partners. During an emergency summit in Brussels, European leaders reaffirmed their steadfast support for Kyiv, acknowledging that US policy shifts created a massive hole in Ukraine's wartime budget. European diplomats expressed grave concern that Washington was unilaterally dismantling the sanctions regime built over four years of intense coalition negotiations. The sudden divergence between American and European foreign policy approaches exposed the deepest structural rift within the transatlantic alliance since the conflict began.",
+    "By the end of the week, the White House expanded its policy shift by executive action. President Trump officially signed waivers suspending key Russia-related sanctions and tariffs that Congress had recently passed into law. Administration officials defended the decision under the umbrella of national security and economic protection, claiming the waivers were necessary to prevent acute energy shortages at home. Republican allies in Congress defended the pragmatic economic focus, whereas critics warned that waiving sanctions handed Moscow an unearned strategic victory at a pivotal moment.",
+    "The timing of Washington’s sanctions waiver coincides with a brutal winter offensive launched by Russian forces against Ukraine's critical infrastructure. President Zelensky warned that Moscow is systematically targeting power grids, heating plants, and energy storage facilities to freeze the civilian population. Ukrainian officials stressed that lifting economic pressure on Russia directly encourages the Kremlin to intensify drone and missile strikes. Despite the harsh rhetoric from Washington, Zelensky urged US lawmakers to restore sanctions, emphasizing that Ukraine’s survival depends on maintaining punitive pressure against Russian aggression.",
+    "The immediate military consequences of this diplomatic rift are already becoming visible along the Ukrainian frontline. Cut off from expected American strategic guarantees, Ukrainian military commanders are forced to ration artillery ammunition and adapt to potential disruptions in satellite logistics. European nations are rushing to assemble supplementary aid packages, but defense analysts emphasize that Europe currently lacks the defense industrial capacity to fully replace American military supplies. Consequently, the tactical balance on the ground is tipping toward Russian forces, who continue to advance in contested eastern sectors.",
+    "The next major catalyst in this evolving crisis will be the political outcome of the upcoming US midterm elections. If opposition lawmakers secure majorities in Congress, they may attempt to legally overturn presidential waivers and mandate strict compliance with enacted sanctions. Conversely, an endorsement of the administration’s economic foreign policy will solidify Washington’s transactional approach to international relations. Additionally, the impending arrival of freezing winter temperatures in Ukraine will test whether European emergency funding can maintain basic power grid functionality without American logistical participation.",
+    "Furthermore, the future trajectory will depend on whether European leaders can establish a coherent defense strategy independent of Washington. If the European Union successfully coordinates joint procurement and long-term military assistance, Ukraine may stabilize its defensive positions despite American withdrawal. However, if internal budgetary disputes within the EU prevent decisive financial commitments, Kyiv faces an increasingly unsustainable war of attrition. The coming weeks will reveal whether transatlantic security cooperation can survive its current crisis or if a permanent realigning of Western alliances is taking place."
+   ]
+  },
+  {
+   "desk": "à la une",
+   "source": "PBS News",
+   "lang": "EN",
+   "paywalled": false,
+   "url": "https://www.pbs.org/newshour/world/houthi-strikes-on-saudi-arabia-show-the-yemeni-rebels-growing-strength",
+   "headline": "Houthi drone strikes on Saudi Arabia and maritime mine attacks exacerbate Middle East crisis",
+   "headlineEn": "Des frappes de drones houthistes en Arabie saoudite et des attaques de mines maritimes aggravent la crise au Moyen-Orient",
+   "contested": "",
+   "why": "L'escalade des attaques houthistes menace la sécurité des hubs aériens du Golfe et perturbe durablement le commerce maritime mondial.",
+   "stat": "12",
+   "statLabel": "morts lors de l'attaque houthiste sur l'aéroport de Riyad",
+   "chart": null,
+   "paras": [
+    "The regional security environment across the Arabian Peninsula deteriorated dramatically early in the week following high-profile military escalations. Yemeni Houthi insurgents executed a series of sophisticated drone and missile strikes targeting major infrastructure inside Saudi Arabia, including a devastating strike on Riyadh international airport. The attack resulted in twelve deaths and over three hundred injuries, exposing critical vulnerabilities in the Kingdom's air defense network. Saudi military authorities immediately launched formal internal investigations to determine how advanced interceptor systems failed to neutralize the incoming low-altitude aerial threats.",
+    "The mid-week period saw military responses intensify across multiple maritime and territorial fronts. In the Gulf of Oman, US naval forces bombed a cargo vessel accused of attempting to breach the ongoing Iranian blockade, sparking fierce warnings from Tehran. Concurrently, Houthi forces expanded their operational scope beyond Saudi territory, targeting international shipping lanes in the Red Sea and surrounding waterways. The escalating exchange of fire demonstrated that years of targeted airstrikes by coalition forces had failed to degrade the technical capabilities or strategic resolve of the Yemeni rebel movement.",
+    "Maritime commerce faced a direct catastrophe when an oil supertanker was struck by a sea mine in the strategic Strait of Hormuz, causing a massive onboard fire. Iran’s Islamic Revolutionary Guard Corps Navy claimed the vessel had intentionally disabled its positioning and radar systems to evade maritime detection. The incident paralyzed commercial traffic through one of the world's most critical energy transit bottlenecks, sending marine insurance rates soaring and forcing global shipping conglomerates to reroute tankers around Africa at immense financial and temporal cost.",
+    "By the weekend, the conflict showed no signs of de-escalation as Houthi forces sustained their offensive against Saudi border regions. Saudi-led coalition forces reported intercepting multiple ballistic missiles and attack drones over Najran, though a coalition helicopter crashed during combat operations, killing two crew members. Military analysts emphasized that the Houthis have successfully achieved asymmetric deterrence, utilizing low-cost uncrewed systems to inflict severe economic damage on far wealthier adversaries while maintaining resilient supply lines despite relentless international military pressure.",
+    "The persistence of these attacks highlights a profound strategic dilemma for Saudi Arabia and its international partners. Despite entering peace talks and seeking a diplomatic exit from the Yemeni civil war, Riyadh finds itself trapped in an escalating war of attrition. The Kingdom's massive investments in modern air defense technology have proven inadequate against swarms of cheap, mass-produced drones. Furthermore, ongoing offensive operations by Yemeni government forces have failed to recapture key territories, leaving Houthi rebels in firm control of strategic high ground.",
+    "The human and economic toll of this regional confrontation continues to mount across the Middle East. Beyond the direct casualties from missile strikes and naval skirmishes, global energy markets are experiencing heightened volatility due to the persistent threats against oil tankers. Commercial aviation hubs across the Gulf region have implemented emergency security protocols, disrupting international flight schedules and threatening the economic diversification plans of Gulf monarchies that rely heavily on global transit, tourism, and foreign direct investment.",
+    "What happens next will depend heavily on whether international naval task forces decide to implement aggressive convoy escorts through the Strait of Hormuz and Red Sea. If Western powers launch direct counter-battery strikes against Houthi launch sites inside Yemen, the conflict risks expanding into a direct military confrontation with Iran. Conversely, if maritime nations refrain from forceful military intervention, commercial shipping lines may indefinitely suspend operations through regional choke points, dealing a severe blow to global supply chains and energy stability.",
+    "Additionally, diplomatic efforts led by regional mediators will be tested as Saudi Arabia seeks to re-establish deterrence without triggering full-scale regional war. If secret diplomatic channels succeed in brokering a renewed ceasefire, energy markets could quickly stabilize. However, if Houthi forces launch another massed drone attack against vital Saudi oil processing infrastructure, escalation will become unavoidable. The strategic balance in the Middle East hangs on whether economic self-interest or asymmetric military dynamics dictate the choices of regional leaders."
+   ]
+  },
+  {
+   "desk": "à la une",
+   "source": "AP News",
+   "lang": "EN",
+   "paywalled": false,
+   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNSU9QdGhLZXFkak1MT3B1b3RBZlVIT3gzNEZheTFHNi1hTFpBUjZGcHVkQWhsTjFSRmJsX1RXbklDRUJ0M3dfcklfREZaYUxQWWhqNTZKWmFDZVhEMGZzd3VpLWZ0OG5zY2NIazNGbUpPQXlFc3ItM2p0akRqbkRXSF9oUnVQWHZpZlZuVWtsaw?oc=5",
+   "headline": "'No Kings' anti-Trump rallies sweep across American cities ahead of critical midterm elections",
+   "headlineEn": "Les rassemblements anti-Trump 'No Kings' déferlent sur les villes américaines à l'approche d'élections de mi-mandat décisives",
+   "contested": "",
+   "why": "La contestation populaire aux États-Unis cherche à convertir le mécontentement face au coût de la vie en participation électorale décisive pour les midterms.",
+   "stat": "",
+   "statLabel": "",
+   "chart": null,
+   "paras": [
+    "Political tensions inside the United States intensified significantly early in the week as the nation approached the final stretch of the midterm election campaign. The White House faced mounting public scrutiny over soaring federal budget deficits, rising consumer prices, and controversial foreign policy decisions. In response, opposition groups began organizing coordinated nationwide demonstrations under the slogan \"No Kings.\" The movement sought to unite diverse grassroots organizations, civil rights activists, and citizens concerned by what they characterized as an unprecedented expansion of executive authority and an erosion of democratic norms.",
+    "As the week progressed, internal administrative turmoil further fueled public skepticism regarding the stability of the executive branch. White House Press Secretary Katie Zacharia resigned abruptly less than a week after taking office, highlighting severe internal friction and communication chaos within the administration. Simultaneously, public debates erupted over federal investigations into television broadcast networks regarding media coverage. Opponents pointed to these developments as evidence of authoritarian overreach, using the administrative instability to rally voters and build momentum for the upcoming nationwide protest marches.",
+    "By Saturday, the \"No Kings\" movement mobilized hundreds of thousands of demonstrators in major cities across the United States, including Atlanta, Washington, and Chicago. Participants filled public squares to protest against executive orders, immigration crackdowns, and foreign policy maneuvers. However, unlike previous spontaneous protest waves, organizers placed a central emphasis on voter turnout. Speeches at rallies explicitly urged citizens to channel their political anger into immediate civic action by casting early ballots and organizing local turnout drives for the midterms.",
+    "The demonstrations highlighted deep ideological divisions within the American electorate just three weeks before election day. While protesters condemned executive overreach, administration supporters dismissed the rallies as partisan theater engineered by political opponents. In key swing states, Democratic campaigns actively recruited election observers and voter protection workers, citing fears of potential voting interference. The \"No Kings\" rallies effectively served as a massive operational test for opposition mobilization, gauging whether public dissatisfaction with cost-of-living pressures could translate into electoral victories.",
+    "The economic backdrop of the campaign has amplified public anxiety among voters participating in the demonstrations. With inflation remaining sticky and household budgets strained by high gas and grocery prices, political messaging from both major parties has focused heavily on economic competence. Protesters expressed frustration that executive decisions, including energy sanction waivers, failed to deliver tangible relief to working-class families. The \"No Kings\" platform successfully merged traditional constitutional grievances with urgent economic demands, broadening its appeal across suburban and urban voter demographics.",
+    "In response to the mass rallies, administration officials and congressional allies maintained a firm posture, defending presidential decisions as necessary measures to safeguard national economic security. Vice President JD Vance faced rigorous questioning during televised town halls regarding foreign policy stances and border enforcement. The administration emphasized that executive actions were targeted at protecting American jobs and energy independence. This sharp contrast in narratives underscored that the upcoming elections represent a fundamental referendum on the governing style and policy direction of the country.",
+    "The immediate factor determining the ultimate impact of the \"No Kings\" movement will be early voting turnout figures over the coming days. If early ballot returns show a significant surge among young voters and suburban independents in contested districts, opposition strategists will gain critical momentum heading into election night. However, if early voting numbers remain sluggish despite the visible street protests, the administration will argue that demonstration enthusiasm is confined to ideologically committed urban centers rather than representing broader public sentiment.",
+    "Ultimately, the broader significance of this protest wave will be settled by the balance of power established in Congress after the midterm votes are counted. A victory for the opposition would establish a legislative check on executive authority, leading to aggressive congressional oversight and potential reversals of controversial administration policies. Conversely, if the ruling party retains control of both legislative chambers, executive power will be further consolidated, setting the stage for a dramatic reconfiguration of American governance and foreign policy."
+   ]
+  }
+ ],
+ "desks": [
+  {
+   "name": "Luxembourg",
+   "stories": [
+    {
+     "source": "Luxemburger Wort",
+     "lang": "fr",
+     "url": "https://www.wort.lu",
+     "headline": "Budget 2027 : un cadrage financier sous tension",
+     "headlineEn": "Budget 2027: a financial framework under pressure",
+     "summary": "Le cadrage du budget 2027 fixe les nouvelles orientations financières de l'État luxembourgeois dans un contexte économique incertain. La présentation des priorités budgétaires met en évidence la nécessité de concilier la maîtrise des dépenses publiques avec la poursuite des investissements prioritaires dans les infrastructures. Le gouvernement cherche ainsi à préserver les équilibres macroéconomiques du Grand-Duché tout en maintenant un niveau élevé de prestations sociales. Ce débat budgétaire s'inscrit au cœur des discussions politiques entre la majorité parlementaire et l'opposition à la Chambre des députés.",
+     "why": "La trajectoire budgétaire conditionne la capacité du Grand-Duché à financer ses services publics et ses projets d'infrastructures.",
+     "paywalled": true,
+     "contested": "",
+     "chart": null
+    },
+    {
+     "source": "Luxemburger Wort",
+     "lang": "de",
+     "url": "https://www.wort.lu",
+     "headline": "Nur jeder Zweite schafft den Schulabschluss in der vorgesehenen Zeit",
+     "headlineEn": "Only one in two students completes secondary school on time",
+     "summary": "Eine aktuelle Statistik des luxemburgischen Bildungsministeriums offenbart strukturelle Herausforderungen im nationalen Schulsystem. Lediglich die Hälfte aller Schülerinnen und Schüler erreicht ihren Schulabschluss innerhalb der regulär vorgesehenen Schulzeit. Diese Zahlen lösen eine Debatte über den Reformbedarf in den Sekundarschulen und die gezielte Förderung von Jugendlichen aus. Experten fordern verstärkte Hilfsangebote, um Schulabbrüche und Wiederholungsjahre effektiver zu vermeiden und allen Schülern eine fristgerechte Qualifikation zu ermöglichen.",
+     "why": "Les difficultés du système éducatif risquent d'aggraver le manque de main-d'œuvre qualifiée sur le marché du travail luxembourgeois.",
+     "paywalled": true,
+     "contested": "",
+     "chart": null
+    },
+    {
+     "source": "Luxemburger Wort",
+     "lang": "de",
+     "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOSkZDNE5Jb01saUFhSUJXWWVKQ2hvVENyUFJfZmJSSFVZTGRMLWxwOTFLVXdTOXNFNE5SbGx4YVZJWjczNFA5Vzc3UlpQMVZWZmEwVmMzMXQ3RmRZZGpVSkwwMDhFUTM2dE1zdkdtdHExSy04NXpDdGt1WkhSdUoxdW42UEQzN3VFU01IaW9veUROUHNKQ014SEp5U1pYZUJPYU5XM1lhMy1TcjdlbUE?oc=5",
+     "headline": "72 Stunden Autonomie: Was kostet die Notfallausrüstung?",
+     "headlineEn": "72 hours of autonomy: How much does emergency equipment cost?",
+     "summary": "Im Anschluss an die Verteilung des neuen Notfallratgebers in Luxemburg rückt die praktische Umsetzung der Vorsorgemaßnahmen in den Fokus. Die Bevölkerung wird aufgerufen, Vorräte und Ausrüstungen für eine dreitägige Eigenständigkeit bei möglichen Infrastrukturausfällen oder Krisen anzulegen. Eine Analyse zeigt nun, mit welchen finanziellen Kosten Haushalte für die Anschaffung von Haltbarmitteln, Wasserfiltern und medizinischem Material rechnen müssen. Die Behörden betonen, dass eine angemessene Vorbereitung die Widerstandsfähigkeit des Landes im Ernstfall maßgeblich stärkt.",
+     "why": "Sensibiliser les citoyens à la gestion des crises permet de réduire la pression sur les services de secours en cas d'urgence nationale.",
+     "paywalled": true,
+     "contested": "",
+     "chart": null
+    }
+   ]
+  },
+  {
+   "name": "Monde / géopolitique",
+   "stories": [
+    {
+     "source": "The New York Times",
+     "lang": "en",
+     "url": "https://www.nytimes.com/2026/10/17/world/europe/pope-leo-discharged-hospital.html",
+     "headline": "Pope Leo Leaves Hospital, Days After Lung Cancer Surgery",
+     "headlineEn": "Le pape Léon XIV quitte l'hôpital quelques jours après son intervention chirurgicale",
+     "summary": "Pope Leo XIV was discharged from Gemelli Hospital in Rome just days after undergoing surgery to remove part of his right lung due to cancer. Medical staff confirmed that the pontiff is recovering well and should be fit for his scheduled tour of Latin America in November. Before his release, the Pope renewed his international diplomatic efforts by asking Russian President Vladimir Putin for a ceasefire in a besieged Ukrainian city. His rapid return to the Vatican eases concerns regarding the continuity of Vatican leadership during a period of major ecclesiastical reforms.",
+     "why": "La santé du souverain pontife et ses initiatives diplomatiques directes influencent la stabilité de l'Église et la médiation internationale.",
+     "paywalled": true,
+     "contested": "",
+     "chart": null
+    },
+    {
+     "source": "AP News",
+     "lang": "en",
+     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPUGZjTGdJQ2V0X1ZyeE1icDdJQW4xQ2lJbVNqcHlqSnVuTE9OeUtMYWJTVFpXX0xfSmhkbTVveVFoMFpNeUJFVlBzVUN5TnU3LWFLY3JsOEI2U0l2akwzcU5RN21ZVjJ3SGhacks1NGgzZkVmamh2b2hBaGJBNkRCQkU1bmtkY1M0SFVHQ3RDd29SUEI3NEIxdDBDZjdUSVNPMlV2V19UQkxyRVVp?oc=5",
+     "headline": "Flying object in Lithuania triggers alerts as drone strikes flare in Black Sea",
+     "headlineEn": "Un objet volant en Lituanie déclenche des alertes alors que les frappes de drones s'intensifient en mer Noire",
+     "summary": "Tensions near NATO's eastern border escalated sharply after Lithuanian authorities alerted residents to take shelter following the detection of an unidentified flying object. Simultaneously, drone strikes targeted maritime infrastructure and commercial shipping across the Black Sea, causing damage to vessels and setting an oil depot ablaze in western Russia. Regional defense experts warn that these military developments represent a deliberate effort to test NATO response mechanisms and disrupt maritime logistics. Allied intelligence agencies remain on high alert as hybrid threats continue to multiply throughout Eastern Europe.",
+     "why": "L'accumulation d'incidents militaires aux frontières de l'OTAN accroît le risque de confrontation directe avec la Russie.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    },
+    {
+     "source": "Le Monde",
+     "lang": "fr",
+     "url": "https://www.lemonde.fr/international/article/2026/10/18/en-tunisie-plusieurs-milliers-de-personnes-manifestent-dans-les-rues-de-la-capitale-malgre-la-repression-du-regime-de-kais-saied_6797045_3210.html",
+     "headline": "En Tunisie, plusieurs milliers de personnes ont manifesté à Tunis malgré la répression",
+     "headlineEn": "In Tunisia, several thousand people protested in Tunis despite repression",
+     "summary": "Plusieurs milliers de manifestants sont descendus dans les rues de la capitale tunisienne à l'appel de l'Union générale tunisienne du travail et de nombreuses organisations de la société civile. Ce rassemblement inédit visait à dénoncer la dégradation de la situation économique, le manque de dialogue social et le verrouillage politique imposé par le président Kaïs Saïed depuis cinq ans. Les protestataires ont réclamé le retour aux libertés publiques et des mesures d'urgence face à l'inflation galopante. Cette mobilisation souligne la contestation sociale grandissante face au pouvoir autoritaire à Tunis.",
+     "why": "La déstabilisation politique et économique en Tunisie risque d'accentuer les pressions migratoires vers la mer Méditerranée.",
+     "paywalled": true,
+     "contested": "",
+     "chart": null
+    }
+   ]
+  },
+  {
+   "name": "International — hors Europe",
+   "stories": [
+    {
+     "source": "AP News",
+     "lang": "en",
+     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPRWZIOVJaUGpyUnFDcG1BTVZmOTRtZ2pvLTBjLVBDMU9fb3huN2x3Q1ZGbTBENURyc0JIdXRJQThHajNORTVlVjVnZjJrUV94VDlGaXJrZWRqQVBlWlBBRmJzVkhUem1NRzl5a05uTzJQWEdVLTNEckFlNFFBb1dmeTQwUmU0YkhFd1laTmI2ZUdtTGlLS1VZM3dPTi14ZVNxX2oxY0dzbw?oc=5",
+     "headline": "Major fire breaks out in Alberta after deadly incident at Canadian military base",
+     "headlineEn": "Un incendie majeur se déclenche en Alberta après un incident mortel sur une base militaire canadienne",
+     "summary": "Canadian authorities confirmed multiple fatalities and injuries following a major incident and subsequent fire at Canadian Forces Base Wainwright in Alberta. High winds gusting up to 100 kilometers per hour caused the blaze to spread rapidly across the base, complicating emergency response efforts. Defense officials have declined to specify the exact cause of the explosion or the precise casualty figures, citing an ongoing investigation into the active crisis site. Canadian Prime Minister Mark Carney expressed deep condolences to the families affected by this tragedy.",
+     "why": "Cet accident tragique touche l'une des principales installations de défense du Canada et soulève des questions sur la sécurité des bases.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    },
+    {
+     "source": "France 24",
+     "lang": "fr",
+     "url": "https://www.france24.com/fr/asie-pacifique/20261018-l-indon%C3%A9sie-ravag%C3%A9e-par-le-feu-une-partie-de-l-asie-du-sud-est-sous-les-fum%C3%A9es-toxiques",
+     "headline": "L'Indonésie ravagée par le feu, une partie de l'Asie du Sud-Est sous les fumées toxiques",
+     "headlineEn": "Indonesia ravaged by fire, part of Southeast Asia under toxic smoke",
+     "summary": "De gigantesques feux de forêt se propageant en Indonésie ont provoqué le déclenchement du niveau d'alerte maximal concernant la qualité de l'air dans plusieurs pays d'Asie du Sud-Est. Ces incendies incontrôlés dégagent un épais brouillard toxique qui touche la Malaisie, Singapour et la Thaïlande, imposant la fermeture préventive d'écoles et la suspension des activités extérieures. Les autorités sanitaires signalent une augmentation préoccupante des urgences respiratoires, tandis que les équipes de secours tentent d'évacuer la faune locale, notamment les orangs-outans menacés d'extinction.",
+     "why": "Les incendies environnementaux majeurs en Asie du Sud-Est aggravent la crise climatique globale et perturbent l'économie régionale.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    },
+    {
+     "source": "AP News",
+     "lang": "en",
+     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQVlRiVjVsUFhzbGdNVXNZRm9JNDNUMGJDN2FrQlRjc00tM2JRTEh0bFNFVjFZdXRwN18teXNLN2lvblRwaHlzWHFQQnVqc1pVSWhHUWtDaks1eXNodVJsYmdHSzR6R0RBQk1jTjRmZ0wxYl9OZm5KQ285WU0tWDVzNDZISzA3bktzeXU0V2d1QklWYVlNWmdoQnNzRHFaQ2E1LUU3MTN4Zw?oc=5",
+     "headline": "Masked settlers attack European diplomats and Palestinians in the occupied West Bank",
+     "headlineEn": "Des colonisés masqués attaquent des diplomates européens et des Palestiniens en Cisjordanie occupée",
+     "summary": "Masked Israeli settlers launched violent attacks against Palestinian farmers during the annual olive harvest in the occupied West Bank. During an incident in the village of Taybeh, the assailants targeted a convoy containing European diplomats, including Belgium's consul general, damaging their vehicles. The attacks come amidst rising violence in the territory, where local residents and journalists have been assaulted and agricultural land set on fire. European foreign ministries forcefully condemned the assault on diplomatic personnel, while international calls for Israel to crack down on extremist violence intensify.",
+     "why": "L'escalade des violences des colons contre des diplomates européens détériore gravement les relations diplomatiques entre l'Europe et Israël.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    },
+    {
+     "source": "France 24",
+     "lang": "fr",
+     "url": "https://www.france24.com/fr/asie-pacifique/20261018-inde-lib%C3%A9r%C3%A9-le-chef-des-cafards-pr%C3%AAt-%C3%A0-affronter-tout-ce-qui-se-mettrait-sur-sa-route",
+     "headline": "Inde : libéré, le chef du mouvement citoyen prêt à poursuivre la contestation",
+     "headlineEn": "India: Released, citizen movement leader ready to continue protest",
+     "summary": "Le chef du « Parti du peuple cafard », arrêté à la veille d'un grand rassemblement de la jeunesse à New Delhi, a été libéré par les autorités indiennes. Ce mouvement citoyen de contestation proteste vigoureusement contre la révision des listes électorales et la gestion des institutions démocratiques par le gouvernement. Après sa sortie de détention, le dirigeant étudiant a affirmé sa détermination à poursuivre la mobilisation malgré la fermeture des parcs publics et le déploiement massif des forces de l'ordre. Les manifestants s'appuient désormais sur des outils technologiques pour organiser leurs déplacements en toute sécurité.",
+     "why": "La contestation de la jeunesse en Inde constitue un défi politique d'ampleur pour le gouvernement avant les prochaines échéances électorales.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    }
+   ]
+  },
+  {
+   "name": "Europe & politiques de l'UE",
+   "stories": [
+    {
+     "source": "Süddeutsche Zeitung",
+     "lang": "de",
+     "url": "https://www.sueddeutsche.de/politik/deutschland-und-frankreich-vor-einigung-bei-verbrenner-aus",
+     "headline": "Deutschland und Frankreich vor Einigung bei Verbrenner-Aus",
+     "headlineEn": "Germany and France close to agreement on combustion engine phase-out",
+     "summary": "Deutschland und Frankreich stehen vor einem entscheidenden Kompromiss bezüglich des EU-weiten Ausstiegs aus dem Verbrennungsmotor. Die Einigung soll den Herstellern mehr Flexibilität bei der Nutzung von synthetischen Kraftstoffen und Hybridtechnologien gewähren und gleichzeitig die europäischen Industrieinteressen sichern. Gleichzeitig spiegeln diese Verhandlungen einen Wandel in der deutschen Handelspolitik gegenüber China wider, um den heimischen Markt vor unfairem Importdruck zu schützen. Dieser deutsch-französische Schulterschluss dürfte die künftige Regulierungs- und Umweltpolitik der Europäischen Union maßgeblich prägen.",
+     "why": "Ce compromis franco-allemand débloque la politique industrielle de l'UE tout en redéfinissant la transition écologique automobile.",
+     "paywalled": true,
+     "contested": "",
+     "chart": null
+    },
+    {
+     "source": "Le Monde",
+     "lang": "fr",
+     "url": "https://www.lemonde.fr/international/article/2026/10/13/la-hongrie-commence-a-supprimer-les-lois-anti-lgbt-de-l-ere-orban_6345678_3210.html",
+     "headline": "La Hongrie commence à supprimer les lois anti-LGBT+ de l’ère Orban",
+     "headlineEn": "Hungary begins repealing anti-LGBT+ laws from the Orban era",
+     "summary": "Le gouvernement hongrois a engagé le processus de suppression de plusieurs textes de loi anti-LGBT+ adoptés sous le mandat de Viktor Orban. Ce revirement législatif significatif vise à répondre aux exigences répétées de la Commission européenne en matière de respect des droits fondamentaux et de l'État de droit. En faisant un pas vers Bruxelles, Budapest cherche à débloquer l'accès à plusieurs milliards d'euros de fonds européens gelés depuis plusieurs années. Cette décision suscite d'importants débats au sein de la scène politique hongroise et auprès de la société civile.",
+     "why": "Le retrait de ces lois controversées marque un apaisement notable dans le conflit financier et institutionnel entre Budapest et l'UE.",
+     "paywalled": true,
+     "contested": "",
+     "chart": null
+    },
+    {
+     "source": "DW",
+     "lang": "en",
+     "url": "https://www.dw.com/en/albania-students-demand-political-change-and-resignation-of-prime-minister-edi-rama/a-79682217?maca=en-rss-en-world-4025-rdf",
+     "headline": "Albania: Students demand political change and resignation of Prime Minister Edi Rama",
+     "headlineEn": "Albanie : les étudiants exigent un changement politique et la démission du premier ministre Edi Rama",
+     "summary": "Massive student protests have erupted across Albania, posing the most significant political challenge to Prime Minister Edi Rama in years. Demonstrators have boycotted university lectures and clashed with riot police in the capital city of Tirana, demanding political reforms and an end to government corruption. The student-led movement points to rising living costs, lack of economic opportunities, and systemic institutional weaknesses as primary drivers of their discontent. The widening protests highlight growing public frustration in an EU candidate nation navigating complex socio-economic reforms.",
+     "why": "Les troubles politiques en Albanie risquent de ralentir son processus d'adhésion à l'Union européenne et d'instabiliser la région.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    }
+   ]
+  },
+  {
+   "name": "Économie & marchés",
+   "stories": [
+    {
+     "source": "PBS News",
+     "lang": "en",
+     "url": "https://www.pbs.org/newshour/economy/2-american-economists-win-nobel-for-work-on-managing-economic-shocks",
+     "headline": "2 American economists win Nobel for work on managing economic shocks",
+     "headlineEn": "Deux économistes américains remportent le prix Nobel pour leurs travaux sur la gestion des chocs économiques",
+     "summary": "Two American economists were awarded the Nobel Prize in Economic Sciences for their groundbreaking research on managing macro-economic shocks. Their theoretical models provide central banks and policymakers with vital tools to navigate financial crises, inflation surges, and supply chain disruptions. The Nobel committee highlighted how their empirical framework has helped stabilize banking systems and guide interest rate adjustments globally during turbulent economic periods. Financial analysts noted that these insights remain directly applicable to current central bank policies amid persisting global economic uncertainties.",
+     "why": "Les travaux récompensés offrent des repères théoriques cruciaux pour orienter les politiques monétaires face aux crises actuelles.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    },
+    {
+     "source": "AFP",
+     "lang": "fr",
+     "url": "https://www.france24.com/fr/am%C3%A9riques/20261017-le-d%C3%A9ficit-budg%C3%A9taire-am%C3%A9ricain-atteint-presque-2000-milliards-de-dollars",
+     "headline": "Le déficit budgétaire américain grimpe à près de 2 000 milliards de dollars",
+     "headlineEn": "US budget deficit rises to nearly $2 trillion",
+     "summary": "Le déficit budgétaire des États-Unis s'est creusé pour atteindre près de 2 000 milliards de dollars, soit son niveau le plus élevé depuis 2021. Cette explosion des dépenses publiques et de la dette fédérale suscite une vive inquiétude sur les marchés financiers internationaux et fait grimper les rendements obligataires. Les analystes soulignent que l'alourdissement du service de la dette limite les marges de manœuvre budgétaires de Washington tout en maintenant des pressions inflationnistes prolongées. Cette trajectoire financière complexe pèse également sur les perspectives de croissance économique mondiale.",
+     "why": "La dérive des finances publiques américaines accentue la volatilité des marchés mondiaux et renchérit le coût de l'emprunt.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    },
+    {
+     "source": "FAZ",
+     "lang": "de",
+     "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/angst-im-management-bmw-mercedes-und-siemens-streichen-fuehrungsstellen-201528621.html",
+     "headline": "Abfindungsprogramme: Unter den Managern geht die Angst um",
+     "headlineEn": "Severance packages: Anxiety grows among German corporate managers",
+     "summary": "Führende deutsche Industriekonzerne wie BMW, Mercedes-Benz und Siemens setzen verstärkt auf Abfindungsprogramme und den Abbau von Führungspositionen. Nach Jahren des personellen Aufbaus im mittleren Management zwingen steigende Kosten und schwächere Absatzzahlen die Unternehmen zu drastischen Sparmaßnahmen. Unter den Führungskräften wächst die Sorge vor strukturellen Umstrukturierungen, da die Industrie unter hohem Druck steht, ihre Effizienz zu steigern. Diese Maßnahmen verdeutlichen die anhaltenden Herausforderungen für den Industriestandort Deutschland im weltweiten Wettbewerb.",
+     "why": "La réduction des postes d'encadrement dans les fleurons allemands témoigne des difficultés structurelles du secteur industriel européen.",
+     "paywalled": true,
+     "contested": "",
+     "chart": null
+    }
+   ]
+  },
+  {
+   "name": "Technologie & sciences",
+   "stories": [
+    {
+     "source": "AP News",
+     "lang": "en",
+     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQVlRiVjVsUFhzbGdNVXNZRm9JNDNUMGJDN2FrQlRjc00tM2JRTEh0bFNFVjFZdXRwN18teXNLN2lvblRwaHlzWHFQQnVqc1pVSWhHUWtDaks1eXNodVJsYmdHSzR6R0RBQk1jN2R4YzA0T2J2aTJpVWxNSmNnS095Z0p3eTFxTFZkWnhhV3hIeXJ5Ynp6?oc=5",
+     "headline": "US revives shuttered nuclear plants to meet AI data center energy demand",
+     "headlineEn": "Les États-Unis relancent des centrales nucléaires fermées pour alimenter les centres de données de l'IA",
+     "summary": "Energy companies in the United States are working to restart previously closed nuclear power plants to supply carbon-free electricity to growing artificial intelligence data centers. The massive computing power required by generative AI models has driven energy demand to record levels, threatening power grid stability. Technology giants are signing long-term power purchase agreements with nuclear operators to secure continuous, baseline electricity generation. This resurgence of nuclear energy highlights the profound environmental and infrastructural impacts stemming from the rapid expansion of advanced digital technologies.",
+     "why": "L'explosion des besoins énergétiques de l'IA transforme la stratégie de transition énergétique et relance la filière nucléaire.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    },
+    {
+     "source": "Bloomberg",
+     "lang": "en",
+     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNd0JqQlRDd3JxZG9sWmUyLU03cFkwSDJLbkhOc0tpa2NUS24zby1jU0JQX242dEdFYWtRSXNNbUJOM2hwdDFJX3VKc1E4UFN1VVVsYi1ncl9qNkg4ZnhhcERDMkc1ZkhXUlRxUy1BdW9JTC1wYmV5YVlTZmYtUWlLRnNJQ2ZUWEw3UHNXMkdNMUdVLXJGR2M1YXRYcFFacFNmSWJCLVNxNkZ4bTZ4UXVpOXNR?oc=5",
+     "headline": "DeepSeek releases updated AI model as call for global oversight intensifies",
+     "headlineEn": "DeepSeek lance un modèle d'IA mis à jour alors que les appels à une régulation internationale s'intensifient",
+     "summary": "AI developer DeepSeek launched an updated AI model claiming significantly faster processing speeds and reduced computational requirements. The release comes as international scientists and tech executives intensify calls for a global regulatory body to oversee advanced artificial intelligence systems. Industry experts warn that rapid model deployments present unforeseen safety risks and potential misuses that existing national frameworks cannot adequately control. The race between global developers continues to accelerate, raising critical questions about international safety standards and technological governance.",
+     "why": "L'accélération des performances des modèles d'IA accentue l'urgence d'un cadre de régulation internationale contraignant.",
+     "paywalled": true,
+     "contested": "",
+     "chart": null
+    },
+    {
+     "source": "RTL.lu",
+     "lang": "fr",
+     "url": "https://www.rtl.lu/actu/international/a/2239821.html",
+     "headline": "Intermarché, Leclerc, Carrefour: Des supermarchés français touchés par une cyberattaque inédite",
+     "headlineEn": "Intermarché, Leclerc, Carrefour: Major French supermarkets hit by unprecedented cyberattack",
+     "summary": "Plusieurs grandes enseignes de la distribution alimentaire en France, dont Intermarché, Leclerc et Carrefour, ont été la cible d'une cyberattaque d'une ampleur inédite. Le piratage a perturbé la gestion des stocks, la chaîne d'approvisionnement et certains systèmes de paiement en magasin, provoquant d'importants dysfonctionnements logistiques. Les équipes informatiques travaillent à sécuriser les serveurs touchés et à rétablir le fonctionnement normal des enseignes. Cet incident démontre la vulnérabilité systémique des réseaux de grande distribution face aux cybermenaces criminelles ou étatiques.",
+     "why": "Cette cyberattaque d'envergure met en lumière la fragilité des chaînes de distribution essentielles face aux piratages informatiques.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    }
+   ]
+  },
+  {
+   "name": "Sport",
+   "stories": [
+    {
+     "source": "Süddeutsche Zeitung",
+     "lang": "de",
+     "url": "https://www.sueddeutsche.de/sport/fc-bayern-leipzig-bundesliga-debakel-li.3564598",
+     "headline": "FC Bayern gegen Leipzig: Herbstblues? Herbststurm!",
+     "headlineEn": "FC Bayern vs Leipzig: Autumn blues? Autumn storm!",
+     "summary": "Der FC Bayern München setzte im Bundesliga-Topspiel ein eindrucksvolles Zeichen und besiegte RB Leipzig deutlich mit 6:1. Nach vorherigen Rückschlägen zeigte die Mannschaft von Beginn an eine dominante Leistung. Besonders Luis Díaz glänzte mit herausragenden Dribblings und zwei Toren. Dieser Kantersieg verschafft den Münchnern Selbstvertrauen für die kommenden Aufgaben in der Champions League.",
+     "why": "Ce succès éclatant permet au FC Bayern de reprendre les commandes du championnat allemand.",
+     "paywalled": true,
+     "contested": "",
+     "chart": null
+    },
+    {
+     "source": "Al Jazeera",
+     "lang": "en",
+     "url": "https://www.aljazeera.com/sports/2026/10/18/daniel-dubois-defeats-fabio-wardley-to-retain-wbo-heavyweight-boxing-title",
+     "headline": "Daniel Dubois defeats Fabio Wardley to retain WBO heavyweight boxing title",
+     "headlineEn": "Daniel Dubois bat Fabio Wardley et conserve son titre WBO des poids lourds",
+     "summary": "British heavyweight boxer Daniel Dubois successfully defended his WBO world title in London by defeating challenger Fabio Wardley in just two rounds. Dubois dominated the fight from the opening bell with powerful combinations, forcing the referee to halt the bout. Following the decisive victory, Dubois was immediately challenged by IBO champion Filip Hrgovic for a unification bout.",
+     "why": "Cette victoire expéditive confirme le statut de Daniel Dubois parmi les meilleurs poids lourds de la boxe mondiale.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    }
+   ]
+  }
+ ],
+ "sourced": true,
+ "feeds": {
+  "ok": 26,
+  "of": 29,
+  "items": 237,
+  "skipped": [
+   "Reuters (FR)",
+   "Euronews (FR): HTTP 406",
+   "Washington Post (EN): HTTP 502"
+  ]
+ },
+ "words": 5120,
+ "readMin": 26,
+ "storyCount": 25
+}
