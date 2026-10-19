@@ -1,0 +1,405 @@
+{
+ "date": "2026-10-19",
+ "kind": "daily",
+ "heat": 0.85,
+ "oneThing": "France faces political turmoil as President Macron rejects his interior minister's resignation following nationwide cost-of-living riots that led to 1,800 arrests.",
+ "followUps": [
+  {
+   "n": "01",
+   "thread": "Violences urbaines en France",
+   "change": "Emmanuel Macron refuse la démission de son ministre de l'Intérieur Laurent Nuñez après un week-end d'émeutes et plus de 1 800 interpellations dans le pays."
+  },
+  {
+   "n": "02",
+   "thread": "Guerre en Ukraine et renseignement américain",
+   "change": "Marco Rubio dément tout arrêt du partage de renseignements stratégiques avec Kiev, contredisant directement les récentes déclarations de Volodymyr Zelensky."
+  },
+  {
+   "n": "03",
+   "thread": "Élection présidentielle au Brésil",
+   "change": "Luiz Inácio Lula da Silva et Flávio Bolsonaro se sont affrontés lors d'un premier débat télévisé tendu à une semaine du second tour."
+  }
+ ],
+ "mustReads": [
+  {
+   "desk": "France 24",
+   "source": "France 24",
+   "lang": "FR",
+   "paywalled": false,
+   "url": "https://www.france24.com/fr/france/20261019-en-direct-macron-refuse-d%C3%A9mission-nu%C3%B1ez-demande-nouveaux-modes-action-contre-casseurs",
+   "headline": "Protestations en France : Macron refuse la démission de son ministre de l'Intérieur après un week-end de violences",
+   "headlineEn": "Protests in France: Macron refuses interior minister's resignation after weekend of violence",
+   "contested": "",
+   "why": "L'ampleur des émeutes et des destructions matérielles plonge le gouvernement français dans une crise politique majeure aux répercussions européennes.",
+   "stat": "1800",
+   "statLabel": "interpellations effectuées en France lors des manifestations du week-end",
+   "chart": null,
+   "paras": [
+    "Au lendemain de manifestations d'une ampleur inédite contre la hausse du coût de la vie et la dégradation des services publics, la France fait face à une crise politique d'une grande intensité. Des affrontements violents ont éclaté dans plusieurs métropoles majeures telles que Paris, Lyon et Marseille, entraînant des dégradations matérielles considérables et l'embrasement de bâtiments publics comme l'hôtel de ville de Limoges. Face à cette escalade incontrôlée, le président Emmanuel Macron a fermement dénoncé des violences déchaînées qui s'en prennent aux institutions démocratiques de la République française tout entière.",
+    "La gestion policière du maintien de l'ordre fait l'objet de vives critiques de la part de la classe politique et des citoyens. Le ministre de l'Intérieur, Laurent Nuñez, a publiquement reconnu des défaillances d'anticipation et admis une perte temporaire de contrôle du dispositif sécuritaire dans certaines agglomérations touchées par les émeutes. Malgré une demande formelle de démission présentée par le ministre, le chef de l'État a refusé ce départ, préférant maintenir son équipe en place tout en exigeant une révision immédiate et en profondeur des tactiques d'intervention des forces de l'ordre face aux casseurs.",
+    "Sur le terrain, le bilan humain et matériel s'avère particulièrement lourd pour l'ensemble des acteurs impliqués dans les récents événements. Plus de six cents policiers et gendarmes ont été blessés lors des affrontements violents du week-end, tandis que les forces de sécurité ont procédé à plus de dix-huit cents interpellations à travers le pays. De nombreux commerces, banques et établissements publics ont subi des pillages destructeurs et des actes de vandalisme ciblés. Ces destructions répétées ont contraint plusieurs municipalités importantes, dont la ville de Marseille, à interdire temporairement tout rassemblement sur la voie publique.",
+    "La contestation sociale prend désormais des formes diverses en s'étendant à d'autres secteurs de la société, notamment le milieu étudiant. Lundi matin, des groupes de jeunes manifestants ont ainsi bloqué les accès au musée du Louvre à Paris, déployant des banderoles expliquant aux visiteurs étrangers leur combat contre la politique gouvernementale actuelle. Parallèlement, des mouvements de lycéens ont perturbé le fonctionnement de plusieurs établissements scolaires majeurs. Les organisateurs des rassemblements initiaux de Gilets jaunes ont déjà annoncé l'organisation d'un nouvel acte national d'action d'ampleur prévu pour le samedi suivant sur le territoire.",
+    "Pendant que le pays traverse cette tourmente intérieure majeure, le président Emmanuel Macron a entamé un déplacement diplomatique important dans le Golfe. Cette tournée officielle vise principalement à négocier des approvisionnements urgents en carburant afin de tenter de faire baisser rapidement les tarifs à la pompe en France. Cependant, cette absence du territoire national suscite de violentes réactions au sein de l'opposition politique, qui dénonce un désengagement exécutif inopportun face au désarroi de la population confrontée à une baisse historique de son pouvoir d'achat quotidien dans un contexte d'inflation.",
+    "L'impact des images de violences urbaines dépasse largement les frontières nationales françaises et suscite de multiples commentaires internationaux. Plusieurs dirigeants et observateurs étrangers interprètent ces tensions comme le symbole frappant d'un déclin institutionnel européen ou d'une crise profonde du modèle démocratique libéral. Sur le plan financier, les marchés réagissent négativement à l'instabilité politique persistante en faisant monter la pression sur la dette souveraine de la France. Le gouvernement tente de rassurer les acteurs économiques tout en promettant une sévérité judiciaire absolue envers tous les auteurs de destructions urbaines récents."
+   ]
+  },
+  {
+   "desk": "DW",
+   "source": "DW",
+   "lang": "DE",
+   "paywalled": false,
+   "url": "https://www.dw.com/de/ukraine-krieg-usa-liefern-laut-selenskyj-wieder-geheimdienstinformationen/a-79695673?maca=de-rss-de-all-1119-rdf",
+   "headline": "USA und Ukraine streiten über Geheimdienstdaten und Unterstützung",
+   "headlineEn": "US and Ukraine clash over intelligence data and military support",
+   "contested": "Volodymyr Zelensky affirme que le partage de renseignements stratégiques avec Washington a repris après une interruption, tandis que le secrétaire d'État américain Marco Rubio affirme que la transmission d'informations de renseignement à Kiev n'a jamais été suspendue.",
+   "why": "La continuité du partage de renseignements américains et de l'accès aux réseaux satellitaires est cruciale pour la capacité de défense ukrainienne face aux frappes de missiles russes.",
+   "stat": "126",
+   "statLabel": "drones ukrainiens abattus selon les autorités russes lors de récentes frappes",
+   "chart": null,
+   "paras": [
+    "Die diplomatischen und militärischen Beziehungen zwischen Washington und Kiew stehen derzeit vor beträchtlichen Herausforderungen und widersprüchlichen Aussagen. Der ukrainische Präsident Wolodymyr Selenskyj erklärte öffentlich, dass sein Land nach einer vorübergehenden Unterbrechung wieder wichtige Geheimdienstdaten von den Vereinigten Staaten erhalte. Diese Informationen seien absolut essenziell, um herannahende russische Raketen und Angriffsunternehmer rechtzeitig zu erkennen. Dennoch gab Selenskyj zeitgleich bekannt, dass Kiew von den westlichen Partnern keine Vorwarnungen vor den jüngsten schweren nächtlichen Luftangriffen Russlands auf das ukrainische Energiesystem erhalten habe, was zu enormen Stromausfällen in vielen Regionen führte.",
+    "US-Außenminister Marco Rubio trat den Darstellungen aus Kiew umgehend energisch entgegen und wies die Behauptung einer Unterbrechung entschieden zurück. Nach Angaben von Rubio haben die Vereinigten Staaten den Austausch von strategisch wichtigen Geheimdienstinformationen mit der Ukraine zu keinem Zeitpunkt ausgesetzt oder blockiert. Der amerikanische Chefdiplomat betonte, dass Washington weiterhin darauf fokussiert bleibe, eine diplomatische Lösung für den Konflikt zu unterstützen, während die Zusammenarbeit im Sicherheitsbereich unverändert fortgeführt werde. Diese gegensätzlichen Aussagen verdeutlichen die wachsenden Spannungen zwischen der Führung in Kiew und der neuen Administration in der amerikanischen Hauptstadt Washington.",
+    "Zusätzlicher Zündstoff entsteht durch Berichte über Einschränkungen beim Satelliteninternetdienst Starlink beziehungsweise Starshield, den die ukrainischen Streitkräfte intensiv nutzen. Die ukrainische Führung warnte vor den schwerwiegenden Konsequenzen, sollte die Kontrolle oder Verfügbarkeit dieses vom US-Unternehmen bereitgestellten Systems weiter eingeschränkt werden. Kiew ist im täglichen Kampfgeschehen auf funktionierende Satellitenverbindungen angewiesen, um Drohnen zu steuern, Truppenbewegungen zu koordinieren und gegnerische Stellungen präzise zu lokalisieren. Ein möglicher Ausfall oder Teilausfall des Satellitennetzes würde die Verteidigungsfähigkeit der ukrainischen Einheiten an den stark umkämpften Frontabschnitten erheblich schwächen und das Risikoprofil beträchtlich erhöhen.",
+    "Gleichzeitig spitzt sich die Lage im ukrainischen Energiesektor angesichts des herannahenden Winters dramatisch zu. Russland setzt seine gezielten Angriffe auf Kraftwerke und Umspannwerke fort, um das Stromnetz des Landes systematisch zu zerstören. Selenskyj warnte eindringlich davor, dass Moskau einen vollständigen Blackout in der Ukraine herbeiführen wolle, um die Zivilbevölkerung im kalten Winter mürbe zu machen. Durch die jüngsten Angriffswellen fielen bereits in mehr als einer halben Million Haushalten Strom und Heizung aus. Die ukrainische Regierung appelliert dringend an die internationalen Verbündeten, zusätzliche moderne Luftverteidigungssysteme bereitzustellen, um die kritische Infrastruktur zu schützen.",
+    "Auf internationaler diplomatischer Ebene sorgen Äußerungen aus Washington und Moskau für zusätzliche Verunsicherung bei der ukrainischen Führung. US-Präsident Donald Trump setzte jüngst geplante neue Sanktionen gegen Russland aus, um nach eigenen Angaben die Chancen auf friedliche Verhandlungen nicht zu gefährden. Selenskyj bezeichnete diesen Schritt als bedauerliches Signal, das dem russischen Präsidenten Wladimir Putin Aufwind verleihe. Unterdessen brachte der Kreml die Idee eines Dreiergipfels zwischen Trump, Putin und dem chinesischen Staatschef Xi Jinping ins Spiel, um Rahmenbedingungen für ein mögliches Abkommen zu erörtern, worin Kiew eine drohende Übergehung eigener Interessen sieht.",
+    "Trotz aller diplomatischer Verwerfungen gehen die intensiven Gefechte an der Front und die gegenseitigen Angriffe unvermindert weiter. Die ukrainischen Streitkräfte setzen verstärkt F-16-Kampfflugzeuge ein, um russische Drohnen mit Jetantrieb im Luftraum abzufangen. Parallel dazu führte die Ukraine erfolgreiche Drohnenangriffe auf Industrieanlagen im russischen Sankt Petersburg durch, bei denen mehrere Großbrände ausbrachen. Das russische Verteidigungsministerium erklärte wiederum, mehr als einhundertsechsundzwanzig ukrainische Drohnen über eigenem Territorium abgeschossen zu haben. Die Eskalation der Luftschläge zeigt, dass beide Kriegsparteien vor den möglichen Verhandlungen versuchen, ihre strategische Ausgangsposition mit militärischer Härte zu verbessern."
+   ]
+  },
+  {
+   "desk": "Euronews",
+   "source": "Euronews",
+   "lang": "EN",
+   "paywalled": false,
+   "url": "https://www.euronews.com/2026/10/19/albertans-vote-on-path-to-independence-as-carney-fights-to-keep-canada-united",
+   "headline": "Albertans vote on path to independence as Canada faces political and national tragedy",
+   "headlineEn": "Les habitants de l'Alberta votent sur l'indépendance alors que le Canada fait face à une tragédie nationale",
+   "contested": "",
+   "why": "Ce vote historique en Alberta menace l'unité du Canada tout en ravivant les tensions sur la gestion fédérale des ressources pétrolières.",
+   "stat": "4",
+   "statLabel": "soldats canadiens tués dans l'incendie survenu sur une base militaire en Alberta",
+   "chart": null,
+   "paras": [
+    "Voters across the western Canadian province of Alberta are heading to the polls today for a landmark referendum regarding their future within the federation. The vote asks citizens whether Alberta should remain part of Canada or initiate formal legal steps toward a potential vote on separation. Driven by growing frustration over Ottawa's economic policies and federal climate regulations, separatist momentum has built steadily over recent years. Prime Minister Mark Carney has campaigned vigorously to preserve national unity, emphasizing the economic advantages and shared historical heritage of keeping the country together.",
+    "At the heart of the political tension lies Alberta's massive energy sector, which holds the world's fourth-largest proven oil reserves. Proponents of independence argue that federal environmental mandates and pipeline restrictions severely hamper the province's economic growth and resource development. Many residents feel that the federal government extracts significant tax revenue while offering limited support in return. However, opposition leaders and pro-Canada advocacy groups warn that breaking away from the federal system would create profound financial uncertainty, trade barriers with neighboring provinces, and complex legal challenges regarding sovereign territorial boundaries.",
+    "The political standing of Alberta Premier Danielle Smith has become increasingly complicated throughout this high-stakes campaign. By attempting to maintain a balanced position between her staunchly conservative base and voters who wish to remain in Canada, Smith faces intense scrutiny from all sides of the political spectrum. Separatist supporters criticize her for not taking a firmer stance in favor of immediate departure, while unionists accuse her of unnecessarily fueling division. The outcome of the referendum is expected to have far-reaching implications for the stability of Prime Minister Carney's administration.",
+    "As the referendum unfolds, Canada is simultaneously mourning a tragic event that occurred at Canadian Forces Base Wainwright in Alberta. A massive wildfire swept through the military installation overnight, claiming the lives of four Canadian soldiers and leaving nineteen others critically injured. Emergency response crews and military personnel battled the intense flames under severe weather conditions, characterized by high winds and extremely dry vegetation. Prime Minister Mark Carney addressed the nation in a solemn televised broadcast, declaring that the entire country stands in grief alongside the military community.",
+    "Military and civilian authorities have launched a comprehensive investigation to determine the exact origin and cause of the devastating grass fire. Preliminary reports indicate that fierce wind gusts rapidly pushed the flames across the base perimeter and into nearby rural communities, catching personnel off guard during routine exercises. Local hospitals in Alberta were placed on high alert as medical evacuation helicopters transported severely injured victims to specialized trauma units. The disaster represents one of the deadliest peacetime accidents experienced by the Canadian Armed Forces in recent history.",
+    "The convergence of political upheaval and national mourning has cast a heavy shadow across the entire country during this pivotal moment. Political analysts observe that while polling indicates a majority of Albertans still favor remaining part of Canada, the fierce debate alone has exposed deep regional fractures. Federal leaders in Ottawa are bracing for potential constitutional negotiations depending on the referendum results. Meanwhile, tributes continue to pour in from across the world for the fallen soldiers as emergency crews work diligently to contain remaining hotspots."
+   ]
+  }
+ ],
+ "desks": [
+  {
+   "name": "Luxembourg",
+   "stories": [
+    {
+     "source": "Luxemburger Wort",
+     "lang": "de",
+     "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQRGVMZlQ3X1pZZVZ6MGVHQm9mWnlBaHBWWlFrVjBCZDd5QUZNQUhlREZwc2hyT2diOG82RnVNU2lnU1JzVGpHdEcyZWxWZ29HOXNsTnBQTC1nNFFqSk1OdXpoMkZKSWhvb2hqVWp6LVlQbmppc0xJcDBJRHQ4anRrdzFPcHNzbjg0N1RCVERJOUl0VEE?oc=5",
+     "headline": "Käerjeng macht Platz für die Jugend",
+     "headlineEn": "Käerjeng makes room for youth",
+     "summary": "Die Gemeinde Käerjeng setzt neue Impulse für die jüngere Generation und schafft gezielt Räume sowie Angebote für Kinder und Jugendliche. Mit verschiedenen Infrastrukturprojekten und Treffpunkten soll das Zusammenleben in der Kommune nachhaltig gestärkt werden. Die Ländliche Entwicklung und die Einbindung junger Bürger stehen dabei im Mittelpunkt der kommunalen Initiativen. Lokale Verantwortliche betonen, dass solche Investitionen essenziell sind, um die Lebensqualität im Süden des Landes langfristig zu sichern. Damit reagiert die Gemeinde auch auf den demografischen Wandel und den wachsenden Bedarf an moderner Infrastruktur.",
+     "why": "Les projets communaux dédiés à la jeunesse renforcent l'attractivité locale et répondent aux besoins démographiques du sud du Luxembourg.",
+     "paywalled": true,
+     "contested": "",
+     "chart": null
+    },
+    {
+     "source": "RTL.lu",
+     "lang": "fr",
+     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPTzVQa0RfUjMyVUx1NDVLVUNLMFBCVGxmMXd1dUV4alk0VVlfYVFmVVlpNTFMaXJENVJVWEczNUZVTHZjZXBfa05CZnNYS2JJaENHR0Q4WDI1RXZ0Qms3d2dlZk43WmJYRUpnZUFUUzdfOGxLbk9mbHhFVUZselRUV0hRaEtkWTJGSUczYkFfcHlsNnJvRGpNWVB5X0JTdEE?oc=5",
+     "headline": "Exercice géant dans le tunnel Micheville (18.10.2026)",
+     "headlineEn": "Major exercise in the Micheville tunnel (18.10.2026)",
+     "summary": "Un exercice de sécurité de grande envergure a été mené dans le tunnel de Micheville, entraînant la fermeture temporaire de cet axe frontalier névralgique. Les services de secours luxembourgeois et français ont simulé un accident grave afin de tester la coordination transfrontalière et les procédures d'urgence. Cet entraînement conjoint permet d'optimiser les délais d'intervention en cas d'incident réel sur cette infrastructure très fréquentée par les frontaliers. Les autorités ont souligné l'importance cruciale de ces manœuvres régulières pour garantir la sécurité des milliers d'automobilistes qui empruntent quotidiennement cette liaison.",
+     "why": "La sécurité des liaisons transfrontalières est essentielle pour les dizaines de milliers de navetteurs effectuant le trajet domicile-travail.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    },
+    {
+     "source": "Luxemburger Wort",
+     "lang": "de",
+     "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNb0hMS0ZqZkZ3eFlnWVMwbXZwTGxXNklQN2ZRbGdRMl9HYm91VGVwTTFUcHQ2MDBIaGFMX3RzUlVJcWQzSFE0bEdhOFRQaktDRVdiOW54VGxlSi1QWnZfWV9IU1BPelpiQmQySTJpeHllSUR5TlRLb2tYemh2UzNvUVd1eV8zSTJzSlduR09COW1sS0FIX0VyLVNHZ0haVkZBZjFsaTROZlR4cFo4UDRQS0RpR2V5ZE5PNEJLa0hwVQ?oc=5",
+     "headline": "E-Mail-Terror als Ablenkungsmanöver: So greifen Betrüger auf Ihre Konten zu",
+     "headlineEn": "Email terror as a distraction tactic: How scammers access your accounts",
+     "summary": "Cyberkriminelle nutzen zunehmend ausgefeilte Methoden, um Bankkunden und Bürger in Luxemburg um ihr Erspartes zu bringen. Durch eine Flut von gefälschten E-Mails und Benachrichtigungen verunsichern die Täter ihre Opfer, um im entscheidenden Moment sensible Zugangsdaten abzugreifen. Polizei und Sicherheitsexperten warnen vor dieser Taktik der Ablenkung und rufen zu erhöhter Vorsicht im digitalen Alltag auf. Betroffene sollten verdächtige Nachrichten umgehend melden und Bankdaten niemals unüberlegt auf externen Webseiten eingeben. Die Finanzaufsicht verstärkt derweil ihre Aufklärungskampagnen gegen Phishing.",
+     "why": "La hausse des cyberattaques visant les particuliers exige une vigilance accrue pour protéger la place financière et les épargnants locaux.",
+     "paywalled": true,
+     "contested": "",
+     "chart": null
+    }
+   ]
+  },
+  {
+   "name": "Monde / géopolitique",
+   "stories": [
+    {
+     "source": "Reuters",
+     "lang": "en",
+     "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNenIya2dWLVowN3ZJZjB5eXlJekpqc3VCajlVN0N3eldBMzg4d05JSG9MQXVKQWdqbVZRYnZ3VXlVSGktNEE2MndNU1dZX2FFd0YyeW9teDFfN1_VNk9RS09rV0JlM2dnbEluVlgydFFJc3QtQ0RNRkRSWkkxV0V6WjNRM21NX0FqRVZLdnp0WWFtNmFWZEh6YUJXXzJRRVU5Sy1MbmtjRm5pc1VVc1daWk9MTmFScG5yRmh4SHZBNno1eUloQXVDRkRVNU5kUQ?oc=5",
+     "headline": "World Food Programme cuts aid to 500,000 Palestinians in Gaza, citing funding shortages",
+     "headlineEn": "Le Programme alimentaire mondial réduit son aide à 500 000 Palestiniens à Gaza en raison de manques de fonds",
+     "summary": "The World Food Programme has announced a severe reduction in its humanitarian operations in Gaza, leaving 500,000 Palestinians without food assistance. The United Nations agency cited critical funding shortages from donor nations and private contributors as the primary reason for the cuts. This reduction drops the number of aid recipients in the territory from 1.6 million to 1.1 million amid growing humanitarian concerns. Human rights organizations warn that the shortfall will exacerbate widespread hunger and malnutrition across the region.",
+     "why": "La réduction de l'aide humanitaire internationale risque d'aggraver dramatiquement la crise alimentaire et sanitaire dans la bande de Gaza.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    },
+    {
+     "source": "Reuters",
+     "lang": "en",
+     "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOUGdXdTZVUC0xd3NJMzJWdlpNS0tySGdmcUlvdl9wWXhIUUdMT3E3WFZPZWFEam1PWDdFUDRRd0trNGduLUZzRWVzWXBoVWt5QkpFMk5lMzhUZU9yNllmbUxlUEZwdk5raGhEUnlyTDBTVldKWkxXSWNndHY4U01Kd3BqM3lEMU85LUZydXF2YUdMOEc5MHh5ajlfb0lNSzh1MXE0TnBEMHNIOXVzX3ZZWGRrRnNrc3Utd2VmTnh4LVIxQ2x3UElRa2hQbm8?oc=5",
+     "headline": "Israeli police arrest suspects over settler attacks on US journalist, European diplomats",
+     "headlineEn": "La police israélienne arrête des suspects après des attaques de colons contre une journaliste américaine et des diplomates européens",
+     "summary": "Israeli police have arrested several suspects following violent attacks by Israeli settlers against a diplomatic convoy and an American journalist in the occupied West Bank. The diplomats, who were visiting local communities during the sensitive olive harvest, were confronted by aggressive groups, resulting in injuries. International leaders, including officials from the European Union and the United States, strongly condemned the violence and demanded accountability. The incident underscores escalating tensions in the region and highlights growing international scrutiny of Israeli settlement activities.",
+     "why": "Ces agressions contre des représentants occidentaux intensifient la pression diplomatique internationale sur le gouvernement israélien.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    },
+    {
+     "source": "Al Jazeera",
+     "lang": "en",
+     "url": "https://www.aljazeera.com/news/2026/10/19/qatar-warns-global-energy-shockwaves-from-iran-war-have-yet-to-peak?traffic_source=rss",
+     "headline": "Qatar warns global energy shockwaves from Iran war have yet to peak",
+     "headlineEn": "Le Qatar prévient que les ondes de choc énergétiques mondiales de la guerre en Iran n'ont pas encore atteint leur sommet",
+     "summary": "Qatar's Deputy Prime Minister has warned that the economic impacts of ongoing hostilities in the Middle East and maritime disruption in the Strait of Hormuz are far from over. The Gulf state highlighted severe risks to liquefied natural gas exports and global energy stability if military escalations persist. Qatar reiterated its call for diplomatic dialogue with Iran while reaffirming its defense ties with Western partners. Energy markets remain volatile as shipping lines face heightened security threats and soaring insurance costs in the Persian Gulf.",
+     "why": "Le blocage potentiel ou la perturbation du détroit d'Ormuz menace l'approvisionnement énergétique mondial et la stabilité des prix du gaz.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    }
+   ]
+  },
+  {
+   "name": "International — hors Europe",
+   "stories": [
+    {
+     "source": "Al Jazeera",
+     "lang": "en",
+     "url": "https://www.aljazeera.com/news/2026/10/19/malis-military-and-armed-groups-committing-abuses-against-civilians-hrw?traffic_source=rss",
+     "headline": "Mali’s military and armed groups committing abuses against civilians: HRW",
+     "headlineEn": "L'armée du Mali et les groupes armés commettent des abus contre les civils, selon HRW",
+     "summary": "Human Rights Watch reported that Malian government forces and various non-state armed groups are carrying out widespread abuses against civilians in the West African nation. The findings reveal grave violations of international humanitarian law, including unlawful killings, forced disappearances, and arbitrary detentions. Conflict in the region has escalated as military forces and Islamist insurgents clash across central and northern provinces. Rights groups are calling on international bodies to enforce strict accountability and demand protection for vulnerable populations caught in the fighting.",
+     "why": "La détérioration de la situation sécuritaire au Sahel accroît la crise humanitaire et la déstabilisation de toute la région ouest-africaine.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    },
+    {
+     "source": "AFP.com",
+     "lang": "en",
+     "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9YVFU3dUdfWFF5YXY5N0l6aG9BUm0xaUQ1dWp5Y3R2NW5Sc3RfaU12STFzTWlRYW1tMjVmNUx5WFBSU3M0aFFvV0tVNA?oc=5",
+     "headline": "Lula, Bolsonaro set for first debate showdown in bitter election race",
+     "headlineEn": "Lula et Bolsonaro s'affrontent lors de leur premier débat dans une course électorale tendue",
+     "summary": "Frontrunners in Brazil’s presidential election engaged in a heated television debate ahead of the upcoming runoff vote. President Luiz Inacio Lula da Silva and opposition candidate Flavio Bolsonaro exchanged sharp accusations concerning government economic performance, corruption scandals, and public security. Analysts noted that both candidates struggled to clearly outline structural reform plans, focusing instead on personal attacks. With the electorate deeply polarized, voter turnout in key populous states is expected to prove decisive for the final outcome.",
+     "why": "L'issue de l'élection présidentielle brésilienne façonnera la politique environnementale de l'Amazonie et les relations commerciales globales.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    },
+    {
+     "source": "AP News",
+     "lang": "en",
+     "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE0ybUNYYmVXU0VLLUUyQXM2UEFiLXhzWFF2YmZYZ3QwUWdiSkdBdHJIOXhTVGVEemNnYWNaWFU2TEJKcnpqOTY5WS1WekJBXzU5ek1zQVg0Uy0yQ0ktV1ZfSmMybVB6VFY3ZVNCeDhjcllNUG9BZUFRTWFuaHM0dw?oc=5",
+     "headline": "China’s economy accelerated in the July-September quarter on robust exports",
+     "headlineEn": "L'économie chinoise s'est accélérée au troisième trimestre grâce à de solides exportations",
+     "summary": "China’s economic growth picked up to 4.5% year-on-year in the third quarter, surpassing official expectations and expanding faster than the previous quarter's 4.3%. Strong international demand and robust export figures provided a vital boost, helping offset persistent weakness in domestic consumption and property markets. Analysts emphasize that Beijing's government stimulus measures have yielded mixed results across different sectors. Despite reaching key targets, structural economic challenges continue to pose long-term risks for the world's second-largest economy.",
+     "why": "La dynamique de la croissance chinoise influence directement le commerce mondial et les prix des matières premières.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    },
+    {
+     "source": "Reuters",
+     "lang": "en",
+     "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOLW1uMVltWlJjdTYxR1gxVHpzQ2JDV3BTVE9XV0dhM0VRTkcyQ3UxS25LRVVWdVl6T09DX25weE5vT3o0elFYVlNVUVUyQmdtWDdGUkhKaUo4Ql9jOFR6R29tcXJGM05WQUlVMmoyVmJndWdEM3ZwdURZOWpOdmZuTWo1S1Qxbml3aTF1bnBXZmtOOENtVldPRVZTRzh5dmJtdHllSVJSTHZnYllXY2dCRWpvOEtpUjdfRGc?oc=5",
+     "headline": "Australian lawmaker Helen Haines in critical condition after vehicle attack",
+     "headlineEn": "La députée australienne Helen Haines dans un état critique après une attaque à la voiture-bélier",
+     "summary": "Australian federal politician Helen Haines was critically injured after a vehicle crashed into her outside her electorate office. Bystanders detained a 43-year-old male driver at the scene before police arrested him and recovered a knife from his car. Counterterrorism authorities were immediately activated to investigate the motive behind the targeted assault. Prime Minister Anthony Albanese condemned the act, while political figures across the nation expressed shock and called for heightened security measures for elected officials.",
+     "why": "L'agression d'une élue nationale soulève de vives inquiétudes quant à la sécurité des figures politiques et à la violence ciblée.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    },
+    {
+     "source": "Foreign Affairs",
+     "lang": "en",
+     "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1kcjlQOF9Bejhqc3JEcE1XYjIzNHRMN1N1SFowd2pnQmwtM0RFUFV3RmFSeHFfZWNiMEZFWXBLWVRIVkUtanN2UzhsckNSbktySFVnX0ZsR2Zuc0lnMGE4dEw5Q0NjNktFTWMxM0F3?oc=5",
+     "headline": "Europe’s Credibility Gap",
+     "headlineEn": "Le déficit de crédibilité de l'Europe",
+     "summary": "An analytical essay examines the widening divide between the European Union's geopolitical ambitions and its actual enforcement capabilities on the global stage. The analysis highlights how internal division, defense spending shortfalls, and economic fragmentation undermine Europe's ability to act as a unified strategic power. External powers increasingly exploit these domestic vulnerabilities, threatening European influence in critical multilateral negotiations. To bridge this credibility gap, the author argues that European leaders must commit to serious structural reforms in foreign policy, industrial policy, and collective security.",
+     "why": "La capacité de l'UE à s'affirmer comme puissance géopolitique crédible est cruciale pour l'avenir de la sécurité et de l'économie européennes.",
+     "paywalled": true,
+     "contested": "",
+     "chart": null
+    }
+   ]
+  },
+  {
+   "name": "Europe & politiques de l'UE",
+   "stories": [
+    {
+     "source": "DW [DE]",
+     "lang": "de",
+     "url": "https://www.dw.com/de/eu-und-usa-verurteilen-siedlerattacke-auf-diplomaten-und-journalisten/a-79692793?maca=de-rss-de-all-1119-rdf",
+     "headline": "EU und USA verurteilen Siedlerattacke auf Diplomaten und Journalisten",
+     "headlineEn": "EU and US condemn settler attack on diplomats and journalists",
+     "summary": "Die Europäische Union und die Vereinigten Staaten haben einen Angriff israelischer Siedler im besetzten Westjordanland scharf verurteilt. Die gewaltsame Attacke richtete sich gegen eine offizielle Delegation europäischer Diplomaten sowie eine US-amerikanische Journalistin, die sich zur Beobachtung der Lage vor Ort aufhielten. Nach einer Welle internationaler Empörung gab die israelische Polizei bekannt, dass inzwischen zehn Verdächtige im Zusammenhang mit den Übergriffen festgenommen wurden. Die Vorfälle unterstreichen die dramatisch eskalierende Sicherheitslage im Westjordanland und erhöhen den internationalen Druck auf die israelische Regierung, entschieden gegen gewalttätige Siedlergruppen vorzugehen.",
+     "why": "Cet épisode souligne l'escalade des tensions en Cisjordanie et la pression diplomatique croissante sur Israël.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    },
+    {
+     "source": "Euronews [FR]",
+     "lang": "fr",
+     "url": "https://fr.euronews.com/video/2026/10/19/tirana-heurts-entre-police-albanaise-et-manifestants-au-sixieme-jour-de-tensions",
+     "headline": "Tirana : heurts entre police albanaise et manifestants au sixième jour de tensions",
+     "headlineEn": "Tirana: clashes between Albanian police and protesters on sixth day of tensions",
+     "summary": "La capitale albanaise Tirana a été le théâtre de violents affrontements entre la police et des manifestants au sixième jour de mouvements sociaux. Les forces de l'ordre ont fait usage de canons à eau et de gaz lacrymogènes pour disperser les rassemblements qui ont dégénéré dans le centre-ville. Les protestations, menées principalement par des étudiants et des citoyens en colère, dénoncent la dégradation des conditions universitaires ainsi qu'une corruption généralisée au sein du gouvernement. Cette escalade reflète le mécontentement croissant de la population albanaise face aux réformes politiques et aux difficultés économiques actuelles.",
+     "why": "Ces émeutes mettent en lumière une crise politique et sociale profonde qui fragilise le gouvernement albanais.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    },
+    {
+     "source": "France 24 [FR]",
+     "lang": "fr",
+     "url": "https://www.france24.com/fr/vid%C3%A9o/20261019-italie-le-m%C3%A9contentement-face-%C3%A0-l-inflation-grandit-dans-les-rues-de-milan",
+     "headline": "Italie : le mécontentement face à l'inflation grandit dans les rues de Milan",
+     "headlineEn": "Italy: anger over inflation grows in the streets of Milan",
+     "summary": "Des affrontements se sont produits pour la deuxième journée consécutive à Milan entre de jeunes manifestants et les forces de l'ordre. Les tensions ont éclaté en marge de rassemblements organisés pour protester contre la hausse du coût de la vie et la forte inflation qui touche l'Italie. Selon les autorités de la métropole lombarde, plus de deux cents personnes ont été interpellées depuis le début du week-end. Ce climat de tension sociale illustre la frustration grandissante d'une partie de la jeunesse et des ménages italiens face à la baisse de leur pouvoir d'achat.",
+     "why": "La contestation contre la cherté de la vie s'étend en Italie, constituant un test politique majeur pour le gouvernement Meloni.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    }
+   ]
+  },
+  {
+   "name": "Économie & marchés",
+   "stories": [
+    {
+     "source": "Euronews [FR]",
+     "lang": "fr",
+     "url": "https://fr.euronews.com/2026/10/19/leconomie-chinoise-progresse-de-45-grace-aux-exportations-la-demande-interieure-reste-faib",
+     "headline": "L'économie chinoise progresse de 4,5 % grâce aux exportations, la demande intérieure reste faible",
+     "headlineEn": "Chinese economy grows by 4.5% driven by exports, domestic demand remains weak",
+     "summary": "La croissance de l'économie chinoise s'est accélérée au troisième trimestre pour atteindre 4,5 % sur un an, surpassant les attentes des analystes. Cette nette progression par rapport au rythme de 4,3 % enregistré au trimestre précédent s'explique principalement par le dynamisme solide des exportations nationales. Néanmoins, les données économiques révèlent que la demande intérieure demeure particulièrement atone, pesée par la crise persistante du secteur immobilier et la prudence des consommateurs. Malgré ces fragilités structurelles, cette reprise de l'activité remet la deuxième puissance économique mondiale sur la voie d'atteindre son objectif officiel de croissance annuelle.",
+     "why": "La dépendance de la Chine envers ses exportations souligne la vulnérabilité de sa reprise face au manque de consommation interne.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    },
+    {
+     "source": "Al Jazeera [EN]",
+     "lang": "en",
+     "url": "https://www.aljazeera.com/news/2026/10/19/qatar-warns-global-energy-shockwaves-from-iran-war-have-yet-to-peak?traffic_source=rss",
+     "headline": "Qatar warns global energy shockwaves from Iran war have yet to peak",
+     "headlineEn": "Le Qatar avertit que les répercussions énergétiques mondiales de la guerre avec l'Iran n'ont pas encore atteint leur sommet",
+     "summary": "Qatar’s deputy prime minister has warned that the global economic and energy supply disruptions caused by conflict with Iran have not yet reached their peak. Speaking on international energy security, he stressed that shipping bottlenecks near the Strait of Hormuz threaten liquefied natural gas shipments worldwide. The Qatari government called for urgent diplomatic dialogue with Tehran while reaffirming its defense ties with the United States to secure vital trade routes. The country also firmly rejected proposals to impose transit fees on vessels navigating through the strategic maritime passage, warning that such measures would further strain global supply chains.",
+     "why": "Les perturbations dans le détroit d'Ormuz font peser un risque majeur d'envolée des prix mondiaux du gaz et du pétrole.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    },
+    {
+     "source": "SZ [DE]",
+     "lang": "de",
+     "url": "https://www.sueddeutsche.de/wirtschaft/vw-auto-inflation-blume-ig-metall-gehaelter-einfrieren-li.3564978",
+     "headline": "Autokonzern: VW plant, Gehälter bis 2030 einzufrieren",
+     "headlineEn": "Car manufacturer: VW plans to freeze salaries until 2030",
+     "summary": "Der Autobauer Volkswagen plant laut internen Dokumenten ein jahrelanges Einfrieren der Gehälter für Hunderttausende Beschäftigte bis zum Jahr 2030. Der Konzern will damit angesichts des hohen Spardrucks und des scharfen internationalen Wettbewerbs die Personalkosten drastisch senken. Die Gewerkschaft IG Metall und der Gesamtbetriebsrat reagierten empört auf die Pläne und kündigten energischen Widerstand an. Dieser Schritt bedeutet eine erhebliche Eskalation im schwelenden Tarif- und Führungskonflikt zwischen dem VW-Vorstand um Oliver Blume und der Arbeitnehmerseite, die Nullrunden entschieden ablehnt.",
+     "why": "VWs Sparpläne spiegeln den enormen Transformations- und Kostendruck in der europäischen Automobilindustrie wider.",
+     "paywalled": true,
+     "contested": "",
+     "chart": null
+    }
+   ]
+  },
+  {
+   "name": "Technologie & sciences",
+   "stories": [
+    {
+     "source": "AP News",
+     "lang": "en",
+     "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNeDFUV0ljVE9zeHVqYXBscDdFZUkyUDdKcndSelI3TTdiQ0NXeTQybDV6TlVSbndla21ac0xVVGwzRFhYYkRiUk15Wm1ucmdzZnlMYXQyd2pSdk5qekgtSVNqN2FWaW54eUxzNEs4TGtQZUNtc0JFeVBmTXJOQWZoMWNUWm41YkI3blE?oc=5",
+     "headline": "Congo’s fast-moving Ebola outbreak spreads to eighth province",
+     "headlineEn": "L'épidémie d'Ebola à propagation rapide au Congo s'étend à une huitième province",
+     "summary": "A fast-moving Ebola outbreak in the Democratic Republic of the Congo has expanded into an eighth province, raising urgent concerns among public health officials. Epidemiologists report that the virus is spreading rapidly across regions due to high population mobility and limited local health infrastructure. Emergency medical teams are being deployed to set up containment zones, distribute vaccines, and enhance contact tracing in affected communities. Health authorities and international humanitarian organizations warn that without immediate funding and medical supplies, the outbreak risks overwhelming regional health systems and spreading further across national borders.",
+     "why": "La propagation rapide du virus Ebola menace la sécurité sanitaire régionale et requiert une réponse internationale urgente.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    },
+    {
+     "source": "Euronews [FR]",
+     "lang": "fr",
+     "url": "https://fr.euronews.com/2026/10/19/ghost-shark-laustralie-devoile-les-armes-secretes-de-son-drone-sous-marin",
+     "headline": "\"Ghost Shark\" : l'Australie dévoile les armes secrètes de son drone sous-marin",
+     "headlineEn": "\"Ghost Shark\": Australia unveils secret weapons of its submarine drone",
+     "summary": "L'Australie a officiellement révélé trois nouvelles capacités jusqu'alors confidentielles de son drone sous-marin autonome baptisé Ghost Shark. L'appareil de défense est désormais équipé de systèmes de mouillage de mines navales, de modules de soutien logistique ainsi que de drones aériens embarqués Altius. Ces sous-drones aériens sont capables d'effectuer des missions de surveillance avancée et des frappes ciblées directement depuis l'océan. Cette avancée technologique majeure renforce considérablement les capacités militaires de la marine australienne dans la région Indo-Pacifique en intégrant l'intelligence artificielle et l'autonomie navale.",
+     "why": "Le développement de drones sous-marins autonomes illustre la modernisation rapide des technologies militaires navales dans le Pacifique.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    },
+    {
+     "source": "NPR",
+     "lang": "en",
+     "url": "https://www.npr.org/2026/10/19/nx-s1-6001744/el-nino-kelvin-wave-west-coast",
+     "headline": "A Kelvin wave raised sea levels on the West Coast. More are coming",
+     "headlineEn": "Une onde de Kelvin a fait monter le niveau de la mer sur la côte Ouest, d'autres sont à venir",
+     "summary": "Oceanographers report that a massive oceanic Kelvin wave driven by El Niño conditions has traveled along the Pacific Ocean, temporarily raising sea levels along North America's West Coast. Scientists warn that additional underwater waves are expected to follow, worsening coastal erosion and increasing tidal flooding risks for coastal communities. These large-scale movements of warm water alter ocean currents and temperature profiles across vast distances. Researchers emphasize that tracking these oceanographic phenomena is crucial for coastal managers and emergency response teams preparing for severe weather impacts associated with global climate variability.",
+     "why": "La compréhension de ces ondes océaniques est essentielle pour anticiper l'érosion côtière et l'élévation temporaire des mers.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    }
+   ]
+  },
+  {
+   "name": "Sport",
+   "stories": [
+    {
+     "source": "RTL Lëtzebuerg",
+     "lang": "fr",
+     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQc0VRSVd1X0xxYVl5SFhzS3VaQlhucFVKOFU0NmIxWkxXN2hOM2lidmVMM3lIUWFid1_qLWZnSzRBXHRkMFQ5bFVweFlOeFQ5UFJkaXBudjc5aEV2dHI4TkRIY1R3a012eWVrZU5EYzl4M0d2WjJYaEh0OUptM2hkRnU5RF_XRG9GVTRBVUx4bmZfclVMVy1KbUE1U2ZucDdGdWRYQWd3?oc=5",
+     "headline": "Luxembourg Ladies Tennis Masters: Angelique Kerber conserve son titre face à Yanina Wickmayer",
+     "headlineEn": "Luxembourg Ladies Tennis Masters: Angelique Kerber retains her title against Yanina Wickmayer",
+     "summary": "Lors du Luxembourg Ladies Tennis Masters, la joueuse allemande Angelique Kerber a conservé son titre en s'imposant en finale face à la Belge Yanina Wickmayer. L'ancienne numéro un mondiale a maîtrisé la rencontre pour décrocher à nouveau le trophée dans la capitale luxembourgeoise. Ravi par son niveau de jeu sur le court, le public présent au Coque a chaleureusement acclamé la championne qui confirme son attachement particulier pour ce tournoi.",
+     "why": "Cette victoire confirme la solide forme de l'ancienne tenante du titre lors du rendez-vous luxembourgeois.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    },
+    {
+     "source": "RTL Lëtzebuerg",
+     "lang": "fr",
+     "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQOUp5MEwtblJrNXR4MGJpV3RRQ2ZIbGhnVFF6UC1JZjFpb1dOYnBBLU15LTgyTU1kR2V3N1NPVkVQV2xTTkpZcEpkck1YTWxPNExaazhqLUJTd1_qNTNTU3BLVzhnV3pjMFJXbU8zWEFULW5OcWJhckhpUFlmZDdsSWtjaU9WUU5iaFlwZkpMU3czeXdVRVAzZmVmYXRpaVIyTWJkVWJhNUFXek9aQm5NZ2JDbGZNWGhWOGFJ?oc=5",
+     "headline": "Liga: Porté par Mbappé, le Real reste au contact du Barça avant le Clasico",
+     "headlineEn": "La Liga: Led by Mbappé, Real stays close to Barça ahead of El Clasico",
+     "summary": "En championnat d'Espagne, le Real Madrid a décroché une victoire précieuse portée par une performance décisive de Kylian Mbappé. Grâce à ce succès, le club merengue conserve une courte distance de retard sur le FC Barcelone au classement de la Liga. Ce résultat capital permet aux Madrilènes d'aborder le très attendu Clasico face aux Catalans dans des conditions idéales, maintenant le suspense au sommet du football espagnol.",
+     "why": "Le Real Madrid maintient la pression sur le FC Barcelone juste avant leur choc direct en championnat.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    }
+   ]
+  }
+ ],
+ "sourced": true,
+ "feeds": {
+  "ok": 27,
+  "of": 29,
+  "items": 249,
+  "skipped": [
+   "RTL.lu (LB)",
+   "Washington Post (EN): HTTP 502"
+  ]
+ },
+ "words": 4162,
+ "readMin": 21,
+ "storyCount": 25
+}
