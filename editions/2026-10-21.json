@@ -1,0 +1,406 @@
+{
+ "date": "2026-10-21",
+ "kind": "daily",
+ "heat": 0.75,
+ "oneThing": "US envoy Steve Witkoff met Vladimir Putin in Russia for peace talks on Ukraine, following preliminary meetings with Volodymyr Zelenskyy in Norway.",
+ "followUps": [
+  {
+   "n": "01",
+   "thread": "Protestations au Portugal pour le logement",
+   "change": "Après l'évacuation par la police de campements à Lisbonne, les manifestants poursuivent leurs rassemblements sur la place du Rossio pour dénoncer la hausse des coûts et exiger des logements abordables."
+  },
+  {
+   "n": "02",
+   "thread": "Élection présidentielle au Brésil",
+   "change": "À quelques jours du second tour, Luiz Inácio Lula da Silva et Flávio Bolsonaro multiplient les recours juridiques mutuels devant les tribunaux électoraux pour tenter de se disqualifier."
+  },
+  {
+   "n": "03",
+   "thread": "Référendum d'indépendance en Alberta",
+   "change": "Les électeurs de la province canadienne de l'Alberta ont rejeté à 75 % le processus de séparation avec le Canada, renforçant la position politique du Premier ministre Mark Carney."
+  }
+ ],
+ "mustReads": [
+  {
+   "desk": "International",
+   "source": "DW",
+   "lang": "EN",
+   "paywalled": false,
+   "url": "https://www.dw.com/en/us-envoy-to-meet-putin-after-positive-talks-with-zelenskyy/a-79719452?maca=en-rss-en-world-4025-rdf",
+   "headline": "US envoy to meet Putin after 'positive' talks with Zelenskyy",
+   "headlineEn": "L'émissaire américain rencontre Poutine après des discussions positives avec Zelensky",
+   "contested": "Alors que les émissaires américains évoquent des progrès diplomatiques prudents, la présidence russe insiste sur le fait qu'elle recherche une paix définitive selon ses propres conditions territoriales et non un simple cessez-le-feu temporaire.",
+   "why": "Ces pourparlers directs entre Washington et Moscou marquent un tournant diplomatique majeur susceptible de redéfinir le soutien occidental à l'Ukraine.",
+   "stat": "876k",
+   "statLabel": "ressortissants russes résidant actuellement dans l'Union européenne",
+   "chart": null,
+   "paras": [
+    "United States special envoy Steve Witkoff has arrived in Saint Petersburg for high-stakes talks with Russian President Vladimir Putin regarding the conflict in Ukraine. The crucial meeting follows intensive discussions held in Norway between the American delegation and Ukrainian President Volodymyr Zelenskyy. Official representatives described those preliminary talks as constructive and positive. However, European diplomats remain cautious about whether Washington can bridge the deep rift between Kyiv and Moscow. The diplomatic offensive comes as international pressure mounts to find a realistic pathway toward ending the devastating multi-year war in Eastern Europe.",
+    "During the previous encounter in Oslo, Ukrainian leadership outlined their essential security requirements while listening to proposed American peace frameworks. President Volodymyr Zelenskyy noted that early warning systems for Russian missile attacks were resumed shortly after strategic discussions with senior officials from Washington. Despite these technical developments, significant disagreements persist regarding territorial integrity and future security guarantees for Kyiv. Ukrainian officials maintain that any formal agreement must prevent future military aggression and protect sovereign territory. Meanwhile, Washington continues to push both capitals toward tangible compromise before scheduled international summits take place.",
+    "Kremlin spokesperson Dmitry Peskov emphasized before the Saint Petersburg summit that Russia intends to achieve a durable peace settlement rather than a temporary pause. Moscow insists that any formal agreement must reflect current battlefield realities and address its underlying security demands. During the opening exchanges of the meeting, President Vladimir Putin announced the release of American citizen Stephen Hubbard as a goodwill gesture. This unexpected release highlights the broader geopolitical stakes involved in these bilateral negotiations. Russian officials have indicated a willingness to consider economic proposals while firmly rejecting political concessions.",
+    "European leaders are observing these bilateral talks with a mixture of hope and intense concern regarding potential shifts in transatlantic strategy. Strategic alignment between Washington and European capitals has come under strain as debate intensifies over military assistance and sanctions enforcement. Some European officials worry that rapid diplomatic maneuvers could compromise long-term security structures across the continent. Nevertheless, European governments acknowledge that active diplomatic dialogue remains necessary to prevent further escalation. Leaders across various European capitals continue to call for unified positions that uphold international law while supporting Ukrainian sovereignty throughout any negotiation process.",
+    "The diplomatic momentum coincides with domestic political debates in the United States concerning foreign spending and geopolitical commitments. President Donald Trump has publicly urged all parties to reach an immediate resolution, expressing frustration over the ongoing financial and material resources dedicated to the conflict. Observers note that the administration seeks rapid progress to demonstrate international leadership ahead of upcoming elections. Consequently, envoy Steve Witkoff carries substantial political responsibility to produce measurable results. His mission in Saint Petersburg represents one of the most direct diplomatic interventions by Washington since the initial onset of full-scale hostilies.",
+    "As negotiations proceed behind closed doors, humanitarian and economic consequences of the ongoing conflict continue to affect surrounding regions. Analysts suggest that even incremental agreements regarding infrastructure protection or prisoner exchanges could build essential trust between negotiators. However, fundamental issues surrounding territorial sovereignty and national security alliances remain exceptionally complex to resolve. Both Ukrainian and Russian populations face ongoing hardship while military operations persist along extensive frontlines. The outcome of the Saint Petersburg meetings will likely determine whether diplomatic efforts can gain real traction or if prolonged conflict remains inevitable."
+   ]
+  },
+  {
+   "desk": "Business",
+   "source": "BBC",
+   "lang": "EN",
+   "paywalled": false,
+   "url": "https://www.bbc.co.uk/news/articles/cmlyl09xjke4o?at_medium=RSS&at_campaign=rss",
+   "headline": "Elon Musk confirms he is considering merging Tesla and SpaceX",
+   "headlineEn": "Elon Musk confirme qu'il envisage une fusion entre Tesla et SpaceX",
+   "contested": "",
+   "why": "Une telle fusion créerait un gigantesque empire industriel valorisé à plusieurs milliers de milliards de dollars sous le contrôle direct d'un seul homme.",
+   "stat": "",
+   "statLabel": "",
+   "chart": null,
+   "paras": [
+    "Billionaire entrepreneur Elon Musk has officially confirmed that special evaluation committees have been established at both Tesla and SpaceX to explore a potential mega-merger. The announcement came shortly after the commercial space exploration firm reported profitable quarterly earnings, fueling widespread market speculation across financial centers. Combining the electric vehicle pioneer with the private rocket manufacturer would create an unprecedented corporate entity spanning clean energy and aerospace industries. Investors and market analysts are carefully evaluating the structural, financial, and regulatory implications of merging two of the world's most high-profile technology enterprises.",
+    "Financial experts point out that integrating Tesla and SpaceX would consolidate immense corporate capital and technological capability under unified leadership. Proponents argue that shared engineering expertise, advanced material research, and integrated manufacturing processes could generate significant operational synergies. For instance, joint developments in battery technology, autonomous systems, and satellite communications through Starlink could accelerate product development for both companies. However, skeptics caution that corporate cultures and operational missions differ fundamentally between consumer automotive manufacturing and space exploration. Combining these distinct business models presents severe organizational and managerial hurdles for executives.",
+    "The governance structure of such an entity would face intense scrutiny from financial regulators and institutional shareholders alike. Special independent committees are currently reviewing valuation methodologies, legal frameworks, and potential conflicts of interest before submitting formal recommendations. Because Elon Musk holds substantial equity stakes and executive leadership positions in both enterprises, ensuring fair treatment for public shareholders remains paramount. Legal scholars emphasize that approval processes will require rigorous independent oversight to satisfy corporate governance standards. Corporate boards must demonstrate that the proposed transaction delivers clear long-term value to all equity holders involved.",
+    "Regulatory authorities in the United States and international jurisdictions are expected to examine the proposed transaction with extreme care. The combined corporation would hold significant defense contracts, space launch monopolies, and widespread consumer market presence. Antitrust regulators will evaluate whether such market concentration threatens competitive dynamics across the technology and aerospace sectors. Furthermore, government agencies relying on SpaceX for military satellite launches and space station resupply missions may raise national security considerations. Approval from multiple federal agencies would be necessary before any binding merger agreement could be finalized by corporate leaders.",
+    "Wall Street reactions have been mixed, reflecting both enthusiasm for futuristic technological integration and concern over heightened risk exposure. Tesla shareholders are debating whether exposure to high-capital aerospace endeavors could increase volatility for the automotive manufacturer. Conversely, supporters believe that access to SpaceX's growing satellite internet revenue streams could diversify Tesla's financial foundation. Market volatility in tech stocks has amplified discussions surrounding proper valuation for both private and publicly traded assets. Investment banks are preparing comprehensive financial assessments to help investors understand the potential risks and rewards of this extraordinary corporate union.",
+    "Ultimately, the decision to pursue a full merger rests on upcoming recommendations from the special committees and subsequent shareholder votes. Elon Musk has consistently pushed traditional boundaries in corporate management, and this proposal represents his most ambitious consolidation attempt to date. Should the transaction proceed, it would reshape global perceptions of industrial conglomerate structures in the modern technology era. Industry observers around the world are watching closely as formal evaluation processes unfold over the coming months. The outcome will inevitably influence future corporate strategies across the automotive, tech, and space exploration industries."
+   ]
+  },
+  {
+   "desk": "Europe",
+   "source": "DW",
+   "lang": "DE",
+   "paywalled": false,
+   "url": "https://www.dw.com/de/lecornu-ausgangssperren-in-frankreich-wirken/a-79712469?maca=de-rss-de-all-1119-rdf",
+   "headline": "Lecornu: Ausgangssperren in Frankreich wirken",
+   "headlineEn": "Lecornu: Curfews in France are working",
+   "contested": "",
+   "why": "La gestion gouvernementale des émeutes urbaines en France attise les tensions politiques et ravive les débats sociétaux sur les libertés publiques.",
+   "stat": "",
+   "statLabel": "",
+   "chart": null,
+   "paras": [
+    "Die französische Regierung zieht eine erste positive Bilanz nach der Verhängung nächtlicher Ausgangssperren in mehreren Großstädten des Landes. Regierungsvertreter erklärten öffentlich, dass die gezielten Sicherheitsmaßnahmen zu einer spürbaren Beruhigung der Lage beigetragen haben. In Städten wie Paris, Nizza und Lille waren zuvor schwere Unruhen ausgebrochen, die zu erheblichen Sachschäden und zahlreichen Festnahmen führten. Trotz der aktuellen Beruhigung bleiben die Sicherheitskräfte in hoher Bereitschaft, da für das kommende Wochenende bereits neue Demonstrationen angekündigt wurden. Die Behörden betonen, dass der Schutz der öffentlichen Ordnung weiterhin oberste Priorität besitzt.",
+    "Die Auslöser der gewaltsamen Proteste liegen in tiefgreifenden gesellschaftlichen und politischen Spannungen begründet, die das Land seit Wochen belasten. Bürgerinnen und Bürger veranstalten Demonstrationen gegen steigende Lebenshaltungskosten, soziale Ungleichheit und umstrittene Polizeieinsätze. In vielen Stadtvierteln kam es dabei zu Konfrontationen zwischen Jugendlichen und den eingesetzten Polizeieinheiten. Während die Regierung die Notwendigkeit harter Durchgreifmaßnahmen betont, kritisieren Oppositionspolitiker die Sicherheitsstrategie scharf. Sie fordern stattdessen langfristige politische Lösungen und Dialoge, um die Ursachen der Unzufriedenheit wirksam zu bekämpfen. Die politische Debatte über das Vorgehen der Staatsmacht verschärft sich zusehends.",
+    "Besonders die lokalen Gewerbetreibenden und Kleinunternehmer leiden unter den Folgen der nächtlichen Krawalle und den verhängten Einschränkungen. Viele Geschäfte, Restaurants und Dienstleister in den Innenstädten verzeichnen erhebliche Umsatzeinbußen und zerstörte Schaufenster. Einige Inhaber äußerten gegenüber Medien ihre Verzweiflung über die anhaltende Unsicherheit und die wirtschaftlichen Einbußen. Gleichzeitig wächst in der Bevölkerung die Sorge vor einer weiteren Eskalation der gesellschaftlichen Konflikte. Die Kommunalverwaltungen arbeiten derzeit intensiv daran, die auflaufenden Schäden zu beseitigen und die öffentliche Infrastruktur schnellstmöglich wieder vollständig instand zu setzen.",
+    "Auch international wird die Entwicklung in Frankreich mit großer Aufmerksamkeit und teilweiser Besorgnis verfolgt. Beobachter weisen darauf hin, dass die politischen Spannungen im Land symptomatisch für breitere europäische Entwicklungstrends sein könnten. Das Erstarken populismusnaher Strömungen und das schwindende Vertrauen in zentristische Regierungen beschäftigen Politologen in ganz Europa. In mehreren Nachbarländern wird diskutiert, wie stabil die gesellschaftliche Mitte gegenüber wirtschaftlichem Druck und sozialen Verwerfungen bleibt. Die französische Führung steht somit unter erheblichem Druck, die Lage dauerhaft zu stabilisieren und das Vertrauen der Bürgerinnen und Bürger zurückzugewinnen.",
+    "Menschenrechtsorganisationen und juristische Beobachter mahnen unterdessen zur Verhältnismäßigkeit bei den polizeilichen Maßnahmen und Gerichtsverfahren. Schnellverfahren gegen Festgenommene und der intensive Einsatz von Absperrungen stehen in der Kritik von Bürgerrechtlern. Sie befürchten eine Einschränkung grundlegender Freiheitsrechte und eine weitere Entfremdung zwischen Jugend und Staatsorganen. Die Regierung weist diese Vorwürfe entschieden zurück und verweist auf das rechtsstaatliche Vorgehen der Justiz. Die Wahrung der Grundrechte bei gleichzeitiger Wiederherstellung der öffentlichen Sicherheit stellt für die Sicherheitsbehörden eine äußerst schwierige Gratwanderung dar.",
+    "Für die kommenden Tage bereiten sich die Behörden auf mögliche erneute Spannungspunkte in den Ballungsgebieten vor. Die angekündigten Mobilisierungen von Gewerkschaften und Jugendorganisationen könnten die Sicherheitskräfte erneut vor große Herausforderungen stellen. Politikexperten bezweifeln, dass reine Sicherheitsmaßnahmen allein ausreichen, um die tief sitzenden gesellschaftlichen Konflikte dauerhaft zu befrieden. Es brauche vielmehr umfassende soziale und ökonomische Reformen, um die Ursachen der Proteste nachhaltig zu beheben. Wie die Regierung in den nächsten Wochen auf die Forderungen reagiert, bleibt entscheidend für die zukünftige Stabilität des Landes."
+   ]
+  }
+ ],
+ "desks": [
+  {
+   "name": "Luxembourg",
+   "stories": [
+    {
+     "source": "RTL.lu",
+     "lang": "lb",
+     "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOX2E1aUIya0NXMjVUdjVjVW53blJFZmY1Y1RXXzhucDNVWGhxNU9SYmRaLWpfSFRXRnZJajRtQ2VrMmFUcEZKOE1nTzU4by1fUHcwLVlNNDg5OWxWeDdJU245LTBRSUtkY2wzME5JZGgwLXpFRkx6Z1_XUWJjdGdKRU5hTnQ1ZmI4bkpZWEY5R095NVlJbzRreHBFeThTWFNrVnFjdTh5alNTa19BZzBOdWhqS1hCNjZwSTNUX1ZCUkZXZVlYOVdYUmxQaw?oc=5",
+     "headline": "Petitioun iwwer Lëtzebuergesch als Integratiounssprooch gëtt an der Chamber debattéiert",
+     "headlineEn": "Petition on Luxembourgish as integration language debated in Chamber",
+     "summary": "An der Deputéiertekammer gëtt eng pëtitioun feierlech an ëffentlech debattéiert, déi gefuerdert huet, datt Lëtzebuergesch als déi primär Integratiounssprooch am Land gestäerkt an etabléiert gëtt. D'Petiotionären ënnersträichen, datt d'Sprooch e wesentleche Schléissel fir d'Zesummeliewen an d'kulturell Identitéit zu Lëtzebuerg ass. D'Politiker an d'Deputéiert diskutéieren elo iwwer déi praktesch Ëmsetzung, wéi Sproochcoursen ausgebaut an am aldeegleche Liewen méi gefördert kënne ginn. Dës Debatt weist déi dauerhaft Diskussioun iwwer d'Mulltilinguismus an d'Sproochen am extrem internationale Lëtzebuerger Kontext.",
+     "why": "Cette pétition remet la langue nationale au cœur du débat parlementaire sur l'intégration et la cohésion sociale au Grand-Duché.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    },
+    {
+     "source": "Luxemburger Wort",
+     "lang": "de",
+     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPRl9lMDJ3d0NEWkZvRW05Yjg5amFzRldlZG1OYlcxdk1hSUJ3Um9sTENOTmtFY1lBRS1QaHM4Qmp3WndDektMNmxkdEg3cVg0WWZIV0doSGdEMFFqTG1Ndk12eW9oWXVIR1Z3SGlkYVNYcC1RakQxOFFCMDA4eDVzUzFvMkl2ZzB6QlFIM0JlSVN2Rlh1a2pTVHRZYUgzTXEwYjgtcWg3TXhvQTU0?oc=5",
+     "headline": "Volles Haus: Budget- und Steuerreform-Debatte bewegt die „Wort“-Leser",
+     "headlineEn": "Full house: Budget and tax reform debate moves 'Wort' readers",
+     "summary": "Die anstehenden Entscheidungen zum staatlichen Budget und der geplanten Steuerreform stoßen in Luxemburg auf enormes öffentliches Interesse. Bei einer Leserdiskussion des „Luxemburger Wort“ debattierten Bürger und Experten intensiv über die finanziellen Weichenstellungen der Regierung. Im Mittelpunkt standen die Entlastung der Haushalte, die Gerechtigkeit von Steuerklassen sowie die langfristige Absicherung der Staatsfinanzen. Die hohe Beteiligung verdeutlicht den Druck auf die Politik, ausgewogene Maßnahmen gegen die steigenden Lebenshaltungskosten zu finden.",
+     "why": "Les choix budgétaires et fiscaux du gouvernement suscitent de vives attentes de la part des ménages luxembourgeois face à l'inflation.",
+     "paywalled": true,
+     "contested": "",
+     "chart": null
+    },
+    {
+     "source": "RTL.lu",
+     "lang": "fr",
+     "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPUnVtdTc0anlmYlNxTzc2Q2VoQl_QQ2ttbDBrNWQzUEhCRkZnaUFSdVlrTldLQ21WdEloUGVQNHhfQngtQklfS3NRX3YweDI0d1B0SVEtWFBIQ0lxRGtwNlFic1pOcXo3akI4c3ZTQ0I2NjU0S1VBZDNWS2dqVWV5NWw3REpqYTMzZWc5b3ZfcHFZclU4OWFOLWp1T2U3ZjFoTFljTzlDOVVQM1JvVjJSOXZyemxzUG9GcnJ3YzI5dGNLbFNy?oc=5",
+     "headline": "Suivi Tripartite: Les mesures ont eu un \"impact important\" mais la crise est \"durable\", selon le Statec",
+     "headlineEn": "Tripartite follow-up: Measures had a \"major impact\" but the crisis is \"lasting\", according to Statec",
+     "summary": "Le suivi du dernier accord de la Tripartite montre des résultats tangibles mais appelle à la prudence, selon une nouvelle analyse publiée par le Statec. L'institut de statistique indique que les mesures gouvernementales d'aide et de soutien au pouvoir d'achat ont eu un impact économique significatif pour atténuer le choc financier des ménages et des entreprises. Toutefois, le Statec avertit que la crise actuelle s'inscrit dans la durée et nécessite une surveillance constante des finances publiques. Les partenaires sociaux devront adapter leurs strategies face à des incertitudes économiques persistantes.",
+     "why": "L'évaluation de l'institut statistique souligne l'efficacité temporaire des aides publiques tout en mettant en garde contre des difficultés structurelles prolongées.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    }
+   ]
+  },
+  {
+   "name": "Monde / géopolitique",
+   "stories": [
+    {
+     "source": "DW",
+     "lang": "en",
+     "url": "https://www.dw.com/en/uk-fighter-jets-to-protect-saudi-arabia-from-houthi-attacks/a-79718467?maca=en-rss-en-world-4025-rdf",
+     "headline": "UK fighter jets to protect Saudi Arabia from Houthi attacks",
+     "headlineEn": "Des chasseurs britanniques envoyés pour protéger l'Arabie saoudite des attaques houthies",
+     "summary": "The United Kingdom is deploying Royal Air Force Typhoon fighter jets to Saudi Arabia to help protect the kingdom's critical infrastructure from recurring Houthi drone and missile strikes launched from Yemen. British defense officials confirmed that the military deployment aims to intercept incoming aerial threats after Iran-aligned Houthi rebels intensified attacks across the region. The move highlights deepening security coordination between London and Riyadh as Middle Eastern stability remains fragile. The deployment comes amid heightened regional tension and ongoing maritime security disruptions in the Red Sea corridor.",
+     "why": "Cette intervention militaire britannique renforce la protection des infrastructures pétrolières et stratégiques saoudiennes face à l'escalade des frappes houthies.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    },
+    {
+     "source": "DW",
+     "lang": "en",
+     "url": "https://www.dw.com/en/new-eu-plan-for-arctic-warily-eyes-influence-of-russia-us/a-79715219?maca=en-rss-en-world-4025-rdf",
+     "headline": "New EU plan for Arctic warily eyes influence of Russia, US",
+     "headlineEn": "Le nouveau plan de l'UE pour l'Arctique surveille l'influence de la Russie, des États-Unis et de la Chine",
+     "summary": "The European Union has unveiled a revised strategy for the Arctic, aiming to counter growing geopolitical influence from Russia, China, and the United States in the polar region. EU foreign policy chief Kaja Kallas emphasized that incidents including drone incursions, GPS jamming, and undersea cable sabotage pose direct threats to Arctic security. European officials are seeking to safeguard critical maritime routes and infrastructure as climate change opens up new navigation channels. The initiative reflects Brussels' determination to assert European strategic autonomy in an increasingly contested military and economic theater.",
+     "why": "L'Union européenne cherche à sécuriser son flanc nord face à la militarisation croissante et au sabotage des infrastructures critiques dans l'Arctique.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    },
+    {
+     "source": "DW",
+     "lang": "en",
+     "url": "https://www.dw.com/en/portugal-housing-protests-continue-after-police-clear-camps/a-79717904?maca=en-rss-en-world-4025-rdf",
+     "headline": "Portugal housing protests continue after police clear camps",
+     "headlineEn": "Les manifestations pour le logement se poursuivent à Lisbonne après l'évacuation de camps par la police",
+     "summary": "Thousands of demonstrators gathered in Lisbon's Rossio square to protest against soaring real estate prices and an escalating housing crisis across Portugal. The mass demonstration followed aggressive police operations that cleared temporary tent camps, resulting in at least 55 arrests. Protesters chanted that housing must not be treated as a luxury privilege and pledged to re-establish encampments until structural reforms are enacted. Rising living costs and foreign real estate investments have triggered intense public backlash against the Portuguese government's current urban and social housing policies.",
+     "why": "La crise de l'immobilier au Portugal reflète la colère croissante de la population face au coût de la vie et à la pression spéculative dans les métropoles européennes.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    }
+   ]
+  },
+  {
+   "name": "International — hors Europe",
+   "stories": [
+    {
+     "source": "Al Jazeera",
+     "lang": "en",
+     "url": "https://www.aljazeera.com/news/2026/10/21/drone-attack-in-disputed-sudan-south-sudan-border-region-kills-at-least-153?traffic_source=rss",
+     "headline": "Drone attack in disputed Sudan-South Sudan border region kills at least 153",
+     "headlineEn": "Une attaque de drone dans la région frontalière contestée entre le Soudan et le Soudan du Sud fait plus de 150 morts",
+     "summary": "A devastating drone attack targeted a crowded market and fuel depot in the disputed Abyei border region between Sudan and South Sudan, resulting in widespread destruction and heavy loss of life. Authorities and medical aid workers from Médecins Sans Frontières reported scores of wounded survivors arriving at regional health facilities following massive fires triggered by the strike. Local South Sudanese officials blamed the Sudanese armed forces for conducting the aerial raid during ongoing regional conflict. The strike highlights the escalating violence spilling into border zones and severely endangering vulnerable civilian populations.",
+     "why": "Ce raid meurtrier illustre l'extension dramatique des combats soudanais aux zones frontalières disputées et leurs conséquences humanitaires catastrophiques.",
+     "paywalled": false,
+     "contested": "Les bilans humains diffèrent fortement : la BBC fait état de plus de 300 morts lors de frappes multiples, tandis qu'Al Jazeera et Deutsche Welle rapportent au moins 150 à 153 victimes dans la région d'Abyei.",
+     "chart": null
+    },
+    {
+     "source": "Al Jazeera",
+     "lang": "en",
+     "url": "https://www.aljazeera.com/news/2026/10/21/australian-mp-loses-both-legs-in-vehicle-attack-as-suspect-appears-in-court?traffic_source=rss",
+     "headline": "Australian MP loses both legs in vehicle attack as suspect appears in court",
+     "headlineEn": "La députée australienne Helen Haines amputée des deux jambes après une attaque à la voiture",
+     "summary": "Independent Australian lawmaker Helen Haines underwent emergency surgeries resulting in the amputation of both legs after being intentionally struck by a vehicle. Police arrested 43-year-old Brendan Nugent, who appeared in court facing multiple criminal charges related to the attack. Law enforcement authorities confirmed that the suspect was not previously flagged as a known security threat prior to the incident. Members of parliament across the political spectrum expressed shock and condemned the violence as the investigation into the driver's motivations continues.",
+     "why": "Cet acte de violence ciblé contre une élue suscite une onde de choc en Australie et relance le débat sur la sécurité des parlementaires.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    },
+    {
+     "source": "AP News",
+     "lang": "en",
+     "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNam5EME1Qam5lQmc2X3BhcDgzXzdMaWJLa1V2akVCc0c2dnJlZmo4bjZ5NEdXZmMxNHp6d1kxV3hEY2QwbkZraktnS1V5a3ItMUFvZmlxb0daZUppSHdqdjBvdUNrNVNueGo0TlROS21OeGl4OTBwM0RlanJuT2pGZjllNWxHMS0wOVFtRV9DOHA0TzZWbkotTGJXMzJHcjJFOHVFbkhnOUk?oc=5",
+     "headline": "Alberta voters overwhelmingly reject separation process in a victory for Carney",
+     "headlineEn": "Les électeurs de l'Alberta rejettent très largement l'indépendance, une victoire pour Mark Carney",
+     "summary": "Voters in the western Canadian province of Alberta voted overwhelmingly to reject a formal referendum path toward political independence from Canada. With nearly three-quarters of ballots counted, approximately 75 percent of citizens voted to remain within the federation, delivering a significant political boost to Canadian leadership. Analysts note that heightened trade pressures and rhetoric from the United States have served to consolidate national unity among Canadians across regions. The result deals a major setback to provincial separatist movements while granting Ottawa political capital to focus on economic reforms.",
+     "why": "Le rejet massif du séparatisme en Alberta renforce l'unité canadienne face aux pressions économiques externes en provenance des États-Unis.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    },
+    {
+     "source": "DW",
+     "lang": "en",
+     "url": "https://www.dw.com/en/brazil-s-lula-flavio-bolsonaro-tied-ahead-of-runoff-vote/a-79715182?maca=en-rss-en-world-4025-rdf",
+     "headline": "Brazil's Lula, Flavio Bolsonaro tied ahead of runoff vote",
+     "headlineEn": "Brésil : Lula et Flávio Bolsonaro à égalité à quelques jours du second tour de la présidentielle",
+     "summary": "In the final days leading up to Brazil's decisive presidential runoff election, public opinion polls show incumbent President Luiz Inacio Lula da Silva and right-wing challenger Flavio Bolsonaro in a virtual dead heat. Both political campaigns have launched aggressive legal challenges seeking to disqualify their opponent over claims of illegal campaign messaging and platform interference. The fierce contest reflects deep societal polarization as voters weigh contrasting visions for the economy, social welfare, and digital regulation. Campaign teams are focusing their final efforts on mobilizing undecided working-class voters before Sunday's vote.",
+     "why": "Cette élection extrêmement serrée déterminera l'orientation politique et économique de la principale puissance d'Amérique latine.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    },
+    {
+     "source": "Foreign Affairs",
+     "lang": "en",
+     "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBXNTRhUnUyUVNrYzdXTXR1bzFNMFNsdE5CWk5ISmN2MTh1M1V2amkxeUNzamRIUVZnOVdLYXZ5eU9wMHpBZGttS3RxQUpwYjlyajRmQl9FRzZjM0h2VTVwZ1JYdlJ6OERDWEtnZUxyNVk?oc=5",
+     "headline": "How Russia Sees the World Now",
+     "headlineEn": "Comment la Russie voit le monde aujourd'hui",
+     "summary": "An in-depth analysis published by Foreign Affairs examines Moscow's evolving strategic worldview and its long-term foreign policy objectives amid ongoing global realignment. The article details how Russian leadership views the international order as shifting decisively toward multipolarity, seeking to forge deeper alliances across the Global South while diminishing Western influence. Kremlin strategists perceive escalating geopolitical friction as an opportunity to rewrite security architecture in Eurasia and establish alternative financial networks. The study emphasizes that Western policymakers must understand these underlying doctrine shifts to effectively counter Moscow's diplomatic and strategic maneuvers.",
+     "why": "Cet essai d'analyse stratégique décrypte la vision doctrinaire du Kremlin et ses efforts pour reconfigurer l'ordre géopolitique mondial à son avantage.",
+     "paywalled": true,
+     "contested": "",
+     "chart": null
+    }
+   ]
+  },
+  {
+   "name": "Europe & politiques de l'UE",
+   "stories": [
+    {
+     "source": "DW [EN]",
+     "lang": "en",
+     "url": "https://www.dw.com/en/new-eu-plan-for-arctic-warily-eyes-influence-of-russia-us/a-79715219?maca=en-rss-en-world-4025-rdf",
+     "headline": "New EU plan for Arctic warily eyes influence of Russia, US",
+     "headlineEn": "Le nouveau plan de l'UE pour l'Arctique surveille avec méfiance l'influence de la Russie et des États-Unis",
+     "summary": "The European Union has unveiled its updated strategic priorities for the Arctic region as geopolitical competition accelerates among global powers. EU High Representative for Foreign Affairs Kaja Kallas highlighted rising security risks, pointing to persistent drone incursions, aggressive GPS jamming, and underlying threats to undersea communications cables across polar waters. The new roadmap aims to bolster European resilience against hybrid security challenges while closely monitoring expanding Russian and American military and economic influence. Furthermore, Brussels seeks to reinforce cooperation with regional partners to safeguard critical infrastructure and maintain stability across vulnerable northern maritime borders.",
+     "why": "L'Arctique devient un théâtre d'affrontement géopolitique stratégique pour la sécurité maritime et les infrastructures clés de l'UE.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    },
+    {
+     "source": "Euronews [EN]",
+     "lang": "en",
+     "url": "https://www.euronews.com/video/2026/10/21/a-house-cannot-be-a-privilege-thousands-rally-in-lisbon-over-housing-crisis",
+     "headline": "‘A house cannot be a privilege’: Thousands rally in Lisbon over housing crisis",
+     "headlineEn": "« Un logement ne peut pas être un privilège » : des milliers de personnes manifestent à Lisbonne contre la crise du logement",
+     "summary": "Thousands of demonstrators gathered in Lisbon’s iconic Rossio square to protest against skyrocketing housing costs and inadequate social policies. The mobilization followed action by local law enforcement officers who cleared an informal tent encampment in the capital earlier in the week. Protesters chanted slogans emphasizing that access to housing is a fundamental right rather than a commercial privilege for the wealthy. Organizing committees voted to maintain momentum by establishing new protest sites across the city, demanding immediate government intervention, price caps, and affordable public housing options to support struggling local residents facing eviction and soaring rents.",
+     "why": "La crise de l'immobilier en Europe du Sud exacerbe les tensions sociales et accroît la pression politique sur le gouvernement portugais.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    },
+    {
+     "source": "RTL.lu [LB]",
+     "lang": "lb",
+     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNaVc5TlhSMmw5NnhwVDVobXRBMk9qd2JyaDctOUNIQnhIQURIWEJhdlFpRXNrMC1qeVpJTTBXbUxieXYzSkl6aXJTV1kzZWlzdGtsOHhoel_1QkxJZi03akdoemVYMHJBQ2tpY1I3YlhqY1lTZkxxb0haZm8zNEVjZGt4TGNjU21uZEtfb3VmU3Z6YzQ3M3ZYSVphejBqRUduVHNnZ3pkQU0ybEU?oc=5",
+     "headline": "Atomzentral Cattenom: Greenpeace Lëtzebuerg warnt op en Neits viru Lafzäitverlängerung",
+     "headlineEn": "Cattenom nuclear plant: Greenpeace Luxembourg warns again against lifetime extension",
+     "summary": "Greenpeace Lëtzebuerg huet nees eng Kéier seng Sorge parrapport zu der geplangter Verlaangerung vun der Lafzäit vun der Atomzentral zu Cattenom ausgedréckt. D'Ëmweltorganisatioun betount, datt déi al Reaktoren eng permanent Gefor fir d'Grenzregioun duerstellen an datt e méiglechen Tëschefall schwéier Suergelëschte fir Lëtzebuerg hätt. Laut Greenpeace solle villméi déi erneierbar Energieforme konsequent ausgebaut ginn anstänneg weider an al Atomkraftwierker ze investéieren. D'Aktivisten fuerderen dohier déi lëtzebuerger Regioun op, sech nach méi däitlech zu Paräis géint d'Weiderféiere vun deenen eenzelne Bléck an der Noperschaft anzesetzen.",
+     "why": "La proximité de Cattenom fait du risque nucléaire et de la transition énergétique un sujet politique brûlant au Luxembourg.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    }
+   ]
+  },
+  {
+   "name": "Économie & marchés",
+   "stories": [
+    {
+     "source": "FT [EN]",
+     "lang": "en",
+     "url": "https://www.ft.com/content/76f076e4-9db2-4971-8ac9-73d9f39e4876?syn-25a6b1a6=1",
+     "headline": "France’s borrowing costs hit 5% for first time since 2002",
+     "headlineEn": "Les coûts d'emprunt de la France atteignent 5 % pour la première fois depuis 2002",
+     "summary": "France’s benchmark ten-year government bond yields reached 5 percent for the first time since 2002, signaling intense financial market pressure on French sovereign debt. Investors remain deeply concerned by the country's worsening public deficit and persistent political instability following contentious legislative debates in Paris. Yields have surged rapidly from 3.2 percent recorded in late February, reflecting heightened nervousness among international bondholders regarding fiscal governance across Europe. Analysts warn that these elevated borrowing costs will significantly increase debt servicing obligations and further constrain the government's budgetary maneuverability in coming fiscal years.",
+     "why": "La hausse des taux français accroît la pression budgétaire sur Paris et inquiète l'ensemble des marchés obligataires de la zone euro.",
+     "paywalled": true,
+     "contested": "",
+     "chart": null
+    },
+    {
+     "source": "DW [DE]",
+     "lang": "de",
+     "url": "https://www.dw.com/de/verkaufsshow-für-deutschland-kanzler-wirbt-um-investoren/a-79713243?maca=de-rss-de-all-1119-rdf",
+     "headline": "Verkaufsshow für Deutschland: Kanzler wirbt um Investoren",
+     "headlineEn": "Sales pitch for Germany: Chancellor courts investors",
+     "summary": "Bundeskanzler Merz hat zum ersten deutschen Investitionsgipfel eingeladen, um internationale Unternehmen verstärkt für den Wirtschaftsstandort Deutschland zu gewinnen. Rund 200 hochrangige Vertreter globaler Konzerne berieten in Berlin über strategische Zukunftsentscheidungen und geplante Großprojekte im Bereich der künstlichen Intelligenz. Trotz organisatorischer Anfangsschwierigkeiten bemühte sich die Bundesregierung darum, Zuversicht zu verbreiten und verlorengegangenes Vertrauen bei ausländischen Kapitalgebern zurückzugewinnen. Branchenvertreter mahnten jedoch an, dass bürokratische Hürden und hohe Energiepreise weiterhin konkrete Neuansiedlungen erschweren.",
+     "why": "Berlin cherche à enrayer la baisse de son attractivité économique en attirant des capitaux étrangers dans les technologies stratégiques.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    },
+    {
+     "source": "Repubblica [IT]",
+     "lang": "it",
+     "url": "https://www.repubblica.it/economia/2026/10/21/news/trasporti_aumento_costi_carburante_elettricita-425662011/",
+     "headline": "Trasporti, dal 2019 a oggi costi del gasolio saliti del 30%. Per l’elettricità impennata del 73%",
+     "headlineEn": "Transport, diesel costs up 30% since 2019, while electricity surges by 73%",
+     "summary": "Il nuovo rapporto presentato da Conftrasporto-Confcommercio evidenzia un forte aumento dei costi operativi nel settore dei trasporti in Italia dal 2019 a oggi. I dati mostrano un incremento del 30 per cento per il gasolio e un'impennata del 73 per cento per la spesa elettrica, mettendo a dura prova la competitività delle imprese logistiche. Il presidente Pasquale Russo ha sollecitato il governo ad adottare politiche di sistema coordinate e di lungo periodo a sostegno degli operatori economici. L'associazione chiede interventi strutturali per calmierare i prezzi dell'energia, evitare il blocco delle catene di distribuzione e proteggere il potere d'acquisto dei lavoratori dell'intero comparto.",
+     "why": "L'explosion des coûts logistiques en Italie pèse sur la compétitivité des entreprises et alimente l'inflation des produits de consommation.",
+     "paywalled": true,
+     "contested": "",
+     "chart": null
+    }
+   ]
+  },
+  {
+   "name": "Technologie & sciences",
+   "stories": [
+    {
+     "source": "Reuters [EN]",
+     "lang": "en",
+     "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNemhoUnNZdUg4Sk9JMjJQU25mTUZSX2lHc1JTNTFpNGlTcWxRRDctcFNCcVZiTUhYQ211YnNjSnRvYTYyS29VNFFKcHE4VGFMcHMxTGNwa3NmVUFNamNnektGaU9BbURibzdIY2hHUlpMbEwtNWhrOG9BenJvYkllVnNfakVVRU5yRzRjdDBjQXc2OEwtS1RwZVZhaWhoRWtlalVmU0xOQm5SbmUyeGVGeGgzUkE2XzRtbFBKdTJnUTJoRWdV?oc=5",
+     "headline": "Cyber agency warns websites may go dark as PHP prepares critical fix",
+     "headlineEn": "Une agence de cybersécurité prévient que des sites web pourraient fermer alors que PHP prépare un correctif critique",
+     "summary": "Cybersecurity authorities have issued an urgent global warning to network administrators as developers prepare a critical emergency security patch for the PHP programming language. Technical experts caution that thousands of major websites could experience temporary outages or service disruptions while applying the essential update across public servers. The severe vulnerability exposes systems running vulnerable code to potential remote execution attacks, forcing IT teams to balance immediate operational downtime against catastrophic intrusion risks. Security agencies strongly urge system operators to apply the patch immediately and conduct thorough infrastructure checks to prevent widespread automated exploitation.",
+     "why": "La vulnérabilité du langage PHP menace une part majeure de l'infrastructure web mondiale et nécessite des correctifs d'urgence.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    },
+    {
+     "source": "Reuters [EN]",
+     "lang": "en",
+     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPUFMzMHVZelkwRC1YMUstS3Bxam5oelBkS1JITzVlQ2RRNzRtc251VjktOWgwN0x2WS12czIydW01NkZlZ2xTVEdpTDJxNGRSN3hJNlc0QnJCZUlkblVrWlBCdDlKazRSQTlQdXRyNnNMZ0ZPeUUtUnBKWVU5clRObC1QQVBfYXVQaWpLM3E4U28tYkVUbTY0Xzd1dE9lMVBlc1IzZGZUWHZPTFhW?oc=5",
+     "headline": "UN sees higher global warming, even in best-case scenario",
+     "headlineEn": "L'ONU prévoit un réchauffement climatique plus élevé, même dans le meilleur des scénarios",
+     "summary": "A comprehensive climate report published by the United Nations warns that global warming trajectories exceed previous projections, even under optimal emission reduction scenarios. Scientists emphasize that current national commitments remain insufficient to prevent average global temperatures from surpassing key international climate thresholds. The assessment highlights accelerating greenhouse gas concentrations and underscores rising risks of extreme weather events, sea level rise, and irreversible ecosystem damage worldwide. Environmental diplomats argue that without immediate structural decarbonization and stronger regulatory frameworks, international targets established in prior global agreements will be impossible to attain, endangering vulnerable coastal and agricultural communities.",
+     "why": "Les prévisions actualisées de l'ONU confirment le retard pris dans la décarbonation et renforcent l'urgence climatique mondiale.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    },
+    {
+     "source": "AP [EN]",
+     "lang": "en",
+     "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQa19yZHNPSUxKdDBqd2FfTDNXbThvRC1nRWdsLWVzd2htZDhQTE1YT3BPRnFXOEZNdFZKbnJhUlUyZnFldnBIRnhkalRrVmNmazB6U2lEdjNzSGMyMURLYTFYNldpYlBTQk45VWF3UVhlVUpTbHluUHZWVTZxZzczcVRGUjNVX2ludFBOODYySGJHVF9X?oc=5",
+     "headline": "Google Cloud outage hits UK banks",
+     "headlineEn": "Une panne de Google Cloud touche les banques britanniques",
+     "summary": "A widespread technical outage affecting Google Cloud services disrupted digital operations across several major banking institutions and financial platforms in the United Kingdom. Customers reported being unable to access mobile banking applications, process online payments, or execute time-sensitive transactions during peak business hours. Google engineers acknowledged the system failure and initiated emergency protocols to isolate the root cause and restore network connectivity across affected data centers. Financial regulators indicated they are monitoring the situation closely to evaluate systemic vulnerabilities and ensure that affected firms maintain robust redundancy measures during major cloud infrastructure disruptions.",
+     "why": "La centralisation des services bancaires sur quelques géants du cloud accroît le risque systémique en cas d'incident technique.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    }
+   ]
+  },
+  {
+   "name": "Sport",
+   "stories": [
+    {
+     "source": "RTL.lu [FR]",
+     "lang": "fr",
+     "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPSW0zUXRteFdUUnU0ZTBDUkdjWGcxYVc0cTBtUVNibFhRS2ZXVHMxNUNyYlVZRnJqUlRRbE9qaGgzSlNQbG5DcU15bmhETl_1taDU0b25kYnNkSHEtSmRSNkxfaTdCV3VieC1RY2hIajh3R0dDYi05UGx1SXV3dk9xSzl1b05QM0C3a2ptM",
+     "headline": "Ligue des champions: Manchester City surclasse l'AEK avec un triplé de Foden",
+     "headlineEn": "Champions League: Manchester City outclasses AEK with a Foden hat-trick",
+     "summary": "Manchester City s'est largement imposé en Ligue des champions face à l'AEK Athènes grâce à une prestation étincelante de Phil Foden. L'international anglais a inscrit un triplé décisif, permettant aux hommes de Pep Guardiola de dominer la rencontre de bout en bout. Cette victoire convaincante consolide la position du club mancunien dans sa poule continentale, affirmant de nouveau ses ambitions européennes pour la suite de la compétition.",
+     "why": "Phil Foden confirme sa forme étincelante et assoit la domination de Manchester City sur la scène européenne.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    },
+    {
+     "source": "Al Jazeera [EN]",
+     "lang": "en",
+     "url": "https://www.aljazeera.com/sports/2026/10/21/lebron-jamess-76ers-beat-ny-knicks-on-nbas-opening-night-at-msg?traffic_source=rss",
+     "headline": "LeBron James’s 76ers beat NY Knicks on NBA’s opening night at MSG",
+     "headlineEn": "Les 76ers de LeBron James battent les Knicks de New York lors de la soirée d'ouverture de la NBA au MSG",
+     "summary": "LeBron James made a triumphant debut with the Philadelphia 76ers as they defeated the New York Knicks 106-100 on opening night at Madison Square Garden. The veteran superstar orchestrated key offensive plays down the stretch, overcoming vocal opposition from the local crowd. Philadelphia showcased its newly assembled roster, delivering a strong statement against the reigning champions to kick off the new basketball season.",
+     "why": "L'arrivée réussie de LeBron James transforme les 76ers en prétendants immédiats au titre NBA.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    }
+   ]
+  }
+ ],
+ "sourced": true,
+ "feeds": {
+  "ok": 26,
+  "of": 29,
+  "items": 236,
+  "skipped": [
+   "Euronews (FR): HTTP 406",
+   "France 24 (FR)",
+   "Washington Post (EN): HTTP 502"
+  ]
+ },
+ "words": 4220,
+ "readMin": 21,
+ "storyCount": 25
+}
