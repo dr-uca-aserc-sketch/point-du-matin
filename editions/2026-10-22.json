@@ -1,0 +1,404 @@
+{
+ "date": "2026-10-22",
+ "kind": "daily",
+ "heat": 0.7,
+ "oneThing": "Russia freed imprisoned American Stephen Hubbard without a swap as Moscow agreed in principle to resume trilateral Ukraine peace talks.",
+ "followUps": [
+  {
+   "n": "01",
+   "thread": "Crise politique et sécuritaire en France après les émeutes du 17 octobre",
+   "change": "Emmanuel Macron défend son déplacement diplomatique dans le Golfe tout en dénonçant la récupération politique étrangère, pendant que le gouvernement multiplie les réunions de sécurité et interdit des manifestations."
+  },
+  {
+   "n": "02",
+   "thread": "Escalade militaire au Moyen-Orient et attaques en mer Rouge",
+   "change": "Les attaques de drones et de missiles attribuées aux Houthis visent des aéroports saoudiens et des pétroliers dans le détroit d'Ormuz, poussant Londres à déployer une assistance aérienne et Washington à réduire son personnel diplomatique."
+  },
+  {
+   "n": "03",
+   "thread": "Protestations sur le coût du logement au Portugal",
+   "change": "Après le démantèlement de campements temporaires par la police, des centaines de manifestants continuent de dormir à la belle étoile à Lisbonne pour exiger un accès au logement abordable."
+  }
+ ],
+ "mustReads": [
+  {
+   "desk": "Europe",
+   "source": "France 24",
+   "lang": "FR",
+   "paywalled": false,
+   "url": "https://www.france24.com/fr/%C3%A9co-tech/20261022-faille-sur-internet-qu-est-ce-que-le-php-qui-fait-tourner-la-majorit%C3%A9-des-sites-web",
+   "headline": "Faille sur Internet : qu’est-ce que le PHP, qui fait tourner la majorité des sites web ?",
+   "headlineEn": "Major Internet Flaw: What is PHP, the Language Powering Most Websites?",
+   "contested": "",
+   "why": "La découverte de failles critiques dans un langage fondamental du Web expose de nombreuses infrastructures publiques et privées à des attaques informatiques massives.",
+   "stat": "2",
+   "statLabel": "failles critiques découvertes dans le langage informatique PHP",
+   "chart": null,
+   "paras": [
+    "Une alerte mondiale secoue actuellement le monde du numérique à la suite de la découverte de vulnérabilités majeures touchant la technologie PHP. Ce langage de programmation est au cœur de l'architecture d'un grand nombre de services en ligne, allant des petites pages personnelles aux portails gouvernementaux complexes. L'annonce officielle de ces deux failles de sécurité critiques a immédiatement poussé de nombreux administrateurs informatiques à prendre des mesures d'urgence draconiennes. Plusieurs sites d'agences publiques, notamment des préfectures en France, ont été temporairement suspendus pour prévenir toute tentative d'intrusion malveillante.",
+    "Ce problème technique d'ampleur internationale découle directement de l'utilisation d'outils d'intelligence artificielle avancés, lesquels ont permis d'identifier des faiblesses restées invisibles pendant des années dans le code source de PHP. Si l'IA permet de renforcer la détection des failles avant les cybercriminels, elle expose aussi les systèmes à une exploitation rapide si les correctifs ne sont pas immédiatement appliqués. Les experts soulignent que la vitesse d'action est désormais le facteur décisif dans la gestion de crise, tant les attaques automatisées peuvent se multiplier en quelques heures seulement à travers le réseau mondial.",
+    "Le protocole PHP constitue une véritable colonne vertébrale pour le Web moderne, faisant tourner une majorité écrasante des serveurs de gestion de contenu à travers le globe. Lorsque deux failles de sécurité de cette sévérité sont mises au jour simultanément, les conséquences potentielles dépassent la simple indisponibilité temporaire d'un service. Elles exposent des données confidentielles, des identifiants et des structures financières clés à des risques d'exfiltration directe par des pirates informatiques chevronnés. Les équipes spécialisées travaillent d'arrache-pied depuis l'annonce pour déployer les mises à jour nécessaires chez les hébergeurs principaux.",
+    "La prise de décision de couper l'accès à certains sites institutionnels illustre une politique de précaution maximale adoptée par les autorités et les grands groupes privés. Prévenir le piratage d'infrastructures étatiques ou de bases de données administratives sensibles prime désormais sur le maintien du service public en ligne. Cette panne volontaire a provoqué quelques perturbations chez les usagers qui cherchaient à effectuer des démarches administratives, mais les responsables techniques estiment que le risque de laisser les serveurs vulnérables sans correctif immédiat était totalement inacceptable face aux menaces actuelles.",
+    "L'émergence de solutions d'analyse de code basées sur l'intelligence artificielle modifie en profondeur l'écosystème de la cybersécurité globale. D'un côté, les développeurs disposent d'outils puissants pour assainir les programmes informatiques existants et détecter des failles historiques. De l'autre, les groupes criminels exploitent exactement ces mêmes technologies pour concevoir des programmes d'attaque ciblés et extrêmement sophistiqués. Ce véritable jeu du chat et de la souris s'intensifie désormais à un rythme inédit, forçant les entreprises et gouvernements à réévaluer constamment l'efficacité de leurs défenses opérationnelles.",
+    "Bien qu'un correctif de sécurité officiel ait été élaboré et diffusé dès mercredi par les équipes de développement de PHP, la bataille n'est pas encore totalement gagnée. Le déploiement effectif des correctifs dépend de chaque administrateur de serveur, ce qui signifie que des milliers de plateformes à travers le monde restent potentiellement exposées tant que la mise à jour n'a pas été réalisée. Les agences nationales de sécurité informatique appellent toutes les organisations à procéder immédiatement aux vérifications requises afin d'assurer la protection intégrale de leurs systèmes."
+   ]
+  },
+  {
+   "desk": "Wires",
+   "source": "AP News",
+   "lang": "EN",
+   "paywalled": false,
+   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQM3pKWm5lTVpmeW5RRHktWU5US2dTSS1fTDhuVjhVUjYyd3I5b3h2QzVfd0pDcm9WM1BFaFpQZENlZVMtdEoyNUQwTEJwTVhyckl0bVBYYzIxcVl1UW5FSzRUVXdIWUV3a214QnVhb1FJSkNjTFFEU0lfTGhtVTdWQ1RDVFpFQmhneWk1UVFBRHlHX3lmY0xTYU5HOTFYdmxYd09meDFTNkg4cmJ2Tlh6UnRFZGoxRlE?oc=5",
+   "headline": "Russia frees American Stephen Hubbard after over 4 years behind bars",
+   "headlineEn": "La Russie libère l'Américain Stephen Hubbard après plus de quatre ans de détention",
+   "contested": "",
+   "why": "La libération inattendue d'un citoyen américain sans échange de prisonniers signale un tournant diplomatique entre Washington et Moscou sur le dossier ukrainien.",
+   "stat": "4",
+   "statLabel": "années passées en détention en Russie par Stephen Hubbard",
+   "chart": null,
+   "paras": [
+    "In a remarkable diplomatic development, Russian authorities have officially released American citizen Stephen Hubbard after he spent more than four years in prison. The seventy-four-year-old retired teacher was initially captured by Russian forces in eastern Ukraine and later convicted on charges of acting as a mercenary. Unusually, this release occurred without a prisoner swap, making it a rare concession by Moscow. Special envoy Steve Witkoff greeted Hubbard in St. Petersburg during high-level meetings with Russian leadership, marking a major highlight in ongoing diplomatic discussions.",
+    "The release of the American prisoner arrived alongside formal announcements regarding the potential resumption of trilateral peace negotiations concerning the war in Ukraine. According to Russian diplomatic officials, President Vladimir Putin agreed in principle to resume formal discussions involving Kyiv, Washington, and Moscow in the coming weeks. The timing of this gesture coincides with renewed efforts by the US administration to open direct communication channels with Moscow. Observers view the unexpected release of Hubbard as a calculated step by the Kremlin to signal willingness for broader engagement.",
+    "Hubbard's imprisonment had long been a source of diplomatic friction between the United States and Russia, adding to a growing list of detained foreign nationals. Sentenced to several years in detention after a swift trial in Russia, his health and advanced age had drawn widespread concern from human rights organizations and family members in the United States. His release comes at a moment when Washington is re-evaluating its strategic approach to the ongoing Eastern European conflict, creating a complex political backdrop for this humanitarian release.",
+    "US envoy Steve Witkoff held lengthy discussions with senior officials in St. Petersburg before securing the freedom of the American citizen. Following the meeting, representatives indicated that discussions covered not only hostage releases but also broader security frameworks for Eastern Europe. While critics expressed caution over praise directed toward Russian leadership during the trip, supporters argued that direct engagement produced tangible results by bringing a wrongfully detained American home. The diplomatic mission underscored the delicate balance required when negotiating with foreign adversaries.",
+    "Despite the positive step represented by Hubbard's release, military activity between Russian and Ukrainian forces continues to rage across multiple frontlines. Just hours after diplomatic talks concluded in St. Petersburg, fresh missile and drone strikes were reported in several major Ukrainian cities, demonstrating that a formal political settlement remains distant. Ukrainian leadership continues to call for firm security guarantees and persistent international pressure on Moscow, stressing that diplomatic gestures must be matched by a genuine cessation of hostilities on the ground.",
+    "As Stephen Hubbard prepares to return to his family in the United States, international diplomats are closely watching the next steps in potential peace negotiations. The proposed trilateral talks set for next month could represent a significant venue for addressing core security disputes and territorial claims. However, significant hurdles remain before any durable agreement can be forged among all participating nations. For now, the successful release of an American veteran prisoner serves as a rare point of consensus amidst an otherwise deeply divided geopolitical landscape."
+   ]
+  },
+  {
+   "desk": "Wires",
+   "source": "Reuters",
+   "lang": "EN",
+   "paywalled": false,
+   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQOGZRdGl6WGVvRzVoeHJYZ051V25FN1lYV0Vna0dHaEctcHROaFFvSEVlWVd1RHptaTJfc2dkV1dOU1FPeUxfTFhFcDMybGthazVhcXo2WXB0N1liR1Y5OWk0cEYyb2ZFMXM2VGljUFV6SWM4Wm1ITUhGY0t4WHFjanJ2b0Q5RG9OUmNzYkJtLXRzNDFXVlRfWGpuQUhwQjRiYS03cFVOZ3dhUTZmN0JJ?oc=5",
+   "headline": "Barclays to slash 5,000 jobs in AI-powered cost-cutting drive",
+   "headlineEn": "Barclays supprime 5 000 emplois dans le cadre d'un plan d'économie guidé par l'IA",
+   "contested": "",
+   "why": "L'utilisation croissante de l'intelligence artificielle dans le secteur bancaire entraîne des restructurations massives du personnel et transforme la gestion opérationnelle.",
+   "stat": "5000",
+   "statLabel": "postes supprimés chez Barclays dans le cadre de sa restructuration",
+   "chart": null,
+   "paras": [
+    "Major British financial institution Barclays has announced plans to cut five thousand jobs this year as part of a sweeping cost-reduction initiative powered by artificial intelligence. The banking giant is aggressively automating administrative, operational, and customer support roles across its international divisions to streamline operations. Management emphasizes that integrating advanced digital algorithms will optimize workflow efficiency and significantly reduce overhead expenses. The decision highlights a broader trend across the global financial sector, where traditional corporate roles are increasingly being replaced by automated artificial intelligence systems.",
+    "The job losses at Barclays represent one of the most visible examples to date of corporate downsizing directly attributed to artificial intelligence deployment. Executive leadership defended the strategic shift, noting that adopting machine learning tools allows the firm to handle complex transactions faster and with higher accuracy. However, union representatives and employee advocates expressed strong concern over the speed and scale of the workforce reduction, warning that rapid technological displacement could harm corporate culture and severely impact thousands of families during a period of economic uncertainty.",
+    "Financial analysts have responded with cautious optimism regarding the long-term impact of Barclays' automated restructuring strategy on its profitability. By lowering employee headcount and expanding digital infrastructure, the bank aims to achieve substantial annual savings that can be redirected toward technological innovation and shareholder returns. Shares in the company showed resilience following the announcement, reflecting investor belief that automated efficiency gains are essential for legacy financial institutions competing against agile financial technology startups and digital-only banking competitors worldwide.",
+    "The implementation of artificial intelligence at Barclays spans multiple departments, including back-office processing, compliance monitoring, and consumer data analytics. Technology teams inside the bank have been deploying specialized software trained to manage routine regulatory tasks and customer inquiries that previously required human oversight. Executives argued that automating repetitive tasks frees remaining staff to focus on high-value client relationships and complex wealth management services, though workers fear that few entry-level positions will remain once the current transformation phase is fully completed.",
+    "This wave of layoffs reflects a wider momentum across major European and American financial institutions seeking to control rising operating costs through technology. Industry experts predict that other major lenders will soon follow Barclays' lead by introducing similar automation targets to maintain market competitiveness. As regulatory authorities watch these corporate transformations closely, questions remain regarding how banks will manage operational risks associated with algorithmic decision-making while maintaining adequate cybersecurity standards and ensuring fair customer service outcomes for all demographic groups.",
+    "Looking ahead, Barclays aims to complete the scheduled staff adjustments by the end of the current fiscal year while continuing its digital investments. The bank promised to offer severance packages and retraining programs for affected personnel, attempting to ease the transition for departing staff. Nevertheless, the restructuring signals a permanent shift in how multinational banks operate, demonstrating that artificial intelligence is no longer merely an experimental tool, but a central force driving structural changes across the modern corporate economy."
+   ]
+  }
+ ],
+ "desks": [
+  {
+   "name": "Luxembourg",
+   "stories": [
+    {
+     "source": "Luxemburger Wort",
+     "lang": "de",
+     "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNaEloaVdMMEFiVXU3QnBwckhaaF9WSkZSajdPVUNXN1NBX0o2U3N3ZGdvSTJoRTNKcWFRNDh1RDlWU0hJcm91NDBYV2hzZ3Iwc1BDenI1aE9rWGN5M3ZsLXZxb2RWU0Q5aDhtLVBtQ2NpWDJtbnluTzBZcEE2Q1J5RG5nYVJHTGE1TnQ2cVhmVTRxc0R5ZVZSRXlGbFdqMDFyQUlJTWVGa20wYWRuVVpQWG1SeFk4MnF0TGpFWHdESVp0WTRBWnc?oc=5",
+     "headline": "Nach Tripartite-Gesprächen: Nächste Indextranche verschiebt sich auf Anfang 2027",
+     "headlineEn": "After Tripartite talks: Next index tranche postponed to early 2027",
+     "summary": "Die jüngsten Verhandlungen im Rahmen der Tripartite zwischen der luxemburgischen Regierung, den Gewerkschaften und den Arbeitgeberverbänden haben zu einer grundlegenden Anpassung des Zeitplans für das automatische Lohnindexierungssystem geführt. Die nächste Indextranche, die ursprünglich bereits für einen früheren Zeitpunkt im kommenden Jahr erwartet worden war, wird sich nun voraussichtlich bis Anfang 2027 verschieben. Hauptgründe für diese zeitliche Aussetzung sind die korrigierten Inflationsprognosen der Konjunkturforscher sowie die veränderten gesamtwirtschaftlichen Rahmenbedingungen im Großherzogtum. Während die Vertreter der Wirtschaft diese Entlastung der Unternehmen begrüßen, fordern die Gewerkschaften weiterhin wirksame Begleitmaßnahmen zur Sicherung der gesellschaftlichen Kaufkraft.",
+     "why": "La modification du calendrier de l'indexation salariale impacte directement le pouvoir d'achat des ménages et les coûts des entreprises au Luxembourg.",
+     "paywalled": true,
+     "contested": "",
+     "chart": null
+    },
+    {
+     "source": "RTL.lu",
+     "lang": "fr",
+     "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNMWNmX3NfUkh5M2dpVUtpS2t2ekxxcF9TOExIS013OGQ3RFVyaHRaNGphcFlSSXJiWl85dFBLakV4YzU4WU5FMGg2MXZ2andFczFhSGpjRkZ5ZE5hTDBvd3pyOF9EMHdZeDdfTW53bnBqSVRpSUx5ejBjbEpHX09oQnpXUjJwNWEwN2FaQjdmcldvS2M5NUtrYmZ0aldtc2dEeXJuU25CdEZMNVUwb3c?oc=5",
+     "headline": "Quadripartite de la santé: Face au déficit, une hausse des cotisations à la CNS évoquée",
+     "headlineEn": "Health Quadripartite: Facing deficit, an increase in CNS contributions is mentioned",
+     "summary": "Lors de la réunion quadripartite consacrée à la santé au Luxembourg, les acteurs du secteur ont abordé la situation financière préoccupante de la Caisse nationale de santé. Face à un déficit budgétaire grandissant, la possibilité d'une augmentation des cotisations sociales a été officiellement évoquée par les participants. Les projections financières indiquent que sans ajustement structurel des recettes ou des dépenses, l'équilibre du système de sécurité sociale ne pourra plus être garanti à moyen terme. Les représentants des syndicats et du patronat expriment des réserves quant aux modalités d'un tel relèvement fiscal. Des discussions complémentaires devront préciser les arbitrages futurs.",
+     "why": "L'éventuelle hausse des cotisations de santé toucherait l'ensemble des salariés et des employeurs résidant ou travaillant au Grand-Duché.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    },
+    {
+     "source": "RTL.lu",
+     "lang": "lb",
+     "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE95S0hxXy13U0lSRnhKc3BvRXQ3ZklrWnFvNU5OcjZBZU9Dd2hPUEFLZ3UycGN5M0JhNjcyRmVZZGVXZ3B2azRlWmNpUUJJa09JaG5WX0RoWjZDSHNnXzJ1cFA3U3NCblZPblp1QlZkQQ?oc=5",
+     "headline": "CSL a Mouveco gesi Fërderung vun Hybrid-Autoen als Déngschtween als Réckschrëtt",
+     "headlineEn": "CSL and Mouveco see promotion of hybrid company cars as a step backward",
+     "summary": "D'Chambre des salariés an d'Ëmweltorganisatioun Mouveco hunn déi geplangt Steiervirdeeler fir Hybrid-Autoen als Déngaschtween scharf kritiséiert. Béid Organisatiounen gesinn an dëser Moossnahm vun der Regioun e kloere Réckschrëtt fir déi national Klimapolitik an d'Energiewenn. Si argumentéieren, datt d'Fërderung vu Verbrennungsmotoren mat Elektromotor d'Transitioun op reng elektresch Gefierer verlangsamt an domat déi virgesinn Emissiouns-Ziler geféierde kéint. Amplaz wëllen d'Vertrieder vun de Salariéen an d'Ëmweltaktivisten eng méi konsequent Ënnerstëtzung vu voll-elektrescher Mobilitéit a vum ëffentlechen Transport gesinn. D'Debatt iwwer d'Reform vun der Déngaschtwon-Besteierung geet domat an eng nei Phas.",
+     "why": "La fiscalité des voitures de fonction fait débat entre objectifs environnementaux et incitations économiques pour les salariés.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    }
+   ]
+  },
+  {
+   "name": "Monde / géopolitique",
+   "stories": [
+    {
+     "source": "France 24",
+     "lang": "fr",
+     "url": "https://www.france24.com/fr/europe/20261022-parlement-europ%C3%A9en-d%C3%A9cerne-prix-sakharov-2026-cour-p%C3%A9nale-internationale",
+     "headline": "Le Parlement européen décerne son prix Sakharov 2026 à la Cour pénale internationale",
+     "headlineEn": "European Parliament awards its 2026 Sakharov Prize to the International Criminal Court",
+     "summary": "Le Parlement européen a officiellement attribué le prestigieux prix Sakharov 2026 pour la liberté de pensée à la Cour pénale internationale. Cette distinction honorifique vient saluer l'engagement continu de l'institution judiciaire internationale en faveur de la justice globale, de la lutte contre l'impunité et de la défense des droits humains à travers le monde. Les députés européens ont souligné le rôle crucial que joue la CPI dans la poursuite des crimes de guerre et des crimes contre l'humanité, malgré les pressions politiques croissantes exercées par plusieurs grandes puissances. Cette récompense symbolise un soutien institutionnel européen ferme envers le droit international multilatéral.",
+     "why": "Ce prix réaffirme l'engagement des institutions européennes envers la justice internationale et l'État de droit.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    },
+    {
+     "source": "Euronews",
+     "lang": "fr",
+     "url": "https://fr.euronews.com/2026/10/22/zelensky-plaide-pour-un-gel-de-la-ligne-de-front-premiere-etape-vers-un-cessez-le-feu-en-u",
+     "headline": "Zelensky plaide pour un gel de la ligne de front, première étape vers un cessez-le-feu en Ukraine",
+     "headlineEn": "Zelensky advocates for front-line freeze as first step toward Ukraine ceasefire",
+     "summary": "Le président ukrainien Volodymyr Zelensky s'est prononcé en faveur d'un gel des positions militaires actuelles le long de la ligne de front, présentant cette mesure comme un préalable indispensable à l'instauration d'un cessez-le-feu durable. Dans le même temps, il exige que Kyiv soit pleinement associée à toutes les négociations diplomatiques et demande des garanties de sécurité solides de la part de Washington et des pays européens. Cette déclaration intervient alors que des attaques aériennes intenses se sont poursuivies durant la nuit entre l'Ukraine et la Russie, jetant un doute sur les récents échanges diplomatiques entre responsables américains et russes.",
+     "why": "Un gel du front marquerait un tournant diplomatique majeur après plus de quatre ans de conflit armé intense.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    },
+    {
+     "source": "Euronews",
+     "lang": "fr",
+     "url": "https://fr.euronews.com/2026/10/22/canada-devoile-un-plan-de-62-mds-pour-proteger-ses-industriels-face-aux-tarifs-de-trump",
+     "headline": "Canada : un plan de 6,2 milliards de dollars pour protéger l'industrie des tarifs de Trump",
+     "headlineEn": "Canada: $6.2 billion plan to protect industry from Trump tariffs",
+     "summary": "Le Premier ministre canadien Mark Carney a présenté un plan de soutien massif d'un montant de 6,2 milliards de dollars destiné à protéger le secteur manufacturier national face aux taxes douanières instaurées par les États-Unis. Le chef du gouvernement a déclaré que les barrières commerciales imposées par l'administration de Donald Trump affaiblissent l'économie des deux nations nord-américaines tout en restreignant les choix des consommateurs. Ce programme d'aide financière vise à maintenir la compétitivité des entreprises canadiennes et à prévenir des suppressions d'emplois massives dans les provinces industrielles. Ottawa entend également renforcer ses partenariats économiques alternatifs à l'international.",
+     "why": "L'escalade protectionniste américaine contraint le Canada à intervenir lourdement pour préserver son tissu industriel.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    }
+   ]
+  },
+  {
+   "name": "International — hors Europe",
+   "stories": [
+    {
+     "source": "Al Jazeera",
+     "lang": "en",
+     "url": "https://www.aljazeera.com/news/2026/10/22/fighting-rages-in-yemens-taiz-as-un-warns-nearly-260000-now-displaced?traffic_source=rss",
+     "headline": "Fighting rages in Yemen’s Taiz as UN warns nearly 260,000 now displaced",
+     "headlineEn": "Les combats font rage à Taïz au Yémen alors que l'ONU alerte sur près de 260 000 déplacés",
+     "summary": "Heavy military clashes have intensified in and around the Yemeni city of Taiz as government forces launched extensive strikes against Houthi positions. The United Nations has warned that the escalating violence has already forced nearly 260,000 people to flee their homes, aggravating an already severe humanitarian crisis. Local authorities report that crucial supply routes remain blocked, leaving civilians trapped without access to essential medical care or clean water. Relief organizations are calling for an immediate cessation of hostilities to allow urgent aid deliveries. The surge in fighting threatens to disrupt ongoing regional diplomatic talks aimed at stabilizing the region.",
+     "why": "La résurgence des affrontements au Yémen aggrave dramatiquement la crise humanitaire et menace la stabilité régionale.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    },
+    {
+     "source": "AP News",
+     "lang": "en",
+     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOcy05Z2ZHUXQ4TzJiVEJOcTBvQ2dqRExkREdGLTNBSXlhX1YzN3hPRXd6d3pPbFNlYnQ5WmVvbEpyT2p2UmVtYXA3VlF1S2Nhb1U4SFVJMy01MUpncTRSRUJTbXhqMFg4VFZEejktRlQyTEdSOEIxaEtBVkpITXBBTFFYMkN1VkVQbFMtdEV6TDhxNkdLYWYxa0sxdlJ5dVBHWXdtaHUyT255Qm8?oc=5",
+     "headline": "Meta ordered to pay New Mexico $25 billion for deceiving users about privacy on Facebook",
+     "headlineEn": "Meta condamné à payer 25 milliards de dollars au Nouveau-Mexique pour tromperie sur la confidentialité",
+     "summary": "A court in New Mexico has ordered Meta to pay twenty-five billion dollars in damages after finding that Facebook systematically misled users regarding data privacy protection. The landmark ruling stems from allegations connected to improper data access and third-party commercial exploitation of personal information. Legal analysts note that this financial penalty represents the largest privacy-related fine ever imposed on a technology giant in the United States. Meta has announced its intention to appeal the decision, claiming the fine is disproportionate and legally unfounded. The outcome could set a major precedent for data protection litigation nationwide.",
+     "why": "Cette amende record contre Meta pourrait redéfinir la responsabilité juridique des géants de la tech en matière de données.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    },
+    {
+     "source": "DW",
+     "lang": "en",
+     "url": "https://www.dw.com/en/nigeria-records-its-first-ebola-case-in-capital-abuja/a-79717377?maca=en-rss-en-world-4025-rdf",
+     "headline": "Nigeria records its first Ebola case, in capital Abuja",
+     "headlineEn": "Le Nigeria enregistre son premier cas d'Ebola dans la capitale Abuja",
+     "summary": "Health authorities in Nigeria have confirmed the nation's first official case of Ebola during the current regional outbreak originating in Central Africa. The patient, a woman who recently arrived in the capital city of Abuja on a flight from Uganda, was isolated shortly after presenting symptoms. Nigerian health officials have initiated rigorous contact tracing and placed medical teams on high alert across major transit hubs. The World Health Organization is coordinating with national medical agencies to contain potential transmission in the populous urban center. Surrounding West African nations are reinforcing health screening measures at international borders.",
+     "why": "L'apparition d'Ebola dans une métropole comme Abuja suscite une vive inquiétude pour la santé publique régionale.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    },
+    {
+     "source": "Euronews",
+     "lang": "en",
+     "url": "https://www.euronews.com/2026/10/22/el-salvador-launches-military-operation-in-haiti-to-free-four-kidnapped-aviation-technicia",
+     "headline": "El Salvador launches military operation in Haiti to free four kidnapped aviation technicians",
+     "headlineEn": "Le Salvador lance une opération militaire en Haïti pour libérer quatre techniciens kidnappés",
+     "summary": "The government of El Salvador has initiated a targeted military operation in Haiti following the abduction of four Salvadoran aviation technicians. President Nayib Bukele issued a firm ultimatum to Haitian criminal gangs, warning that failure to release the hostages immediately would trigger a much larger military intervention. The technicians were working as part of an international support mission when their armored vehicle was ambushed by armed groups in Port-au-Prince. The deployment marks an unprecedented overseas military action for Salvadoran forces in the Caribbean. Caribbean leaders are closely monitoring the operation amid concerns over regional stability.",
+     "why": "Cette intervention militaire directe en Haïti illustre l'extension de la doctrine de sécurité du Salvador à l'international.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    },
+    {
+     "source": "Council on Foreign Relations",
+     "lang": "en",
+     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQTkhPWDM1ZGcyYmExei05VjN3LVlFTmtuSE1ONFdsOExvcHVCSWZGZ0s3TFQ3NUd5amsyUE5sOURVeDlSTk16WWtHbWQ3QklkeXVjekVyTTh1ZWtyZU1zUWpfLVMyaXZXbThxQUtXR0laLWVTY25JQUHUVldpNGZNV3FWbXRkcDJR?oc=5",
+     "headline": "Surging Export Similarity is Fueling Advanced Economy Trade Tensions With China",
+     "headlineEn": "La hausse de la similitude des exportations alimente les tensions commerciales entre économies avancées et la Chine",
+     "summary": "A new analysis from the Council on Foreign Relations highlights how the growing overlap between Chinese exports and high-value industrial goods produced by advanced economies is exacerbating global trade friction. As Beijing shifts its manufacturing strategy toward sophisticated technology, green energy equipment, and advanced machinery, its export profile increasingly competes directly with North American and European manufacturers. This structural convergence has led Western governments to implement protectionist tariffs and subsidies to shield domestic industries. The report warns that without new trade frameworks addressing industrial policy overlap, bilateral commercial conflicts will intensify across key global markets.",
+     "why": "La concurrence directe dans les technologies de pointe accroît inévitablement les tensions commerciales entre la Chine et l'Occident.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    }
+   ]
+  },
+  {
+   "name": "Europe & politiques de l'UE",
+   "stories": [
+    {
+     "source": "France 24",
+     "lang": "fr",
+     "url": "https://www.france24.com/fr/europe/20261022-parlement-europ%C3%A9en-d%C3%A9cerne-prix-sakharov-2026-cour-p%C3%A9nale-internationale",
+     "headline": "Le Parlement européen décerne son prix Sakharov 2026 à la Cour pénale internationale",
+     "headlineEn": "The European Parliament awards its 2026 Sakharov Prize to the International Criminal Court",
+     "summary": "Le Parlement européen a attribué son prestigieux prix Sakharov 2026 pour la liberté de pensée à la Cour pénale internationale (CPI). Cette distinction honorifique vient saluer l'engagement continu de l'institution multilatérale en faveur de la justice internationale, des droits humains et de la lutte contre l'impunité dans le monde. La décision de Strasbourg intervient dans un contexte géopolitique particulièrement tendu, où les juridictions internationales font face à des pressions politiques accrues de la part de plusieurs grandes puissances. Le Parlement européen réaffirme ainsi son soutien indéfectible à l'indépendance de la justice internationale et au respect du droit international humanitaire.",
+     "why": "Cette attribution renforce la légitimité internationale de la CPI face aux contestations politiques mondiales.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    },
+    {
+     "source": "DW",
+     "lang": "en",
+     "url": "https://www.dw.com/en/raids-at-far-right-group-s-offices-at-european-parliament/a-79724631?maca=en-rss-en-world-4025-rdf",
+     "headline": "Raids at far-right group's offices at European Parliament",
+     "headlineEn": "Perquisitions dans les bureaux d'un groupe d'extrême droite au Parlement européen",
+     "summary": "Law enforcement authorities have conducted raids on the European Parliament offices of Patriots for Europe as part of an ongoing financial inquiry into party funding. Investigators are looking into potential irregularities in the management of funds allocated to political factions within the assembly. Representatives of the far-right group defended themselves by claiming that the alleged infractions concern its predecessor organisation, asserting that there is no legal continuity between the two entities. The operation marks a significant development in the oversight of European Union political funding, bringing fresh scrutiny to how political groups handle public funds provided for legislative activities.",
+     "why": "Ce coup de filet souligne le renforcement des contrôles financiers sur la gestion des fonds publics européens.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    },
+    {
+     "source": "Repubblica",
+     "lang": "it",
+     "url": "https://www.repubblica.it/politica/2026/10/22/news/migranti_italia_spagna_stop_sospensione_schengen-425666516/",
+     "headline": "Migranti, Italia e Spagna concordano lo stop a sospensione Schengen",
+     "headlineEn": "Migrants: Italy and Spain agree to end suspension of Schengen area",
+     "summary": "I governi di Italia e Spagna hanno raggiunto un accordo formale per porre fine alla sospensione dei controlli alla frontiera all'interno dello spazio Schengen. La decisione è arrivata al termine di un vertice bilaterale tra i ministri dell'Interno Matteo Piantedosi e Fernando Grande-Marlaska, a margine dei lavori del Consiglio europeo. Le due nazioni del Mediterraneo intendono così ripristinare la piena libertà di circolazione prevista dagli accordi comunitari, rafforzando contemporaneamente la cooperazione sulla gestione dei flussi migratori e sulla protezione delle frontiere esterne dell'Unione Europea. L'intesa segna un passo significativo verso il ritorno alla normalità per la mobilità transfrontaliera nell'Europa meridionale.",
+     "why": "La fin des contrôles aux frontières intérieures préserve l'acquis fondamental de la libre circulation européenne.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    }
+   ]
+  },
+  {
+   "name": "Économie & marchés",
+   "stories": [
+    {
+     "source": "Reuters",
+     "lang": "en",
+     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNa3pHaTAydzc2dGxNdlNJQ2FkbDl0UF9BUjhGUkpsSEVmTF9nT0lJekdnTU9VV29lTzdTMU1wUmxwSUdxUDNpVVhZLUg3UHZHbXFmcnkyNEVTTGd1RnZlbFROaTBRcjVSSVdRNE1mblk1UFZoczJsemxrYlZyczNpMmUyMTFfakxqNVd3Rl8xd3hUYlJweXdzSG5OV3cwS1RPZUE?oc=5",
+     "headline": "Norway's wealth fund posts $30 billion loss in third quarter",
+     "headlineEn": "Le fonds souverain norvégien enregistre une perte de 30 milliards de dollars au troisième trimestre",
+     "summary": "Norway's sovereign wealth fund, the world's largest, reported a loss of $30 billion for the third quarter as volatility in global equity markets dragged down returns. The fund, which manages over $1.5 trillion in assets derived from oil and gas revenues, was heavily impacted by stock market declines across technology and industrial sectors. Executives noted that fixed income and real estate investments provided only limited protection against equity market headwinds during this period. Despite the quarterly setback, the fund maintains a long-term investment horizon and continues to rebalance its global portfolio across international equity markets to capture long-term economic growth.",
+     "why": "Les pertes du premier fonds souverain mondial reflètent la vulnérabilité des investissements publics aux secousses boursières.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    },
+    {
+     "source": "Euronews",
+     "lang": "fr",
+     "url": "https://fr.euronews.com/2026/10/22/canada-devoile-un-plan-de-62-mds-pour-proteger-ses-industriels-face-aux-tarifs-de-trump",
+     "headline": "Canada : un plan de 6,2 milliards de dollars pour protéger l'industrie des tarifs de Trump",
+     "headlineEn": "Canada unveils $6.2bn plan to shield industry from Trump tariffs",
+     "summary": "Le Premier ministre canadien Mark Carney a présenté un plan de soutien massif de 6,2 milliards de dollars pour protéger les entreprises manufacturières du pays face aux nouveaux tarifs douaniers imposés par les États-Unis. Ottawa estime que ces mesures protectionnistes américaines affaiblissent les secteurs industriels des deux côtés de la frontière tout en renchérissant le coût de la vie pour les ménages. Ce programme d'aide financière vise à accompagner les exportateurs canadiens, à préserver les emplois industriels stratégiques et à stimuler l'investissement national. Le gouvernement espère ainsi limiter les retombées économiques négatives des tensions commerciales avec son principal partenaire commercial nord-américain.",
+     "why": "Ce plan massif illustre l'impact direct des politiques protectionnistes américaines sur le commerce transfrontalier.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    },
+    {
+     "source": "Reuters",
+     "lang": "en",
+     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNYlhBWjdBekVLajlGM3MwN1ZnWjRRMGR5OWxkalNveEVuNEJrUTBVOFBNM0x1dENhckFRUzFzMnh6VHVJd2dHMXFLa1ZGdkU4Qk1hUTRuYU9MRGJmcnJXNjRnOWEzdW83cktMemxLYUdyX0F5bTJfSTZFOU1wclRsWlkwRkdodHBEeG1qVW5GUFRsVXBsV05ScEdjbTJHNDg?oc=5",
+     "headline": "LSEG to buy Octus in $3.5 billion mega data analytics deal",
+     "headlineEn": "LSEG va acquérir Octus dans le cadre d'une méga-transaction d'analyse de données de 3,5 milliards de dollars",
+     "summary": "London Stock Exchange Group has agreed to acquire financial data analytics provider Octus in a transaction valued at $3.5 billion. The strategic acquisition aims to expand LSEG’s financial technology and data capabilities, strengthening its competitive position against global market data rivals. By integrating Octus's analytics platform, LSEG plans to deliver enhanced quantitative tools and real-time market insights to institutional clients worldwide. The deal underscores the continued wave of consolidation within the financial data industry as major exchange operators seek to diversify their revenues beyond traditional trading fees and capitalize on growing institutional demand for advanced market analytics and machine learning tools.",
+     "why": "Cette rachat confirme la course aux données financières avancées pour répondre aux besoins des marchés mondiaux.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    }
+   ]
+  },
+  {
+   "name": "Technologie & sciences",
+   "stories": [
+    {
+     "source": "AP",
+     "lang": "en",
+     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOcy05Z2ZHUXQ4TzJiVEJOcTBvQ2dqRExkREdGLTNBSXlhX1YzN3hPRXd6d3pPbFNlYnQ5WmVvbEpyT2p2UmVtYXA3VlF1S2Nhb1U4SFVJMy01MUpncTRSRUJTbXhqMFg4VFZEejktRlQyTEdSOEIxaEtBVkpITXBBTFFYMkN1VkVQbFMtdEV6TDhxNkdLYWYxa0sxdlJ5dVBHWXdtaHUyT255Qm8?oc=5",
+     "headline": "Meta ordered to pay New Mexico $25 billion for deceiving users about privacy on Facebook",
+     "headlineEn": "Meta condamné à verser 25 milliards de dollars au Nouveau-Mexique pour tromperie sur la confidentialité",
+     "summary": "A court has ordered Meta to pay $25 billion to the state of New Mexico after finding the company misled users regarding data privacy practices on Facebook. The landmark judgment follows an extensive legal battle concerning the handling of personal data and deceptive commercial practices linked to third-party data sharing. State officials argued that Meta repeatedly failed to safeguard user information while giving misleading assurances about its privacy controls. The decision represents one of the largest financial penalties ever imposed on a technology giant over consumer privacy violations, potentially setting a precedent for ongoing privacy litigation across multiple jurisdictions.",
+     "why": "Une sanction record qui alourdit la pression juridique sur la protection des données personnelles par les géants de la tech.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    },
+    {
+     "source": "Reuters",
+     "lang": "en",
+     "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQejBUXzcxOHI0Z0dYUTBSeHdDcWdKQTc5WDlnVk4xeml4UTJpTjViR19hc1JtWTJ4WjVfMXV6RDhxemYwOW94Z2xwdXJ3U19NR2NCV3NpMWYyanUzS0E0aVpXZ29pbTNleWk3Zkk4SmtacUJkM0g4enBRdGYydWVKS0QxUDNndG96WUduR1ltNHljZEotallkRXlYM1J2bmZscmRWVXh5NThHWUdlVmR6ZGlhMmRIUXMxd1E?oc=5",
+     "headline": "France reports first human Shamonda virus case",
+     "headlineEn": "La France signale son premier cas humain de virus Shamonda",
+     "summary": "Health authorities in France have confirmed the nation's first human infection with Shamonda virus, an arbovirus typically transmitted by insects and historically detected in livestock. Public health officials have initiated epidemiological investigations to trace the origin of the infection and assess potential local transmission risks. Medical experts are monitoring the patient closely while emphasizing that human cases of this vector-borne virus remain extremely rare. Surrounding health surveillance networks have been placed on heightened alert to identify any additional suspected cases, while research institutes work to analyze the genomic strain and evaluate the broader biosecurity implications for the region.",
+     "why": "L'émergence de nouveaux virus transmis par des vecteurs ravive les défis de surveillance sanitaire globale.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    },
+    {
+     "source": "AFP",
+     "lang": "en",
+     "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE02WU5wcTUzSVlRWVllVGdXU2FsVXNsaDJkU0pZeE9JejBkaWtHVjYwSE9VQ3VRYUhXVTl4LXBkMjF0NXp5bzRaRnE3UQ?oc=5",
+     "headline": "UN issues call to arms to combat off-the-charts El Nino",
+     "headlineEn": "L'ONU lance un appel à la mobilisation pour combattre un phénomène El Niño record",
+     "summary": "The United Nations has issued an urgent global call to action to address the catastrophic environmental and humanitarian impacts of an unprecedented El Niño climate pattern. UN agencies warn that record-breaking ocean temperatures are triggering severe weather extremes globally, including prolonged droughts, intense heatwaves, and devastating tropical storms. International climate scientists report that weather disruptions have severely damaged agricultural yields, exacerbating water scarcity and food insecurity in vulnerable regions. The UN urges governments to mobilize emergency climate funding, strengthen disaster preparedness infrastructure, and accelerate adaptation measures to mitigate the escalating ecological risks associated with extreme climate volatility.",
+     "why": "L'intensification des événements climatiques extrêmes exige une réponse financière et logistique d'urgence.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    }
+   ]
+  },
+  {
+   "name": "Sport",
+   "stories": [
+    {
+     "source": "RTL.lu",
+     "lang": "fr",
+     "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxORHlDR2hhS0ZXVE5ZTFl5QTNDeExYNTlUVVE5c3JNN0t0anZmVjJZeEFENEVmZms4ZTJ2ckpuVk1BZldRckhlallUV3NXYmU2b2pMQVRlV0tYd2p4TUx1cmM3OXpxX25vLTVZYzhCWTZ3TUpIVk82cm01Q3RGT0hPMDk2MVRGcS1KWkZCajloMlpmVDBfMFhCbTlSNVRqcjVuNW1YRm5WVkhJbWVJRzRfSmJ5UDNtN2VQZUNwN0FIY3g?oc=5",
+     "headline": "Ligue des champions: Le Real Madrid fait plier Leipzig avec des bijoux de Mbappé et Diomandé",
+     "headlineEn": "Champions League: Real Madrid defeat Leipzig with stunning goals from Mbappé and Diomandé",
+     "summary": "En Ligue des champions, le Real Madrid s'est imposé face à Leipzig grâce à des réalisations spectaculaires de Kylian Mbappé et de Diomandé. Les Madrilènes ont su faire la différence durant les moments clés de la rencontre pour empocher trois points précieux. Cette victoire confirme la bonne forme de l'équipe espagnole dans la compétition européenne, portée par l'efficacité offensive de ses attaquants vedettes.",
+     "why": "Une victoire solide qui conforte la position de Madrid parmi les favoris de la Ligue des champions.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    },
+    {
+     "source": "France 24",
+     "lang": "fr",
+     "url": "https://www.france24.com/fr/%C3%A9missions/sports/20261022-manchester-united-s-incline-lourdement-%C3%A0-c%C3%B4me-en-ligue-des-champions",
+     "headline": "Manchester United s'incline lourdement à Côme en Ligue des champions",
+     "headlineEn": "Manchester United suffer heavy defeat at Como in Champions League",
+     "summary": "Manchester United a subi une lourde défaite 4-1 sur le terrain de Côme en Ligue des champions. Les Red Devils traversent une crise majeure et restent désormais sans victoire depuis sept matchs toutes compétitions confondues. De son côté, la formation italienne entraînée par Cesc Fàbregas poursuit son excellent parcours européen en grimpant à la neuvième place du classement général de la compétition.",
+     "why": "Ce revers cuisant accentue la crise sportive d'un des géants historiques du football anglais.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    }
+   ]
+  }
+ ],
+ "sourced": true,
+ "feeds": {
+  "ok": 28,
+  "of": 29,
+  "items": 262,
+  "skipped": [
+   "Washington Post (EN): HTTP 502"
+  ]
+ },
+ "words": 4321,
+ "readMin": 22,
+ "storyCount": 25
+}
