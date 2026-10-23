@@ -1,0 +1,405 @@
+{
+ "date": "2026-10-23",
+ "kind": "daily",
+ "heat": 0.85,
+ "oneThing": "Global tech systems face urgent patching after AI discovered a critical PHP flaw affecting seventy percent of websites worldwide.",
+ "followUps": [
+  {
+   "n": "01",
+   "thread": "Starlink et communications militaires en Ukraine",
+   "change": "Donald Trump affirme que les limites d'accès ont été levées par Elon Musk, mais les autorités de Kiev indiquent que les restrictions sur Starshield demeurent."
+  },
+  {
+   "n": "02",
+   "thread": "Élections législatives et sécurité en Israël",
+   "change": "Benyamin Netanyahu ordonne de préparer le bouclage de la Cisjordanie suite à une attaque armée près de Hébron, à quatre jours du scrutin."
+  },
+  {
+   "n": "03",
+   "thread": "Faille informatique mondiale PHP",
+   "change": "La vulnérabilité critique découverte par l'IA dans le langage PHP suscite des vagues de mises à jour d'urgence au sein des administrations et entreprises."
+  }
+ ],
+ "mustReads": [
+  {
+   "desk": "International",
+   "source": "BBC",
+   "lang": "EN",
+   "paywalled": false,
+   "url": "https://www.bbc.co.uk/news/articles/cq74pjpmx0e8o?at_medium=RSS&at_campaign=rss",
+   "headline": "Ukraine says Starlink still restricted after Trump says limits lifted",
+   "headlineEn": "L'Ukraine affirme que Starlink reste restreint après les déclarations de Trump sur la levée des limites",
+   "contested": "Donald Trump soutient que le service a été totalement rétabli par Elon Musk, alors que les responsables et militaires ukrainiens signalent que des restrictions significatives demeurent en place.",
+   "why": "La connectivité satellitaire conditionne la coordination de la défense aérienne et les frappes de drones sur le front ukrainien.",
+   "stat": "",
+   "statLabel": "",
+   "chart": null,
+   "paras": [
+    "Ukrainian defense officials report that satellite communications provided by Starlink remain subject to significant operational restrictions across active frontlines. This statement directly contradicts recent assertions made by US President Donald Trump, who publicly announced that billionaire owner Elon Musk had fully lifted previous connectivity limits. The Ukrainian military continues to rely heavily upon these satellite systems for essential command operations, real-time tactical communications, and battlefield coordination. However, field commanders confirm that service disruptions continue to impair critical defense tasks during ongoing combat operations against opposing Russian military forces.",
+    "The core of the dispute involves Starshield, the specialized military variant of the Starlink satellite network explicitly designed for government and defense applications. Ukrainian military forces utilize Starshield to operate long-range reconnaissance drones, manage interceptor UAVs, and direct targeted strikes against occupied positions. According to reports, recent administrative or technical slowdowns ordered within the network severely hindered these defensive capabilities. Ukrainian volunteer groups funding military equipment emphasized that while connectivity returned for specific units, overall network performance remains fragmented and unpredictable across critical sectors.",
+    "Political friction surrounding Elon Musk's control over crucial military communications infrastructure has intensified significantly in recent months. Critics argue that private decision-making regarding satellite availability grants unprecedented leverage over sovereign military operations during an active international conflict. Musk has repeatedly denied intentionally restricting access for Ukrainian military units, maintaining that operational guidelines and technical parameters govern the service. Nevertheless, the reliance of Ukrainian armed forces on a single commercial provider creates significant operational vulnerabilities that military analysts warn could affect defensive sustainability during prolonged artillery and drone engagements.",
+    "The timing of these communication problems coincides with aggressive Russian drone and missile bombardments aimed at major Ukrainian urban centers, including the capital city of Kyiv. Air defense teams depend on instantaneous satellite data links to track incoming aerial threats and coordinate defensive counter-fire effectively. When Starshield experiences sudden bandwidth caps or signal dropouts, interception response times suffer measurable delays. Ukrainian officials have repeatedly appealed to international partners to secure guaranteed, unthrottled satellite access to prevent potential gaps in air defense coverage during massive missile saturation attacks.",
+    "Diplomatic discussions regarding satellite security have drawn increasing attention from both European and American political leaders. While President Trump expressed confidence that connectivity issues had been resolved following high-level discussions, Ukrainian leadership under President Volodymyr Zelensky confirmed that technical problems persisted on the ground. This divergence highlights growing concerns about how diplomatic rhetoric aligns with actual frontline technical realities. European security experts note that dependable communication infrastructure remains indispensable if Ukrainian forces are to maintain defensive positions along extended engagement lines.",
+    "As military operations continue under challenging conditions, Ukrainian forces are actively exploring alternative satellite communication frameworks to mitigate potential single-point vulnerabilities. However, replacing the vast bandwidth and extensive satellite coverage offered by the Starlink constellation presents formidable technical and financial obstacles. Military logistics teams must balance immediate operational requirements with long-term strategic resilience. For now, Ukrainian units on the front lines must adapt their tactical operations to withstand fluctuating satellite signal strength while maintaining essential defense capabilities against advancing opposing forces."
+   ]
+  },
+  {
+   "desk": "Technology",
+   "source": "PBS News",
+   "lang": "EN",
+   "paywalled": false,
+   "url": "https://www.pbs.org/newshour/nation/ai-discovered-a-software-vulnerability-that-could-impact-70-of-websites-worldwide-the-rush-is-on-to-patch-it",
+   "headline": "AI discovered a software vulnerability that could impact 70% of websites worldwide. The rush is on to patch it",
+   "headlineEn": "L'IA découvre une vulnérabilité logicielle pouvant toucher 70 % des sites web mondiaux, déclenchant une course au patch",
+   "contested": "",
+   "why": "Cette faille critique touche le langage de programmation sous-jacent d'une grande majorité de la toile mondiale.",
+   "stat": "70%",
+   "statLabel": "proportion de sites web mondiaux potentiellement exposés à la vulnérabilité PHP",
+   "chart": null,
+   "paras": [
+    "Governments, international corporations, and cybersecurity teams worldwide are rushing to deploy critical software patches after artificial intelligence systems identified a severe vulnerability within the PHP programming language. Security experts warn that this critical flaw potentially exposes up to seventy percent of all active websites across the global internet to malicious exploitation. System administrators worked through the night to update compromised servers, while several national agencies and major service providers temporarily took affected web platforms offline to prevent unauthorized access and potential data breaches.",
+    "The discovered vulnerability affects core components of the widely used PHP server-side scripting language, which powers millions of commercial websites, government portals, and content management systems globally. Because PHP serves as foundational software for web infrastructure, an unpatched exploit allows malicious actors to execute arbitrary code remotely, bypass authentication protocols, or disrupt vital online services. Security researchers noted that the automated discovery of this flaw by artificial intelligence highlights both the revolutionary power and potential risks of AI-driven code analysis tools.",
+    "In response to the widespread threat, governments and major technology hubs have initiated emergency cyber defense protocols to safeguard critical infrastructure. In Japan, government agencies announced plans to simulate widespread cyberattacks to test resilience against potential exploits targeting PHP installations. National cybersecurity centers across Europe and North America issued urgent advisories instructing organizations to apply security updates immediately. Experts stress that failure to patch affected systems promptly could lead to coordinated ransomware attacks, severe financial losses, and widespread operational disruptions across multiple industrial sectors.",
+    "Financial markets and technology stocks experienced visible volatility as news of the global software vulnerability added to broader investor anxieties surrounding digital infrastructure stability. Web hosting companies, cloud service providers, and e-commerce platforms reported massive spikes in server maintenance activity as engineering teams scrambled to update legacy code. The discovery has reignited intense debate among software developers regarding the long-term security implications of relying heavily on open-source programming languages that underpin significant portions of the global digital economy.",
+    "Cybersecurity specialists emphasize that automated threat hunting powered by artificial intelligence represents a double-edged sword for digital defense. While AI algorithms can scan millions of lines of code to locate obscure vulnerabilities far faster than human programmers, malicious actors can utilize similar AI tools to construct exploits targeting unpatched systems. Consequently, the window between vulnerability disclosure and potential exploitation has shrunk dramatically, forcing IT departments to adopt continuous, automated patch management practices to maintain adequate security standards.",
+    "As patching efforts continue around the clock, technical teams report that a substantial proportion of major public websites have successfully updated their software installations and restored normal operations. However, millions of smaller commercial sites and legacy servers remain vulnerable due to delayed maintenance schedules or lack of dedicated security personnel. Cybersecurity authorities urge all web administrators to audit their server configurations immediately and apply manufacturer-provided patches to ensure comprehensive protection against potential global cyber exploits."
+   ]
+  },
+  {
+   "desk": "Moyen-Orient",
+   "source": "France 24",
+   "lang": "FR",
+   "paywalled": false,
+   "url": "https://www.france24.com/fr/moyen-orient/20261023-netanyahu-ordonne-de-pr%C3%A9parer-le-bouclage-total-de-la-cisjordanie-occup%C3%A9e-apr%C3%A8s-une-attaque",
+   "headline": "Netanyahu ordonne de préparer le \"bouclage total\" de la Cisjordanie occupée après une attaque",
+   "headlineEn": "Netanyahu orders preparation for total lockdown of occupied West Bank after attack",
+   "contested": "",
+   "why": "Cette décision sécuritaire majeure intervient à quatre jours seulement du scrutin législatif israélien.",
+   "stat": "5",
+   "statLabel": "nombre de personnes blessées lors de l'attaque armée près de Hébron",
+   "chart": null,
+   "paras": [
+    "Le Premier ministre israélien Benyamin Netanyahu a ordonné à l'armée de préparer un bouclage total de la Cisjordanie occupée à la suite d'une attaque armée survenue près de la ville de Hébron. Cet incident violent a fait cinq blessés, dont deux se trouvent dans un état critique, tandis que les deux assaillants ont été abattus par les forces de sécurité. L'annonce de ce bouclage sécuritaire intervient dans un climat politique particulièrement tendu, à seulement quatre jours des élections législatives anticipées prévues le 27 octobre.",
+    "En raison de l'escalade sécuritaire, le Premier ministre Netanyahu a immédiatement annulé l'ensemble des rassemblements électoraux du parti Likoud programmés pour la journée. Les forces armées israéliennes ont parallèlement lancé d'importantes opérations qualifiées de mesures antiterroristes dans plusieurs secteurs de la Cisjordanie. Les autorités militaires cherchent à prévenir d'éventuelles répliques ou des attaques coordonnées à l'approche du scrutin. Ce déploiement de force massif souligne la place centrale occupée par les questions de sécurité nationale dans l'opinion publique israélienne.",
+    "Ces récents événements dramatiques renforcent l'importance des enjeux militaires et sécuritaires au cœur de la campagne électorale législative. Il s'agit en effet du premier scrutin organisé depuis les attaques dévastatrices menées par le Hamas le 7 octobre 2023 et le déclenchement des hostilités dans la bande de Gaza. Dans ce contexte troublé, les candidats s'affrontent sur la gestion du conflit, le rôle des forces armées et la conscription, notamment la question controversée du service militaire des juifs ultra-orthodoxes.",
+    "Sur le plan politique, l'ancien chef d'état-major Gadi Eisenkot émerge comme l'un des principaux rivaux de Benyamin Netanyahu pour le poste de Premier ministre. Eisenkot propose une alternative ferme sur le plan de la sécurité nationale tout en critiquant vivement le style de gouvernance du chef du gouvernement sortant. Les sondages d'opinion indiquent une compétition électorale particulièrement serrée, où la perception de la capacité des dirigeants à garantir la sécurité des citoyens influencera de manière décisive le vote final des électeurs.",
+    "Le bouclage complet de la Cisjordanie entraîne des répercussions immédiates et sévères sur la mobilité quotidienne ainsi que sur l'activité économique de la population palestinienne. Les points de passage et les barrages routiers mis en place par l'armée restreignent considérablement les déplacements entre les différentes localités. Les organisations humanitaires expriment leurs inquiétudes face à ces restrictions de circulation renforcées, avertissant que le blocage des voies d'accès risque d'aggraver les difficultés économiques préexistantes et d'exacerber les tensions sociales régionales.",
+    "À l'approche immédiate du vote de mardi, le pays demeure dans un état de vigilance sécuritaire maximale. Les autorités administratives et les responsables des forces de l'ordre mettent en œuvre des mesures exceptionnelles pour sécuriser les bureaux de vote et prévenir tout incident majeur le jour du scrutin. Cette élection cruciale déterminera non seulement la future composition du gouvernement israélien, mais orientera également les choix stratégiques et diplomatiques de la nation pour les années à venir."
+   ]
+  }
+ ],
+ "desks": [
+  {
+   "name": "Luxembourg",
+   "stories": [
+    {
+     "source": "RTL.lu",
+     "lang": "lb",
+     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNaVc5TlhSMmw5NnhwVDVobXRBMk9qd2JyaDctOUNIQnhIQURIWEJhdlFpRXNrMC1qeVpJTTBXbUxieXYzSkl6aXJTV1kzZWlzdGtsOHhoel91QkxJZi03akdoemVYMHJBQ2tpY1I3YlhqY1lTZkxxb0haZm8zNEVjZGt4TGNjU21uZEtfb3VmU3Z6YzQ3M3ZYSVphejBqRUduVHNnZ3pkQU0ybEU?oc=5",
+     "headline": "Atomzentral Cattenom: Greenpeace Lëtzebuerg warnt op en Neits viru Lafzäitverlängerung",
+     "headlineEn": "Cattenom Nuclear Power Plant: Greenpeace Luxembourg warns again against lifetime extension",
+     "summary": "Greenpeace Lëtzebuerg fuerdert nach eng Kéier eng kloer Positioun an de konkrete Stopp vun de Pläng, fir d'Lafzäit vun der Franséischer Atomzentral zu Cattenom ze verlängeren. D'Sécherheetsrisiken an d'Alterung vun der Infrastruktur bleiwen no Meenung vun den Ëmweltaktivisten eng konstant Menace fir d'Grenzregioun an d'Lëtzebuerger Bevëlkerung. Greenpeace betont, datt Amplaz vu kriteschen Investitiounen an al Atommeileren, vill méi séier a méi konsequent an erneierbar Energie a Regional Energienetzer investéiert gi muss. D'Organisatioun appelléiert un déi Lëtzebuerger Regierung, sech och op europäeschem Plang fir den Ausstig an d'Schléissung vun eelere Reaktoren an der Noperschaft anzesetzen.",
+     "why": "L'avenir des réacteurs de Cattenom constitue un enjeu environnemental et sécuritaire majeur pour le Grand-Duché.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    },
+    {
+     "source": "RTL.lu",
+     "lang": "lb",
+     "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQYjk2aTFUSGtBdkdlZ05fSTY0MVlqSldqUHpQaWhyajViYkpXSTBjd0tfSFh4YXVvMlFVYzZ4ZnpRQ2JQN2ktUFctTHBkOGdYZXFqMlpWd01fOWlLcVcyWUJITlZ3SG1mR0NJS01DNE1pNm1QQXd3SFFCWi1IakJnOGhGMGlyN0hCZGhuYWd2WjVMU1pOdUktVU03aHNGYV8xdC0xS1FjZVJMTzJCcDl1eXF4WnhtTXZ6ZWhGZnl3U2FHcFV1RkZZVVVDV05RMWc5YXJ3WWI4Rlp5eWRhN1BfVzdYaw?oc=5",
+     "headline": "Pol Sassel: Die geplante belgische Pkw-Maut ab 2027 – Ein Schildbürgerstreich auf Kosten der Grenzregionen",
+     "headlineEn": "Pol Sassel: The planned Belgian passenger car toll from 2027 – An absurdity at the expense of border regions",
+     "summary": "Déi geplangt Maut fir Pkwen an der Belsch ab dem Joer 2027 suergt fir verstäerkt Kritik op de Grenzen. Den Auteur Pol Sassel bezeechent dës Pläng als eng Moossnam, déi virun allem déi deeglech Grenzgänger an d'Wirtschaft vun de Grenzregiounen schwéier belaschte wäert. Amplaz eng harmonesch an grenziwwerschreidend Mobilitéit an der Groussregioun ze förderen, ginn nei bürokratesch a finanziell Barrièren opgeriicht. Dës Maut kéint de Pendlerverkéier tëscht Lëtzebuerg an der Belsch däitlech erschweren an den Austausch an der Regioun beeinträchtegen. D'Kritiker verlaangen dohier eng Iwwerdaachung vun de Pläng an eng besser Abstëmmung tëscht de regionalen Autoritéiten.",
+     "why": "L'instauration d'un péage autoroutier belge impacterait directement les milliers de frontaliers luxembourgeois.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    },
+    {
+     "source": "Luxemburger Wort",
+     "lang": "de",
+     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPWEsxMFpIT28zNVk5THRNR09ZQVpsYnFsckNZNm9qMWRpWkRKR2tNTVhUeDNsZUtpZTdVR3dlUGRlR0xIeDNqM2NoNTNBY3lsVUlwVDc5YUd6Y05uX05Yc3RKbjFiUTl1QjFqb2JtVFVjNFZ6aHRJQ2lSYndiTmFHY2d1cldpUUVnQ0V6NjhzdlRKVExXWmtUbTJPRmItczRKRVZGcFBKYw?oc=5",
+     "headline": "Spritpreisanpassung: Diesel und Heizöl werden wieder teurer",
+     "headlineEn": "Fuel price adjustment: Diesel and heating oil become more expensive again",
+     "summary": "In Luxemburg müssen Autofahrer und Haushalte ab sofort wieder spürbar tiefer für ihre alltäglichen Kraftstoffe und für Heizöl in die Tasche greifen. Die zuständigen Behörden haben eine offizielle Anpassung der amtlichen Höchstpreise angekündigt, bei der sowohl der Liter Diesel als auch Heizöl im Verkauf deutlich nach oben korrigiert werden. Diese Preissteigerungen spiegeln die aktuellen Turbulenzen und die schwankenden Notierungen auf den internationalen Rohölmärkten wider, welche derzeit stark durch geopolitische Konflikte beeinflusst werden. Für die vielen Pendler, lokalen Transportunternehmen und privaten Haushalte im Großherzogtum bringt diese Neuregelung eine weitere spürbare finanzielle Mehrbelastung mit sich.",
+     "why": "La hausse des prix des carburants pèse immédiatement sur le pouvoir d'achat des ménages et des entreprises au Luxembourg.",
+     "paywalled": true,
+     "contested": "",
+     "chart": null
+    }
+   ]
+  },
+  {
+   "name": "Monde / géopolitique",
+   "stories": [
+    {
+     "source": "AFP.com",
+     "lang": "en",
+     "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9kdWExekYwVmV6RlVJUnh1MF9rakE0TTlhNFd2aEJxZVBqSnh0OWhDQUttUW55NmJzN1dvR2M1ejg3cnZzRkNEcGlocw?oc=5",
+     "headline": "Around 150,000 rally in Belgrade as Serbia heads to pivotal poll",
+     "headlineEn": "Environ 150 000 personnes manifestent à Belgrade alors que la Serbie s'apprête à des élections cruciales",
+     "summary": "Around 150,000 people gathered in Belgrade to join opposition demonstrations as Serbia prepares for a crucial national election. President Aleksandar Vučić faces growing public discontent and a unified opposition movement backed by youth groups challenging his long-standing rule. Critics and international observers have raised serious concerns over potential electoral fraud, political pressure, and state media control during a tense campaign. This massive turnout in the capital highlights the high political stakes of the upcoming vote as the opposition seeks to end years of autocratic governance.",
+     "why": "Les législatives en Serbie pourraient bousculer l'équilibre politique dans les Balkans occidentaux.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    },
+    {
+     "source": "DW",
+     "lang": "en",
+     "url": "https://www.dw.com/en/bulgaria-concerns-about-security-in-the-black-sea-dominate-presidential-election-campaign/a-79729094?maca=en-rss-en-world-4025-rdf",
+     "headline": "Bulgaria: Concerns about security in the Black Sea dominate presidential election campaign",
+     "headlineEn": "Bulgarie : Les préoccupations de sécurité en mer Noire dominent la campagne présidentielle",
+     "summary": "Bulgaria's upcoming presidential election campaign is heavily dominated by national security concerns and the ongoing war between Russia and Ukraine. Recent drone attacks targeting commercial shipping in the Black Sea have heightened fears over regional stability and maritime safety. Candidate Iliana Iotova, who leads in opinion polls ahead of Sunday's first round, has advocated for dialogue with Moscow while expressing caution regarding military assistance to Ukraine. The vote has turned foreign policy into a central battleground, testing the electorate's stance on Sofia's commitment to Western military aid versus calls for regional peace and neutrality.",
+     "why": "La politique étrangère bulgare face à la Russie demeure un point clé pour la sécurité du bassin de la mer Noire.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    },
+    {
+     "source": "Reuters",
+     "lang": "fr",
+     "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPYnlvODRCMmpmLTBzaUpRakVPeXBXX3JtTjhZNVA0TWhRNUVZQUh1NGg2eHJ6RTZfQy16cktsckJVeWlfajRkQTFCOGlmYUhGbkdFQkNSTkxCS1dKUnpiOWNURl9RVk9Za0V6UDk5cG0yUzVDeS1HNk1BZ2Rzc0I0MlREUFZOSk82ZXZhaW94QTdEYjExMlVyalRQWE9CRzc5em9HVDMza0pQb0JJekZRN3ZBeV96NEE5TEtiY1hMWkg?oc=5",
+     "headline": "France/PMI Contraction inattendue de l'activité économique en octobre, les pressions politiques et financières pèsent",
+     "headlineEn": "France/PMI Unexpected contraction in economic activity in October, political and financial pressures weigh",
+     "summary": "L'activité économique en France a subi une contraction inattendue au mois d'octobre, selon les derniers indices PMI publiés jeudi. Ce repli s'explique principalement par la persistance des tensions politiques internes et par les incertitudes financières qui pèsent lourdement sur la confiance des entreprises et des ménages. Les secteurs des services et de la manufacture enregistrent un ralentissement marqué de leurs nouvelles commandes. Cette dégradation conjoncturelle alimente les craintes d'un affaiblissement prolongé de la deuxième économie de la zone euro dans un contexte de mouvements sociaux et de débats budgétaires particulièrement tendus.",
+     "why": "La contraction économique en France reflète une fragilité croissante au cœur de la zone euro.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    }
+   ]
+  },
+  {
+   "name": "International — hors Europe",
+   "stories": [
+    {
+     "source": "Al Jazeera",
+     "lang": "en",
+     "url": "https://www.aljazeera.com/news/2026/10/23/are-global-oil-reserves-sufficient-to-withstand-renewed-us-iran-war?traffic_source=rss",
+     "headline": "Are global oil reserves sufficient to withstand renewed US-Iran war?",
+     "headlineEn": "Les réserves mondiales de pétrole sont-elles suffisantes pour résister à une nouvelle guerre entre les États-Unis et l'Iran ?",
+     "summary": "Global energy analysts are raising urgent concerns over whether international emergency oil reserves can withstand a potential escalation in the confrontation between the United States and Iran. With global strategic petroleum stocks currently sitting at multi-decade lows, experts warn that any major disruption to shipping through the Strait of Hormuz could trigger severe market turmoil. Analysts estimate that current reserves might only buffer global supply for one to two months in the event of a sustained conflict. The vulnerability of maritime trade routes in the Middle East continues to keep energy markets on high alert.",
+     "why": "La vulnérabilité des réserves de pétrole face aux tensions dans le détroit d'Ormuz menace l'économie mondiale.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    },
+    {
+     "source": "NPR",
+     "lang": "en",
+     "url": "https://www.npr.org/2026/10/23/nx-s1-6004277/brazil-vote-runoff-lula-bolsonaro",
+     "headline": "Brazil's runoff: Lula's legacy vs. Bolsonaro's dynasty",
+     "headlineEn": "Second tour au Brésil : l'héritage de Lula face à la dynastie Bolsonaro",
+     "summary": "Brazil is heading into a fiercely contested presidential runoff election pitting incumbent leftist President Luiz Inácio Lula da Silva against Flávio Bolsonaro, representing the right-wing political dynasty. Campaigning across key battleground states highlights deep ideological divisions over economic policies, social welfare programs, and fiscal discipline. While Lula points to his administration's poverty reduction record, his rival has gained momentum among middle-class voters and evangelical groups who remain dissatisfied with living costs. The vote represents a decisive crossroads for South America's largest economy and its future political trajectory.",
+     "why": "L'issue du second tour au Brésil déterminera l'orientation politique et économique de la plus grande puissance sud-américaine.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    },
+    {
+     "source": "AP News",
+     "lang": "en",
+     "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxORldaOFZPaTBpbVQ2N05EYjc0VlEzMVFUSHNTY0NZMTlUQnQwRTd2MTk0YU96N1N6WUlFZ2R5c3RnZ0FCNWkwemZlV1FmM3dfSVlFekRYc3AwQ2U4WmhESG5pT0xPT2NDUVNxLUZtMlFQNmFkYjN0TmRfUnF2azNnR3Z0aVVsZE16OGc?oc=5",
+     "headline": "Powerful earthquake in China’s Tibet region collapses hundreds of homes and kills at least 16 people",
+     "headlineEn": "Un puissant séisme dans la région du Tibet en Chine détruit des centaines de maisons et fait au moins 16 morts",
+     "summary": "A powerful magnitude 7.0 earthquake struck a remote, mountainous region in China's Tibet Autonomous Region, killing at least 16 people and injuring dozens more. Emergency response teams and military personnel were deployed to the area after the tremor caused hundreds of residential buildings to collapse overnight. Displaced residents were forced to seek shelter in temporary camps amidst freezing night temperatures as rescue operations continued through the debris. Authorities warned that aftershocks could trigger landslides, complicating emergency relief efforts and access to isolated mountain villages across the affected zone.",
+     "why": "Ce séisme majeur touche une région montagneuse vulnérable et nécessite des secours d'urgence complexes.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    },
+    {
+     "source": "NPR",
+     "lang": "en",
+     "url": "https://www.npr.org/2026/10/23/nx-s1-6012784/aung-san-suu-kyi-son-phone-call-myanmar",
+     "headline": "After nearly 6 years, ex-Myanmar leader Aung San Suu Kyi's son hears her voice",
+     "headlineEn": "Après près de 6 ans, le fils de l'ancienne dirigeante du Myanmar Aung San Suu Kyi entend sa voix",
+     "summary": "Kim Aris, the son of ousted Myanmar leader Aung San Suu Kyi, has spoken directly with his mother for the first time in nearly six years. The Nobel Peace Prize laureate has been held in detention by Myanmar's military junta since the February 2021 coup that removed her democratically elected government from power. Aris reported that while his 81-year-old mother sounds mentally strong, she is suffering from severe physical pain and remains restricted to a military-controlled residence in the capital. The rare contact comes amid ongoing international calls for her unconditional release.",
+     "why": "Cette rare communication met en lumière le sort des prisonniers politiques sous la junte militaire au Myanmar.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    },
+    {
+     "source": "Foreign Affairs",
+     "lang": "en",
+     "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNQmZYaWp1Uzh0N04wZkhQZnJXMGpYbnJlOUpMZFR3blhVa2gwOHg2SnZpNXdsLU40eUF6ZTdPOC1QWVVsMFR6NUtNNHJXZWVwcWhQZWFMTmdHOFJCQU5vTWJQMzdFdTZPTlJBdWF5OFBsVDJ4WUxJQkZMX2lYdlRCZkZrczR6UTRDRlk1aVVONk5sZlNwV1E?oc=5",
+     "headline": "What India’s Protests Reveal About the Future of Liberalism",
+     "headlineEn": "Ce que les manifestations en Inde révèlent sur l'avenir du libéralisme",
+     "summary": "An analysis in Foreign Affairs examines how widespread civil protests in India are signaling broader global shifts in the evolution of democratic institutions and liberal governance. The article explores how grass-roots movements, driven largely by youth and labor groups, are challenging state authority and executive overreach in the world's most populous nation. These demonstrations highlight a growing friction between populist electoral mandates and traditional constitutional protections for freedom of speech and assembly. The essay argues that India's domestic political struggles offer crucial insights for the future resilience of liberal democracy across emerging market nations.",
+     "why": "Les mouvements sociaux en Inde illustrent la confrontation globale entre exécutifs autoritaires et libertés publiques.",
+     "paywalled": true,
+     "contested": "",
+     "chart": null
+    }
+   ]
+  },
+  {
+   "name": "Europe & politiques de l'UE",
+   "stories": [
+    {
+     "source": "Euronews",
+     "lang": "EN",
+     "url": "https://www.euronews.com/2026/10/23/albanian-opposition-and-ruling-party-lawmakers-scuffle-in-parliament-over-student-protest-",
+     "headline": "Albanian opposition and ruling party lawmakers scuffle in parliament over student protest tensions",
+     "headlineEn": "Des députés albanais de l'opposition et du pouvoir en viennent aux mains au Parlement sur fond de manifestations étudiantes",
+     "summary": "Chaotic scenes gripped the Albanian parliament in Tirana after parliamentary leadership rejected opposition demands to debate ongoing student demonstrations. Lawmakers from rival parties scuffled inside the chamber as tensions escalated dramatically. Outside the building, student protesters continued their mobilization for a tenth consecutive day, voicing anger over corruption, public services, and economic hardship. Prime Minister Edi Rama dismissed the movement by claiming foreign antifa influences were behind the unrest, an explanation widely rejected by critics and student leaders alike as protests show no signs of abating across the capital.",
+     "why": "Les tensions politiques en Albanie soulignent la détérioration du climat social et posent des questions sur la stabilité démocratique du pays.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    },
+    {
+     "source": "Reuters",
+     "lang": "EN",
+     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOek1pWHNVaXhQa0ZCNnZBTnNfUEtQR0U4ZEktWjE4YXVubXB4b0p6NUtZRnZPamdIYVZrcVJYVkJRNk1ibi1HRE9uQzk1MXhObjc0dnpRU2g1N0RfUnhFZjg2Z3dNTW1ZUzBIdTRPVWZtMkpVNHhWcldmUHo5Mm9oME1RbDhfOWlYTm1KUXFkSlRhMzVSTVkwMHVGVUZMeTdSQ1lN?oc=5",
+     "headline": "Greece passes social media ban for children under 15",
+     "headlineEn": "La Grèce vote l'interdiction des réseaux sociaux pour les moins de 15 ans",
+     "summary": "Greece’s parliament has formally passed legislation banning children under the age of 15 from accessing social media platforms. The measure reflects growing concern among European policymakers regarding the impact of digital platforms on youth mental health, online safety, and cyberbullying. Under the new law, tech companies will be required to implement stricter age-verification mechanisms to prevent underage access. Greece joins an expanding group of European nations seeking tighter regulatory boundaries around children's digital exposure, setting up potential enforcement challenges for global tech firms operating within the European Union's broader legal framework.",
+     "why": "Cette loi illustre la volonté croissante des pays européens de réguler strictement l'accès des mineurs aux plateformes numériques.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    },
+    {
+     "source": "DW",
+     "lang": "EN",
+     "url": "https://www.dw.com/en/raids-at-far-right-group-s-offices-at-european-parliament/a-79724631?maca=en-rss-en-world-4025-rdf",
+     "headline": "Raids at far-right group's offices at European Parliament",
+     "headlineEn": "Perquisitions dans les bureaux d'un groupe d'extrême droite au Parlement européen",
+     "summary": "European law enforcement authorities conducted raids at the European Parliament offices of the far-right political group Patriots for Europe as part of an ongoing financial investigation into political funding. Investigators searched the premises following allegations concerning funding irregularities linked to the group's predecessors. Representatives for Patriots for Europe defended themselves by asserting that there is no legal continuity between their current entity and the former organization under scrutiny. The raids highlight the persistent judicial scrutiny surrounding political party financing within EU institutions and intensify political debate across the European assembly.",
+     "why": "Ces perquisitions ravivent les débats sur le financement des partis politiques et la transparence au sein du Parlement européen.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    }
+   ]
+  },
+  {
+   "name": "Économie & marchés",
+   "stories": [
+    {
+     "source": "Reuters",
+     "lang": "EN",
+     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxONjE0Qml6Mkw5WkFyRXlUcjZ3QTE3LWtGVF9kckI3cExBa0dsaHM2S1dyY1IzZnk0aFlYOGc4M1RoYzd0TVQ0aVNWM1I1RmVCRTNDcURBeHluNDFOOEJaMXVaOUo5ZGN0U0RoTFNuUmJHSjVSdFQzcHdCbHdyNHU1cUFaU290VVhzbV9HbVJjeDJrNGV1TGJOdmNzaHdmR29H?oc=5",
+     "headline": "Volvo Cars shares slump on big loss, 2,500 more jobs to go",
+     "headlineEn": "L'action Volvo Cars s'effondre après une lourde perte et 2 500 suppressions d'emplois annoncées",
+     "summary": "Shares in Swedish automaker Volvo Cars experienced a dramatic decline following the announcement of a quarterly financial loss and plans to cut an additional 2,500 positions worldwide. The company warned investors that the global automotive sector faces severe headwinds, citing softening consumer demand, price pressure, and broader economic uncertainty. Executives stated that market conditions have not yet reached the bottom, prompting aggressive cost-cutting measures to preserve profitability. The job losses reflect deeper structural challenges confronting traditional carmakers as they navigate the transition toward electric vehicles amid slowing global market growth.",
+     "why": "Ces suppressions d'emplois soulignent les difficultés aiguës des constructeurs automobiles européens face au ralentissement de la demande.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    },
+    {
+     "source": "Reuters",
+     "lang": "FR",
+     "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPYnlvODRCMmpmLTBzaUpRakVPeXBXX3JtTjhZNVA0TWhRNUVZQUh1NGg2eHJ6RTZfQy16cktsckJVeWlfajRkQTFCOGlmYUhGbkdFQkNSTkxCS1dKUnpiOWNURl_RVk9Za0V6UDk5cG0yUzVDeS1HNk1BZ2Rzc0I0MlREUFZOSk82ZXZhaW94QTdEYjExMlVyalRQWE9CRzc5em9HVDMza0pQb0JJekZRN3ZBeV96NEE5TEtiY1hMWkg?oc=5",
+     "headline": "France/PMI Contraction inattendue de l'activité économique en octobre, les pressions politiques et financières pèsent",
+     "headlineEn": "France/PMI: Unexpected contraction in economic activity in October as political and financial pressures weigh",
+     "summary": "L'activité économique en France s'est de nouveau contractée de manière inattendue au mois d'octobre, selon les derniers indices PMI. Cette dégradation s'explique par l'accumulation des incertitudes politiques internes et des pressions financières croissantes sur les entreprises. La baisse des nouvelles commandes touche à la fois le secteur des services et celui des manufactures, traduisant l'hésitation des investisseurs et des consommateurs. Les décideurs économiques expriment une inquiétude grandissante face à l'alourdissement des coûts de financement et au manque de visibilité budgétaire, alimentant les craintes d'un ralentissement prolongé de la deuxième économie de la zone euro.",
+     "why": "Le repli inattendu de l'activité PMI française témoigne du poids des incertitudes politiques et budgétaires sur la croissance.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    },
+    {
+     "source": "Reuters",
+     "lang": "EN",
+     "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNQkxjUl8zRFdLRXdOR1Z3SVFsSEc1WElSMG9OZHRJYW52a3hvN3BVOEJBMHk4YnZpQkRwYnRzWF_qeXhRZjF6M0o5c09xVzZ5a0dwOG1aQ2thYlpKV1RlTFBsVWNGcHdpZ2F4Sld3UWFoY1htZDVld1UwZ0x1MnJ0bnZOdVpMZDlEZ3JmRDhQa3Fsam9UZkl0TnB2eHF3eU1CNGZTWlV4Smt4NDJLbXBzQ1ExekxtWm5uTGtCRg?oc=5",
+     "headline": "EXCLUSIVE: Heineken document reveals worries over weight-loss drugs and beer sales",
+     "headlineEn": "EXCLUSIF : Un document d'Heineken révèle des inquiétudes concernant l'impact des médicaments anti-obésité sur les ventes de bière",
+     "summary": "An internal strategy document from brewing giant Heineken reveals growing corporate concern over the long-term impact of GLP-1 weight-loss medications on global alcohol consumption. The report highlights internal assessments suggesting that consumers taking weight-loss drugs tend to reduce their appetite for caloric beverages, including beer. While executives publicly emphasize business resilience, private discussions focus on potential shifts in consumer behavior and beverage preference. Heineken joins a growing list of consumer goods and food sector corporations evaluating how the rapid adoption of anti-obesity treatments could reshape long-term demand across global markets.",
+     "why": "L'essor des traitements anti-obésité menace d'altérer durablement les habitudes de consommation dans le secteur des boissons et de l'agroalimentaire.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    }
+   ]
+  },
+  {
+   "name": "Technologie & sciences",
+   "stories": [
+    {
+     "source": "AP News",
+     "lang": "EN",
+     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNa21rSEs4bmdSczAyejNYbnhOLUtnWjVRNTFHNHVqMGZOVTdhUDNRcDlzT2M2cWFpYkZtc3BpRXdCdDFKZEtwZ2llUFFaTktoZXJPanVDbGxWaVhjb0stT3IwUDNwSFJRd2w1UDhteHB5SWtnZHBWQUtKYmdGNE0yeTNpZ3NzUENMZTZPNVpfVHBNcngzQ3VPYmxvb2gtR1ZGZzI5OERsclVYLUU?oc=5",
+     "headline": "A novel mRNA cancer vaccine helps reduce the chances of melanoma patients' tumors returning",
+     "headlineEn": "Un nouveau vaccin à ARNm contre le cancer réduit les risques de récidive du mélanome",
+     "summary": "Clinical trial results show that an experimental mRNA cancer vaccine significantly reduces the risk of recurrence in melanoma patients following surgical removal of high-risk tumors. Designed to train the patient's immune system to identify unique genetic mutations on cancer cells, the personalized treatment is administered alongside standard immunotherapy. Researchers reported a marked decline in tumor relapse rates compared to standard treatments alone. Medical experts view these findings as a major breakthrough, reinforcing optimism that mRNA technology can be successfully adapted beyond infectious diseases to deliver effective individualized oncology therapies.",
+     "why": "Les avancées de la technologie ARNm en oncologie ouvrent la voie à des traitements personnalisés prometteurs contre le cancer.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    },
+    {
+     "source": "Reuters",
+     "lang": "EN",
+     "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOUDVGa0hCU3ppVlo3amtaT1l4T18zcHNWWlFkV3Nveks4TDI5RGxkMzE1TFpEZjIxWFBZNl9ILU9SRVdzMEtCX2JKai1FbXlYTTFFX1Y0U3NfRGZuRGttQ0ZKYVhRS3NaUTlEWldxNzVIQUdzamNVMTE1cVg0N1VpLUlweVZlU3lpOGFRajJ6eHItM3NHTGlLVldsVWxnbTcwQncxekJITDJfWUxWUGt1OWx1Zm4zLXdEdm5ja0VPbXNlNmFxWWstT0lfVkZOQXNTNlRYcktB?oc=5",
+     "headline": "China's DeepSeek, MiniMax win approval for AI global use, state media-affiliated entity says",
+     "headlineEn": "Les IA chinoises DeepSeek et MiniMax obtiennent le feu vert pour une utilisation mondiale",
+     "summary": "Chinese artificial intelligence firms DeepSeek and MiniMax have received official regulatory approval for the international deployment of their AI models, according to reports from state media-affiliated entities. The clearance allows both companies to offer their advanced generative algorithms and large language models to commercial clients outside China. The move comes as Chinese tech firms seek to expand their footprint across foreign technology markets despite heightened geopolitical scrutiny and regulatory restrictions in Western jurisdictions. The approval marks a significant step in Beijing's ambitions to establish competitive domestic AI champions on the global stage.",
+     "why": "L'autorisation donnée aux acteurs chinois de l'IA pour s'implanter à l'international intensifie la compétition technologique mondiale.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    },
+    {
+     "source": "NPR",
+     "lang": "EN",
+     "url": "https://www.npr.org/2026/10/23/g-s1-149498/europe-heat-deaths",
+     "headline": "Europe's heat claims 50,000 lives. Climate change blamed for two-thirds of deaths",
+     "headlineEn": "Les vagues de chaleur en Europe font 50 000 morts, le changement climatique mis en cause dans deux tiers des décès",
+     "summary": "A scientific study revealed that extreme summer heatwaves across Europe resulted in more than 50,000 deaths, with researchers attributing nearly two-thirds of the mortality directly to human-caused climate change. The report underscores the growing vulnerability of European populations to severe heat stress as global temperatures rise. Public health officials warned that urban heat island effects and inadequate climate adaptation measures exacerbate mortality rates, particularly among vulnerable elderly residents. Experts urged European governments to accelerate climate resilience initiatives and upgrade healthcare infrastructure to prevent recurring human loss during future summer heat extremes.",
+     "why": "L'ampleur de la mortalité liée à la chaleur souligne l'urgence pour les villes européennes de s'adapter au réchauffement climatique.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    }
+   ]
+  },
+  {
+   "name": "Sport",
+   "stories": [
+    {
+     "source": "France 24",
+     "lang": "FR",
+     "url": "https://www.france24.com/fr/sports/20261023-alvin-kamara-saints-nouvelle-orleans-match-nfl-paris",
+     "headline": "\"On va avoir l'impression de jouer à domicile\" : les Saints de la NFL en terrain conquis à Paris",
+     "headlineEn": "\"It feels like playing at home\": NFL's Saints head to Paris",
+     "summary": "Pour la toute première fois de son histoire, la ligue professionnelle de football américain (NFL) délocalise une rencontre officielle de saison régulière en France. Les Saints de La Nouvelle-Orléans y affrontent ce dimanche les Pittsburgh Steelers au Stade de France. L'un des joueurs vedettes de la franchise, le running back Alvin Kamara, a exprimé son très grand enthousiasme avant ce choc très attendu à Paris.",
+     "why": "L'organisation d'un match officiel de la NFL au Stade de France marque une étape clé dans l'expansion internationale du football américain.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    },
+    {
+     "source": "France 24",
+     "lang": "FR",
+     "url": "https://www.france24.com/fr/sports/20261023-football-ligue-europa-ol-corrige-hoffenheim-om-battu-rennes-match-nul",
+     "headline": "Ligue Europa : l'OL corrigé, l'OM encore battu, Rennes décroche un nul",
+     "headlineEn": "Europa League: OL beaten, OM defeated again, Rennes secures a draw",
+     "summary": "La troisième journée de Ligue Europa s'est révélée particulièrement sombre pour le football français. L'Olympique de Marseille s'est une nouvelle fois incliné sur le terrain de Sturm Graz (1-0), essuyant un troisième revers d'affilée en trois matchs. De son côté, l'Olympique Lyonnais a été corrigé en Allemagne par Hoffenheim, alors que le Stade Rennais a obtenu un nul encourageant face à la Juventus.",
+     "why": "Les mauvais résultats de l'OM et de l'OL compliquent sérieusement leurs chances de qualification en Ligue Europa.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    }
+   ]
+  }
+ ],
+ "sourced": true,
+ "feeds": {
+  "ok": 27,
+  "of": 29,
+  "items": 248,
+  "skipped": [
+   "Euronews (FR): HTTP 406",
+   "Washington Post (EN): HTTP 502"
+  ]
+ },
+ "words": 4145,
+ "readMin": 21,
+ "storyCount": 25
+}
