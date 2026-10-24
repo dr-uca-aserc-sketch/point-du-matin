@@ -1,0 +1,405 @@
+{
+ "date": "2026-10-24",
+ "kind": "daily",
+ "heat": 0.78,
+ "oneThing": "France has deployed 70,000 police officers as massive social protests and feared unrest prompt businesses across major cities to board up windows.",
+ "followUps": [
+  {
+   "n": "01",
+   "thread": "France / Mouvements sociaux",
+   "change": "Déploiement massif de 70 000 forces de l'ordre face aux craintes de débordements et fermetures préventives de commerces."
+  },
+  {
+   "n": "02",
+   "thread": "Ukraine / Diplomatie et connectivité",
+   "change": "Annonce d'une trêve humanitaire ciblée à Oleschky et rétablissement d'une connexion Starlink haut débit stable."
+  },
+  {
+   "n": "03",
+   "thread": "Brésil / Élection présidentielle",
+   "change": "Clôture d'un second tour sous haute tension après un dernier débat télévisé d'une extrême virulence entre Lula et Bolsonaro."
+  }
+ ],
+ "mustReads": [
+  {
+   "desk": "France / Mouvements sociaux",
+   "source": "France 24",
+   "lang": "FR",
+   "paywalled": false,
+   "url": "https://www.france24.com/fr/france/20261024-en-direct-centaines-manifestations-france-climat-fortes-tensions-mobilisation-revendications-salaires-education-syndicats-pouvoir-d-achat-lycee-police-macron",
+   "headline": "Mobilisation du 24 octobre : 70 000 policiers et gendarmes déployés face aux risques de débordements",
+   "headlineEn": "October 24 mobilization: 70,000 police officers deployed amid fears of unrest",
+   "contested": "",
+   "why": "La contestation sociale d'ampleur nationale met sous pression les autorités et perturbe l'économie locale.",
+   "stat": "70 000",
+   "statLabel": "policiers et gendarmes déployés en France",
+   "chart": null,
+   "paras": [
+    "La France aborde une journée de mobilisation particulièrement sous haute tension ce samedi 24 octobre. À la suite des violents affrontements et des émeutes constatés le week-end dernier, le gouvernement français a décidé de renforcer drastiquement son dispositif sécuritaire sur l'ensemble du territoire national. Plus de soixante-dix mille policiers et gendarmes ont été déployés dans les principales agglomérations pour encadrer les cortèges et prévenir toute dégradation. Les préfectures ont également adapté les parcours des manifestations à la dernière minute, provoquant une vive réaction des partis d'opposition de gauche.",
+    "Les revendications portées par l'intersyndicale, les mouvements lycéens et les collectifs de citoyens portent essentiellement sur le pouvoir d'achat, la justice fiscale et la préservation des services publics face aux récentes politiques d'austérité. Malgré les récentes réunions tenues à l'Élysée entre le président Emmanuel Macron et plusieurs représentants des organisations de jeunesse, les appels à la grève et aux rassemblements restent extrêmement suivis. Les syndicats estiment que les réponses apportées jusqu'ici demeurent insuffisantes au regard de la hausse générale des coûts de la vie quotidienne.",
+    "Dans plusieurs grandes villes françaises comme Paris, Lyon et Orléans, les commerçants et enseignes de luxe ont commencé dès vendredi soir à protéger leurs vitrines avec de grands panneaux de bois. L'accueil du congrès du Rassemblement national à Orléans fait craindre de nouveaux affrontements entre manifestants et forces de l'ordre, incitant de nombreuses boutiques à fermer préventivement leurs portes. Les professionnels du commerce expriment leur vive inquiétude face aux pertes financières engendrées par ces fermetures répétées et par le climat d'insécurité grandissant lors des fins de semaine.",
+    "Le ministère de l'Intérieur a fait savoir que les forces de l'ordre feraient preuve d'une tolérance zéro envers les éléments radicaux cherchant à s'infiltrer dans les cortèges pacifiques. Des drones, des hélicoptères ainsi que des unités spécialisées de maintien de l'ordre ont été mobilisés pour surveiller de près les déplacements des groupes contestataires. Malgré l'interdiction de certains rassemblements stratégiques, plusieurs organisations entendent maintenir leurs parcours initiaux, faisant redouter des face-à-face tendus avec les unités mobiles déployées aux abords des axes stratégiques et des bâtiments institutionnels.",
+    "Cette vague de mécontentement s'inscrit dans un contexte économique fragilisé par l'incertitude et la dégradation de la notation souveraine française. L'agence de notation Moody's a en effet confirmé le maintien de la note souveraine de la France à Aa3, tout en conservant une perspective négative qui reflète les vives inquiétudes pesant sur la trajectoire budgétaire du pays. Le gouvernement tente de rassurer les marchés financiers tout en gérant une crise sociale d'une ampleur inédite qui bloque une partie significative des activités économiques et des transports publics.",
+    "À la veille de cette journée décisive, les observateurs s'interrogent sur les capacités du pouvoir exécutif à apaiser le climat politique et social. Si les cortèges se déroulent dans le calme, un dialogue structuré pourrait s'ouvrir sur la question des salaires et des investissements publics. En revanche, de nouveaux débordements risqueraient d'amplifier la fracture politique et de durcir la réponse législative de l'État. L'ensemble du pays retient son souffle alors que les premiers rassemblements s'organisent dans le calme relatif du début de matinée."
+   ]
+  },
+  {
+   "desk": "Ukraine / Diplomatie",
+   "source": "BBC",
+   "lang": "EN",
+   "paywalled": false,
+   "url": "https://www.bbc.co.uk/news/articles/c6vgxkvl4w5eo?at_medium=RSS&at_campaign=rss",
+   "headline": "White House says Melania Trump brokered truce for Ukraine city 'on brink of disaster'",
+   "headlineEn": "La Maison-Blanche affirme que Melania Trump a négocié une trêve pour la ville ukrainienne d'Oleschky",
+   "contested": "",
+   "why": "Ce développement montre des ouvertures diplomatiques humanitaires inédites sur la ligne de front ukrainienne.",
+   "stat": "400",
+   "statLabel": "km/h de vitesse enregistrée sur Starlink en Ukraine",
+   "chart": null,
+   "paras": [
+    "The White House announced that First Lady Melania Trump has successfully brokered a localized ceasefire in the Russian-occupied Ukrainian city of Oleshky. Officials reported that the agreement was reached following extensive humanitarian negotiations involving diplomatic representatives and religious leaders, including Pope Leo XIV. The agreement aims to allow stranded civilians to safely evacuate the war-torn municipality and enable emergency relief convoys to enter the area. Human rights groups had previously warned that residents in the besieged city were facing catastrophic humanitarian conditions without adequate food or medicine.",
+    "Both Ukrainian and Russian military representatives have officially confirmed the temporary cessation of hostilities within the specified humanitarian corridor around Oleshky. Local sources indicated that basic civilian supplies had almost completely run out after weeks of intense shelling and military blockades along the front lines. The breakthrough represents one of the few diplomatic achievements concerning direct civilian protection in recent months. International aid organizations are preparing to dispatch immediate medical assistance, clean drinking water, and food packages into the devastated district as soon as security guarantees are fully operational.",
+    "Meanwhile, Ukrainian Defense Ministry officials confirmed that satellite communication speeds via SpaceX's Starlink network have returned to normal high-speed operation across the country. Military commanders had reported significant connection throttling over recent days, which threatened vital battlefield communication and military intelligence operations. The Ukrainian Defense Minister expressed satisfaction with current internet connectivity levels, noting stable transmission speeds exceeding four hundred kilometers per hour equivalent metrics. The restoration follows intense discussions between American technology executives and European security partners regarding critical infrastructure funding.",
+    "The diplomatic initiative led by Melania Trump has drawn considerable attention from international observers and foreign policy experts worldwide. While Washington has maintained a firm stance on security assistance, this localized diplomatic effort highlights a alternative avenue for humanitarian engagement during active combat operations. Analysts suggest that targeted ceasefires could potentially serve as practical blueprints for future humanitarian corridors in other severely contested frontline areas. However, defense experts emphasize that broader political negotiations between Kyiv and Moscow remain complicated by ongoing military actions elsewhere.",
+    "In Kyiv, government spokespersons welcomed the arrival of humanitarian relief for Oleshky residents while maintaining vigilance regarding front line stability. Ukrainian forces have continued long-range operations targeting infrastructure deep inside Russian territory, including drone strikes on data centers and logistics hubs supporting military operations. Authorities emphasized that localized ceasefires should not distract from the urgent need to protect national energy grids ahead of the winter season. Local authorities in neighboring regions are actively preparing reception centers to accommodate civilians fleeing the newly accessible conflict zones.",
+    "The situation in Oleshky remains fragile as humanitarian workers begin moving through designated transit points under strict monitoring protocols. International monitors are observing compliance from both sides to ensure that the evacuation process proceeds without safety violations or military interference. Local community leaders expressed cautious relief after enduring months of isolation and severe scarcity under occupation. The successful execution of this humanitarian deal could pave the way for similar localized agreements, offering vital relief to trapped populations across other isolated frontline communities."
+   ]
+  },
+  {
+   "desk": "Allemagne / Faits divers",
+   "source": "DW",
+   "lang": "DE",
+   "paywalled": false,
+   "url": "https://www.dw.com/de/news-kompakt-sorge-vor-neuen-ausschreitungen-in-paris/a-79748108?maca=de-rss-de-all-1119-rdf",
+   "headline": "Verdächtiger nach Großbrand am historischen Kehlsteinhaus festgenommen",
+   "headlineEn": "Suspect arrested after major fire at historical Eagle's Nest",
+   "contested": "",
+   "why": "L'incendie de ce site historique majeur pose d'importantes questions de sécurité et de mémoire historique en Allemagne.",
+   "stat": "200",
+   "statLabel": "secouristes déployés sur le site du Kehlsteinhaus",
+   "chart": null,
+   "paras": [
+    "Ein verheerender Großbrand hat das historische Kehlsteinhaus oberhalb von Berchtesgaden schwer beschädigt und einen großflächigen Rettungseinsatz ausgelöst. Die deutschen Ermittlungsbehörden teilten mit, dass bereits kurz nach Ausbruch des Feuers eine tatverdächtige Person vor Ort festgenommen werden konnte. Das ehemalige Gästehaus der Nationalsozialisten, das auf einer Höhe von über eintausendachthundert Metern liegt, stand in der Nacht in Flammen. Rund zweihundert Einsatzkräfte der Feuerwehr und des Rettungsdienstes kämpften unter extrem schwierigen alpinen Bedingungen gegen die Flammen, um eine weitere Ausbreitung auf den umliegenden Bergwald zu verhindern.",
+    "Die genauen Ursachen für den Ausbruch des Feuers sind derzeit Gegenstand intensiver kriminalpolizeilicher Ermittlungen der bayerischen Sicherheitsbehörden. Ersten Erkenntnissen der Polizei zufolge befanden sich zum Zeitpunkt des Brandausbruchs keine Gäste oder Mitarbeiter in dem gebirgigen Berggasthof. Dennoch gestalteten sich die Löscharbeiten aufgrund der steilen Hanglage und der eingeschränkten Wasserversorgung auf dem Obersalzberg außergewöhnlich kompliziert. Spezialisierte Einheiten mussten schweres Gerät mit Hubschraubern an den Einsatzort transportieren, während die Polizei den gesamten Bereich weiträumig absperrte, um Spuren am Tatort zu sichern.",
+    "Das Kehlsteinhaus gilt weltweit als einer der bekanntesten und zugleich historisch am stärksten belasteten Orte aus der Zeit des Nationalsozialismus. Das imposante Gebäude wurde Ende der 1930er Jahre als repräsentatives Anwesen für die Spitze des NS-Regimes errichtet. Obwohl Adolf Hitler das Bauwerk aufgrund seiner Höhenlage nur selten nutzte, entwickelte sich das Kehlsteinhaus in den Nachkriegsjahrzehnten zu einem hochfrequentierten Ausflugsziel für Touristen aus aller Welt. Historiker und Denkmalschützer zeigten sich schockiert über das Ausmaß der Zerstörung an diesem symbolträchtigen Bauwerk.",
+    "Der zuständige Polizeisprecher erklärte auf einer Pressekonferenz, dass der Festgenommene derzeit von Spezialkräften der Kriminalpolizei verhört werde. Zum jetzigen Zeitpunkt machen die Behörden aus ermittlungstaktischen Gründen keine detaillierten Angaben zur Identität oder zum möglichen Motiv des Verdächtigen. Politische Amtsträger in Bayern äußerten ihre tiefe Besorgnis über einen möglichen vorsätzlichen Anschlag auf das historische Denkmal. Die Staatsanwaltschaft prüft derzeit, ob ein politischer Hintergrund oder Vandalismus als Tatmotiv infrage kommt, während Experten das genaue Schadensausmaß am Gebäude untersuchen.",
+    "Die örtlichen Behörden und Tourismusverbände reagierten mit Betroffenheit auf das Unglück, da das Kehlsteinhaus jährlich Hunderttausende Besucher anzieht. Der Zugang zum Obersalzberg wurde bis auf Weiteres für den regulären Publikumsverkehr vollständig gesperrt, um den Brandermittlern ungehinderten Zugang zu gewähren. Die Rettungskräfte blieben auch im Laufe des Tages vor Ort, um verbliebene Glutnester in der Holzkonstruktion des Daches zu löschen. Denkmalschützer hoffen, dass zumindest Teile der historischen Bausubstanz durch den raschen Einsatz der Feuerwehr vor der vollständigen Vernichtung bewahrt werden konnten.",
+    "Der Vorfall hat in ganz Deutschland eine erneute Debatte über den Umgang und die Absicherung historischer Erinnerungsorte ausgelöst. Viele Politiker fordern nun eine Überprüfung der Sicherheitskonzepte für historisch sensible Bauwerke im Bundesgebiet. Der Obersalzberg bleibt ein zentraler Ort der Dokumentation und Aufarbeitung der NS-Diktatur, weshalb der Vorfall weit über die Region hinaus für Schlagzeilen sorgt. Die Ermittlungsbehörden kündigten an, in den kommenden Tagen weitere Details zu den Hintergründen der Tat und zum Zustand des Gebäudes bekanntzugeben."
+   ]
+  }
+ ],
+ "desks": [
+  {
+   "name": "Luxembourg",
+   "stories": [
+    {
+     "source": "Luxemburger Wort",
+     "lang": "de",
+     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPbDVyWTV3cjRwbVFIWmU0ZUN4Z2FRY2Q5M1E3eEJoQmhXd0NyeHZzdFRIT3JzektDWXhZcDRCUlB2STVOSGxPSExFUWdXMXp2SWhUdU8tYXBBTU90OWdsTmNJUmo4eGZUajJNWk5ULW9uQkMxVTJLZjVNa05mdzRjbWZEZjh0aFYzMVptT2VGbzdYZU9FcndvZWl1THNFZEF3dlhscW1SOGZMMHhJ?oc=5",
+     "headline": "Gesundheitskasse: Die Patientin bleibt chronisch krank",
+     "headlineEn": "Health insurance fund: The patient remains chronically ill",
+     "summary": "Die luxemburgische Gesundheitskasse (CNS) sieht sich weiterhin mit anhaltenden finanziellen und strukturellen Herausforderungen konfrontiert. Trotz bisheriger Reformansätze bleiben die Defizite im Gesundheitssystem bestehen, was die langfristige Absicherung der medizinischen Versorgung im Großherzogtum belastet. Expertinnen und Experten fordern daher tiefgreifendere Maßnahmen, um die Finanzen nachhaltig zu stabilisieren und die Kostensteigerungen im Pflegesektor einzudämmen. Die Debatte über Reformen gewinnt in der Politik und bei den Sozialpartnern wieder deutlich an Schärfe, da künftige Beitragszahler nicht übermäßig belastet werden sollen.",
+     "why": "La soutenabilité financière de la Caisse nationale de santé conditionne la pérennité de la protection sociale au Grand-Duché.",
+     "paywalled": true,
+     "contested": "",
+     "chart": null
+    },
+    {
+     "source": "RTL.lu",
+     "lang": "fr",
+     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQT1M4OVFjXzA5V2RXemY2b0s2anhLbUxUWVo0c2pFYjB2RHlvR1k3M2NPeWgwNk1velZ5OW90VGhwMmRia1JfQlNQU1Y4ZzZObnpIdVBVLXQ2QWZBQm81NTk2THNLTGpoV0Y4RElMZnlNM0Jfdy1xM3pKMlNSTXJyS3lQc2RGS3pwNkFxRnhiODRzRUhkekJuMUZUZzA?oc=5",
+     "headline": "Encore des arnaques au Luxembourg: La police dévoile le mode opératoire des voleurs",
+     "headlineEn": "More scams in Luxembourg: Police reveal thieves' modus operandi",
+     "summary": "La police grand-ducale met en garde la population face à une résurgence de vols et d'escroqueries sophistiquées à travers le pays. Les forces de l'ordre ont détaillé les différentes méthodes employées par les malfaiteurs, qui ciblent particulièrement les personnes vulnérables à leur domicile ou dans l'espace public. Les autorités appellent les citoyens à faire preuve de la plus grande vigilance et à signaler immédiatement tout comportement suspect. Des conseils pratiques de prévention ont également été diffusés pour aider les habitants à se protéger contre ces manœuvres frauduleuses.",
+     "why": "La multiplication des escroqueries impose une sensibilisation accrue de la population pour préserver la sécurité publique.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    },
+    {
+     "source": "RTL.lu",
+     "lang": "fr",
+     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNMXl4RXV6WHhwVkY5Z1VGaWc4TEIyVGw0aFdqQzNlXzRwaG1wNUFvMjVWUlRWNGQwVG9RakFxMTVYczMxNTZ2UVpaS1d4ZjByOHBfamZ5ck52V05pRm5aRm4xbzB4ejEwLWV1ZW1xcHg5U1FwN01qTGhIdTlIdmdaMmxuajlZZnc5eEtNa3dBTy1PRVJVRGl6Vmg5VHdSc09leGREd0dLaWNQYTgtc1pSRmRXRjJiQQ?oc=5",
+     "headline": "Alerte jaune: Prudence sur les routes et près de forêts suite aux rafales de vent",
+     "headlineEn": "Yellow alert: Caution advised on roads and near forests due to wind gusts",
+     "summary": "Les services météorologiques ont émis une alerte jaune concernant des rafales de vent soutenues sur l'ensemble du territoire luxembourgeois. Les autorités incitent les automobilistes et les piétons à la plus grande prudence, en particulier à proximité des zones boisées et des axes routiers exposés. Des chutes d'arbres et de branches pourraient entraîner des perturbations temporaires sur le réseau de transport. Il est vivement conseillé de sécuriser les objets extérieurs et de limiter les déplacements non essentiels durant cette période d'intempéries.",
+     "why": "Les conditions météorologiques violentes risquent de perturber la circulation routière et le quotidien des résidents.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    }
+   ]
+  },
+  {
+   "name": "Monde / géopolitique",
+   "stories": [
+    {
+     "source": "Euronews",
+     "lang": "en",
+     "url": "https://www.euronews.com/2026/10/23/ukraine-hits-russian-data-centres-in-blow-to-moscows-ai-capabilities",
+     "headline": "Ukraine hits Russian data centres in blow to Moscow's AI capabilities",
+     "headlineEn": "L'Ukraine frappe des centres de données russes, portant un coup aux capacités d'IA de Moscou",
+     "summary": "Ukrainian drone strikes have targeted major Russian data infrastructure facilities across five regions, dealing a significant blow to Moscow's technology sector. The attacks hit centres operated by prominent tech firms, causing widespread disruptions to navigation, digital payments, and cloud services. Industry experts suggest that repairing the specialized hardware and restoring full operational capacity could take months or even years. This coordinated action represents a strategic effort by Ukrainian forces to cripple the digital network supporting Russia's military logistics and domestic artificial intelligence initiatives.",
+     "why": "Cibler les infrastructures numériques russes affaiblit les capacités logistiques et de soutien technologique de Moscou.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    },
+    {
+     "source": "AP News",
+     "lang": "en",
+     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxORjM5SGFuUzRrVGZkRXl5NWJtQkYzQTVub3FLQ2MzZEd3eTRiU2RHYldFOXpUdmhNYnkwaVh1Q1pHNXNfQjdCRXhqVjZxUDZDVW5RWXFFMTU0NXZFT2tGY1FOcWdhV1ZhRG9pY2xORGdkbTdBZG5yekNOdnpJYW01cEpQU1lnOFVMY2xKZm5sY21ZQ3h6UG9TMUtQZEZ4a05WVS1Z?oc=5",
+     "headline": "US designates helium as a critical material, citing its importance for semiconductors",
+     "headlineEn": "Les États-Unis classent l'hélium comme matériau critique en raison de son importance pour les semi-conducteurs",
+     "summary": "The United States government has officially designated helium as a critical material due to its indispensable role in advanced semiconductor manufacturing. Global supply chains have experienced severe pressure following export restrictions imposed by Russia and China, combined with regional tensions in the Middle East. This decision aims to prioritize domestic production and secure supply channels for essential high-tech industries. European nations are also facing supply tightness and are working to secure their own access to the non-renewable gas required for microchip fabrication and scientific research.",
+     "why": "L'accès sécurisé à l'hélium est indispensable pour maintenir la production mondiale de puces électroniques.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    },
+    {
+     "source": "BBC",
+     "lang": "en",
+     "url": "https://www.bbc.co.uk/news/articles/cm1dwz311476o?at_medium=RSS&at_campaign=rss",
+     "headline": "Student movement takes Serbia's Vučić to the wire in neck-and-neck election",
+     "headlineEn": "Le mouvement étudiant pousse le président serbe Vučić dans ses retranchements lors d'élections serrées",
+     "summary": "Serbia is preparing for a highly contentious parliamentary election as a youth-led opposition movement poses a formidable threat to President Aleksandar Vučić's political dominance. Emerging from nearly two years of sustained anti-corruption demonstrations, the Student List coalition has unified diverse opposition voters ahead of the vote. Political analysts note growing public dissatisfaction regarding governance, media freedom, and state corruption. With polls indicating a tight race, concerns are rising over potential post-election disputes and allegations of electoral irregularities in a deeply polarized national landscape.",
+     "why": "Ce scrutin législatif représente un test majeur pour l'avenir démocratique et l'orientation politique de la Serbie.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    }
+   ]
+  },
+  {
+   "name": "International — hors Europe",
+   "stories": [
+    {
+     "source": "Al Jazeera",
+     "lang": "en",
+     "url": "https://www.aljazeera.com/news/2026/10/24/rubio-calls-on-cubans-to-partner-with-cia-to-create-positive-change?traffic_source=rss",
+     "headline": "Rubio calls on Cubans to partner with CIA ‘to create positive change’",
+     "headlineEn": "Rubio appelle les Cubains à s'associer à la CIA pour « créer un changement positif »",
+     "summary": "United States officials have intensified diplomatic pressure on Havana by calling on Cuban citizens to cooperate with American intelligence agencies to bring political change. The statements reflect a broader escalation in Washington's strategy toward the Caribbean nation following recent geopolitical developments in Latin America. US leaders argue that the existing administration in Havana faces unprecedented economic fragility and internal vulnerability. However, the proposal has drawn sharp criticism from international observers who warn that such public appeals could exacerbate regional instability and prompt stricter domestic security measures within Cuba.",
+     "why": "L'appel ouvert de Washington accentue les tensions géopolitiques dans les Caraïbes et durcit le face-à-face américano-cubain.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    },
+    {
+     "source": "Al Jazeera",
+     "lang": "en",
+     "url": "https://www.aljazeera.com/news/2026/10/24/north-koreas-kim-jong-un-arrives-in-china-south-korean-media-says?traffic_source=rss",
+     "headline": "North Korea’s Kim Jong Un arrives in China, South Korean media say",
+     "headlineEn": "Kim Jong Un est arrivé en Chine, selon des médias sud-coréens",
+     "summary": "North Korean leader Kim Jong Un has arrived in China via a newly opened border bridge at Dandong, according to South Korean intelligence reports. The diplomatic visit highlights strengthening bilateral ties between Pyongyang and Beijing amid heightened global geopolitical realignment. Discussions between the two countries are expected to focus on trade cooperation, border infrastructure, and mutual security interests. Regional powers are closely monitoring the summit, which comes at a pivotal moment for economic and diplomatic relations in East Asia following months of increased military activity.",
+     "why": "Le rapprochement entre Pyongyang et Pékin renforce l'axe diplomatique asiatique face aux pressions occidentales.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    },
+    {
+     "source": "Reuters",
+     "lang": "en",
+     "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNSjFLWHVLdnk5bU5NR3ZxUExTUnJNanRROGszakNPbVlram1hSUUzZHF5SV9obXFDVzhMRnRjZ2xKcjZRNDRBMzRnYTF3ZmpEYXpsVzd4QWdpWTAyTDZVZ0Q3TTIwMGtlOF9mSS1IM2tCa01wN3pIdUpXWUNfdldHUWlOMDY1ZjZBRQ?oc=5",
+     "headline": "Bolsonaro and Lula clash on living costs, corruption in final Brazil election debate",
+     "headlineEn": "Bolsonaro et Lula s'affrontent sur le coût de la vie et la corruption lors du dernier débat présidentiel au Brésil",
+     "summary": "The final presidential debate in Brazil saw intense exchanges between Luiz Inácio Lula da Silva and Flávio Bolsonaro as the candidates sought to persuade remaining undecided voters. Economic policy, inflation, and anti-corruption measures dominated the discussion ahead of the crucial runoff election. Polls show the two candidates in a remarkably close race, highlighting a deeply divided electorate across the nation. Both campaigns spent their closing statements accusing each other of mismanagement, while offering contrasting visions for the economic and social trajectory of Latin America's largest country.",
+     "why": "Le résultat de l'élection présidentielle brésilienne réorientera l'économie et la politique environnementale de l'Amérique latine.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    },
+    {
+     "source": "PBS News",
+     "lang": "en",
+     "url": "https://www.pbs.org/newshour/world/gunmen-open-fire-at-a-church-during-a-funeral-in-jordan-killing-7-and-wounding-34",
+     "headline": "Gunmen open fire at a church during a funeral in Jordan, killing 7 and wounding 34",
+     "headlineEn": "Des hommes armés ouvrent le feu dans une église lors de funérailles en Jordanie, faisant 7 morts et 34 blessés",
+     "summary": "A deadly shooting at an Orthodox church in southern Jordan has left at least seven people dead and dozens injured during a funeral service. Authorities described the violent assault in Karak province as a terrorist act driven by extremist ideology. Security forces immediately sealed off the area and launched a comprehensive investigation to capture those responsible. The tragedy has shocked the kingdom, which has long prioritized domestic stability, while political leaders across the region expressed solidarity and condemned the attack on religious worshippers.",
+     "why": "Cet attentat suscite des inquiétudes quant à la propagation de l'instabilité sécuritaire dans un royaume jordanien traditionnellement stable.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    },
+    {
+     "source": "CFR",
+     "lang": "en",
+     "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPbWtmbHFmZmZELWJlcml0RUxLbXVsZm9fM2hNWUQ4SHYzS2dObkFBVU5yeFVEQXhBV3JuVDRuZm43aUJ2cWw1SVpnN2RpQTVVelpkY3dQZmcwazBKZGxRWWl5eVVibVBkd3h2QjZjb25UdTlIU0dCZ09OZWRMZ3ZUbjJVSVR4cmx4TGNqLVBON3pKUHM2bUNmbDZUY2ZXSzVEMGxWd0EyQ3M?oc=5",
+     "headline": "A Conversation With Kuwait Petroleum Corporation CEO Sheikh Nawaf Saud Al-Sabah",
+     "headlineEn": "Entretien avec le PDG de la Kuwait Petroleum Corporation, Cheikh Nawaf Saud Al-Sabah",
+     "summary": "In an extended dialogue hosted by the Council on Foreign Relations, Kuwait Petroleum Corporation CEO Sheikh Nawaf Saud Al-Sabah addressed the evolving dynamics of global energy markets. He outlined Kuwait's strategic investments aimed at maintaining oil production capacity while gradually integrating cleaner energy technologies. The discussion highlighted the complex balancing act facing Gulf producers as they navigate fluctuating global demand and international pressure for decarbonization. Sheikh Nawaf emphasized that long-term stability in energy supply requires continued capital investment alongside pragmatic transition strategies tailored to global market demands.",
+     "why": "L'analyse de l'une des principales compagnies pétrolières du Golfe éclaire les stratégies énergétiques et économiques mondiales.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    }
+   ]
+  },
+  {
+   "name": "Europe & politiques de l'UE",
+   "stories": [
+    {
+     "source": "BBC",
+     "lang": "en",
+     "url": "https://www.bbc.co.uk/news/articles/cm1dwz311476o?at_medium=RSS&at_campaign=rss",
+     "headline": "Student movement takes Serbia's Vučić to the wire in neck-and-neck election",
+     "headlineEn": "Le mouvement étudiant pousse le Serbe Vučić dans ses retranchements lors d'élections très serrées",
+     "summary": "A student-led movement in Serbia has mounted a major political challenge against President Aleksandar Vučić ahead of Sunday's parliamentary election. Emerging from nearly two years of sustained anti-corruption protests, the Student List has gained significant momentum across the country. Polls suggest a neck-and-neck race between the ruling coalition and opposition forces amidst growing public discontent. Concerns over potential electoral irregularities and administrative pressure remain high as voters prepare for a tense election weekend that could reshape the nation's democratic landscape.",
+     "why": "Une éventuelle défaite d'Aleksandar Vučić rebattrait les cartes politiques dans les Balkans occidentaux.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    },
+    {
+     "source": "Euronews",
+     "lang": "en",
+     "url": "https://www.euronews.com/video/2026/10/24/hungary-70-years-after-soviet-crackdown-leaders-honour-uprising-victims",
+     "headline": "Hungary: 70 years after Soviet crackdown, leaders honour uprising victims",
+     "headlineEn": "Hongrie : 70 ans après la répression soviétique, les dirigeants honorent les victimes de l'insurrection",
+     "summary": "Hungarian Prime Minister Péter Magyar hosted high-profile commemorations in Budapest to mark seventy years since the 1956 anti-Soviet uprising. European Commission President Ursula von der Leyen attended the official ceremonies, emphasizing the vital importance of freedom and democratic governance across Europe. The anniversary comes six months after Viktor Orbán was defeated in national elections, marking a shift toward closer European integration. Despite official calls for unity, political observers emphasize that Hungarian society remains deeply polarized between conservative traditionalists and reform-minded pro-European factions.",
+     "why": "Ces commémorations soulignent l'ancrage pro-européen du nouveau gouvernement hongrois après l'ère Orbán.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    },
+    {
+     "source": "France 24",
+     "lang": "fr",
+     "url": "https://www.france24.com/fr/europe/20261024-en-italie-des-manifestations-contre-la-vie-ch%C3%A8re-et-l-aust%C3%A9rit%C3%A9-pr%C3%A9vues-sous-haute-surveillance",
+     "headline": "En Italie, des manifestations contre la vie chère et l'austérité prévues sous haute surveillance",
+     "headlineEn": "In Italy, protests against high cost of living and austerity planned under heavy surveillance",
+     "summary": "L'Italie se prépare à une journée de mobilisation sociale ce samedi dans au moins huit grandes villes, dont Rome et Milan. Les manifestants entendent protester contre la dégradation du pouvoir d'achat et les mesures d'austérité budgétaire. À la suite des récents affrontements violents, les autorités ont déployé un dispositif sécuritaire renforcé comprenant des drones et des hélicoptères pour surveiller les cortèges. Alors que le gouvernement tente d'éviter de nouveaux débordements, les organisateurs promettent une forte participation citoyenne à travers la péninsule.",
+     "why": "Les tensions sociales grandissantes en Italie risquent de fragiliser le gouvernement face à la contestation populaire.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    }
+   ]
+  },
+  {
+   "name": "Économie & marchés",
+   "stories": [
+    {
+     "source": "AP",
+     "lang": "en",
+     "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPNWpGTk1fbkF2SWY0S1Q2MHN6WjRqQ1R3VWp4WXFKd3VQUG5WSlI1ZXFDY1pSUGJyampWMGtwZ3dRQmxGRzlTbERHSnlraUZ4WmFCSXM4U3J1Z1VSdV81eTB2ck1lWElpSnR2Qi1FbWUwUmJBT1l5enVZLVpsYmMySnBhZ0FDWHZBTElJVEhGYl9tN2tXblE?oc=5",
+     "headline": "Wall Street loses ground under pressure from rising oil prices",
+     "headlineEn": "Wall Street perd du terrain sous la pression de la hausse des prix du pétrole",
+     "summary": "Major stock indexes on Wall Street dropped on Friday as crude oil prices surged to five-month highs, driven by heightened geopolitical tensions in the Middle East. Global crude oil prices approached $115 per barrel, triggering fears of renewed inflationary pressures across international markets. Investors sold off riskier equity holdings while seeking safety in United States Treasury bonds. Analysts warned that sustained energy price increases could complicate upcoming central bank interest rate decisions while corporate earnings reports showed mixed quarterly results.",
+     "why": "La flambée des prix de l'énergie ravive les craintes d'inflation et pèse sur les marchés financiers mondiaux.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    },
+    {
+     "source": "WSJ",
+     "lang": "en",
+     "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQaHhhUWIxY3M0WFNFdzNpbjZWMEh0THVqWEJZT0VubmhBX1JfRWpQVWkyWVEzbmxHRGNBTWN1TUN1OC1ENkZIZFlsaWpKS0Z5WWZkN09lTEhNNkVwOGowckNxN1_abVoyS3lwWnpvdGpnaTE4YnhVakQ1dXpwQW1RRUNn?oc=5",
+     "headline": "American Express to Cut 3,500 Jobs",
+     "headlineEn": "American Express va supprimer 3 500 emplois",
+     "summary": "American Express announced plans to eliminate approximately 3,500 jobs across its global operations as part of a strategic corporate restructuring. The financial services giant aims to streamline its corporate operations and reallocate resources toward expanding digital payment infrastructure. Company executives clarified that the job cuts will primarily impact administrative functions rather than customer service units. Financial analysts view this downsizing effort as a proactive measure to preserve profit margins amid evolving consumer spending behaviors and broader macroeconomic uncertainties.",
+     "why": "Cette restructuration majeure reflète les ajustements du secteur financier face au ralentissement de la consommation.",
+     "paywalled": true,
+     "contested": "",
+     "chart": null
+    },
+    {
+     "source": "BBC",
+     "lang": "en",
+     "url": "https://www.bbc.co.uk/news/articles/c60qk573yzz8o?at_medium=RSS&at_campaign=rss",
+     "headline": "White House lifts tariffs on some Canadian goods as midterm elections loom",
+     "headlineEn": "La Maison-Blanche lève des droits de douane sur certains produits canadiens avant les élections de mi-mandat",
+     "summary": "The White House announced a modification of import tariffs on selected Canadian commodities, easing trade restrictions starting October 30. Under the new policy directive, import duties will be removed from specific industrial machinery while new tariffs will be applied to other goods such as carpets. The policy shift comes as the administration seeks to ease domestic supply chain constraints ahead of the upcoming US midterm elections. While Canadian trade representatives welcomed the targeted relief, economic analysts emphasize that selective tariff modifications reflect political imperatives in key manufacturing states.",
+     "why": "Ces assouplissements tarifaires visent à apaiser les pressions commerciales à l'approche du scrutin américain.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    }
+   ]
+  },
+  {
+   "name": "Technologie & sciences",
+   "stories": [
+    {
+     "source": "AP",
+     "lang": "en",
+     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxORjM5SGFuUzRrVGZkRXl5NWJtQkYzQTVub3FLQ2MzZEd3eTRiU2RHYldFOXpUdmhNYnkwaVh1Q1pHNXNfQjdCRXhqVjZxUDZDVW5RWXFFMTU0NXZFT2tGY1FOcWdhV1ZhRG9pY2xORGdkbTdBZG5yekNOdnpJYW01cEpQU1lnOFVMY2xKZm5sY21ZQ3h6UG9TMUtQZEZ4a05WVS1Z?oc=5",
+     "headline": "US designates helium as a critical material, citing its importance for semiconductors",
+     "headlineEn": "Les États-Unis classent l'hélium comme matériau critique en raison de son importance pour les puces",
+     "summary": "The United States government has officially designated helium as a critical material, citing its indispensable role in advanced semiconductor manufacturing and high-tech manufacturing. The classification comes as Middle East conflicts and export restrictions from Russia and China create severe global supply disruptions. European technology companies are facing acute supply shortages as competition for high-purity helium intensifies globally. Federal authorities emphasized that securing stable helium access is essential for national security, prompting calls from tech leaders for increased investment in gas recycling infrastructure.",
+     "why": "La sécurisation des approvisionnements en hélium est vitale pour l'industrie mondiale des semi-conducteurs.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    },
+    {
+     "source": "AP",
+     "lang": "en",
+     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxON2Y3SGtTSE5PWlZPdlBnMkUyck9CY3FyUTR6bGx2aHVJQmY3a3kwU0xTSEVHNDB0UE9mdDFjZlJzNVFDaWtkc3ZCcExFOXYwWm4yYXNsblJGeFlZN3pzcVFuN3VzZ3hqVG1zZk1EakhJZ1VJcHh2eloxYlFlRmZXUFphcUc1Y2hZZDdISUUwdHVFdE1TMjVlX0NkLWdqYWhwZmc?oc=5",
+     "headline": "Europe's killer heat this summer claims 50,000 lives. Climate change blamed for two-thirds of deaths",
+     "headlineEn": "La chaleur meurtrière en Europe cet été fait 50 000 morts, le changement climatique mis en cause",
+     "summary": "A comprehensive scientific study reveals that record summer heatwaves across Europe resulted in over 50,000 heat-related deaths in 2026. Researchers attribute approximately two-thirds of these fatalities directly to human-induced climate change, identifying June as the most lethal month. Southern European countries recorded the highest mortality rates, particularly among vulnerable elderly populations living in urban areas. Public health experts urge European governments to accelerate urban adaptation initiatives and modernize public health emergency plans to mitigate future extreme heat events.",
+     "why": "Ces données alarmantes confirment l'urgence de renforcer la résilience climatique des infrastructures européennes.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    },
+    {
+     "source": "Euronews",
+     "lang": "en",
+     "url": "https://www.euronews.com/2026/10/23/ukraine-hits-russian-data-centres-in-blow-to-moscows-ai-capabilities",
+     "headline": "Ukraine hits Russian data centres in blow to Moscow's AI capabilities",
+     "headlineEn": "L'Ukraine frappe des centres de données russes, un coup dur pour les capacités en IA de Moscou",
+     "summary": "Ukrainian drone attacks targeted major Russian data centers across five regions, causing severe disruption to digital services and artificial intelligence processing capabilities. The strikes hit three Yandex facilities, a major Sber banking data hub, and a VKontakte server farm. The physical destruction resulted in persistent, widespread outages for digital payment platforms, satellite navigation services, and commercial cloud infrastructure nationwide. Technology experts estimate that repairing the specialized hardware could take months or even years due to strict international sanctions on high-tech imports.",
+     "why": "Les cyber-infrastructures deviennent une cible prioritaire dans les conflits modernes.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    }
+   ]
+  },
+  {
+   "name": "Sport",
+   "stories": [
+    {
+     "source": "SZ",
+     "lang": "de",
+     "url": "https://www.sueddeutsche.de/sport/ski-alpin-soelden-auftakt-2026-heute-uebersicht-rennen-uhrzeit-tv-stream-li.3562584",
+     "headline": "Weltcup-Auftakt 2026: Ski-Alpin-Saison startet in Sölden – Übersicht zu den Rennen",
+     "headlineEn": "Alpine Ski World Cup 2026 opens in Sölden – Overview of the races",
+     "summary": "Die neue Ski-Alpin-Weltcup-Saison beginnt traditionell auf dem Rettenbachgletscher in Sölden. Am 24. und 25. Oktober treten die weltbesten Skirennläuferinnen und Skirennläufer im Riesenslalom gegeneinander an, um die ersten Punkte im Kampf um die große Kristallkugel zu sammeln. Trotz wechselhafter Wetterbedingungen gaben die Veranstalter grünes Licht für die Wettbewerbe. Sportfans erwarten spannende Duelle zwischen etablierten Favoriten und aufstrebenden Nachwuchstalenten.",
+     "why": "Le lancement de la Coupe du monde de ski alpin marque le début de la saison hivernale pour les élites de la discipline.",
+     "paywalled": true,
+     "contested": "",
+     "chart": null
+    },
+    {
+     "source": "AP",
+     "lang": "en",
+     "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQbnRqb3RYTGxrcUs4M0p2Mk11b2JjQmdVZmdsS2lILTlnNmctY2JfRjQzNnU3akxwOUxKQy1maVlKeXNhTXV3ZXMyWi10NlRYNlVTNUl6ZVh0TVVYVXpJUlBNZmlHTTJKV1RaLUhBQmxQZENmcndpbV9KWFNKSVNMNVlUWWFEb1BQdElBOHhOVGhTLTlZYkRB?oc=5",
+     "headline": "Brewers withstand Rays’ comeback attempt to win 3-2 in Game 1 of World Series",
+     "headlineEn": "Les Brewers résistent au retour des Rays et l'emportent 3-2 lors du match 1 de la Série mondiale",
+     "summary": "The Milwaukee Brewers secured a tense 3-2 victory over the Tampa Bay Rays in Game 1 of the World Series. Milwaukee built an early lead with strong pitching and timely run scoring before holding off a late comeback attempt by Tampa Bay in the final innings. The victory gives the Brewers a crucial one-game lead as the championship series continues.",
+     "why": "Cette victoire inaugurale donne un avantage précieux aux Brewers dans la quête du titre suprême de la MLB.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    }
+   ]
+  }
+ ],
+ "sourced": true,
+ "feeds": {
+  "ok": 27,
+  "of": 29,
+  "items": 244,
+  "skipped": [
+   "Euronews (FR): HTTP 406",
+   "Washington Post (EN): HTTP 502"
+  ]
+ },
+ "words": 3945,
+ "readMin": 20,
+ "storyCount": 25
+}
