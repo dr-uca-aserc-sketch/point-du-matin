@@ -1,0 +1,424 @@
+{
+ "date": "2026-10-25",
+ "kind": "weekly",
+ "heat": 0.85,
+ "oneThing": "Escalating social unrest in Europe and satellite network disputes in Ukraine highlight how economic strain and tech dependencies are reshaping geopolitical stability.",
+ "followUps": [
+  {
+   "n": "01",
+   "thread": "Référendum sur l'indépendance de l'Alberta au Canada",
+   "change": "Les électeurs albertains ont rejeté massivement le projet d'indépendance, préservant l'unité canadienne et rassurant les marchés pétroliers."
+  },
+  {
+   "n": "02",
+   "thread": "Faille de sécurité critique sur le langage PHP",
+   "change": "Les agences de cybersécurité et les développeurs se précipitent pour déployer un correctif mondial sur un langage utilisé par 70 % des sites web."
+  },
+  {
+   "n": "03",
+   "thread": "Vague de suppressions d'emplois dans le secteur financier",
+   "change": "Barclays et American Express ont confirmé des plans de restructuration majeurs, entraînant la suppression de milliers de postes soutenue par l'IA et la réduction des coûts."
+  }
+ ],
+ "mustReads": [
+  {
+   "desk": "France",
+   "source": "France 24",
+   "lang": "FR",
+   "paywalled": false,
+   "url": "https://www.france24.com/fr/france/20261024-les-cort%C3%A8ges-se-sont-bien-pass%C3%A9s-d%C3%A9clare-nu%C3%B1ez-qui-comptabilise-pr%C3%A8s-de-1-000-interpellations",
+   "headline": "Mobilisation du 24 octobre : les cortèges se sont 'bien passés' dit Nunez, 1 000 interpellations",
+   "headlineEn": "October 24 mobilization: Marches went 'well' says Nunez, 1,000 arrests",
+   "contested": "",
+   "why": "La persistance des manifestations d'ampleur et des tensions sécuritaires fragilise durablement le gouvernement français et pèse sur la croissance de la zone euro.",
+   "stat": "400 000",
+   "statLabel": "Manifestants mobilisés à travers la France",
+   "chart": null,
+   "paras": [
+    "La semaine s'est ouverte en France sur une crise politique et sécuritaire d'une gravité inédite. À la suite d'un week-end de violences urbaines et de destructions matérielles majeures à travers le pays, le président Emmanuel Macron a fermement refusé la démission de son ministre de l'Intérieur. Cette décision a immédiatement attisé la colère de l'opposition et des manifestants. Les débordements enregistrés dans plusieurs métropoles ont mis en lumière les failles du maintien de l'ordre, tout en plongeant le gouvernement exécutif dans une impasse politique lourde de conséquences pour l'économie nationale.",
+    "Face à l'ampleur des contestations liées à l'inflation et au pouvoir d'achat, les autorités ont tenté d'analyser les raisons de cet échec sécuritaire. Les rapports ont pointé des défaillances dans le renseignement, la gestion des effectifs et la doctrine d'intervention employée lors des rassemblements. Pour contenir la montée des tensions, le gouvernement de Sébastien Lecornu a décidé d'instaurer des couvre-feux nocturnes ciblés dans plusieurs grandes villes, notamment à Paris, Lille et Nice. Cette mesure d'exception visait à reprendre le contrôle de l'espace public face aux risques de nouveaux affrontements violents.",
+    "Au milieu de la semaine, le ministre des Armées a affirmé publiquement que les couvre-feux commençaient à produire des effets positifs en ramenant un calme relatif durant la nuit. Toutefois, la contestation sociale n'a pas faibli sur le plan politique et syndical. Le mécontentement populaire s'est nourri d'une contraction inattendue de l'activité économique française en octobre, mesurée par les indices PMI. Les pressions financières croissantes et l'augmentation des coûts d'emprunt de l'État français à des niveaux historiques ont accentué la fragilité de l'exécutif face à la rue.",
+    "À l'approche du week-end du 24 octobre, le gouvernement a déployé un dispositif sécuritaire massif sur l'ensemble du territoire national. Plus de 70 000 policiers et gendarmes ont été mobilisés pour encadrer les nouveaux rassemblements et prévenir tout risque de pillage ou de dégradation. À Paris, le préfet de police a modifié les parcours des cortèges à la dernière minute pour les cantonner en périphérie de la capitale. Cette stratégie sécuritaire inédite visait à éviter l'embrasement des centres-villes tout en maintenant un niveau de vigilance maximal.",
+    "La journée de samedi a vu une mobilisation massive de la population à travers tout le pays. Plus de 400 000 personnes sont descendues dans la rue pour protester contre la cherté de la vie, le manque de moyens pour les services publics et le financement de l'éducation nationale. Bien que la majorité des cortèges aient défilé dans le calme, des affrontements violents ont éclaté en fin de journée entre des groupes de manifestants et les forces de l'ordre à Paris et dans d'autres métropoles.",
+    "Au terme de cette nouvelle journée de tension, le ministre de l'Intérieur Laurent Nunez a déclaré que la mobilisation s'était globalement bien déroulée malgré les incidents recensés en marge des rassemblements. Les forces de sécurité ont procédé à près de 1 000 interpellations sur l'ensemble du territoire français pour désamorcer les risques de violences généralisées. Si les destructions matérielles sont restées inférieures à celles du week-end précédent, le bilan humain et le nombre d'arrestations témoignent de la persistance d'un climat social extrêmement dégradé.",
+    "Aujourd'hui, le gouvernement français se retrouve dans une position inconfortable, coincé entre la fermeté sécuritaire et l'incapacité à répondre aux revendications économiques de la population. Les rassemblements de samedi ont confirmé l'ancrage profond de la contestation dans toutes les couches de la société. Le maintien de la paix sociale repose désormais sur une présence policière étouffante qui pèse lourdement sur les finances publiques et accentue la polarisation politique du pays. La gestion de cette crise continue d'affaiblir l'image de la France sur la scène européenne.",
+    "Pour que la situation évolue dans les prochains jours, l'exécutif devra choisir entre l'ouverture de négociations sociales d'envergure ou la poursuite d'une ligne répressive. La prochaine étape dépendra de la capacité des syndicats à maintenir la pression par de nouvelles grèves et de la réponse budgétaire que le gouvernement apportera au Parlement. Sans signal fort sur le pouvoir d'achat, le risque d'une paralysie économique durable reste entier, alors que les marchés obligataires surveillent avec inquiétude la capacité du pays à stabiliser sa trajectoire financière."
+   ]
+  },
+  {
+   "desk": "Monde / géopolitique",
+   "source": "BBC",
+   "lang": "EN",
+   "paywalled": false,
+   "url": "https://www.bbc.co.uk/news/articles/cvx28ljp8n4xo?at_medium=RSS&at_campaign=rss",
+   "headline": "Musk says SpaceX restricted Ukraine's Starlink connection as service restored",
+   "headlineEn": "Musk déclare que SpaceX a restreint la connexion Starlink de l'Ukraine alors que le service est rétabli",
+   "contested": "Alors que Donald Trump affirmait que les restrictions d'accès au réseau satellitaire avaient été levées à son initiative, les autorités militaires ukrainiennes ont d'abord démenti tout rétablissement avant qu'Elon Musk ne confirme une restriction volontaire par SpaceX.",
+   "why": "La dépendance critique des forces ukrainiennes envers des infrastructures technologiques privées américaines crée une vulnérabilité stratégique majeure sur le front.",
+   "stat": "100%",
+   "statLabel": "Service Starlink rétabli après une semaine de perturbations",
+   "chart": null,
+   "paras": [
+    "The week opened with sharp diplomatic and technological friction surrounding the war in Ukraine. Reports emerged that Washington and Kyiv were engaged in disputes over military intelligence sharing and satellite network access. These services remain critical for Ukrainian defense capabilities against Russian missile strikes and frontline drone operations. Ukrainian officials expressed deep concern regarding the reliability of their Western partners, warning that any interruption in real-time satellite data severely undermined their ability to monitor Russian troop movements and protect essential power grid infrastructure during attacks.",
+    "As the days progressed, the geopolitical landscape grew even more complex following direct diplomatic contacts between major powers. A United States envoy traveled to meet Russian President Vladimir Putin after holding what were described as positive talks with Ukrainian President Volodymyr Zelenskyy. Amid these high-level discussions, Ukrainian forces faced renewed Russian strikes targeting power grids across the country. Zelenskyy publicly noted that Ukraine had received no early warnings from international partners prior to the strikes, highlighting persistent communication gaps between Kyiv and Western military command structures.",
+    "Technological disruption on the battlefield reached a critical point when severe speed reductions were reported across Ukraine's Starlink satellite internet network. Ukrainian military units heavily rely on Starlink to coordinate artillery strikes, manage aerial reconnaissance, and operate defense drones along the extended frontline. Ukrainian President Volodymyr Zelenskyy called for immediate international action to resolve the connectivity issues, while speculation mounted over whether the slowdown was caused by technical failures, deliberate electronic jamming from Russian forces, or corporate decisions made by SpaceX leadership in the United States.",
+    "In response to the growing operational crisis, former United States President Donald Trump claimed that restrictions on Ukraine's satellite access had been lifted following his intervention. However, Ukrainian defense officials initially disputed this claim, stating that connection speeds remained restricted in crucial combat sectors. Meanwhile, diplomatic efforts gathered momentum as President Zelenskyy signaled a willingness to consider freezing current frontlines as a potential first step toward negotiating a broader ceasefire, marking a notable shift in Kyiv's strategic messaging after years of intense military conflict.",
+    "By the end of the week, connectivity was officially restored across the Starlink network, bringing operational speeds back to normal levels for Ukrainian defense forces. Elon Musk publicly confirmed that SpaceX had deliberately restricted the connection speeds, accusing Ukraine of violating the company's terms of service by utilizing the civilian satellite system for offensive military operations and long-range drone strikes. Musk defended the decision by arguing that Starlink was designed for communication rather than direct weaponization, sparking intense debate over private corporate influence on military conflicts.",
+    "Simultaneously, unexpected diplomatic developments emerged from the White House, which announced that Melania Trump had helped broker a localized humanitarian truce in the Ukrainian city of Oleshky, which was described as being on the brink of disaster. While details of the agreement remained limited, Ukrainian forces continued targeting strategic targets deep inside Russian territory, launching successful drone strikes against Russian data centers to weaken Moscow's artificial intelligence capabilities and logistics networks, demonstrating that fighting remained intense despite ongoing diplomatic maneuvers.",
+    "As the week closes, the episode underscores Ukraine's extreme vulnerability to decisions made by private tech companies and shifting political dynamics in Washington. While Starlink service has been fully restored, the temporary outage exposed significant friction between Kyiv and its main technological suppliers. Ukrainian military planners now face the reality that frontline communications could be throttled again if corporate terms of service or political agreements shift. This uncertainty comes at a delicate moment as both sides prepare for winter operations and potential ceasefire discussions.",
+    "The next decisive moves will depend on whether Western allies can establish guaranteed, state-backed satellite alternatives to reduce reliance on commercial providers like SpaceX. Furthermore, upcoming diplomatic engagements following the United States elections will determine whether Zelenskyy's proposal to freeze the frontline gains traction among international partners or if military escalation continues. Any shift in Washington's military support or intelligence sharing will directly dictate Ukraine's battlefield strategy and its leverage in future peace negotiations with Moscow in the months ahead."
+   ]
+  },
+  {
+   "desk": "International — hors Europe",
+   "source": "AP News",
+   "lang": "EN",
+   "paywalled": false,
+   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNMXJEbXYtVm45V3lUY3NuMmNFSUxHcjNYdzhENFJ1SXhCRjJyU0dGYnROb3BWVjA0S0NFa1FHSHkwOVJZODRsalpSSXFGQk9vNDE4NDkxTDFOaDFDX3ZrSmtFbjJOUnBPMU1ZN0RHV0o4UWxpUE0yZjBodDFWMWZ6c3FBWVpZSFhheDViTDJ6MkRaei1R?oc=5",
+   "headline": "What to know as Brazilians choose between Lula and Flávio Bolsonaro on Sunday",
+   "headlineEn": "Ce qu'il faut savoir alors que les Brésiliens choisissent dimanche entre Lula et Flávio Bolsonaro",
+   "contested": "",
+   "why": "L'issue de la présidentielle brésilienne réorientera la politique environnementale en Amazonie et la dynamique politique conservatrice en Amérique latine.",
+   "stat": "160M",
+   "statLabel": "Électeurs brésiliens appelés aux urnes pour le second tour",
+   "chart": null,
+   "paras": [
+    "The presidential campaign in Latin America's largest nation opened with high stakes as leftist President Luiz Inácio Lula da Silva and conservative Senator Flávio Bolsonaro prepared for their final showdown. The election contest reflects deep political polarization across Brazil, influencing regional trade, environmental policy in the Amazon, and economic relations with major global powers. After a fierce first-round vote, both political camps launched aggressive campaign strategies to capture undecided voters, framing the runoff election as a fundamental choice between contrasting visions for the country's economic and social future.",
+    "Midway through the week, opinion polls indicated an extraordinarily tight race between the two candidates, showing them tied as the second-round runoff approached. Flávio Bolsonaro, the son of Brazil's former president, built strong momentum by appealing to conservative voters, criticizing government spending, and raising questions about democratic institutions. Meanwhile, the 80-year-old Lula, seeking a fourth presidential term, mobilized his core supporters across major metropolitan areas while introducing late economic measures aimed at relief for lower-income households struggling with persistent inflation and high living costs.",
+    "Tensions escalated during the final campaign debate, where both candidates clashed aggressively over rising living costs, public corruption, and national security. Flávio Bolsonaro focused his attacks on economic management and past corruption scandals associated with Lula's party, presenting himself as a candidate of order and economic reform. In response, Lula defended his historical social legacy, highlighting poverty reduction programs and warning voters that a return to conservative leadership would dismantle environmental protections in the Amazon rainforest and erode social safety nets for vulnerable populations.",
+    "Environmental and indigenous groups across Brazil expressed severe concern about the potential outcome of the vote. Indigenous leaders warned that a victory for the conservative challenger could roll back land rights and weaken enforcement against illegal logging and mining in protected territories. Conversely, business leaders and agricultural exporters closely monitored the election, weighing Lula's state-driven economic policies against Bolsonaro's market-oriented proposals. The contrasting approaches highlighted how the election result would immediately reshape Brazil's environmental commitments and its attractiveness to foreign industrial investors.",
+    "On the eve of the election, both political camps held massive final rallies in major Brazilian cities to energize their bases. Campaign strategists focused heavily on reducing voter abstention, which had reached nearly twenty percent during the first round of voting. With approximately 160 million citizens registered to vote, securing turnout in key populous states like São Paulo and Minas Gerais became the top priority for both teams. Analysts emphasized that even minor shifts in voter participation could prove decisive in such a closely fought contest.",
+    "As polling stations open across Brazil on Sunday, the nation stands on a knife-edge. The election is widely viewed as a critical test for Brazilian democracy, with international observers closely monitoring voting operations and electronic ballot counting. Security forces have been deployed nationwide to prevent potential clashes between political supporters. The outcome will decide whether Brazil maintains its current left-leaning political trajectory or joins a broader wave of conservative leadership gaining ground across Latin America, bolstered by political encouragement from conservative figures in the United States.",
+    "The broader implications of this election extend far beyond Brazil's borders, impacting global commodity markets and international climate agreements. A win for Lula would solidify government efforts to curb deforestation and strengthen Latin American integration. A victory for Flávio Bolsonaro would mark a dramatic political comeback for his family's movement, aligning Brazil more closely with conservative trade policies and reducing regulatory burdens on agribusiness. Both outcomes will immediately recalibrate Brazil's diplomatic stance toward major international partners, including China, the European Union, and the United States.",
+    "What will move the story next is the rapid official release of election results by Brazil's electoral court on Sunday evening. The key variable will be whether the losing candidate accepts the official outcome without challenging the legitimacy of the vote. A swift concession would ensure a peaceful transition, whereas allegations of electoral fraud could trigger widespread protests and political instability. Once the winner is confirmed, attention will turn to cabinet appointments and early legislative negotiations required to build a working coalition in Brazil's fragmented national congress."
+   ]
+  },
+  {
+   "desk": "Monde / géopolitique",
+   "source": "France 24",
+   "lang": "FR",
+   "paywalled": false,
+   "url": "https://www.france24.com/fr/moyen-orient/20261025-israel-bouclage-cisjordanie-occupee-fermeture-points-de-passage-elections-legislatives-netanyahu-hebron-palestiniens",
+   "headline": "Israël va boucler la Cisjordanie occupée et fermer tous les points de passage lors des législatives",
+   "headlineEn": "Israel to lock down occupied West Bank and close all checkpoints during general election",
+   "contested": "",
+   "why": "Le bouclage complet de la Cisjordanie et les opérations militaires à Hébron exacerbent la crise humanitaire à deux jours de législatives cruciales pour Nétanyahou.",
+   "stat": "2 000",
+   "statLabel": "Habitants palestiniens déplacés d'Hébron après l'attaque",
+   "chart": null,
+   "paras": [
+    "La situation sécuritaire et politique au Moyen-Orient s'est brutalement tendue au cours de la semaine. L'escalade a débuté avec des agressions menées par des colons israéliens contre un journaliste américain et des diplomates européens en Cisjordanie occupée, suscitant de vives condamnations de l'Union européenne et des États-Unis. Ces attaques ont immédiatement accentué la pression diplomatique sur le gouvernement de Benyamin Nétanyahou, alors que la région traversait déjà des turbulences majeures liées aux réductions de l'aide humanitaire de l'ONU à Gaza et aux menaces de perturbations énergétiques mondiales.",
+    "La tension est montée d'un cran supplémentaire à la suite d'une attaque armée contre un point de contrôle militaire près de Hébron, au cours de laquelle deux soldats israéliens ont été tués par des militants palestiniens. En réponse immédiate, le Premier ministre Benyamin Nétanyahou a ordonnant à l'armée de préparer un bouclage total de la Cisjordanie. Les forces armées ont aussitôt lancé une opération militaire d'envergure, menant des perquisitions systématiques et forçant environ 2 500 familles palestiniennes, soit plus de 2 000 habitants, à quitter leurs foyers dans la ville de Hébron.",
+    "À la fin de la semaine, l'armée israélienne a officialisé la fermeture complète de tous les points de passage terrestres avec la Cisjordanie occupée pour la journée du mardi 27 octobre. Cette mesure de restriction stricte coïncide directement avec l'organisation des élections législatives anticipées en Israël. Les autorités militaires ont justifié ce verrouillage par la nécessité de prévenir tout nouvel attentat et de sécuriser le scrutin, interdisant temporairement le déplacement des travailleurs palestiniens vers les implantations israéliennes et le territoire national.",
+    "Sur le plan politique interne, ces mesures sécuritaires drastiques s'inscrivent dans un contexte d'extrême polarisation à quelques jours seulement d'un scrutin législatif crucial pour l'avenir du pays. Les élections de mardi sont largement perçues comme un véritable référendum pour ou contre le maintien au pouvoir de Benyamin Nétanyahou. Alors que le Premier ministre multiplie les déclarations martiales pour remobiliser son électorat conservateur, des milliers de manifestants se sont une nouvelle fois rassemblés à Tel-Aviv pour dénoncer la gestion du gouvernement et exiger un changement politique.",
+    "Sur le terrain humanitaire, le bouclage renforcé et les opérations militaires en cours aggravant considérablement les conditions de vie de la population palestinienne en Cisjordanie. Les déplacements forcés à Hébron et la fermeture des points de passage paralyse l'économie locale et restreignent l'accès aux soins et aux approvisionnements de base. Les organisations internationales et les diplomates européens ont exprimé leur vive préoccupation face à cette escalade, avertissant que l'usage de punitions collectives risquait d'alimenter un engrenage de violences incontrôlable dans l'ensemble des territoires occupés.",
+    "Parallèlement à ces événements, la campagne électorale révèle des fissures inédites au sein même des fiefs traditionnels du Likoud, le parti au pouvoir. Dans des villes du nord traditionnellement acquises à Nétanyahou, la colère monte face à la dégradation de la sécurité et à la gestion des tensions frontalières. Cette érosion de la loyauté électorale rend l'issue du scrutin particulièrement incertaine, obligeant la coalition gouvernementale à durcir encore son discours sécuritaire pour éviter une fuite des voix vers d'autres formations de la droite nationale.",
+    "Aujourd'hui, Israël aborde ce rendez-vous électoral dans un climat de tension sécuritaire maximale et de verrouillage territorial complet. Le bouclage de la Cisjordanie illustre la détérioration continue de la situation sécuritaire et l'échec des tentatives de stabilisation. La combinaison des opérations militaires sur le terrain, des manifestations massives dans les métropoles et du mécontentement diplomatique international place le paysage politique israélien devant une échéance historique majeure, dont les retombées dépasseront largement le cadre des frontières nationales.",
+    "Ce qui fera évoluer la situation dans les prochains jours sera le résultat officiel des urnes mardi soir et la capacité des différents blocs à former une majorité gouvernementale stable. Une victoire de la coalition sortante consoliderait la ligne dure et l'extension des zones de contrôle militaire, tandis qu'un changement de majorité pourrait ouvrir la voie à une reconfiguration des relations sécuritaires et diplomatiques. Dans l'immédiat, le déroulement de la journée électorale sous strict verrouillage militaire déterminera si l'escalade actuelle peut être contenue."
+   ]
+  }
+ ],
+ "desks": [
+  {
+   "name": "Luxembourg",
+   "stories": [
+    {
+     "source": "Luxemburger Wort",
+     "lang": "de",
+     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQT2FMRThKSGZSdDBGeWpzWXFHRUxDQlBGOWtmQVZpZnVBdjJwd0Z4a0dQUy1FX1NodklIVkFUcDVsTGVjR0NGb3lUTHk1NzJmSEFWMW5Za1NtZ3kxT0JFd29ycHRWOGdqOF9qQkRGX1VEcDVsTDdiRnpCZ2RoY0V2U3dHNl8zMHJEMFZ6ZllzdUNQSFd4bVV3bzBiMkhSQQ?oc=5",
+     "headline": "Wofür Grenzbewohner ihr Geld in Luxemburg ausgeben",
+     "headlineEn": "What cross-border workers spend their money on in Luxembourg",
+     "summary": "Die Konsumgewohnheiten der Grenzgänger stehen im Mittelpunkt der wirtschaftlichen Debatten in Luxemburg. Während tägliche Einkäufe wie Treibstoff, Lebensmittel und Dienstleistungen beträchtliche Einnahmen für den lokalen Handel generieren, bleiben die Ausgaben stark von der Entwicklung der Lebenshaltungskosten und der Steuerpolitik beeinflusst. Die Analyse zeigt, dass die wirtschaftliche Verflechtung der Grenzregionen eine entscheidende Rolle für die Stabilität des luxemburgischen Dienstleistungssektors spielt. Angesichts geplanter Mautgebühren in den Nachbarländern und schwankender Kraftstoffpreise beobachten Händler und Politik die Entwicklung der Kaufkraft genau.",
+     "why": "Les habitudes de consommation des frontaliers sont cruciales pour l'économie et le commerce de détail luxembourgeois.",
+     "paywalled": true,
+     "contested": "",
+     "chart": null
+    },
+    {
+     "source": "RTL.lu",
+     "lang": "lb",
+     "url": "https://www.rtl.lu/news/lu/a/2241000.html",
+     "headline": "Petitioun iwwer Lëtzebuergesch als Integratiounssprooch gëtt an der Chamber debattéiert",
+     "headlineEn": "Petition on Luxembourgish as an integration language to be debated in Parliament",
+     "summary": "D'Chamber mécht sech prett fir eng intensiv Debatt iwwer d'Rolle vum Lëtzebuergeschen als zentrale Feiler vun der Integratiounspolitik. D'Petitioun huet genuch Ënnerschrëfte gesammelt, fir am Parlament beschwat ze ginn, wat d'Wichtegkeet vun der Sprooch an der aldeeglecher Kommunikation an am Beruffsliewen ënnersträicht. D'Politiker diskutéieren iwwer Moossnamen, wéi d'Lëtzebuergeschcoursen ausgebaut kënne ginn, ouni déi international Attraktivitéit vum Land ze bremsen. Dës Initiativ weist, wéi wichteg d'Sproochenfro fir de gesellschaftlechen Zesummenhalt an d'Identitéit am Grand-Duché bleift.",
+     "why": "Le rôle du luxembourgeois reste au cœur des débats parlementaires sur la cohésion sociale et l'intégration.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    },
+    {
+     "source": "Luxemburger Wort",
+     "lang": "de",
+     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNaFhpeUh5TTd0OVRuMFIzRGJIaG9IbWpONkhvVHpiWnJxSDRwTTU1UnBaQ05DdWpFRFNGTFRJeFV3bkc0NEt1b09XUXh0OWtZWXpHbnZ3N0dlYWZEQlB6QkJXZFZ4RkhVU09SZ1liZVRRQ0xidUNsME5jeTNDOHpXRldQaFgzc0dCVU45cVV5N1pZc21EOGlFQVlmMmptVkxON3VQS3hLYnpOM3BOZXZWYw?oc=5",
+     "headline": "Festnahme einer mutmaßlichen Geldwäscherin nach LuxTrust-Betrug",
+     "headlineEn": "Arrest of a suspected money launderer following LuxTrust fraud",
+     "summary": "Die luxemburgische Polizei hat im Rahmen von Ermittlungen gegen Cyberschwindel und Phishing eine mutmaßliche Geldwäscherin festgenommen. Der Fall steht im Zusammenhang mit Betrügereien, bei denen gefälschte LuxTrust-Nachrichten genutzt wurden, um vertrauliche Bankdaten von Opfern abzugreifen. Die Festnahme unterstreicht die vergrößerten Anstrengungen der Justizbehörden, kriminelle Netzwerke zu zerschlagen, die den Finanzplatz und private Ersparnisse attackieren. Ermittler warnen weiterhin vor gefälschten E-Mails und SMS, die darauf abzielen, Online-Banking-Zugänge zu manipulieren.",
+     "why": "La lutte contre le cyber-phishing ciblant LuxTrust est essentielle pour la sécurité de la place financière et des usagers.",
+     "paywalled": true,
+     "contested": "",
+     "chart": null
+    }
+   ]
+  },
+  {
+   "name": "Monde / géopolitique",
+   "stories": [
+    {
+     "source": "France 24",
+     "lang": "fr",
+     "url": "https://www.france24.com/fr/europe/20261025-en-serbie-des-%C3%A9lections-l%C3%A9gislatives-sous-forme-de-r%C3%A9f%C3%A9rendum-anti-vucic",
+     "headline": "Législatives en Serbie : des élections sous forme de « référendum anti-Vucic »",
+     "headlineEn": "Legislative elections in Serbia: Elections in the form of an 'anti-Vucic referendum'",
+     "summary": "Les citoyens serbes se rendent aux urnes pour des élections législatives anticipées cruciales pour l'avenir politique du pays. Un puissant mouvement étudiant s'est structuré pour faire de ce scrutin un véritable référendum contre le président Aleksandar Vučić, au pouvoir depuis plus d'une décennie. La contestation, née des manifestations contre la corruption et des tragédies d'infrastructures en 2024, a rassemblé une large frange de la société civile. L'issue du vote s'annonce particulièrement serrée, alors que l'opposition dénonce des irrégularités électorales et craint des tensions politiques post-électorales à Belgrade.",
+     "why": "Ce scrutin clé dans les Balkans occidentaux pourrait rebattre les cartes politiques et influencer l'orientation européenne de la Serbie.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    },
+    {
+     "source": "DW",
+     "lang": "en",
+     "url": "https://www.dw.com/en/bulgaria-holds-presidential-elections-amid-divisions-over-ukraine-war/a-79753496?maca=en-rss-en-world-4025-rdf",
+     "headline": "Bulgaria holds presidential elections amid divisions over Ukraine war",
+     "headlineEn": "La Bulgarie tient une élection présidentielle marquée par les divisions sur la guerre en Ukraine",
+     "summary": "Voters in Bulgaria have cast their ballots in presidential elections marked by deep political divisions over support for Ukraine and Black Sea security. Incumbent President Rumen Radev faces scrutiny as candidates debate the country's foreign policy stance toward Moscow and NATO obligations. Concerns have escalated following recent naval incidents and threats to commercial shipping routes in the Black Sea. The election serves as a major test of public opinion regarding military assistance to Kyiv and energy security across South-Eastern Europe.",
+     "why": "L'orientation diplomatique bulgare conditionne la cohésion de l'OTAN et de l'UE sur le flanc oriental de la mer Noire.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    },
+    {
+     "source": "PBS News",
+     "lang": "en",
+     "url": "https://www.pbs.org/newshour/politics/u-s-is-reducing-staffing-at-4-middle-east-embassies-over-increased-threats-from-iran",
+     "headline": "U.S. is reducing staffing at 4 Middle East embassies over increased threats from Iran",
+     "headlineEn": "Les États-Unis réduisent leurs effectifs dans 4 ambassades au Moyen-Orient face aux menaces de l'Iran",
+     "summary": "The United States has ordered the reduction of non-essential diplomatic personnel across four embassies in the Middle East following heightened intelligence reports of potential Iranian threats. Intelligence officials confirmed that Tehran has intensified efforts targeting American personnel and regional facilities amid ongoing military friction. The security drawdown reflects growing regional instability and escalating tensions between Washington, Israel, and Iranian-backed forces. Diplomatic missions remain on high alert as military commanders prepare for potential escalations across the Persian Gulf.",
+     "why": "L'augmentation des menaces sécuritaires au Moyen-Orient accentue le risque de confrontation militaire directe avec l'Iran.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    }
+   ]
+  },
+  {
+   "name": "International — hors Europe",
+   "stories": [
+    {
+     "source": "AP News",
+     "lang": "en",
+     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPX0I1TVQybGpFam8xeDVVN1NTdVFha1Q3Und2cjhZbHJnMG1CekZFTWEyMXI2VFNTVHF0MlF5ekIxM3plalZMVU9jVjZHanE2WnozM2xQN2x6WDA2NHh1NUVXRXIwZ2JVczFsQjZ5aXY2VU9tRk1kRWg2bDZpSlJKVzVFaVlhOFc0N0pnOUp0cWVwREY0b1JlZ2xSbw?oc=5",
+     "headline": "North Korean leader Kim Jong Un visits China to inaugurate a new cross-border bridge",
+     "headlineEn": "Le dirigeant nord-coréen Kim Jong Un se rend en Chine pour inaugurer un nouveau pont transfrontalier",
+     "summary": "North Korean leader Kim Jong Un made an unannounced official visit to China to open a strategic cross-border bridge with his Chinese counterparts. The surprise diplomatic trip highlights deepening economic and political alignment between Pyongyang and Beijing amid geopolitical frictions with Washington. The inauguration of the infrastructure project strengthens trade links and sanctions resistance along the Yalu River border. This summit underscores Pyongyang's strategy of solidifying partnerships with Beijing and Moscow to counter Western diplomatic pressure.",
+     "why": "Le renforcement de l'axe Pékin-Pyongyang consolide les échanges transfrontaliers et défie l'impact des sanctions occidentales.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    },
+    {
+     "source": "Reuters",
+     "lang": "en",
+     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPYUdEaVdfMFowR19ySTVVTVhyUkxlV2d0VDB5VFlxLS10TzJzRTV4ajZDV1F6UjVTUW5RYVVCTEhSVy0wdGdfRGdYWVpqMWxiTkd2NVhtV0lZRkpYTWhSMUY3aE5KTUcxN1VxNEJ2djlPbjFxY1ZhYVZpYmxRVUlya2tvUGdWLUhsMGlDakYwX3YzTnJNUlBrMlNZbng5WVhvRnZnMm05Sm45N3VuVUNqLU9n?oc=5",
+     "headline": "Obama unloads on Trump while stumping for Democrats ahead of midterms",
+     "headlineEn": "Obama s'en prend violemment à Trump en faisant campagne pour les démocrates avant les midterms",
+     "summary": "Former US President Barack Obama delivered hard-hitting speeches in key battleground states, criticizing Donald Trump's administration ahead of the midterm elections. Campaigning for Democratic candidates in Ohio and Michigan, Obama warned voters about rising living costs, foreign policy missteps, and threats to democratic norms. He urged voters to turn out in high numbers, framing the upcoming election as a crucial opportunity to restore political balance in Congress. The high-profile intervention reflects intense mobilization on both sides as key congressional seats hang in the balance.",
+     "why": "L'implication active de Barack Obama dans la campagne réaffirme les enjeux stratégiques majeurs des élections de mi-mandat américaines.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    },
+    {
+     "source": "Euronews",
+     "lang": "en",
+     "url": "https://www.euronews.com/2026/10/24/rubio-calls-on-cubans-seeking-change-to-form-discrete-partnership-with-cia",
+     "headline": "Rubio calls on Cubans seeking change to form 'discrete partnership' with CIA",
+     "headlineEn": "Marco Rubio appelle les Cubains en quête de changement à former un « partenariat discret » avec la CIA",
+     "summary": "US Secretary of State Marco Rubio publicly called on Cuban citizens desiring political transformation to cooperate discreetly with American intelligence agencies. The statement marks an aggressive escalation in Washington's foreign policy toward Havana, with officials asserting that the island's economic and political regime is on the verge of collapse. Cuban authorities forcefully denounced the appeal as an illegal foreign interference attempt intended to destabilize the nation. The diplomatic clash adds severe friction to US-Caribbean relations as sanctions remain tightly enforced.",
+     "why": "Cet appel direct de Washington durcit l'affrontement idéologique et diplomatique entre les États-Unis et le gouvernement cubain.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    },
+    {
+     "source": "NYT",
+     "lang": "en",
+     "url": "https://www.nytimes.com/2026/10/24/world/americas/salvadoran-soldiers-haiti-dead.html",
+     "headline": "Remains Found in Haiti During Hunt for Missing Salvadoran Soldiers",
+     "headlineEn": "Des restes humains découverts en Haïti lors des recherches des soldats salvadoriens disparus",
+     "summary": "Human remains were discovered in Haiti during an intensive search operation launched by El Salvador following the disappearance of four technicians. El Salvador had deployed specialized military teams to the Caribbean nation to locate the personnel missing during an aviation mission. Salvadoran officials initially denied that the recovered remains belonged to their service members, pending forensic verification. The incident highlights the growing risks and complexities of international security interventions operating within gang-controlled Haitian territories.",
+     "why": "La détérioration sécuritaire en Haïti complique dramatiquement les missions d'intervention militaire et humanitaire internationales.",
+     "paywalled": true,
+     "contested": "",
+     "chart": null
+    }
+   ]
+  },
+  {
+   "name": "Europe & politiques de l'UE",
+   "stories": [
+    {
+     "source": "Euronews",
+     "lang": "en",
+     "url": "https://www.euronews.com/2026/10/24/young-protesters-clash-with-police-on-rome-streets",
+     "headline": "Young protesters clash with police on Rome streets as demonstrations spread across Italy",
+     "headlineEn": "Des jeunes manifestants s'affrontent avec la police à Rome alors que la contestation s'étend en Italie",
+     "summary": "Demonstrations against high inflation, stagnating wages, and public funding cuts erupted across major Italian cities including Rome, Milan, and Turin. In Milan, military personnel were deployed to secure key areas as commercial districts boarded up storefronts to prevent property damage. While marches in several areas remained peaceful, clashes with riot police broke out in Rome and Turin, resulting in several detentions. The widespread mobilization reflects deepening public discontent across Southern Europe regarding economic austerity and rising living costs.",
+     "why": "La hausse du coût de la vie attise les tensions sociales et met sous pression les gouvernements de plusieurs pays membres de l'UE.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    },
+    {
+     "source": "DW",
+     "lang": "en",
+     "url": "https://www.dw.com/en/turkey-s-new-deal-on-mediterranean-maritime-boundaries-with-libya-is-exacerbating-issues-with-greece-and-the-eu/a-79745971?maca=en-rss-en-world-4025-rdf",
+     "headline": "Turkey's new deal on Mediterranean maritime boundaries with Libya is exacerbating issues with Greece and the EU",
+     "headlineEn": "Le nouvel accord maritime turco-libyen en Méditerranée ravive les tensions avec la Grèce et l'UE",
+     "summary": "Turkey and Libya have announced plans to redefine maritime borders in the Eastern Mediterranean to create a joint economic transit corridor. The bilateral initiative provoked swift diplomatic condemnation from Athens, which accuses Ankara of violating Greek sovereign rights and international maritime law. European Union officials expressed serious concern, warning that unilateral border adjustments threaten regional stability and offshore energy exploration. The maritime dispute reopens long-standing geopolitical friction between NATO allies along the EU's southern maritime flank.",
+     "why": "Le différend sur les frontières maritimes en Méditerranée orientale fragilise la stabilité régionale et les projets énergétiques européens.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    },
+    {
+     "source": "Euronews",
+     "lang": "en",
+     "url": "https://www.euronews.com/2026/10/24/fire-engulfs-hitlers-former-eagles-nest-retreat-in-germany",
+     "headline": "Fire engulfs Hitler’s former Eagle’s Nest retreat in Germany",
+     "headlineEn": "Un incendie ravage l'ancien refuge d'Hitler au Kehlsteinhaus en Allemagne",
+     "summary": "A major fire gutted the historic Eagle's Nest (Kehlsteinhaus) mountain building above Berchtesgaden in southern Germany. Around 200 emergency firefighters responded to the mountain site to battle the flames, though authorities report the building suffered catastrophic structural destruction. German police arrested a suspect on suspicion of arson shortly after the blaze was reported. The site, constructed during the Nazi era, had served as a prominent tourist destination and historical memorial for decades.",
+     "why": "La destruction par le feu de ce site historique majeur suscite une vive émotion et pose des questions sur la sécurité du patrimoine.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    }
+   ]
+  },
+  {
+   "name": "Économie & marchés",
+   "stories": [
+    {
+     "source": "AP News",
+     "lang": "en",
+     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPRTFJejhGVHpHM3RQVWQ4UzVmaWJfSUVsUkJJaENrN1h0bjA0aHhvaDVvREd0QllZQnU1Q3J4RnBKNmg3aVRWRWxBeDNuMmdQRVpKamNEWmQ4bnlxYzJGVTRMdGpjaU5kNGZ1Skt5VE5WNi1Sa1d5UENGVUo1dko1YVM4OGFMcENiTHVBU2RTV0psdks0ZkVzU0N4Nm5IM3BhY2R4ZEN3?oc=5",
+     "headline": "Trump announces at a Georgia campaign rally that Audi will build a new auto factory in the state",
+     "headlineEn": "Trump annonce lors d'un ralliement en Géorgie qu'Audi va construire une nouvelle usine automobile dans l'État",
+     "summary": "German automaker Volkswagen Group, through its subsidiary Audi, plans to construct its first manufacturing facility in the US state of Georgia. Donald Trump highlighted the corporate investment during a campaign rally, framing the decision as a direct outcome of US trade tariffs and industrial incentives. The automotive plant represents a significant shift for European luxury manufacturers seeking to localize production within North America to avoid import duties. Analysts note the move underscores how international carmakers are restructuring supply chains in response to protectionist trade policies.",
+     "why": "La localisation de la production automobile aux États-Unis illustre l'impact des barrières douanières sur la stratégie des industriels européens.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    },
+    {
+     "source": "FT",
+     "lang": "en",
+     "url": "https://www.ft.com/content/1c3065cf-538f-433a-9749-0355a3642c7c?syn-25a6b1a6=1",
+     "headline": "Luxury groups’ value drops by €250bn as Chinese consumer demand fades",
+     "headlineEn": "La valeur des groupes de luxe chute de 250 milliards d'euros avec le ralentissement de la demande chinoise",
+     "summary": "Major European luxury conglomerates have seen more than €250 billion erased from their collective market valuation as Chinese consumer demand continues to decline. Slower economic growth and weakened consumer confidence in China have severely impacted earnings for high-end fashion, jewellery, and spirits brands. European equity markets are feeling the strain from the sector's downturn, as luxury firms represent a substantial share of key European stock indices. Corporate executives are adjusting revenue expectations while seeking sales growth in alternative emerging markets.",
+     "why": "Le passage à vide du secteur du luxe souligne la dépendance des grands groupes européens envers le marché de la consommation chinois.",
+     "paywalled": true,
+     "contested": "",
+     "chart": null
+    },
+    {
+     "source": "FT",
+     "lang": "en",
+     "url": "https://www.ft.com/content/eedb7159-65df-45de-91f9-fde8de99e61c?syn-25a6b1a6=1",
+     "headline": "Mercuria challenging the ‘Dow Jones of shipping’ in court after Hormuz losses",
+     "headlineEn": "Mercuria poursuit la Baltic Exchange en justice après des pertes liées au détroit d'Hormuz",
+     "summary": "Commodity trading giant Mercuria has initiated legal proceedings against the Baltic Exchange over freight rate assessments through the Strait of Hormuz during regional conflict. The court challenge focuses on the methodology used to calculate maritime shipping price estimates while tankers faced severe military risks in the Persian Gulf. Freight derivatives and insurance premiums skyrocketed as energy traders struggled with volatile transport costs for crude oil. The dispute highlights the complex financial repercussions that geopolitical disruptions in maritime choke points impose on global energy markets.",
+     "why": "Les litiges sur le fret maritime reflètent les surcoûts et la volatilité extrême qui pèsent sur le commerce mondial de pétrole.",
+     "paywalled": true,
+     "contested": "",
+     "chart": null
+    }
+   ]
+  },
+  {
+   "name": "Technologie & sciences",
+   "stories": [
+    {
+     "source": "FAZ",
+     "lang": "de",
+     "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/ki-sicherheitsluecke-trifft-deutschland-zeit-fuer-mehr-eigenstaendigkeit-accg-201615439.html",
+     "headline": "Sicherheitslücken: Die Lehren aus dem KI-Hack",
+     "headlineEn": "Security flaws: Lessons from the AI hack",
+     "summary": "Die Entdeckung einer schwerwiegenden Sicherheitslücke in der Websprache PHP durch künstliche Intelligenz hält die globale IT-Branche weiter in Atem. Fachleute und IT-Sicherheitsbehörden drängen Betreiber von Webseiten weltweit dazu, dringende Software-Updates zu installieren, um automatisierte Angriffswellen abzuwehren. Der Vorfall verdeutlicht, dass KI-Systeme zunehmend genutzt werden, um Schwachstellen in digitaler Infrastruktur in rasender Geschwindigkeit aufzuspüren. In Deutschland und Europa entfacht der Vorfall erneut Debatten über die technologische Eigenständigkeit und digitale Resilienz kritischer Online-Dienste.",
+     "why": "La découverte de cette faille majeure souligne les risques systémiques et l'urgence de renforcer la cybersécurité des infrastructures web.",
+     "paywalled": true,
+     "contested": "",
+     "chart": null
+    },
+    {
+     "source": "AP News",
+     "lang": "en",
+     "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPjhwUzlHbnJOemg0S0x1WlNQSUZIaEtpZlNSd0JtZmszRlg2S3QtTzZla3o2WjdDdTlhUFk0M0UteG84UTA4TndIbUgycFJrTFhlTG4yRXQ6STNDOFBuWE10eDhfcVRuLTNJbWRTRkhMSDZzSXVrcGdCZmpkVG9jS3loUQ?oc=5",
+     "headline": "As the US and China form AI blocs, countries are increasingly torn between them",
+     "headlineEn": "Alors que les États-Unis et la Chine forment des blocs d'IA, les pays sont de plus en plus écartelés entre eux",
+     "summary": "Global technology competition is dividing nations into competing artificial intelligence spheres led by the United States and China. Smaller and developing countries face growing pressure to choose between American proprietary AI architectures and subsidized Chinese technologies. International regulations, supply chain controls on semiconductors, and data governance frameworks are becoming key geopolitical battlegrounds. Analysts warn that this technological bifurcation risks fragmenting global digital standards and restricting cross-border scientific collaboration.",
+     "why": "La bipolarisation de la technologie mondiale accélère la création de blocs numériques fermés et concurrence les normes internationales.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    },
+    {
+     "source": "AP News",
+     "lang": "en",
+     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPYUdEaVdfMFowR19ySTVVTVhyUkxlV2d0VDB5VFlxLS10TzJzRTV4ajZDV1F6UjVTUW5RYVVCTEhSVy0wdGdfRGdYWVpqMWxiTkd2NVhtV0lZRkpYTWhSMUY3aE5KTUcxN1VxNEJ2djlPbjFxY1ZhYVZpYmxRVUlya2tvUGdWLUhsMGlDakYwX3YzTnJNUlBrMlNZbng5WVhvRnZnMm05Sm45N3VuVUNqLU9n?oc=5",
+     "headline": "Europe's killer heat this summer claims 50,000 lives, scientists blame climate change",
+     "headlineEn": "La chaleur mortelle de cet été en Europe fait 50 000 morts, les scientifiques accusent le réchauffement climatique",
+     "summary": "Epidemiological data reveals that extreme summer heatwaves across Europe resulted in more than 50,000 excess deaths. Climate researchers attribute two-thirds of these casualties directly to human-induced global warming. Urban heat island effects and inadequate infrastructure severely amplified health vulnerabilities among elderly populations. Environmental agencies and public health officials are calling for urgent investments in urban cooling strategies, emergency health protocols, and aggressive carbon emission reductions.",
+     "why": "L'augmentation constante des températures produit des impacts sanitaires mortels et exige des politiques d'adaptation urbaine rapides.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    }
+   ]
+  },
+  {
+   "name": "Sport",
+   "stories": [
+    {
+     "source": "SZ",
+     "lang": "de",
+     "url": "https://www.sueddeutsche.de/sport/ski-alpin-soelden-auftakt-2026-heute-live-maenner-riesenslalom-uhrzeit-tv-stream-li.3562584",
+     "headline": "Weltcup-Auftakt 2026: Ski-Alpin-Saison startet in Sölden",
+     "headlineEn": "Alpine Skiing World Cup Kickoff 2026: Season starts in Sölden",
+     "summary": "Die alpine Skisaison 2026/27 startet traditionell auf dem Rettenbachgletscher in Sölden. Die weltbesten Riesenslalom-Spezialisten treten beim ersten Weltcup-Rennen des Winters gegeneinander an. Nach einer intensiven Sommerzeit auf der Südhalbkugel suchen die Athleten früh nach ihrer Form für den langen Rennkalender.",
+     "why": "L'ouverture de la Coupe du monde à Sölden lance officiellement la saison internationale de ski alpin.",
+     "paywalled": true,
+     "contested": "",
+     "chart": null
+    },
+    {
+     "source": "France 24",
+     "lang": "fr",
+     "url": "https://www.france24.com/fr/sports/20261025-la-nfl-s-offre-son-premier-match-au-stade-de-france-saints-et-steelers-en-qu%C3%AAte-des-playoffs",
+     "headline": "La NFL s'offre son premier match au Stade de France, Saints et Steelers en quête des playoffs",
+     "headlineEn": "NFL holds its first game at the Stade de France, Saints and Steelers clash for playoff spots",
+     "summary": "La Ligue américaine de football américain (NFL) dispute son tout premier match officiel sur le sol français au Stade de France. Opposant les Saints de La Nouvelle-Orléans aux Steelers de Pittsburgh, cette rencontre internationale s'inscrit dans la stratégie d'expansion mondiale de la ligue. Les deux franchises s'affrontent devant un public record avec en ligne de mire la qualification pour les playoffs.",
+     "why": "La tenue de ce match à Paris marque une étape importante dans l'expansion du football américain en Europe.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    }
+   ]
+  }
+ ],
+ "sourced": true,
+ "feeds": {
+  "ok": 26,
+  "of": 29,
+  "items": 242,
+  "skipped": [
+   "Reuters (FR)",
+   "Euronews (FR): HTTP 406",
+   "Washington Post (EN): HTTP 502"
+  ]
+ },
+ "words": 5035,
+ "readMin": 25,
+ "storyCount": 25
+}
