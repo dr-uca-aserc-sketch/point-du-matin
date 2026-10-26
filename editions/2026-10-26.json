@@ -1,0 +1,232 @@
+{
+ "date": "2026-10-26",
+ "kind": "daily",
+ "heat": 0.8,
+ "oneThing": "",
+ "followUps": [
+  {
+   "n": "01",
+   "thread": "Présidentielle au Brésil",
+   "change": "Luiz Inácio Lula da Silva remporte le second tour avec 51,79 % des voix, mais Flavio Bolsonaro conteste le résultat et demande l'annulation du scrutin."
+  },
+  {
+   "n": "02",
+   "thread": "Élections législatives en Serbie",
+   "change": "Aleksandar Vučić reconnaît la défaite de son parti face au mouvement étudiant après deux ans de manifestations."
+  },
+  {
+   "n": "03",
+   "thread": "Transition politique au Venezuela",
+   "change": "La cheffe de l'opposition et prix Nobel de la paix María Corina Machado rentre d'exil à Caracas après dix mois d'absence."
+  }
+ ],
+ "mustReads": [
+  {
+   "desk": "Amériques",
+   "source": "France 24",
+   "lang": "FR",
+   "paywalled": false,
+   "url": "https://www.france24.com/fr/am%C3%A9riques/20261026-bresil-victoire-lula-quatrieme-mandat-flavio-bolsonaro",
+   "headline": "Brésil : Lula réélu président, Flavio Bolsonaro va demander l'annulation des élections",
+   "headlineEn": "Brazil: Lula re-elected president, Flavio Bolsonaro to demand annulment of elections",
+   "contested": "Flavio Bolsonaro conteste la régularité du scrutin en raison de la prolongation de l'ouverture de certains bureaux de vote accordée par la justice, exigeant l'annulation du vote, tandis que la commission électorale a proclamé la victoire de Lula avec 51,79 % des voix.",
+   "why": "Cette élection décisive pour la démocratie brésilienne et la politique environnementale en Amazonie risque de déboucher sur une crise institutionnelle si la contestation persiste.",
+   "stat": "51,79%",
+   "statLabel": "des suffrages obtenus par Lula lors du second tour",
+   "chart": null,
+   "paras": [
+    "Le président sortant Luiz Inácio Lula da Silva a remporté l'élection présidentielle brésilienne à l'issue d'un second tour particulièrement tendu face à son rival de droite, Flavio Bolsonaro. Selon les chiffres officiels de la commission électorale brésilienne, le chef de l'État a obtenu 51,79 % des suffrages exprimés, lui assurant ainsi un quatrième mandat historique à la tête de la première puissance économique d'Amérique latine. Cette victoire marque un retournement politique majeur après un premier tour disputé où les deux candidats sont restés au coude-à-coude dans les bureaux de vote à travers tout le pays.",
+    "Toutefois, le climat politique demeure extrêmement fragile en raison de la réaction du camp adverse. Refusant catégoriquement d'admettre sa défaite, Flavio Bolsonaro a annoncé son intention de déposer un recours juridique formel afin de demander l'annulation pure et simple des élections. L'équipe du candidat battu remet en cause la décision judiciaire ayant ordonné la prolongation des horaires d'ouverture de certains bureaux de vote le jour du scrutin. Selon les partisans de la droite, ces prolongations imprévues auraient faussé l'équité du processus électoral et favorisé une mobilisation tardive des électeurs favorables au président Lula.",
+    "Le déroulement du vote s'est caractérisé par un déploiement logistique massif dans les différentes régions du Brésil. Des rives sauvages de l'Amazonie, où de nombreux habitants ont voyagé en pirogue pour rejoindre les urnes, jusqu'aux centres urbains très populeux de Rio de Janeiro et de São Paulo, la participation électorale a atteint des niveaux très importants. Les partisans des deux mouvements se sont rassemblés en foule au fil des heures, oscillant entre des moments d'inquiétude forte lors des premières estimations et des explosions de joie à l'annonce des résultats définitifs publiés.",
+    "Sur la scène internationale, l'annonce du succès de Lula a suscité de multiples réactions diplomatiques rapides de la part de plusieurs gouvernements étrangers. De nombreux dirigeants de pays d'Amérique latine ainsi que des représentants des institutions européennes ont salué la victoire du président sortant, y voyant une consolidation des valeurs démocratiques et de la protection de l'environnement. Les responsables écologistes européens ont particulièrement exprimé leur soulagement quant à la préservation de la forêt amazonienne, estimant que ce résultat permettra d'éviter une reprise de la déforestation massive encouragée sous la droite conservatrice.",
+    "Malgré la confirmation officielle du résultat par les autorités électorales, le paysage politique intérieur s'annonce complexe pour ce nouveau mandat. La coalition gouvernementale menée par Lula devra faire face à un Congrès dominé par des forces de droite et d'extrême droite déterminées à contrer ses projets de réforme socio-économique. Les observateurs politiques soulignent que le président devra déployer de vastes efforts de négociation pour faire voter ses lois majeures, réduire les inégalités persistantes dans le pays et maintenir la stabilité des institutions démocratiques brésiliennes face à une opposition profondément ancrée.",
+    "La remise en cause formelle du résultat électoral par le camp Bolsonaro crée une incertitude immédiate sur la transition du pouvoir dans la capitale. La tension persiste au sein des institutions étatiques alors que des rassemblements de protestation s'organisent dans plusieurs grandes villes brésiliennes pour soutenir la demande d'annulation du scrutin. Alors que le gouvernement prépare la mise en place de la future administration, l'attention du pays reste totalement concentrée sur l'issue des actions en justice promises par l'opposition et sur les risques d'escalade politique dans les semaines à venir."
+   ]
+  },
+  {
+   "desk": "Europe",
+   "source": "BBC",
+   "lang": "EN",
+   "paywalled": false,
+   "url": "https://www.bbc.co.uk/news/articles/cw5yn3xlprpmo?at_medium=RSS&at_campaign=rss",
+   "headline": "Celebrations in Serbia after veteran ruler Vučić loses election to student-led protest movement",
+   "headlineEn": "Célébrations en Serbie après la défaite électorale du dirigeant Aleksandar Vučić face au mouvement étudiant",
+   "contested": "",
+   "why": "Ce revers historique du président serbe après douze ans au pouvoir marque un tournant géopolitique majeur dans les Balkans et relance les perspectives d'intégration européenne du pays.",
+   "stat": "12",
+   "statLabel": "années de pouvoir d'Aleksandar Vučić en Serbie",
+   "chart": null,
+   "paras": [
+    "In a historic turn of events, Serbian citizens gathered across the country to celebrate after veteran ruler Aleksandar Vučić publicly acknowledged that his ruling populist party lost the snap parliamentary elections. The defeat comes after twelve years of dominant governance and follows nearly two years of sustained nationwide demonstrations led by a widespread student protest movement. Speaking shortly after the votes were tabulated, Vučić admitted that it was entirely clear his political group had failed to secure the majority needed to remain in power, framing the vote as a direct referendum on Serbia's governance.",
+    "The political shift represents the culmination of intense public dissatisfaction with systemic corruption, institutional mismanagement, and autocratic leadership in the Balkan nation. Demonstrators had routinely taken to the streets in Belgrade and other major cities, demanding sweeping political reforms and accountability from state officials. The student movement managed to unify various opposition factions and mobilize voters who had previously abstained from participating in national polls. The surprisingly early concession speech by Vučić surprised many political analysts who had expected a prolonged period of electoral disputes or challenges to the ballot counting process.",
+    "Following the announcement of the official results, thousands of festive citizens poured into the central squares of Belgrade waving flags and chanting slogans of victory. For many young Serbians, this election outcome symbolizes a dramatic departure from more than a decade of centralized control over state media and public institutions. Opposition leaders addressed emotional crowds late into the night, promising to immediately initiate transition talks to establish a stable coalition government that reflects the democratic aspirations expressed at the ballot box by citizens across the nation in this vote.",
+    "The election result carries profound implications for Serbia's foreign policy and international relations in southeastern Europe. Under Vučić's leadership, the government maintained delicate balanced relations between European institutions, Moscow, and Beijing, often causing tension with European Union partners. European diplomatic observers indicate that the political transformation could unblock long-stalled negotiations regarding European integration and restore trust between Serbia and its continental allies. However, forming a cohesive administrative cabinet among diverse opposition groups will require careful political negotiations to maintain stability during the delicate transitional phase.",
+    "The economic challenges facing the incoming government remain substantial after years of rising living costs and inflation. Analysts point out that restoring public confidence will depend heavily on addressing domestic financial pressures while implementing structural anti-corruption laws. The student movement has emphasized that its oversight will not cease with election victory, promising to remain vigilant to ensure that the new parliamentary leadership adheres strictly to transparency and democratic principles. Public expectations are exceptionally high as citizens demand rapid improvements in governance and economic security.",
+    "As power shifts in Belgrade, regional leaders and international diplomatic bodies are closely observing how the peaceful transfer of power unfolds. The defeat of an entrenched strongman demonstrates the power of sustained civic activism in reshaping political landscapes across Eastern Europe. In the coming weeks, parliamentary leaders will convene to formalize the new majority and lay out a roadmap for future legislative priorities, marking the official start of a new political era for Serbia following more than twelve years of autocratic political rule."
+   ]
+  }
+ ],
+ "desks": [
+  {
+   "name": "Luxembourg",
+   "stories": [
+    {
+     "source": "Luxemburger Wort",
+     "lang": "de",
+     "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPU0Z0aE14UDJDR2Y5Y0xYb2hraWdvQmtBYVRxSFZPWkVBcDRCMUlBOXktUzE3VXA0aHZmRXNRRlB2UkJlcUpZMWlCcl9CeXRPNjVNNzhSVkRuVnhoa3BQb1FjTGtGQWVWcmtqTkFVYUlHUUFQTmNweEU5ei05U0pYdXpyWGViblE0YzFBbHlYLVRLeHBqVEFpaWVubFBjSUNJQm1rcHBmaXJodzZFcXMxZ3B4RjExU203Nmdv?oc=5",
+     "headline": "E-Auto im Realitätscheck: Pendler-Alltag gegen deutsche Autobahn",
+     "headlineEn": "Electric car reality check: Daily commuting versus German Autobahn",
+     "summary": "Der Umstieg auf ein Elektrofahrzeug bringt für viele Pendler in Luxemburg neue Herausforderungen mit sich. Während der tägliche Berufsverkehr auf den Luxemburger Straßen meist problemlos bewältigt werden kann, zeigen sich bei längeren Fahrten über die deutsche Autobahn deutliche Reichweitenverluste. Das individuelle Fahrverhalten, höhere Geschwindigkeiten sowie winterliche Temperaturen beeinflussen die Batteriekapazität maßgeblich. Ein umfassender Praxistest analysiert nun detailliert, wie alltagstauglich moderne Stromer für Grenzgänger und Vielfahrer tatsächlich sind und welche Ausbaufortschritte bei der Ladeinfrastruktur entlang der wichtigsten internationalen Hauptverkehrsachsen noch erforderlich bleiben.",
+     "why": "L'évaluation de l'autonomie des véhicules électriques concerne directement de nombreux frontaliers et résidents luxembourgeois.",
+     "paywalled": true,
+     "contested": "",
+     "chart": null
+    },
+    {
+     "source": "RTL.lu",
+     "lang": "fr",
+     "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQNHVqVWdSSlN6YU82SFdLSWJfWmpIRFBZanJWRmU4RWtDWm5RcDNnVlV1TzlLLWRZMjVRYjBMQnZ4ZUZWMnRXQUR3SEJyUGtQSl9RclNXZUc5QlpDYW5MVERtRWk2Ny1CNHNMM3A5anpZYlR4eFIwQTk2bkp1WkdnbFZ3MktHaWRkdFRFMld5b2NSU2Q4aHZwZG1vR3oxc1ZYclRDbUdXbDdFS1RwclQybw?oc=5",
+     "headline": "Moselle: Le casque bientôt obligatoire pour les trottinettes électriques",
+     "headlineEn": "Moselle: Helmets soon mandatory for electric scooters",
+     "summary": "Dans le département voisin de la Moselle, les autorités s'apprêtent à rendre le port du casque obligatoire pour l'utilisation des trottinettes électriques. Cette mesure vise à renforcer la sécurité routière face à l'augmentation des accidents impliquant ces engins de déplacement personnel motorisés. Les élus locaux et les services de sécurité préparent l'application de cette nouvelle réglementation sur l'ensemble du territoire départemental. Les usagers frontaliers, qui empruntent régulièrement ces moyens de transport doux entre la France et le Luxembourg, devront adapter leurs équipements afin de respecter les nouvelles normes en vigueur.",
+     "why": "Cette évolution réglementaire frontalière touche directement les résidents luxembourgeois qui se déplacent en Moselle.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    },
+    {
+     "source": "Luxemburger Wort",
+     "lang": "de",
+     "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPalhLNlhXZFdZQTRVZ3VQV2h0MFlSZjJ3U3pBeWd5Q2tvbTVIb2JUOE1vYVMxb0xrby1YZDM1cENPZHBEdTFxUnhJZ3cyYkZZLWx2TUpUODRHV3EyeVR2NkVkNlVxTDFkcUsxRFNTY2ZRMUxyTXlHMUFNWnM5QXZtU280bWg3WVM5b2JTTTRBejdSS0haZTMyQTFHSUZQM3V1YXBLN1FPbngyX2RDdkRncWhIZnhRdXRpOFE?oc=5",
+     "headline": "Wie wird der Garten winterfest? Eine Gärtnerin aus Düdelingen erklärt es",
+     "headlineEn": "How to prepare your garden for winter? A gardener from Dudelange explains",
+     "summary": "Eine professionelle Gärtnerin aus Düdelingen gibt praktische Ratschläge, wie Gartenbesitzer ihre Pflanzen optimal auf die bevorstehende kalte Jahreszeit vorbereiten können. Zu den wichtigsten Schritten gehören das rechtzeitige Zurückschneiden von Stauden, der wirksame Schutz empfindlicher Kübelpflanzen vor Frost sowie die gezielte Pflege des Rasens vor dem ersten Schneefall. Zudem erklärt die Expertin, welche Vorkehrungen im Boden nötig sind, um Frostschäden an Wurzeln zu verhindern. Mit den richtigen Pflegemaßnahmen im Spätherbst lässt sich der heimische Garten gesund und widerstandsfähig durch den Winter bringen.",
+     "why": "Ces conseils horticoles locaux aident les propriétaires de jardins au Luxembourg à protéger leurs plantations avant l'hiver.",
+     "paywalled": true,
+     "contested": "",
+     "chart": null
+    }
+   ]
+  },
+  {
+   "name": "Monde / géopolitique",
+   "stories": [
+    {
+     "source": "DW",
+     "lang": "en",
+     "url": "https://www.dw.com/en/in-bulgaria-record-low-voter-turnout-triggers-a-november-1-presidential-run-off-in-a-poll-colored-by-divisions-over-ukraine-war/a-79753496?maca=en-rss-en-world-4025-rdf",
+     "headline": "In Bulgaria, record low voter turnout triggers presidential run-off",
+     "headlineEn": "En Bulgarie, le taux de participation historiquement bas entraîne un second tour pour la présidentielle",
+     "summary": "Bulgaria is heading to a presidential runoff on November 1 after record low voter turnout in Sunday's first round. Incumbent president Iliana Yotova, who favors maintaining dialogue with Russia, holds a narrow three-point lead over pro-European reformist candidate Andrey Gyurov. The election campaign has highlighted deep political divisions over foreign policy, rising inflation, and economic concerns linked to the war in Ukraine. With voters expressing frustration over persistent political instability, both candidates are intensifying their efforts to mobilize undecided citizens ahead of the decisive final vote next week.",
+     "why": "Le résultat de la présidentielle bulgare déterminera si Sofia se rapproche de l'Union européenne ou maintient des liens privilégiés avec Moscou.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    },
+    {
+     "source": "AFP",
+     "lang": "en",
+     "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE0tQmxwVjdVald6cUtxN0dOUVItRVNjNklvdEpTT0pRemQtVkRBNGo2aDkxZEowc2hFMGhvR1ozYkpFMV9BX19iSHYwMA?oc=5",
+     "headline": "Far-right leader Le Pen kicks off presidency tilt in wake of France protests",
+     "headlineEn": "La dirigeante d'extrême droite Le Pen lance sa campagne présidentielle après les manifestations en France",
+     "summary": "Far-right leader Marine Le Pen officially launched her campaign for the French presidency at a party congress in Orléans, seeking to capitalize on growing public discontent. Her campaign kickoff follows massive nationwide demonstrations across France, where more than 400,000 people rallied against rising living costs, purchasing power erosion, and education funding cuts. While social movements challenged President Emmanuel Macron's administration, Le Pen positioned her Rassemblement National as the primary political alternative. Recent opinion polls suggest her message is gaining traction among voters concerned about economic hardship and national security.",
+     "why": "Le lancement de la campagne de Marine Le Pen sur fond de contestation sociale préfigure une vive polarisation politique en France.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    },
+    {
+     "source": "Le Monde",
+     "lang": "fr",
+     "url": "https://www.lemonde.fr/international/live/2026/10/26/en-direct-guerre-en-ukraine-des-coupures-d-electricite-dans-six-oblasts-apres-des-attaques-russes_6799896_3210.html",
+     "headline": "Guerre en Ukraine : des coupures d'électricité dans six oblasts après des attaques russes",
+     "headlineEn": "War in Ukraine: Power outages in six oblasts following Russian attacks",
+     "summary": "De nouvelles attaques russes contre les infrastructures énergétiques ukrainiennes ont provoqué des coupures d'électricité massives dans six oblasts du pays. L'opérateur national Ukrenergo a annoncé que ses équipes de réparation travaillaient d'urgence pour rétablir l'approvisionnement là où les conditions de sécurité le permettent. Parallèlement, des tensions sont apparues concernant l'utilisation du réseau satellite Starlink par l'armée ukrainienne, Elon Musk affirmant que Kyiv avait enfreint les conditions d'utilisation avant le rétablissement du service. La population de la capitale fait face à des frappes toujours plus intensives à l'approche de l'hiver.",
+     "why": "Les frappes répétées contre le réseau électrique ukrainien menacent la stabilité énergétique du pays à l'approche de la période hivernale.",
+     "paywalled": true,
+     "contested": "",
+     "chart": null
+    }
+   ]
+  },
+  {
+   "name": "International — hors Europe",
+   "stories": [
+    {
+     "source": "Al Jazeera",
+     "lang": "en",
+     "url": "https://www.aljazeera.com/news/2026/10/26/palestinians-are-opening-their-doors-to-the-displaced-of-besieged-hebron?traffic_source=rss",
+     "headline": "Palestinians are opening their doors to the displaced of besieged Hebron",
+     "headlineEn": "Les Palestiniens ouvrent leurs portes aux déplacés de la ville assiégée de Hébron",
+     "summary": "A major military operation by Israeli forces in the West Bank city of Hebron has forced thousands of Palestinian residents to flee their homes amid intense security raids. Local families and community organizations across neighboring towns have opened their doors to accommodate the displaced populations. The military offensive follows an attack on a nearby church and comes just days before Israel's tightly contested general election. Human rights organizations and local officials report widespread damage to civilian infrastructure, severe restrictions on movement, and growing humanitarian concern as military operations continue throughout the area.",
+     "why": "L'intensification des opérations militaires israéliennes en Cisjordanie aggrave la crise humanitaire et exacerbe les tensions régionales.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    },
+    {
+     "source": "BBC",
+     "lang": "en",
+     "url": "https://www.bbc.co.uk/news/articles/cq8ez592pp0eo?at_medium=RSS&at_campaign=rss",
+     "headline": "Venezuelan opposition leader María Corina Machado returns after months in exile",
+     "headlineEn": "La cheffe de l'opposition vénézuélienne María Corina Machado rentre après des mois d'exil",
+     "summary": "Venezuelan opposition leader and Nobel Peace Prize laureate María Corina Machado has returned to Caracas after spending nearly ten months in exile. She was greeted by thousands of enthusiastic supporters in the capital following her high-profile arrival. Machado had left the country last December, shortly before US forces deposed President Nicolás Maduro and installed an interim authority. Her return comes amid growing political uncertainty and deepening doubts over democratic transition, as no official timetable for new presidential elections has yet been established by the current administration.",
+     "why": "Le retour de María Corina Machado redynamise l'opposition vénézuélienne dans un contexte de transition politique incertain à Caracas.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    },
+    {
+     "source": "Financial Times",
+     "lang": "en",
+     "url": "https://www.ft.com/content/7f6943d3-b089-49a7-a0bc-a6f677c09802?syn-25a6b1a6=1",
+     "headline": "Iran hosts regional powers for talks to prevent renewed escalation",
+     "headlineEn": "L'Iran accueille des puissances régionales pour des pourparlers visant à éviter une nouvelle escalade",
+     "summary": "Tehran is hosting senior security officials from Saudi Arabia, Pakistan, and Turkey for high-level diplomatic talks aimed at preventing further military escalation in the Middle East. The regional meeting comes as Iranian officials confirm ongoing indirect messaging with Washington despite heightened tensions. Concerns remain elevated across the region amid ongoing military strikes, rising oil shipping risks, and rhetoric surrounding upcoming elections. Regional powers are attempting to establish effective de-escalation mechanisms to safeguard vital maritime trade routes and mitigate wider conflict risks during this volatile geopolitical period.",
+     "why": "Ces concertations à Téhéran témoignent d'un effort diplomatique régional pour contenir les risques d'embrasement au Moyen-Orient.",
+     "paywalled": true,
+     "contested": "",
+     "chart": null
+    },
+    {
+     "source": "Al Jazeera",
+     "lang": "en",
+     "url": "https://www.aljazeera.com/news/2026/10/26/algerias-military-deployment-to-niger-whats-behind-the-move?traffic_source=rss",
+     "headline": "Algeria's military deployment to Niger marks major doctrine shift",
+     "headlineEn": "Le déploiement militaire de l'Algérie au Niger marque un tournant doctrinal majeur",
+     "summary": "Algeria is preparing its first foreign troop deployment in half a century by sending military forces into neighboring Niger. The strategic move represents a historic shift in Algeria's long-standing constitutional and diplomatic doctrine of non-intervention abroad. Authorities in Algiers are acting to secure their vulnerable southern border against regional instability, armed group movements, and political turmoil following recent military coups in the Sahel. Analysts note that the deployment underscores Algeria's growing determination to assert itself as a dominant security actor across North Africa and the broader Sahel region.",
+     "why": "Cette première intervention militaire algérienne à l'étranger depuis 50 ans redéfinit l'architecture de sécurité dans le Sahel.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    },
+    {
+     "source": "Council on Foreign Relations",
+     "lang": "en",
+     "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNV2dFeWI5bl9FR3FPTmZZUGFMWGlWc3JULVhPUEpmaXpPdlo5QzdyUGJGdFdrZ3FmUUJOSjVRM3FKTXdCMEs4c2hSc0pZNmozeWpWc3NFNngzZk5BeTZxSTB6TEHFT1h0Q095LXMyOV90LTAxczRWQ29BZ2lWb1VfZ2tKdU5CMmhyMEtJT3Z1UmFQb3BaSm9TTU5JVU9uZGpiLWZ3aUpPYnBKaEZqZVhaRk5CbE5WcnNnQ0E?oc=5",
+     "headline": "Adlai Stevenson Dresses Down the Soviet Ambassador to the UN—Cuban Missile Crisis, Day Ten",
+     "headlineEn": "Adlai Stevenson réprimande l'ambassadeur soviétique à l'ONU : dixième jour de la crise des missiles de Cuba",
+     "summary": "In an analytical historical retrospective for the Council on Foreign Relations, James M. Lindsay examines the pivotal diplomatic confrontation at the United Nations during the Cuban Missile Crisis. On the tenth day of the crisis, US Ambassador Adlai Stevenson famously confronted his Soviet counterpart, presenting photographic proof of missile installations in Cuba. The analysis highlights how high-stakes public diplomacy, clear evidence presentation, and strategic communication at the UN Security Council played a decisive role in crisis resolution during existential geopolitical standoffs between global superpowers.",
+     "why": "Cette analyse historique du CFR rappelle les mécanismes clés de la diplomatie de crise lors de tensions géopolitiques majeures.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    }
+   ]
+  }
+ ],
+ "sourced": true,
+ "feeds": {
+  "ok": 26,
+  "of": 29,
+  "items": 234,
+  "skipped": [
+   "Reuters (FR)",
+   "Euronews (FR): HTTP 406",
+   "Washington Post (EN): HTTP 502"
+  ]
+ },
+ "words": 2418,
+ "readMin": 12,
+ "storyCount": 13
+}
