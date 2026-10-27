@@ -1,0 +1,404 @@
+{
+ "date": "2026-10-27",
+ "kind": "daily",
+ "heat": 0.85,
+ "oneThing": "Israelis are voting in pivotal legislative elections, the first held since the October 7 attacks, deciding the political fate of Prime Minister Netanyahu.",
+ "followUps": [
+  {
+   "n": "01",
+   "thread": "Élections en Israël",
+   "change": "Ouverture des bureaux de vote pour les premières législatives depuis le 7 octobre, affichant une forte participation matinale de 16,68 %."
+  },
+  {
+   "n": "02",
+   "thread": "Élection présidentielle au Brésil",
+   "change": "Le parti de Flávio Bolsonaro reconnaît formellement la victoire de Lula, malgré les accusations de fraude répétées par Donald Trump."
+  },
+  {
+   "n": "03",
+   "thread": "Guerre en Ukraine et trêve d'Olechky",
+   "change": "Entrée en vigueur d'un cessez-le-feu localisé à Olechky pour acheminer de l'aide humanitaire, tandis que des frappes se poursuivent à Kyiv."
+  }
+ ],
+ "mustReads": [
+  {
+   "desk": "Moyen-Orient",
+   "source": "AP News",
+   "lang": "EN",
+   "paywalled": false,
+   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQTjZwSHA4OFBaR3JuMHQxem5wOWlIX3ppalRJRHZOLWs0aHk5V3Zlei1KR2FrZzRGX2Q3UmhxZ25YYm5WNzBvVmFSX1I4N3ZTeldBOUdRck1nSm9PMWt5MmNtcDlYTWZOR0hfSUhvb3h1NlRJUlJsRVNqNGhJMGZaZ01zM0U4NWRlTGxQR0Y4dGE2dkZEMllzaU1B?oc=5",
+   "headline": "Voters in Israel are deciding whether to oust Netanyahu after 3 years of war",
+   "headlineEn": "Les électeurs israéliens décident du sort de Nétanyahou après trois ans de guerre",
+   "contested": "",
+   "why": "Ce scrutin historique détermine l'avenir politique du Premier ministre Benyamin Nétanyahou et la direction stratégique du pays après des années de conflit régional.",
+   "stat": "16,68%",
+   "statLabel": "Taux de participation matinal aux législatives en Israël",
+   "chart": null,
+   "paras": [
+    "Voters across Israel are casting their ballots in a monumental general election that serves as a direct referendum on Prime Minister Benjamin Netanyahu's extended tenure. This crucial vote represents the first parliamentary election since the devastating attacks of October 2023 that dragged the nation into prolonged conflict. Polling stations opened early in the morning as citizens faced a stark choice between the incumbent leadership and alternative political visions. High voter turnout was reported in early hours, reflecting deep public engagement and anxiety across all segments of the population.",
+    "The political landscape remains deeply polarized as Netanyahu faces a formidable challenge from a unified opposition coalition led by former military chief Gadi Eisenkot. Campaigning has centered intensely on national security, military strategy, and the long-term democratic governance of the state. While Netanyahu insists that his firm leadership is required to ensure survival and defeat regional threats, opponents argue that his administration failed to prevent major intelligence lapses and hampered official investigations. Both major political camps remain closely matched in recent polling, making the outcome extremely uncertain.",
+    "Under the Israeli electoral system of proportional representation, securing a governing majority requires reaching sixty-one seats in the Knesset. Because neither political bloc is projected to capture an outright majority on its own, small political parties and potential coalition partners will wield extraordinary leverage in post-election negotiations. Observers expect weeks or even months of intense political bargaining before a stable cabinet can be formed. These protracted negotiations could leave the central government in a prolonged state of transition during a period of ongoing security challenges.",
+    "Community groups and families affected by recent violence observed quiet moments of reflection as voting commenced across major urban centers like Tel Aviv and Jerusalem. For many voters, personal experiences of conflict and regional escalation over the past three years have radically transformed traditional party loyalties. Political analysts note that cultural background and regional identity are playing a central role alongside traditional ideological divides. Candidates have actively targeted key demographic strongholds, attempting to mobilize voters who feel alienated by mainstream political discourse and previous policy decisions.",
+    "Despite intense debate over domestic governance and political ethics, many analysts believe core policy approaches toward regional security and Palestinian relations will broadly endure regardless of who emerges victorious. Major political factions share similar baseline positions on defense priorities, border security, and counterterrorism measures. However, international observers in European capitals and Washington are closely monitoring the vote for signals regarding potential diplomatic engagement and regional stability. A change in government leadership could shift the tone of foreign relations even if core strategic doctrines remain intact.",
+    "As polling stations prepare to close late in the evening, exit polls will offer the first indication of parliamentary seat distribution among competing parties. However, official tallies could take several days to finalize due to complex verification procedures and special ballot counting. The result will determine not only Netanyahu's personal political fate after decades at the helm, but also the future institutional trajectory of the country. Citizens across the nation now await results that could reshape national politics for years to come."
+   ]
+  },
+  {
+   "desk": "International",
+   "source": "RTL.lu",
+   "lang": "FR",
+   "paywalled": false,
+   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNZTRfSVRUeU5Qeno4STJqNVpiRTVNX3JlaU9IUXctYlBZakhmMzhGMjlwY3g5Rnc0Qmg3MFVfZ3RnRlZDbG9XcC0wTzRnMDJpZFNqLUdfcmNMR2dUUWpyeUNtU0RGNzJzTHhGY2FfR0NheHlxM389S3VOYlRfUm5Tc2xVcmE0WGdVR2lRdHc1MzZfZ1JRZGNESk5zU1ptWGFTX0lkaXZWYklpcnJMeHNB?oc=5",
+   "headline": "Brésil : Le parti de Flavio Bolsonaro reconnaît la victoire surprise de Lula",
+   "headlineEn": "Brazil: Flavio Bolsonaro's party recognizes Lula's surprise victory",
+   "contested": "Alors que le président américain Donald Trump affirme sans preuve que l'élection présidentielle brésilienne était truquée, le parti de Flávio Bolsonaro a formellement reconnu les résultats officiels de la victoire de Luiz Inácio Lula da Silva tout en réclamant des clarifications sur le processus.",
+   "why": "La confirmation de la réélection de Lula consolide le pouvoir de la gauche en Amérique du Sud et fait échec aux contestations populistes soutenues depuis Washington.",
+   "stat": "",
+   "statLabel": "",
+   "chart": null,
+   "paras": [
+    "L'élection présidentielle brésilienne s'est achevée par la victoire confirmée du président sortant Luiz Inácio Lula da Silva face à son rival de droite Flávio Bolsonaro. Malgré des tensions politiques extrêmes et des contestations isolées, la formation politique du candidat battu a finalement choisi de reconnaître formellement les résultats du scrutin. Cette déclaration marque une étape décisive dans la stabilisation des institutions démocratiques du pays après des semaines d'incertitudes électorales. La participation citoyenne massive a témoigné de l'importance cruciale de cet affrontement politique majeur pour l'avenir de la nation.",
+    "Le processus électoral a toutefois fait l'objet de vifs débats diplomatiques internationaux au cours des dernières quarante-huit heures. Le président américain Donald Trump a publiquement mis en doute la régularité du vote, affirmant sans apporter de preuves tangibles que le scrutin aurait été truqué. Cette prise de position de Washington a suscité d'importantes réactions à travers le continent sud-américain et en Europe. Malgré cette pression extérieure, les responsables électoraux brésiliens ont réaffirmé avec fermeté la transparence et la fiabilité absolue des systèmes de comptage électronique déployés sur le territoire.",
+    "Au niveau domestic, le camp de Flávio Bolsonaro s'est retrouvé de plus en plus isolé après l'annonce des résultats définitifs par les autorités électorales. Alors que certains partisans réclamaient l'annulation pure et simple des élections, les dirigeants du parti conservateur ont préféré adopter un ton plus mesuré. Tout en demandant des explications techniques complémentaires sur certaines phases du processus de dépouillement, ils ont publiquement écarté tout recours juridique visant à invalider le scrutin. Cette décision pragmatique a contribué à désamorcer les risques de manifestations massives dans les grandes métropoles.",
+    "Cette réélection conforte le leadership stratégique de Luiz Inácio Lula da Silva, qui s'était forgé une réputation internationale sur la protection environnementale de l'Amazonie. Durant sa campagne, le dirigeant de gauche a mobilisé des millions d'électeurs en promettant de poursuivre la réduction de la déforestation sauvage et de renforcer les programmes sociaux. Néanmoins, son bilan économique suscite des discussions complexes en raison du développement soutenu des industries extractives et pétrolières. Les observateurs soulignent la difficulté de concilier la transition écologique globale avec les exigences de croissance nationale.",
+    "Sur le plan judiciaire, le climat politique reste pesant autour de la famille Bolsonaro suite aux nombreuses enquêtes menées par les autorités. Des mesures de restriction importantes, incluant la confiscation des passeports et l'interdiction de quitter le territoire, ont été imposées à plusieurs figures politiques clés du camp conservateur. La justice brésilienne continue d'examiner des accusations de corruption et de tentatives d'ingérence institutionnelle remontant aux précédents mandats. Ces développements judiciaires affaiblissent considérablement la capacité d'opposition structurée de la droite dure face au nouveau gouvernement de coalition.",
+    "Le retour aux affaires de Lula consolide la position du Brésil en tant que contrepoids politique majeur face aux influences populistes régionales. Les gouvernements européens et les institutions internationales ont rapidement salué la conclusion démocratique du scrutin et exprimé leur volonté de renforcer la coopération bilatérale. Pour le gouvernement brésilien, la priorité immédiate réside désormais dans la présentation du budget national et l'apaisement des fractures sociales. Les prochains mois révéleront si la nouvelle administration parvient à maintenir la stabilité parlementaire nécessaire aux réformes économiques annoncées."
+   ]
+  },
+  {
+   "desk": "Technologie",
+   "source": "AP News",
+   "lang": "EN",
+   "paywalled": false,
+   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPNlh5REtLQ3ZiYnhaV0ZnZXRhMVkwV282YXN2ODFlQjA4NWx4UHdUWlNwV1lXZnFHcDZ2S2NkMGF3VnVkczNGb1NVQnJNSk5XdEIyTHZRTUlGYlFVSXpadjNTT0VsVjhMUUxqRExWOEdENGM3bl9HUmJ5eEwzT0Jhc2xRNzdfX1RpV3VVcjNxYjM?oc=5",
+   "headline": "Anthropic files for potentially the biggest IPO ever as CEO warns of risk to humanity from AI",
+   "headlineEn": "Anthropic dépose le dossier pour ce qui pourrait être la plus grande entrée en Bourse de l'histoire, alors que son PDG met en garde contre les risques de l'IA",
+   "contested": "",
+   "why": "L'introduction en Bourse d'Anthropic marque une étape majeure pour l'industrie de l'intelligence artificielle tout en remettant au centre du débat financier les risques existentiels posés par ces technologies.",
+   "stat": "",
+   "statLabel": "",
+   "chart": null,
+   "paras": [
+    "Artificial intelligence startup Anthropic has officially filed paperwork for what could become the largest initial public offering in stock market history. The landmark filing provides investors and regulators with an unprecedented look into the company's financial structure, explosive revenue growth, and massive operational costs. Financial markets reacted immediately to the news, driving technology equities higher across international exchanges. Wall Street analysts view this public offering as a pivotal milestone for the broader artificial intelligence sector, signaling strong institutional appetite for advanced technology ventures despite high market volatility.",
+    "Accompanying the financial disclosures was a remarkably candid warning from Chief Executive Officer Dario Amodei regarding the systemic existential risks artificial intelligence poses to humanity. In documentation submitted to regulatory authorities, Amodei emphasized that rapid technological progress without adequate safety guardrails could lead to catastrophic global outcomes. The chief executive urged policymakers, investors, and industry leaders to prioritize rigorous safety testing, alignment research, and international governance frameworks. This dual message of aggressive commercial expansion alongside severe risk warnings highlights the complex philosophical dilemmas facing leading technology developers today.",
+    "The company's prospectus revealed detailed projections of capital expenditure required to train next-generation AI models and maintain massive computing infrastructure. Anthropic has secured extensive partnerships with primary cloud computing providers and microchip manufacturers to supply the immense processing power needed for its algorithms. However, legal challenges and copyright disputes continue to linger in the background as content creators demand compensation for proprietary material used in model training. Despite these ongoing legal hurdles, institutional demand for pre-IPO shares has reached historic levels across global financial markets.",
+    "Alongside its commercial public listing plans, Anthropic announced an expansion of its dedicated initiatives to support non-profit organizations and academic research institutions. By providing discounted access to advanced language models and developer tools, the company aims to foster beneficial applications in healthcare, education, and environmental conservation. Company executives argue that democratizing access to cutting-edge tools helps mitigate societal inequality while building public trust in automated systems. This strategy reflects a broader effort within the technology industry to balance profit generation with corporate social responsibility commitments.",
+    "The filing has stimulated broader momentum across global technology markets, encouraging other venture-backed startups to evaluate potential public listings. Investment banks and private equity firms have reported renewed activity in technology debt and equity markets following months of cautious trading. Major tech conglomerates are also expanding strategic partnerships and capital investments to avoid falling behind in the competitive AI landscape. Market commentators note that public investor scrutiny will force technology management teams to demonstrate clear paths toward sustained profitability alongside technological innovation.",
+    "As regulators review the initial registration documents, market participants expect the public offering to proceed in coming months subject to customary conditions. The successful execution of this public debut will test whether retail and institutional investors remain willing to fund capital-intensive software development. Furthermore, government officials in Washington and European capitals are closely monitoring how publicly traded AI firms balance commercial secrecy with mandatory regulatory disclosures. The outcome will likely establish critical benchmarks for future corporate governance and compliance standards across the tech industry."
+   ]
+  }
+ ],
+ "desks": [
+  {
+   "name": "Luxembourg",
+   "stories": [
+    {
+     "source": "RTL.lu",
+     "lang": "fr",
+     "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOWThaNUx6QTdYM0hBQU5PY0tuRnRJVkMwTk03OVVSaHRGT3l6d1VsX2JVaThOdzhjZ1YxT2hHNGhLOG5BQ1g4YUd5NzQ2ekVqTmRzT0hiWEhqYVlMU0ZBSUMteXZ3cUpiS00ta0xpQ2lzeFVaZkJnVk0xdWlqdnp3aldqbFY5TS12eTZSZEExSlZPRnlGejd0Y0hxZGVGRjhXNk83b3VrSDFhcUd3QVJIaklFcFJrOGc3?oc=5",
+     "headline": "Manifestation ce mardi: La jeunesse luxembourgeoise victime des prix des logements et des loyers",
+     "headlineEn": "Protest this Tuesday: Luxembourg youth victim of housing and rent prices",
+     "summary": "Une manifestation est organisée ce mardi au Luxembourg pour dénoncer la flambée continue des prix de l'immobilier et des loyers, qui touche de plein fouet la jeune génération. Les organisations de jeunesse réclament un encadrement plus strict du marché locatif ainsi qu'un investissement massif dans les logements abordables. Selon les organisateurs, la difficulté d'accès au logement constitue aujourd'hui le principal frein à l'émancipation des jeunes résidents et favorise la fuite des talents vers les régions frontalières. Le rassemblement vise à interpeller directement les décideurs politiques afin d'obtenir des mesures urgentes face à la crise.",
+     "why": "La crise de l'immobilier pèse de plus en plus lourdement sur la jeunesse et l'attractivité du Grand-Duché.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    },
+    {
+     "source": "RTL.lu",
+     "lang": "fr",
+     "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOTVh1c2FmTzNnTkdsZGthdEtPUnBMXzh5dlZVZXh0aFYycVFXbVVmV0FLZ2RfeVBYTE9kcE5Raml3RkM0bzI4Vk9GbWVMWWZMZGpEMXR4aGlMWUNsUHJ1cEw4S0FtUVhfQUNXS1hDU3YwYUE5amVkV1JkNlRvRHpRMHdLbkFqbG53OUVENllfQUxzbW9vb2ZuelBFUUJnQkFxJnphVlFyWFplQVM3b1JsTFRYcU9ySUtIUmdVd191ejFLT2ZEaC16VkRYbTA4TS1NR3hDb29ubw?oc=5",
+     "headline": "Luxembourg: La CGFP donne son feu vert à une éventuelle prolongation des mesures issues de la Tripartite",
+     "headlineEn": "Luxembourg: CGFP gives green light to potential extension of Tripartite measures",
+     "summary": "La Confédération Générale de la Fonction Publique (CGFP) a formellement donné son accord pour prolonger si nécessaire les mécanismes d'aide et d'ajustement décidés lors des négociations de la Tripartite. Cette décision syndicale intervient dans un contexte économique mondial instable, où la protection du pouvoir d'achat des agents publics demeure prioritaire. Le syndicat estime que ces dispositifs exceptionnels ont fait leurs preuves pour stabiliser l'économie face aux poussées inflationnistes récentes. En validant cette reconduction, la CGFP envoie un signal clair au gouvernement pour maintenir le dialogue social et préserver les équilibres salariaux actuels.",
+     "why": "La reconduction des accords de la Tripartite garantit la paix sociale et la protection du pouvoir d'achat.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    },
+    {
+     "source": "RTL.lu",
+     "lang": "fr",
+     "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPejhJa0hDVklpVlg0OTkyTWpGMGlqdndwY1VmcnhDTHBZek12UDVJYjlZS2lRY29EVnlEVDNWVEZtajgwMVd3QXhrLWUyU0dFZWhsMG1QNW1pT3Zpdk94ZWdRajEwSG5LNnRJcFRHVFZwa0xOX3FMTVF5U3JSSFhDZ1JqN3BhLUtSN0RZNDFVSmxWcFdjOHJ0Y0ctRkFFX1pXOTc0V1hyMlhVQTE3X0I1bjlFN1VtX3RlVXJpYQ?oc=5",
+     "headline": "Moins de bulletins nuls: Bientôt le vote électronique comme alternative au vote par correspondance",
+     "headlineEn": "Fewer void ballots: Electronic voting soon as an alternative to postal voting",
+     "summary": "Le Luxembourg envisage d'introduire le vote électronique comme alternative moderne au vote par correspondance traditionnel lors des prochains scrutins. Cette réforme électorale a pour objectif principal de réduire drastiquement le nombre de bulletins de vote déclarés nuls ou invalides en raison d'erreurs de manipulation. Les autorités souhaitent ainsi simplifier les démarches administratives pour les électeurs tout en garantissant la sécurité et la confidentialité du système de suffrages. Des phases de test devraient être organisées prochainement afin de s'assurer de la fiabilité technique avant une généralisation à l'échelle nationale.",
+     "why": "La modernisation des procédures électorales vise à limiter le taux d'abstention involontaire et les erreurs matérielles.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    }
+   ]
+  },
+  {
+   "name": "Monde / géopolitique",
+   "stories": [
+    {
+     "source": "France 24",
+     "lang": "fr",
+     "url": "https://www.france24.com/fr/europe/20261027-ukraine-treve-olechky-commence-operation-humanitaire-russie",
+     "headline": "Ukraine : la trêve à Olechky a commencé pour mener une opération humanitaire",
+     "headlineEn": "Ukraine: Ceasefire in Oleshky begins to conduct humanitarian operation",
+     "summary": "Une trêve humanitaire localisée est entrée en vigueur ce mardi matin dans la ville ukrainienne d'Olechky, actuellement sous occupation russe dans le sud du pays. Négocié avec l'appui de la diplomatie américaine, ce cessez-le-feu vise à permettre l'évacuation des civils et l'acheminement d'une aide d'urgence aux habitants bloqués sans ressources. Malgré cette pause ciblée, les combats et les frappes de drones se poursuivent activement sur d'autres fronts, notamment à Kyiv et dans la région de Voronej. Les organisations internationales restent prudentes quant à la pérennité de ce couloir sanitaire temporaire.",
+     "why": "Ce premier accord humanitaire local offre un répit crucial aux civils piégés dans les zones occupées.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    },
+    {
+     "source": "AP News",
+     "lang": "en",
+     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQWDdtZ1hWbUZINk5VcFBWaVlqd1J5V1hjNmlUZ1p6MWxxdmlsbDVCdzNUaWpDcmhQQ2c3aWVnNXZETkM1VGNyNDZVMFVINUY1a3JiYlhMdU1pZUtZX3BOcWJWeVpUazV3YWV0eE1PRGtubDBFZFlhUUFRU00xTWx4al9xWnhMVTFuTmVkUGFkTkZXNU5rYV93aGpmWUJBM1JsdVZ3?oc=5",
+     "headline": "Serbia’s political veteran Vucic outplayed all opponents. Then came the students",
+     "headlineEn": "Le vétéran politique serbe Vucic avait déjoué tous ses opposants, puis les étudiants sont arrivés",
+     "summary": "Serbian President Aleksandar Vucic has conceded defeat in historic national elections, ending years of dominant rule by his nationalist party. The political turnaround was largely driven by a massive, youth-led student movement that mobilized voters across the country against growing authoritarianism and corruption. Political analysts note that while Vucic successfully outmaneuvered traditional political opposition figures for decades, he failed to counter the widespread grassroots dissatisfaction among younger citizens. The election outcome marks a major shift in Balkan politics and could alter Belgrade's diplomatic stance toward the European Union and Russia.",
+     "why": "La défaite surprise du pouvoir populiste serbe réoriente l'échiquier politique dans les Balkans.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    },
+    {
+     "source": "DW",
+     "lang": "en",
+     "url": "https://www.dw.com/en/germany-s-merz-heads-to-asia-as-security-issues-loom-large/a-79764065?maca=en-rss-en-world-4025-rdf",
+     "headline": "Germany's Merz heads to Asia as security issues loom large",
+     "headlineEn": "Friedrich Merz se rend en Asie alors que les enjeux de sécurité prédominent",
+     "summary": "German Chancellor Friedrich Merz has embarked on a major diplomatic tour of Asia, with scheduled visits to Singapore, Japan, and South Korea. The official trip aims to deepen economic partnerships and bolster supply chain resilience amid growing global geopolitical instability. Merz is also seeking to reassure Asian investors about Europe's economic stability despite domestic political challenges and cabinet tensions back in Berlin. German officials emphasize that strengthening ties with Indo-Pacific democracies is crucial to diversifying trade routes and reducing strategic dependencies on authoritarian states across the region.",
+     "why": "L'Allemagne cherche à diversifier ses alliances asiatiques pour sécuriser ses chaînes d'approvisionnement.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    }
+   ]
+  },
+  {
+   "name": "International — hors Europe",
+   "stories": [
+    {
+     "source": "Al Jazeera",
+     "lang": "en",
+     "url": "https://www.aljazeera.com/news/2026/10/27/drone-strike-kills-at-least-21-and-injures-40-in-sudans-nyala?traffic_source=rss",
+     "headline": "Drone strike kills at least 21 and injures 40 in Sudan’s Nyala",
+     "headlineEn": "Une frappe de drone fait au moins 21 morts et 40 blessés à Nyala au Soudan",
+     "summary": "A devastating drone attack targeted a crowded market in the northern district of Nyala, the capital of South Darfur, killing at least 21 civilians and injuring dozens more. Local witnesses reported that the strike occurred during peak shopping hours, causing widespread destruction among vendor stalls and nearby residential structures. The military conflict between the Sudanese Armed Forces and the Rapid Support Forces continues to escalate across Darfur, leaving civilian infrastructure severely damaged and medical facilities overwhelmed. International aid agencies have raised urgent alarms over the worsening humanitarian disaster and escalating violence targeting innocent populations.",
+     "why": "L'escalade des frappes au Darfour aggrave une crise humanitaire déjà catastrophique au Soudan.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    },
+    {
+     "source": "BBC News",
+     "lang": "en",
+     "url": "https://www.bbc.co.uk/news/articles/cq8ezg6dy6xlo?at_medium=RSS&at_campaign=rss",
+     "headline": "Jordan carries out deadly strike in Syria in retaliation for church attack",
+     "headlineEn": "La Jordanie mène des frappes meurtrières en Syrie en représailles à l'attaque d'une église",
+     "summary": "Jordanian military forces conducted airstrikes inside southern Syria targeting armed extremist groups following a deadly attack on a Greek Orthodox church inside Jordan. Syrian health officials reported that the retaliatory strikes resulted in five fatalities, including women and children, in a border village. Amman defended the operation as a necessary counter-terrorism measure to protect its national security and avenge the nine victims killed in Friday's church shooting. However, authorities in Damascus criticized the cross-border operation, stating that the action was taken unilaterally without formal coordination between the two neighboring governments.",
+     "why": "Les frappes transfrontalières jordaniennes risquent d'accroître les tensions sécuritaires au Moyen-Orient.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    },
+    {
+     "source": "Euronews",
+     "lang": "fr",
+     "url": "https://fr.euronews.com/2026/10/26/au-venezuela-lopposante-maria-corina-machado-prete-au-dialogue-apres-son-retour-dexil",
+     "headline": "Au Venezuela, l'opposante María Corina Machado prête au dialogue après son retour d'exil",
+     "headlineEn": "In Venezuela, opposition leader María Corina Machado ready for dialogue after return from exile",
+     "summary": "La figure majeure de l'opposition vénézuélienne et lauréate du prix Nobel de la paix, María Corina Machado, est rentrée à Caracas après près d'un an d'exil à l'étranger. Accueillie par des milliers de partisans enthousiastes, la dirigeante politique s'est dite disposée à ouvrir des négociations directes avec le gouvernement intérimaire mené par Delcy Rodríguez. L'Union européenne et plusieurs dirigeants internationaux ont immédiatement salué ce retour, réitérant leurs appels à l'organisation d'élections présidentielles libres, transparentes et démocratiques. Cette initiative ouvre une nouvelle phase d'incertitude et d'espoir quant à une résolution pacifique de la longue crise politique.",
+     "why": "Le retour de María Corina Machado pourrait relancer le processus démocratique et les négociations au Venezuela.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    },
+    {
+     "source": "Reuters",
+     "lang": "en",
+     "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQLTNPb2Z0WW9ZaHZ4QmJkc0J0dDlxcnR5d2xEWHU3TFpLMlBRMlZNMmtrU0I0Q3pobXR4ZGZ5dVpsOGV1TWJMejV3TTVqZDNrcXdQY3VWSHhsRkVmSFhpU19Ya0FGRDJXclUteFpyWldRZlBnZVA2eWtqaXNJOUV2T29mMGw5RUc5UmtXbXJscHhEcld0WlNuakNkNlFHMFRhUFlPdTZTRUQteTZLdDJHaWpOX2s1c28?oc=5",
+     "headline": "Thousands evacuate India's eastern coast ahead of Cyclone Arnab",
+     "headlineEn": "Des milliers de personnes évacuées sur la côte est de l'Inde à l'approche du cyclone Arnab",
+     "summary": "Indian authorities have launched a massive evacuation operation along the eastern coastline as a severe cyclonic storm, named Arnab, approaches land. Disaster management teams have already relocated tens of thousands of residents from low-lying coastal villages to temporary storm shelters equipped with food and medical supplies. Meteorologists warn that the storm will bring destructive winds, severe torrential rainfall, and dangerous storm surges when it makes landfall on Wednesday. Local governments have suspended fishing activities, closed schools, and deployed emergency response units across vulnerable districts to minimize potential casualties and infrastructure damage.",
+     "why": "Le passage du cyclone Arnab menace des zones côtières très peuplées et nécessite des secours d'urgence.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    },
+    {
+     "source": "Foreign Affairs",
+     "lang": "en",
+     "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1nQklkQlV0U1NzUWVCb3B0NlVCYjZudHBjTC0tT3hpVy1WN29QSlhtbHhGT0VHUmdadnU2MFY0eElPZGxfeC1MSUduUXVqdnFHVy1KaGYwcnBlel9HbE55a2pfaG5PRUhWNHlsV0lR?oc=5",
+     "headline": "Putin’s Strategy Is Working",
+     "headlineEn": "La stratégie de Poutine porte ses fruits",
+     "summary": "In an in-depth analysis of global geopolitical dynamics, Foreign Affairs examines how Russia's long-term strategy of attrition and diplomatic maneuvering is yielding results despite Western sanctions. The article highlights Moscow's ability to maintain economic resilience through deepened trade ties with non-Western nations while exploiting political fatigue among allied democracies. Furthermore, the Kremlin's persistent military pressure is testing Ukraine's defense capabilities and stretching Western industrial capacity. The authors argue that Western policymakers must fundamentally reassess their containment strategy and adapt to a prolonged strategic competition that extends far beyond the European battlefield.",
+     "why": "Une analyse stratégique soulignant l'urgence pour les Occidentaux d'adapter leur réponse face à la résilience russe.",
+     "paywalled": true,
+     "contested": "",
+     "chart": null
+    }
+   ]
+  },
+  {
+   "name": "Europe & politiques de l'UE",
+   "stories": [
+    {
+     "source": "Euronews",
+     "lang": "fr",
+     "url": "https://fr.euronews.com/2026/10/27/ukraine-la-treve-a-olechky-a-commence-pour-mener-une-operation-humanitaire",
+     "headline": "Ukraine : la trêve à Olechky a commencé pour mener une opération humanitaire",
+     "headlineEn": "Ukraine: Ceasefire begins in Oleshky for humanitarian operation",
+     "summary": "Un cessez-le-feu localisé est entré en vigueur mardi matin dans la ville d'Olechky, située dans le sud de l'Ukraine sous occupation russe. Cette trêve humanitaire vise à permettre l'acheminement urgent de vivres ainsi que l'évacuation des civils pris au piège dans une localité totalement isolée. Parallèlement à cette pause humanitaire, des frappes russes de missiles et de drones ont de nouveau frappé la capitale, Kyiv, faisant un mort et quinze blessés tout en endommageant des bâtiments universitaires et des infrastructures routières. Sur le reste du front, l'armée ukrainienne signale la poursuite d'intenses combats.",
+     "why": "Ce cessez-le-feu très ciblé offre un répit humanitaire rare alors que les frappes russes continuent de déstabiliser les infrastructures ukrainiennes.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    },
+    {
+     "source": "DW",
+     "lang": "en",
+     "url": "https://www.dw.com/en/germany-s-merz-heads-to-asia-as-security-issues-loom-large/a-79764065?maca=en-rss-en-world-4025-rdf",
+     "headline": "Germany's Merz heads to Asia as security issues loom large",
+     "headlineEn": "Le chancelier allemand Merz se rend en Asie sur fond d'enjeux de sécurité",
+     "summary": "German Chancellor Friedrich Merz has embarked on a high-stakes diplomatic visit to Asia, meeting with senior leaders in Singapore, Japan, and South Korea. The official trip comes as Germany seeks to fortify its regional foreign policy and protect critical global supply chains amidst growing geopolitical instability in Europe and East Asia. Merz is actively courting Asian investors by portraying the European single market as a resilient and reliable destination despite domestic political friction back in Berlin. German corporate executives view these bilateral talks as essential for securing future trade deals in technology.",
+     "why": "L'Allemagne cherche à diversifier ses alliances économiques en Asie pour réduire sa dépendance industrielle et stabiliser ses chaînes d'approvisionnement.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    },
+    {
+     "source": "AP News",
+     "lang": "en",
+     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQWDdtZ1hWbUZINk5VcFBWaVlqd1J5V1hjNmlUZ1p6MWxxdmlsbDVCdzNUaWpDcmhQQ2c3aWVnNXZETkM1VGNyNDZVMFVINUY1a3JiYlhMdU1pZUtZX3BOcWJWeVpUazV3YWV0eE1PRGtubDBFZFlhUUFRU00xTWx4al9xWnhMVTFuTmVkUGFkTkZXNU5rYV93aGpmWUJBM1JsdVZ3?oc=5",
+     "headline": "Serbia’s political veteran Vucic outplayed all opponents. Then came the students",
+     "headlineEn": "Le vétéran politique serbe Vucic avait surclassé ses opposants, jusqu'à l'arrivée des étudiants",
+     "summary": "Serbian President Aleksandar Vucic has conceded defeat following landmark general elections marked by a historic surge in opposition support. The long-serving nationalist leader, who had dominated Serbia's political landscape for over a decade, faced an overwhelming challenge driven by massive student-led anti-corruption demonstrations. Activists successfully mobilized young voters across major urban centers to demand democratic reforms and institutional transparency. The unexpected election outcome marks a dramatic political shift in the Western Balkans, interrupting years of consolidated populist rule and reshaping Serbia's broader relationship with the European Union.",
+     "why": "La défaite surprenante du pouvoir serbe montre la résurgence des mouvements citoyens pro-européens dans les Balkans occidentaux.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    }
+   ]
+  },
+  {
+   "name": "Économie & marchés",
+   "stories": [
+    {
+     "source": "France 24",
+     "lang": "fr",
+     "url": "https://www.france24.com/fr/%C3%A9missions/info-%C3%A9co/20261027-gaz-poutine-r%C3%A9unit-les-grands-producteurs-%C3%A0-moscou-sur-fond-de-flamb%C3%A9e-des-prix",
+     "headline": "Gaz : Poutine réunit les grands producteurs à Moscou sur fond de flambée des prix",
+     "headlineEn": "Gas: Putin gathers major producers in Moscow amid soaring prices",
+     "summary": "Le président russe Vladimir Poutine accueille ce mardi à Moscou les représentants des principaux pays exportateurs de gaz naturel. Cette rencontre au sommet se déroule dans un contexte de fortes tensions sur les marchés mondiaux de l'énergie, caractérisé par une nette remontée des cours à l'approche de la période hivernale. Malgré l'accumulation des sanctions économiques occidentales contre la Russie, le Kremlin entend utiliser cet événement pour faire la démonstration de son influence diplomatique et commerciale résiduelle. Les participants aborderont notamment les stratégies de production et la coordination des exportations vers les marchés émergents.",
+     "why": "La maîtrise des approvisionnements gaziers reste un levier stratégique majeur pour Moscou face aux sanctions occidentales et à la hausse de la demande hivernale.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    },
+    {
+     "source": "The Wall Street Journal",
+     "lang": "en",
+     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPM3ZvRlVFSjNDTHZIeTlnUWhXdjdyTkVZQk1rV0xtTmdjT3VBN05YeVI3cUpGLUlBRC1KaTdKVzMtekd4emZ5TU1nclhrajVLV0VlbmhfRGVOVHpCRG83RmdkOElvOHhyUkRKVkd6VU1LajNUa1JvcUdjdnlVLXBreF9nV3dhOHYzWnJLSm5XVVhmVnlHS0dJRmpxMWpEY2hBMl9Fd1pCNFpiZzBRaWRwcHlEZ1I1Zw?oc=5",
+     "headline": "Exclusive | DoorDash Is in Advanced Talks to Acquire Delivery Rival Instacart",
+     "headlineEn": "Exclusif | DoorDash est en pourparlers avancés pour racheter son rival Instacart",
+     "summary": "Delivery platform DoorDash is in advanced negotiations to acquire its grocery-delivery rival Instacart, according to people familiar with the matter. A successful merger between the two corporate giants would consolidate a massive share of the North American online delivery and logistics sector. The proposed transaction reflects ongoing competitive pressures across the industry as companies seek greater operational scale and higher profit margins. However, market analysts anticipate that any definitive agreement will face intense scrutiny from antitrust regulators in the United States concerned about reduced competition in the grocery delivery ecosystem.",
+     "why": "Cette consolidation majeure dans la livraison à domicile pourrait créer un géant hégémonique soumis au contrôle des autorités de la concurrence.",
+     "paywalled": true,
+     "contested": "",
+     "chart": null
+    },
+    {
+     "source": "Reuters",
+     "lang": "en",
+     "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPanJRVHk3MzNXaUhLRW1xeUNZMDJHUkxvd3BCYnRRWkRsUXEzYkNpaFZtN1FfX2Q2Zk9fS1Iya2c3WldjUWZPUlIyNnhLN0JOREJGYnJnU09LVFVPRU5XdmRtVjFma0JiYmpRYXhjX0F3S2t2ak5rREJ6T1B4a2dkVFM0d1UtUEktaGFUdlZSZUpaX3d0c2hYWVVBVU9FVnBzZ1J5Z2oxQzQ0WC1idHZlUEkxaFZXaV9xMlZDQ1AtNE5VX3RMLWloVEUxbi1oQQ?oc=5",
+     "headline": "Porsche posts profit rebound as restructuring starts to deliver",
+     "headlineEn": "Porsche affiche un rebond de ses bénéfices alors que sa restructuration porte ses fruits",
+     "summary": "German sports car maker Porsche reported a notable rebound in quarterly operating profit, signalling early success from its comprehensive structural cost-cutting program. The luxury automaker had previously struggled with supply chain disruptions, sluggish sales in key Asian markets, and high capital expenditure related to its electric vehicle transition. Executive leadership highlighted that streamlined production processes and adjusted pricing strategies helped restore operating margins. Despite broader headwinds facing the European automotive industry, Porsche management expressed confidence that ongoing operational adjustments will sustain financial performance throughout the remainder of the fiscal year.",
+     "why": "Le redressement financier de Porsche témoigne de la capacité des constructeurs haut de gamme à restaurer leurs marges par la réduction des coûts.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    }
+   ]
+  },
+  {
+   "name": "Technologie & sciences",
+   "stories": [
+    {
+     "source": "Reuters",
+     "lang": "en",
+     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPS2Q3RzNwUk5IQWZ1NjIwYmxWV2xCVjZRQVk2OUQ3a1B5MWhKanZMZ3JyMHVRQ2MwSzRzZVZ4VmxNTGNKWDljd084OTRUSWcwNHdFYmduNTJ1RTAtcW0xRHVobW1BcVNQakJrT3paQkdQODl0dVoxZHNwYXhiVFJpclpNaVZrQ2lqRk5oMnBZYzlPOGc2alc3Q2szb2pDOWJhUDJXUA?oc=5",
+     "headline": "Nvidia, Meta deepen AI ties with $3 billion investment deal",
+     "headlineEn": "Nvidia et Meta renforcent leurs liens dans l'IA avec un accord de 3 milliards de dollars",
+     "summary": "Semiconductor giant Nvidia and social media conglomerate Meta Platforms have deepened their strategic partnership through a new $3 billion investment agreement. The deal is designed to accelerate the development and deployment of next-generation artificial intelligence hardware and infrastructure. Under the terms of the alliance, Meta will expand its procurement of Nvidia’s specialized AI chips to power its data centers and advanced algorithms. In turn, Nvidia will collaborate closely with Meta's research teams to optimize software frameworks. This massive financial transaction highlights the relentless capital expenditure driving the global artificial intelligence race.",
+     "why": "Cet accord renforce l'intégration entre concepteurs de puces et géants du Web pour dominer l'infrastructure mondiale de l'intelligence artificielle.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    },
+    {
+     "source": "Süddeutsche Zeitung",
+     "lang": "de",
+     "url": "https://www.sueddeutsche.de/politik/oxfam-klimawandel-superreiche-profit-zerstoerung-erde-li.3568984",
+     "headline": "Oxfam-Bericht: Wie Superreiche das Klima aufheizen",
+     "headlineEn": "Oxfam report: How the super-rich heat up the climate",
+     "summary": "Ein neuer Bericht der Entwicklungsorganisation Oxfam veranschaulicht die enorme Auswirkung des Lebensstils und der Investitionen von Milliardären auf die globale Erderwärmung. Laut den Recherchen verursachen die reichsten Einzelpersonen durch den Konsum von Luxusgütern sowie gezielte Kapitalanlagen in fossile Industrien extrem hohe Treibhausgas-Emissionen. Zudem zeigt die Untersuchung auf, dass finanzstarke Investoren häufig wirtschaftlich von den Folgen der Klimakrise profitieren. Entwicklungshelfer fordern vor diesem Hintergrund eine stärkere steuerliche Regulierung klimaschädlicher Investitionen sowie gezielte Abgaben auf extrem hohe Vermögen, um internationale Klimaanpassungsprojekte gerecht zu finanzieren.",
+     "why": "Ce rapport soulève la question de la responsabilité financière des plus fortunés dans le financement des dégâts environnementaux globaux.",
+     "paywalled": true,
+     "contested": "",
+     "chart": null
+    },
+    {
+     "source": "Reuters",
+     "lang": "en",
+     "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQLTNPb2Z0WW9ZaHZ4QmJkc0J0dDlxcnR5d2xEWHU3TFpLMlBRMlZNMmtrU0I0Q3pobXR4ZGZ5dVpsOGV1TWJMejV3TTVqZDNrcXdQY3VWSHhsRkVmSFhpU19Ya0FGRDJXclUteFpyWldRZlBnZVA2eWtqaXNJOUV2T29mMGw5RUc5UmtXbXJscHhEcld0WlNuakNkNlFHMFRhUFlPdTZTRUQteTZLdDJHaWpOX2s1c28?oc=5",
+     "headline": "Thousands evacuate India's eastern coast ahead of Cyclone Arnab",
+     "headlineEn": "Des milliers de personnes évacuées de la côte est de l'Inde à l'approche du cyclone Arnab",
+     "summary": "Authorities in eastern India have evacuated hundreds of thousands of residents from coastal villages as Cyclone Arnab approaches the region. Meteorological agencies warned that the severe storm is expected to bring heavy rainfall, storm surges, and destructive wind speeds exceeding 120 kilometers per hour upon landfall. Emergency response teams have established hundreds of temporary relief shelters and deployed disaster relief forces across vulnerable districts. Local governments have suspended fishing operations, closed schools, and halted train services along the coast to minimize human casualties and prepare for potential flooding.",
+     "why": "La multiplication des évacuations massives illustre la vulnérabilité croissante des zones côtières d'Asie du Sud face aux phénomènes météorologiques extrêmes.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    }
+   ]
+  },
+  {
+   "name": "Sport",
+   "stories": [
+    {
+     "source": "France 24",
+     "lang": "fr",
+     "url": "https://www.france24.com/fr/%C3%A9missions/sports/20261027-harry-kane-nomm%C3%A9-ballon-or-2026-kylian-mbapp%C3%A9-deuxi%C3%A8me-devant-lamine-yamal",
+     "headline": "Harry Kane nommé Ballon d'Or 2026, Kylian Mbappé deuxième devant Lamine Yamal",
+     "headlineEn": "Harry Kane named 2026 Ballon d'Or winner, Kylian Mbappé second ahead of Lamine Yamal",
+     "summary": "L'attaquant anglais du Bayern Munich Harry Kane a remporté le Ballon d'Or 2026 lors d'une cérémonie organisée à Londres, devançant Kylian Mbappé et Lamine Yamal. Kane devient le cinquième joueur anglais à recevoir cette distinction individuelle ultime. Auteur de 73 buts en club et sélection sur la saison, il met fin à une longue attente. Chez les femmes, l'Espagnole Alexia Putellas a décroché un nouveau sacre.",
+     "why": "La consécration d'Harry Kane récompense une régularité exceptionnelle au plus haut niveau européen.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    },
+    {
+     "source": "France 24",
+     "lang": "fr",
+     "url": "https://www.france24.com/fr/asie-pacifique/20261027-mbapp%C3%A9-perd-deux-contrats-chine-apr%C3%A8s-avoir-heurt%C3%A9-sentiments-nationaux",
+     "headline": "Mbappé perd deux contrats en Chine après avoir 'heurté les sentiments nationaux'",
+     "headlineEn": "Mbappé loses two contracts in China after 'hurting national feelings'",
+     "summary": "Deux grandes entreprises chinoises ont rompu leurs contrats de partenariat avec Kylian Mbappé à la suite d'une polémique sur les réseaux sociaux. Le footballeur français a suscité une vive indignation en Chine en plaisantant au sujet de l'ancien dirigeant Mao Zedong. Les marques concernées ont affirmé que ces propos avaient heurté les sentiments nationaux, illustrant la sensibilité extrême du marché chinois face aux commentaires de personnalités internationales.",
+     "why": "Cet épisode souligne la fragilité des partenariats commerciaux mondiaux face aux impératifs politiques chinois.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    }
+   ]
+  }
+ ],
+ "sourced": true,
+ "feeds": {
+  "ok": 28,
+  "of": 29,
+  "items": 255,
+  "skipped": [
+   "Washington Post (EN): HTTP 502"
+  ]
+ },
+ "words": 4230,
+ "readMin": 21,
+ "storyCount": 25
+}
