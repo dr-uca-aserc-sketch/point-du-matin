@@ -1,0 +1,404 @@
+{
+ "date": "2026-10-28",
+ "kind": "daily",
+ "heat": 0.8,
+ "oneThing": "A deadly high-speed train collision near Toledo in Spain left at least 30 people dead as rescue operations continue on the scene.",
+ "followUps": [
+  {
+   "n": "01",
+   "thread": "Élections législatives en Israël",
+   "change": "Le dépouillement partiel maintient le bloc de Benyamin Nétanyahou au coude-à-coude avec la liste de Gadi Eisenkot, sans majorité évidente."
+  },
+  {
+   "n": "02",
+   "thread": "Guerre en Ukraine et diplomatie",
+   "change": "La trêve humanitaire tient à Olechky pour un deuxième jour consécutif, tandis que la Finlande et la Norvège ont échangé par téléphone avec Vladimir Poutine."
+  },
+  {
+   "n": "03",
+   "thread": "Situation politique au Brésil",
+   "change": "Flávio Bolsonaro a quitté le pays vers l'Équateur après sa défaite électorale, le Département d'État américain lui accordant des visas d'entrée."
+  }
+ ],
+ "mustReads": [
+  {
+   "desk": "Europe",
+   "source": "Euronews [EN]",
+   "lang": "EN",
+   "paywalled": false,
+   "url": "https://www.euronews.com/2026/10/28/spain-first-footage-reveals-wreckage-of-deadly-high-speed-train-crash",
+   "headline": "Spain: First footage reveals wreckage of deadly high-speed train crash",
+   "headlineEn": "Espagne : les premières images montrent les débris d'un accident de train à grande vitesse",
+   "contested": "Les premiers bilans faisaient état d'au moins 10 morts selon Reuters et Euronews, mais les autorités régionales et plusieurs médias nationaux révisent désormais le bilan provisoire à au moins 30 victimes.",
+   "why": "Il s'agit du second accident ferroviaire majeur en Espagne cette année, relançant les interrogations sur la sécurité du réseau.",
+   "stat": "30",
+   "statLabel": "victimes au moins dans la collision ferroviaire en Espagne",
+   "chart": null,
+   "paras": [
+    "A devastating collision between two high-speed passenger trains near Toledo in central Spain has claimed the lives of at least thirty people and left scores more severely injured, according to local emergency authorities. The catastrophic accident occurred on Wednesday morning along the busy rail corridor connecting Madrid to southern Andalusia. Search and rescue operations were launched immediately, with emergency services working tirelessly to extract survivors trapped within the crumpled carriages. Officials have warned that the death toll could potentially rise as specialized crews continue to search through the wreckage.",
+    "Initial reports indicated that one high-speed train struck the rear section of another train that had come to a halt on the tracks near Urda. The force of the impact was so severe that at least two carriages derailed and tumbled down an embankment. Aerial footage from the scene revealed extensive damage, with twisted metal and debris scattered across the surrounding area. Emergency personnel set up field triage centers nearby to treat injured passengers before transporting the most critical victims to regional hospitals using medical helicopters and fleet ambulances.",
+    "Prime Minister Pedro Sánchez expressed deep shock and sorrow over the tragic event, offering his condolences to the affected families and promising a comprehensive official investigation into the exact circumstances of the crash. Railway operator Renfe and private operator Iryo confirmed that hundreds of passengers were on board the two trains when the disaster took place. Transportation officials have temporarily suspended all high-speed rail services along the affected line, disrupting travel for thousands of commuters while investigators gather evidence and work to clear the damaged infrastructure.",
+    "This tragedy comes just months after another fatal rail accident in Andalusia earlier this year, which claimed forty-six lives and deeply shook the nation. The recurring nature of such incidents has raised urgent questions among industry experts and transport unions regarding safety protocols and signal management on the country's high-speed network. Investigators are currently examining technical data logs and track communications to determine whether human error, mechanical failure, or signaling system malfunctions caused the fatal sequence of events south of the Spanish capital.",
+    "Local communities near the crash site mobilized swiftly to assist emergency responders, offering blankets, water, and temporary shelter for uninjured passengers who were evacuated from the trains. Regional health authorities issued emergency calls for blood donations to support hospitals treating the wounded, resulting in long queues of citizens responding to the plea. Family reception centers have been established in Madrid and Seville to provide psychological support and timely information to relatives anxiously awaiting news about their loved ones involved in the crash.",
+    "As railway technicians begin the complex process of removing derailed carriages from the steep embankment, national authorities emphasized that restoring normal service will take several days. Transport ministry representatives confirmed that independent forensic experts are arriving at the site to conduct a thorough technical audit. European transport safety organizations have also offered assistance to Spanish investigators. The disaster is expected to trigger widespread debates in parliament regarding infrastructure funding and maintenance standards across Southern Europe’s extensive high-speed rail infrastructure."
+   ]
+  },
+  {
+   "desk": "Moyen-Orient",
+   "source": "DW [DE]",
+   "lang": "DE",
+   "paywalled": false,
+   "url": "https://www.dw.com/de/netanjahu-bei-wahl-in-israel-vorn-ohne-regierungsmehrheit/a-79783510?maca=de-rss-de-all-1119-rdf",
+   "headline": "Netanjahu bei Wahl in Israel vorn - ohne Regierungsmehrheit",
+   "headlineEn": "Netanyahu ahead in Israel election - without governing majority",
+   "contested": "Les premières estimations donnaient l'opposition menée par Gadi Eisenkot en légère tête, mais le dépouillement partiel place le bloc de Benyamin Nétanyahou devant sans atteindre la majorité absolue.",
+   "why": "Le blocage politique après les législatives complique la formation d'un gouvernement stable dans un contexte régional extrêmement tendu.",
+   "stat": "77,7%",
+   "statLabel": "taux de participation aux législatives israéliennes",
+   "chart": null,
+   "paras": [
+    "Die Parlamentswahl in Israel vom Dienstag hat zu einer extrem knappen und unübersichtlichen Lage im Land geführt. Nach Auszählung eines Großteils der Stimmen liegt der Likud von Regierungschef Benjamin Netanjahu mit seinen rechtsextremen und religiösen Bündnispartnern zwar vor dem oppositionellen Lager von Gadi Eisenkot, verfehlt aber nach aktuellen Berechnungen die für eine Regierungsbildung erforderliche absolute Mehrheit von einundsechzig Mandaten in der Knesset deutlich. Beide Seiten beanspruchen jedoch weiterhin den Sieg für sich und kündigen zähe Sondierungsgespräche mit anderen Fraktionen an.",
+    "Das gegnerische Bündnis unter der Führung des früheren Armeechefs Gadi Eisenkot konnte vor allem in den urbanen Zentren des Landes starke Zuwächse verzeichnen, bleibt jedoch ebenfalls weit hinter einer eigenen stabilen Mehrheit zurück. Besondere Aufmerksamkeit zieht das historische Ergebnis der arabischen Parteien auf sich, die hohe Gewinne verbuchen konnten und nun eine Schlüsselrolle bei den kommenden Verhandlungen spielen könnten. Viele Beobachter bezweifeln allerdings, ob eine formelle Zusammenarbeit zwischen jüdischen Zentrumsparteien und den arabischen Abgeordneten in der Praxis rasch gelingen kann.",
+    "Die Wahlbeteiligung erreichte mit fast achtundsiebzig Prozent einen der höchsten Werte seit Jahrzehnten, was das gewaltige gesellschaftliche Interesse und die Polarisierung der Wähler nach den schweren Konflikten der letzten Jahre unterstreicht. In Tel Aviv feierten Anhänger der Opposition am Wahlabend vorsichtig die ersten Hochrechnungen, während in Jerusalem Unterstützer des amtierenden Ministerpräsidenten Zuversicht ausstrahlten. Dennoch herrscht im gesamten Land eine spürbare Unsicherheit darüber, wie die drohende politische Blockade überwunden werden kann, ohne dass es erneut zu einer dramatischen Folge von Neuwahlen kommt.",
+    "Präsident Isaac Herzog steht nun vor der schwierigen Aufgabe, nach Abschluss der offiziellen Auszählung einen Kandidaten mit der Regierungsbildung zu beauftragen. Sollte weder Netanjahu noch Eisenkot genügend Koalitionspartner an sich binden können, droht Israel eine monatelange Phase politischer Lähmung. In Sicherheitskreisen wächst die Besorgnis, dass ein anhaltendes Machtvakuum die strategische Handlungsfähigkeit des Landes in einer weiterhin volatilen Nachbarschaft beeinträchtigen könnte. Zudem verlangen wirtschaftliche Herausforderungen dringendes staatliches Handeln, das eine geschäftsführende Regierung nur eingeschränkt leisten kann.",
+    "Während der Wahlkampf vor allem von Fragen der nationalen Sicherheit und der Führungspersönlichkeit geprägt war, rückte die angespannte wirtschaftliche Situation vieler Bürger in den Debatten oft in den Hintergrund. Dennoch klagen Verbraucher über steigende Lebenshaltungskosten und unbezahlbaren Wohnraum. Politikwissenschaftler betonen, dass eine zukünftige Koalition rasch Antworten auf diese drängenden Binnenprobleme finden muss. Ob ein Bündnis aus sehr unterschiedlichen Parteien die nötige Stabilität besitzen wird, um umfassende Reformen durchzusetzen, bleibt unter Experten jedoch äußerst umstritten.",
+    "In den kommenden Tagen werden die Verhandlungsteams aller im Parlament vertretenen Parteien versuchen, Schnittmengen in ihren Programmen auszuloten und mögliche Zugeständnisse auszuhandeln. Besonders die kleineren Fraktionen dürften versuchen, ihren Preis für eine Regierungsbeteiligung hochzutreiben. Internationale Partner beobachten die Entwicklungen in Jerusalem sehr aufmerksam, da der künftige Kurs der israelischen Außen- und Sicherheitspolitik eng mit den Kräfteverhältnissen in der neuen Regierungskoalition verknüpft sein wird. Das Ergebnis verspricht somit richtungsweisende Konsequenzen für die gesamte Region zu haben."
+   ]
+  },
+  {
+   "desk": "Amériques",
+   "source": "France 24 [FR]",
+   "lang": "FR",
+   "paywalled": false,
+   "url": "https://www.france24.com/fr/vid%C3%A9o/20261028-br%C3%A9sil-fl%C3%A1vio-bolsonaro-en-fuite-vers-l-%C3%A9quateur-apr%C3%A8s-sa-d%C3%A9faite-aux-l%C3%A9gislatives",
+   "headline": "Brésil : Flávio Bolsonaro en fuite vers l'Équateur après sa défaite aux législatives",
+   "headlineEn": "Brazil: Flávio Bolsonaro flees to Ecuador after election defeat",
+   "contested": "",
+   "why": "La fuite du fils de l'ancien président brésilien sous le coup d'enquêtes judiciaires ravive les tensions diplomatiques entre Brasilia et Washington.",
+   "stat": "",
+   "statLabel": "",
+   "chart": null,
+   "paras": [
+    "Le sénateur conservateur brésilien Flávio Bolsonaro, fils de l'ancien président d'extrême droite Jair Bolsonaro, a quitté le Brésil à la suite de sa défaite électorale face au président réélu Luiz Inácio Lula da Silva. Selon les autorités migratoires argentines, l'homme politique et sa famille ont franchi la frontière terrestre vers l'Argentine avant d'embarquer à bord d'un vol à destination de l'Équateur. Cette fuite intervient alors que le parlementaire fait l'objet de plusieurs procédures judiciaires complexes concernant des soupçons de corruption, de détournement de fonds et de blanchiment d'argent.",
+    "Quelques jours avant son départ, le sénateur avait pourtant fermement démenti toute intention d'abandonner son pays natal, qualifiant l'interdiction de voyager imposée par la justice de manœuvre d'intimidation politique. Cependant, les services migratoires argentins ont confirmé qu'il disposait de documents de voyage parfaitement en règle lors de son passage frontalier, ne rencontrant aucun obstacle légal immédiat. Ce déplacement précipité vers l'Équateur suscite de vives réactions au Brésil, où la majorité présidentielle dénonce une tentative flagrante d'échapper à la justice nationale alors que les enquêtes s'accéléraient.",
+    "La situation prend une tournure internationale importante après les déclarations du Département d'État américain confirmant l'octroi prochain de visas d'entrée aux États-Unis pour Flávio Bolsonaro et sa famille proche. L'ancien président américain Donald Trump a publiquement approuvé la venue du sénateur brésilien sur le sol américain, renforçant les liens politiques étroits entre les deux mouvements conservateurs. Cette décision d'offrir un refuge potentiel à une figure politique poursuivie risque d'envenimer les relations diplomatiques entre le gouvernement brésilien et l'administration américaine à quelques jours d'échéances électorales majeures.",
+    "Au Brésil, la police fédérale poursuit activement ses investigations afin de déterminer si des complicités internes ont facilitated la sortie du territoire du sénateur malgré la surveillance judiciaire dont il faisait l'objet. Les partisans de Lula célèbrent quant à eux la reconduction du président sortant tout en exigeant la poursuite rigoureuse des procédures judiciaires engagées contre le clan Bolsonaro. Les analystes politiques locaux soulignent que cet épisode accentue la fragmentation politique du pays et met à l'épreuve les institutions judiciaires brésiliennes face à des personnalités influentes.",
+    "La présidence brésilienne n'a pas tardé à réagir en soulignant la détermination du gouvernement à préserver l'indépendance de la justice et à lutter contre l'impunité des dirigeants politiques accusés de corruption. Les conseillers juridiques du Sénat évaluent actuellement les conséquences institutionnelles de cette fuite sur le mandat parlementaire de Flávio Bolsonaro et sur l'organisation des travaux de la chambre haute. Les observateurs internationaux redoutent que cette affaire ne devienne un nouveau point de friction symbolique entre les gouvernements de gauche et de droite en Amérique latine.",
+    "Pendant ce temps, le président réélu Luiz Inácio Lula da Silva a célébré son quatre-vingt-unième anniversaire devant le palais présidentiel de l'Alvorada, entouré de nombreux partisans enthousiastes. Le chef d'État brésilien tente de concentrer son discours sur les défis économiques à venir et la protection de la forêt amazonienne. Toutefois, l'attention médiatique reste largement monopolisée par les rebondissements judiciaires entourant la famille Bolsonaro. Le feuilleton politique et diplomatique lié à cette fuite spectaculaire promet de connaître de nouveaux développements judiciaires dans les jours à venir."
+   ]
+  }
+ ],
+ "desks": [
+  {
+   "name": "Luxembourg",
+   "stories": [
+    {
+     "source": "Luxemburger Wort",
+     "lang": "de",
+     "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPRUpuOUNNbkFTSmMxal9DbkVvNjVuS3NBR2I3MmxZaXRlUmVWUUNRZUpwRl81a2lsYmtMVjE0VUxrT3NhbHBTOEJ1RmJrUnhsbXpyZFRaWkM0Tk0yMUVKUmtpNzBQNjVKUkFQVmhiU040ZjJJOFB3OE1YRmtWb3U2bGFsR21sOHM0dDNBTXVrOWU2VWFTd0E0dnVnMnVJcUc3eGlKQmdXaXpkSzNVUllqWjRCWWdsdU5E?oc=5",
+     "headline": "Belgische Vignette: Kostet künftig die Fahrt ins Recyclingzentrum?",
+     "headlineEn": "Belgian vignette: Will driving to the recycling centre cost money in the future?",
+     "summary": "Die geplante Einführung einer Straßenvignette in Belgien sorgt in der luxemburgischen Grenzregion für erhebliche Beunruhigung. Viele Einwohner aus den luxemburgischen Grenzgemeinden nutzen regelmäßig Einrichtungen wie Recyclingzentren oder Einkaufsmöglichkeiten knapp jenseits der Grenze im benachbarten Belgien. Durch die Vignettenpflicht könnten künftig selbst für kurze Fahrten über die Grenze zusätzliche Gebühren anfallen, was sowohl Anwohner als auch Grenzgänger finanziell belasten würde. Die Kommunen auf beiden Seiten prüfen nun die genauen Auswirkungen auf den täglichen Grenzverkehr und fordern Ausnahmeregelungen für den regionalen Nahinfrastrukturverkehr.",
+     "why": "Les projets de tarification routière transfrontalière menacent de renchérir les déplacements quotidiens des résidents et frontaliers.",
+     "paywalled": true,
+     "contested": "",
+     "chart": null
+    },
+    {
+     "source": "RTL.lu",
+     "lang": "fr",
+     "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNYk9XTExTbFlVZnhzQlJsYmZma2RkY0ZfLTFjSk05X1ZZWXRJNGNpRF9xX21FRUtNQ3dVX1hVRjBLdjUtaUNaSUFxSVlSak1aQTA5SUs2NXRxUVcxQ1M5T04yTUpWazZMUG1LODZZNks3ejVjdnN3TG1NSEYzejJXc250WTJpVHdjQURuZmw0LXlOTGdLMF9Qb19uVWpNZ2JvUDlhU0ZlM1N0QzhFRzBwOUh6alc5ZUl5azQ0Z21UejhoVUhKOVE?oc=5",
+     "headline": "Erpeldange: Le couple grand-ducal en visite à la maison de séjour et de soins \"Beim Goldknapp\"",
+     "headlineEn": "Erpeldange: The Grand Ducal couple visits the \"Beim Goldknapp\" care home",
+     "summary": "Le couple grand-ducal s'est rendu à Erpeldange-sur-Sûre pour une visite officielle de la maison de séjour et de soins \"Beim Goldknapp\". Cette structure spécialisée accueille des personnes âgées nécessitant un encadrement médicalisé et propose des prises en charge adaptées aux pathologies neurodégénératives. Lors de ce déplacement, le Grand-Duc et la Grande-Duchesse ont pu échanger longuement avec les résidents, les familles et le personnel afin de saluer l'engagement du secteur médico-social. Cette visite met en lumière les défis majeurs liés au vieillissement de la population et à l'accompagnement des seniors à travers le pays.",
+     "why": "Cette visite officielle souligne l'attention accordée par les autorités au secteur médico-social et à la prise en charge des seniors.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    },
+    {
+     "source": "RTL.lu",
+     "lang": "lb",
+     "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQRW4tRTQ1RHB2Z1RLQXRweXAwQmlHOVRPN0w0MFVxMUc3bS1GWGtlZW5PdFljbHNGbDBzcUE5SHkwc0dFbFIxV1NyUWY0c2pDRk5PU1BTVzhGajVSZTAzVTk0QXNmRk1jR1NVNDN0aTIwTUxIR2RXa1BKUlBvMjFBc2NPbjczMDlaYzZBSzZYSVhYWlpfN2EzN1JCeFdRaUptcU1vVjhydHg?oc=5",
+     "headline": "FLEX Charity Cars Initiative 2026: 5.400 Euro fir Projet \"Op de Patten\" vu Solina Solidarité Jeunes",
+     "headlineEn": "FLEX Charity Cars Initiative 2026: 5,400 euros for Solina Solidarité Jeunes' \"Op de Patten\" project",
+     "summary": "Am Kader vun der Initiativ FLEX Charity Cars 2026 ass en Scheck iwwer 5.400 Euro un de Projet \"Op de Patten\" vun der Organisatioun Solina Solidarité Jeunes iwwerreecht ginn. Dës Spend gouf duerch d'Notzung vu meeschten Karsharing-Autoen am Land gesammelt, wou een Deel vun den Einnahmen fir sozial Zwecker virgesinn ass. De Projet \"Op de Patten\" ënnerstëtzt jonk Leit an schwieregen Liewenssituatiounen a hëlleft hinnen, erëm e feste Halt an der Gesellschaft ze fannen. D'Verantwortlech hunn sech ganz häerzlech fir dës wäertvoll finanziell Ënnerstëtzung bedankt, déi direkt der Jugendaarbecht op der Plaz ze gutt kënnt.",
+     "why": "L'initiative illustre le partenariat entre les services de mobilité partagée et le soutien associatif aux jeunes en difficulté.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    }
+   ]
+  },
+  {
+   "name": "Monde / géopolitique",
+   "stories": [
+    {
+     "source": "Reuters",
+     "lang": "en",
+     "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPa0tFU3FmZUI4RzVyc2hwUzJWbXRDRTNLQWxDSFhhbUlrb19qNVdkWHNmbXBBaGkwMmx4b1o1SEJDY2MtM2hNbWhGWk9yNnRYeXAyVTdyWFFLMUN1MUNNejJWZndqaTJ0aGVwdkVsTkhGYW9TVDdPclRQU0dZS3VQbkhISm90QTlmNGVvZnZKcVZpUFhUenhFZFpscXhtUlZRMVpqTklNRjJuUmthRHJGX3RTZzRBUldPTnFV?oc=5",
+     "headline": "Norway's premier says call with Putin was effort to present European views",
+     "headlineEn": "Le Premier ministre norvégien déclare que l'appel à Poutine visait à présenter la position européenne",
+     "summary": "Norwegian Prime Minister Jonas Gahr Støre and Finnish President Alexander Stubb held a rare joint telephone conversation with Russian President Vladimir Putin. Støre explained that the initiative was intended to directly communicate European perspectives and security concerns regarding the ongoing war in Ukraine. The Nordic leaders emphasized that lasting peace cannot be negotiated without active European participation and sustained diplomatic dialogue. While the outreach was met with mixed reactions among other European allies, Stubb defended the effort by stating that resolving the conflict requires maintaining open diplomatic channels rather than relying solely on silence.",
+     "why": "Cet appel direct entre dirigeants nordiques et Moscou marque une tentative européenne de peser sur les pourparlers diplomatiques.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    },
+    {
+     "source": "BBC",
+     "lang": "en",
+     "url": "https://www.bbc.co.uk/news/articles/c6lye1w9p2l8o?at_medium=RSS&at_campaign=rss",
+     "headline": "Ceasefire extended across Ukraine's Kherson region, officials say",
+     "headlineEn": "Le cessez-le-feu étendu à l'ensemble de la région de Kherson en Ukraine, selon des responsables",
+     "summary": "A localized ceasefire between Ukrainian and Russian forces in the occupied town of Oleshky has been extended across the broader Kherson region. Human rights mediators from both sides confirmed that the truce was initially organized to deliver urgently needed food, clean water, and medical supplies to stranded civilians. Both Kyiv and Moscow reported that no violations of the agreement have occurred since it came into effect. This temporary cessation of hostilities represents a rare humanitarian opening amidst intense ongoing fighting, offering critical relief to thousands of residents trapped in flood-damaged and besieged areas.",
+     "why": "La prolongation de cette trêve humanitaire offre un répit rare aux populations civiles piégées sur la ligne de front.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    },
+    {
+     "source": "Reuters",
+     "lang": "en",
+     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPZ09lVDktVzU0MWp0RUxkY2V2SWhzNjVp033tmmafVGM1R1NCRTFfWWlRRXFtZGJtTW0td25oeHhsTVRTbXZyNG0wTURZeEhQSndxeDFxdnlPd3k0ZGdqSTVOcjNJT1ZEdmdoREFLUFVQSWVMR2tyWGFxSk9NVEhCVWVub1k3UWQ3UWlQYm9WNnhqRFJGbXBkVUJLcnllN1g1YUF5YWxB?oc=5",
+     "headline": "Policeman kills knife attacker outside Israeli embassy in Serbia",
+     "headlineEn": "Un policier tue un assaillant au couteau devant l'ambassade d'Israël en Serbie",
+     "summary": "Serbian police shot and killed an armed assailant outside the Israeli Embassy in Belgrade after he attacked a police officer guarding the building with a knife. Authorities quickly raised the national terror alert to its highest level following the incident, which they described as a targeted terrorist act. The injured officer managed to defend himself and discharge his weapon before being hospitalized for treatment. Security forces have launched a comprehensive investigation to determine whether the attacker acted alone or was affiliated with broader extremist networks operating in the Balkan region.",
+     "why": "Cet incident sécuritaire majeur en Serbie souligne la hausse des tensions autour des représentations diplomatiques dans la région.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    }
+   ]
+  },
+  {
+   "name": "International — hors Europe",
+   "stories": [
+    {
+     "source": "Al Jazeera",
+     "lang": "en",
+     "url": "https://www.aljazeera.com/news/2026/10/28/israeli-forces-continue-west-bank-raids-as-hebron-lockdown-enters-sixth-day?traffic_source=rss",
+     "headline": "Israeli forces continue West Bank raids as Hebron lockdown enters sixth day",
+     "headlineEn": "Les forces israéliennes poursuivent leurs raids en Cisjordanie alors que le confinement d'Hébron entre dans son sixième jour",
+     "summary": "Israeli military forces have maintained a strict blockade on the West Bank city of Hebron for a sixth consecutive day while continuing widespread search operations and raids across neighboring towns. United Nations agencies expressed grave concern over the humanitarian conditions affecting thousands of residents trapped without access to essential services. Local human rights groups warned that the prolonged military lockdown mirrors previous large-scale security operations, causing severe disruptions to daily life and commercial activity. The ongoing raids have heightened regional instability, with local leaders calling for immediate international diplomatic intervention.",
+     "why": "Le bouclage prolongé d'Hébron aggrave la crise humanitaire et sécuritaire en Cisjordanie.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    },
+    {
+     "source": "France 24",
+     "lang": "fr",
+     "url": "https://www.france24.com/fr/vid%C3%A9o/20261028-%C3%A9tats-unis-des-milliers-de-citoyens-priv%C3%A9s-d-aide-alimentaire",
+     "headline": "États-Unis : des milliers de citoyens privés d'aide alimentaire",
+     "headlineEn": "United States: Thousands of citizens deprived of food assistance",
+     "summary": "À moins d'une semaine des élections de mi-mandat aux États-Unis, la réduction drastique des programmes d'aide alimentaire suscite une vive controverse politique. L'administration fédérale a décidé de couper les subventions destinées à plus de cinq millions de ménages à bas revenus, déclenchant des protestations à travers le pays. Cette mesure affecte de plein fouet les familles défavorisées qui luttent déjà contre la hausse soutenue des prix des denrées de base. Les candidats démocrates dénoncent une décision brutale, tandis que les républicains défendent une raréfaction nécessaire des dépenses publiques pour juguler le déficit budgétaire américain.",
+     "why": "La réduction des aides sociales alimente le débat économique à quelques jours des élections législatives américaines.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    },
+    {
+     "source": "AP News",
+     "lang": "en",
+     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNMHQzNHdfOFBHVDBqV3VvMGtQVHlJcXM0R3hxZElIaTQzUXFqRVZOY2kwenhlQVJ5Q3ZDMlIteG9pZGFyaWJhV1NnMDlKMGNxT0pMMjduenU0WVpsWEdTc2ljbFF4R2pkSk5zVGdVMkJoQkx4ckt6TU9IRzBUVTQ2VXAyMEtmYjQ0ZDJWelhvaUt2UkoxOVpSdExpUQ?oc=5",
+     "headline": "Jordan and Syria form a joint probe after Jordanian strikes targeting IS kill civilians in Syria",
+     "headlineEn": "La Jordanie et la Syrie créent une enquête conjointe après des frappes jordaniennes ayant tué des civils",
+     "summary": "Jordan and Syria have established a joint investigative committee following Jordanian airstrikes aimed at Islamic State targets inside Syrian territory that resulted in civilian casualties. Syrian authorities initially condemned the military operation as an unacceptable breach of national sovereignty after several non-combatants were killed. Amman expressed deep regret over the unintended deaths, clarifying that the strikes strictly targeted terrorist hideouts responsible for cross-border attacks. Both governments agreed to collaborate on the inquiry to assess the damage, prevent future incidents, and manage shared security challenges along their porous border.",
+     "why": "L'enquête conjointe entre Amman et Damas vise à apaiser la tension diplomatique née des frappes contre l'EI.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    },
+    {
+     "source": "NYT",
+     "lang": "en",
+     "url": "https://www.nytimes.com/2026/10/27/world/africa/south-africa-durban-soldiers.html",
+     "headline": "South Africa Deploys 500 Soldiers to Quell Anti-Immigration Violence",
+     "headlineEn": "L'Afrique du Sud déploie 500 soldats pour réprimer les violences xénophobes",
+     "summary": "The South African government has deployed 500 military personnel to the coastal city of Durban to restore order following a wave of violent anti-immigration protests. The military intervention was ordered after a foreign national was beaten to death by a mob during clashes targeting immigrant-owned businesses. Authorities reported widespread looting and arson attacks driven by rising local frustration over unemployment and economic hardship. President Cyril Ramaphosa condemned the vigilante violence, emphasizing that law enforcement agencies will take decisive action against hate crimes while urging community leaders to restore calm.",
+     "why": "Le déploiement de l'armée témoigne de la gravité des tensions xénophobes alimentées par la crise économique locale.",
+     "paywalled": true,
+     "contested": "",
+     "chart": null
+    },
+    {
+     "source": "Council on Foreign Relations",
+     "lang": "en",
+     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNVE9JSFJqMzMzanpNY0w4Um04QWg2OXlvOWpjU0J2RGZKZ2xudTY3UUR0UUkwcU9ZNVk1VDQwSjh0X1MtMWltV2tKdGNoT3RfeWk4UlQyYktkVXpZQnpQY2xYU1B0ZmxvRHMzMVZtUWZwcFVoZzdockdMOElDc0g5RTMya2dWZFJhY3hLUnd4OFY2cURNNWxPQi1xRzJGZjZVUG05S2p3?oc=5",
+     "headline": "Understanding Latin America’s Rightward Political Shift",
+     "headlineEn": "Comprendre le virage à droite de la scène politique en Amérique latine",
+     "summary": "An analysis by the Council on Foreign Relations examines the political dynamics driving the resurgence of conservative movements across Latin America. The study highlights how persistent inflation, public security fears, and widespread dissatisfaction with incumbent leftist administrations have shifted voter preferences in several nations. Conservative candidates have successfully capitalized on promises of fiscal discipline, tough anti-crime measures, and economic deregulation to secure electoral gains. However, analysts note that polarized electorates and divided parliaments may severely limit the ability of new conservative leaderships to implement sweeping structural reforms without encountering resistance.",
+     "why": "Cette analyse décrypte la recomposition politique en Amérique latine face aux difficultés économiques et sécuritaires.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    }
+   ]
+  },
+  {
+   "name": "Europe & politiques de l'UE",
+   "stories": [
+    {
+     "source": "BBC",
+     "lang": "en",
+     "url": "https://www.bbc.co.uk/news/articles/c6vgj813mlelo?at_medium=RSS&at_campaign=rss",
+     "headline": "Norway and Finland leaders hold rare call with Putin",
+     "headlineEn": "Les dirigeants norvégien et finlandais s'entretiennent avec Poutine lors d'un appel rare",
+     "summary": "Finnish President Alexander Stubb and Norwegian Prime Minister Jonas Gahr Støre held rare telephone conversations with Russian President Vladimir Putin to press European perspectives on ending the conflict in Ukraine. Stubb emphasized that ending the war cannot be achieved through silence, while Støre framed the conversation as an essential effort to communicate European views directly to Moscow. The diplomatic outreach comes amid ongoing international negotiations to find a peaceful resolution. While some European leaders supported the direct dialogue, others expressed concern that individual contacts with Moscow could weaken a unified European posture during peace discussions.",
+     "why": "Ces échanges téléphoniques soulignent les tentatives de la diplomatie nordique de maintenir un canal de communication direct avec Moscou.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    },
+    {
+     "source": "DW",
+     "lang": "en",
+     "url": "https://www.dw.com/en/eu-s-made-in-europe-push-unnerves-global-auto-suppliers/a-79732579?maca=en-rss-en-world-4025-rdf",
+     "headline": "EU's 'Made in Europe' push unnerves global auto suppliers",
+     "headlineEn": "La stratégie \"Made in Europe\" de l'UE inquiète les équipementiers automobiles mondiaux",
+     "summary": "The European Union's aggressive push to promote domestic manufacturing and protect its automotive industry from Chinese competition is causing widespread anxiety among international auto suppliers. Industrial partners in countries such as Turkey, Morocco, Japan, and South Korea fear that stricter local-content rules and trade barriers will disrupt established supply chains and exclude non-EU manufacturers. Industry representatives warn that billions of euros in bilateral trade could be jeopardized by these protective measures. Furthermore, European automotive leaders caution that restricting access to foreign components could inadvertently harm European manufacturing competitiveness and threaten hundreds of thousands of domestic jobs across the continent.",
+     "why": "Cette politique protectionniste de l'UE risque de tendre ses relations commerciales avec des partenaires stratégiques hors Union.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    },
+    {
+     "source": "Euronews",
+     "lang": "fr",
+     "url": "https://fr.euronews.com/video/2026/10/28/portugal-la-crise-du-logement-a-lisbonne-declenche-une-protestation-devant-le-parlement",
+     "headline": "Portugal : mobilisation devant de la parlement à Lisbonne contre la crise du logement",
+     "headlineEn": "Portugal: Mobilization outside parliament in Lisbon against housing crisis",
+     "summary": "Des milliers de manifestants se sont rassemblés devant le Parlement portugais à Lisbonne pour dénoncer la dégradation continue des conditions de logement à travers le pays. Symboliquement munis de clés, de maisons en carton et d'œillets rouges, les participants ont exigé des mesures gouvernementales urgentes pour garantir le droit fondamental à un logement abordable. Le rassemblement a également été l'occasion d'exprimer une vive protestation contre de récents incidents de violences policières présumées. Cette mobilisation massive reflète la colère croissante des citoyens face à la flambée des prix de l'immobilier et à la précarisation d'une large partie de la population urbaine.",
+     "why": "Cette crise illustre l'impact direct du coût de la vie sur le climat social et la politique urbaine en Europe du Sud.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    }
+   ]
+  },
+  {
+   "name": "Économie & marchés",
+   "stories": [
+    {
+     "source": "Al Jazeera",
+     "lang": "en",
+     "url": "https://www.aljazeera.com/news/2026/10/28/burnhams-government-unveils-its-first-uk-budget-what-to-expect?traffic_source=rss",
+     "headline": "Burnham’s government unveils its first UK budget: What to expect",
+     "headlineEn": "Le gouvernement de Burnham présente son premier budget au Royaume-Uni : à quoi s'attendre",
+     "summary": "The United Kingdom government is preparing to present its highly anticipated autumn budget amidst persistent economic pressures and rising living costs across the country. Chancellor John Healey is expected to unveil a fiscal framework that addresses public finance constraints while responding to public concerns regarding energy bills and inflation. The budget announcement comes at a critical time when fiscal headroom remains tight and government borrowing costs remain elevated on international bond markets. Observers anticipate targeted investments alongside structural reforms, as ministers seek to balance social spending demands with long-term fiscal stability and regional economic devolution initiatives across England.",
+     "why": "Ce budget arbitre des choix budgétaires cruciaux pour stabiliser les finances britanniques tout en gérant l'inflation.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    },
+    {
+     "source": "Repubblica",
+     "lang": "it",
+     "url": "https://www.repubblica.it/economia/2026/10/28/news/taglio_accise_diesel_7_novembre_cent-425680678/",
+     "headline": "Ritorna il taglio delle accise. Sconto di 4,9 cent sul gasolio da oggi al 7 novembre",
+     "headlineEn": "Return of fuel excise duty cut: 4.9 cent discount on diesel from today until November 7",
+     "summary": "Il governo italiano ha introdotto un nuovo decreto interministeriale per ripristinare temporaneamente il taglio delle accise sul carburante a partire da oggi fino al sette novembre. La misura prevede uno sconto di quattro virgola nove centesimi al litro sul gasolio per alleviare la pressione finanziaria sugli automobilisti e sulle imprese di trasporto. L'intervento arriva dopo la sospensione dell'agevolazione avvenuta all'inizio del mese di ottobre, che aveva provocato proteste da parte dei consumatori. L'esecutivo intende così contenere l'impatto dei rincari energetici sui costi di distribuzione e sostenere il potere d'acquisto delle famiglie nel breve periodo.",
+     "why": "Cette baisse temporaire vise à alléger la facture énergétique des ménages et des transporteurs italiens.",
+     "paywalled": true,
+     "contested": "",
+     "chart": null
+    },
+    {
+     "source": "WSJ",
+     "lang": "en",
+     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNOWdUYmtvR0VLVGprZTRnbHJVU0lUZUFMckgwWUxBV2E0b212anNMTjFFS2UxdnhLUHBTc1o3N2xJQWVJRVE3ak1vV2ZTN3ljMGdGZV8yMXZvRlQ4algtQjg3cEhsUnpLdEJLTzBZV09Fbl81ejA0VFRnVXpHMWd4R2UtbFpndmdSa3NOVFRXdVNxM3dqaDNhNGpWRVZPeGo0eXVrMVdZUGNJTllzUExV?oc=5",
+     "headline": "AI Boom Drives a Jump in Lending, but Bankers Still Sound Cautious",
+     "headlineEn": "L'essor de l'IA entraîne une hausse des prêts, mais les banquiers restent prudents",
+     "summary": "Commercial banks are experiencing a significant surge in corporate lending driven primarily by massive investments in artificial intelligence infrastructure and technology expansion. Companies across multiple sectors are seeking substantial credit facilities to finance data centers, specialized hardware, and digital transformation projects required to maintain technological competitiveness. Despite this influx of credit demand, senior banking executives maintain a cautious stance regarding credit risk and long-term profitability. Financial institutions are implementing rigorous underwriting standards to evaluate whether borrowing firms can generate sufficient cash flow to service their debt, mindful of potential market overvaluation and broader economic uncertainty in technology spending.",
+     "why": "L'expansion des financements dans l'IA pose la question de l'évaluation du risque de crédit par les grandes banques.",
+     "paywalled": true,
+     "contested": "",
+     "chart": null
+    }
+   ]
+  },
+  {
+   "name": "Technologie & sciences",
+   "stories": [
+    {
+     "source": "Reuters",
+     "lang": "en",
+     "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNaEpIM3FfOEVIU0g3dkIzdlhrWnVpRHNhd3BaQS1XZ0liaXgydVhrTDZ3Z3piOTUyYVlBNFZXdTVPenctR01Hb0RuZEtvNVZObkFHRE9Pb0dkTURvamlKanJVQm1hX2k5cERiSnpQbmRsaTJSS2VZY0NEaEpGanlxODFiR1IxbFozM0p4a3Y0Sl9NdFFMd1Zrd05lQlQyaS1ZYlJqQURvYXpxNVFzSEJUd3JKZ1lGbWtGSDNqaWhR?oc=5",
+     "headline": "China's new export curbs draw a line around its AI crown jewels",
+     "headlineEn": "Les nouvelles restrictions à l'exportation de la Chine protègent ses joyaux dans l'IA",
+     "summary": "The Chinese government has introduced stringent new export restrictions designed to safeguard its critical artificial intelligence technologies and maintain national competitive advantages. The regulations establish clear boundaries around advanced algorithms, specialized hardware architectures, and proprietary dataset processing tools, preventing their unauthorized transfer overseas. Beijing's measures reflect growing geopolitical competition in high-technology sectors and mirror similar trade controls implemented by Western nations. Industry analysts note that these export curbs will significantly complicate international tech collaborations, as Chinese technology companies must now navigate complex regulatory approvals before licensing proprietary artificial intelligence solutions or entering joint ventures with foreign partners.",
+     "why": "Ces contrôles renforcés témoignent de l'escalade de la rivalité technologique et géopolitique globale.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    },
+    {
+     "source": "AFP",
+     "lang": "fr",
+     "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNMkQ0emtxZ29rZnVpaDdjVVd4Zk80T2Z6aW9OQzhTMWZHdEZnOGRJMU1ScVd6VkRKWW9BaG9sX0dVRUJaa1p4YUJWOUIyNmJKQkRwdXh4WmNfbFpUYmxrR1NsUVVYcEo2M1VjV21nLTlEcF9nNHhxNzZ2aXVfcXAtWkFpWGtEZDkxZDhRMW5PeWtJQkZwMjVRdk9EbnBYUk40ZDRBRl9MQU0zR1psdm1mRHVSRVVaQ1ktMEZpbg?oc=5",
+     "headline": "Lancement de Pythia Labs avec des anticorps conçus par l’IA contre des cibles thérapeutiques difficiles à traiter",
+     "headlineEn": "Launch of Pythia Labs with AI-designed antibodies against hard-to-treat therapeutic targets",
+     "summary": "La nouvelle entreprise biotechnologique Pythia Labs a annoncé son lancement officiel en mettant en avant une plateforme d'intelligence artificielle dédiée à la conception d'anticorps sur mesure. L'entreprise vise à développer de nouveaux traitements ciblant des structures protéiques complexes et historiquement considérées comme inaccessibles par les thérapies conventionnelles. Grâce à des algorithmes d'apprentissage profond, la plateforme simule les interactions moléculaires pour accélérer l'identification de candidats médicaments prometteurs. Cette approche innovante pourrait réduire considérablement les délais de recherche préclinique et ouvrir la voie à des options thérapeutiques efficaces pour des maladies graves aujourd'hui privées de traitement adapté.",
+     "why": "L'utilisation de l'IA accélère la découverte de traitements ciblant des pathologies jusqu'ici incurables.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    },
+    {
+     "source": "PBS News",
+     "lang": "en",
+     "url": "https://www.pbs.org/newshour/show/school-principal-documents-indonesias-worst-wildfires-in-a-decade",
+     "headline": "School principal documents Indonesia's worst wildfires in a decade",
+     "headlineEn": "Un directeur d'école documente les pires feux de forêt en Indonésie depuis une décennie",
+     "summary": "Severe wildfires exacerbated by El Niño weather patterns are devastating large regions of Indonesia, marking the country's worst fire season in more than ten years. Many blazes were intentionally set to clear land for palm oil plantations and agriculture, creating a dense toxic haze that has forced the closure of over twelve thousand schools. Nathaniel Undas, a school principal and photographer, has been documenting the environmental catastrophe through social media to raise awareness about the severe health impacts on children and local communities. Environmental advocates warn that ongoing destruction threatens unique biodiversity and releases immense volumes of carbon into the atmosphere.",
+     "why": "Ces incendies rappellent la gravité des impacts environnementaux et sanitaires de la déforestation en Asie du Sud-Est.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    }
+   ]
+  },
+  {
+   "name": "Sport",
+   "stories": [
+    {
+     "source": "Repubblica",
+     "lang": "it",
+     "url": "https://www.repubblica.it/sport/calcio/2026/10/28/news/kate_goodland_chi_e_moglie_kane_pallone_d_oro_2026-425680933/",
+     "headline": "Kane e la dedica alla moglie Kate: storia di una coppia (nata a scuola) che non ama i riflettori",
+     "headlineEn": "Kane's dedication to his wife Kate: the story of a high school couple who avoids the spotlight",
+     "summary": "Dopo la conquista del Pallone d'oro 2026, l'attaccante inglese del Bayern Monaco Harry Kane ha dedicato il prestigioso riconoscimento alla moglie Kate Goodland. I due si conoscono fin dai tempi della scuola elementare e hanno sempre mantenuto uno stile di vita estremamente riservato. Nonostante i successi internazionali del calciatore, la coppia ha scelto di rimanere lontana dai riflettori e dalla vita mondana, concentrandosi sulla famiglia.",
+     "why": "Cette reconnaissance met en lumière la stability personnelle d'un joueur emblématique au sommet du football mondial.",
+     "paywalled": true,
+     "contested": "",
+     "chart": null
+    },
+    {
+     "source": "AFP",
+     "lang": "en",
+     "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE43a3YyQ3JzWGlFN1dIM3hnbHEtckNRVl9FX1V4dW1iMnB2WXpuMV9scEJZbzlrYXdKakhPaEMzb1cwYk1RQUoxY2pkTQ?oc=5",
+     "headline": "Ronaldo in line for Portugal return after fallout with coach",
+     "headlineEn": "Ronaldo en passe de faire son retour avec le Portugal après ses différends avec le sélectionneur",
+     "summary": "Cristiano Ronaldo is preparing for a potential return to the Portuguese national team following a public disagreement with the head coach. The veteran forward had been temporarily sidelined during recent international fixtures, prompting widespread speculation about his international future. Recent discussions between team management and the player appear to have resolved the conflict, clearing the path for Ronaldo to rejoin his teammates for upcoming international matches.",
+     "why": "Le retour du meilleur buteur portugais stabilise la sélection avant des échéances internationales décisives.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    }
+   ]
+  }
+ ],
+ "sourced": true,
+ "feeds": {
+  "ok": 28,
+  "of": 29,
+  "items": 264,
+  "skipped": [
+   "Washington Post (EN): HTTP 502"
+  ]
+ },
+ "words": 4206,
+ "readMin": 21,
+ "storyCount": 25
+}
