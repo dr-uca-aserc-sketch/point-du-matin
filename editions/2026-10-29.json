@@ -1,0 +1,406 @@
+{
+ "date": "2026-10-29",
+ "kind": "daily",
+ "heat": 0.85,
+ "oneThing": "At least 68 people died in Spain's second fatal high-speed train collision this year, triggering national mourning and widespread railway safety concerns.",
+ "followUps": [
+  {
+   "n": "01",
+   "thread": "Catastrophe ferroviaire en Espagne",
+   "change": "Le bilan s'alourdit à au moins 68 morts alors que les équipes de secours dégagent les décombres près de Tolède."
+  },
+  {
+   "n": "02",
+   "thread": "Crise politique au Brésil",
+   "change": "Flávio Bolsonaro s'est enfui à Miami d'où il se proclame dirigeant de l'opposition brésilienne."
+  },
+  {
+   "n": "03",
+   "thread": "Élections législatives en Israël",
+   "change": "Les résultats partiels placent le bloc de Nétanyahou en tête mais sans majorité absolue au Parlement."
+  }
+ ],
+ "mustReads": [
+  {
+   "desk": "Europe",
+   "source": "AP News",
+   "lang": "EN",
+   "paywalled": false,
+   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNejlKVDZEb2JQZ1lKZzBJSEZISTlCUUJBTEJYdVFJNmRTbi1wY011V1JrUFJRY0k4RjNYaHoyZ2VnRjUyZzJjWXVlNXRKOXU0NmJ4TndFVElHSFJ1WDZkQlFDZmJuVlJPRXRfMXVFbGtCVFl6bVNGd1lkRDFxWkc1QmFQVzlCS00?oc=5",
+   "headline": "High-speed train collision kills at least 68 in Spain’s 2nd deadly rail crash this year",
+   "headlineEn": "Un choc de trains à grande vitesse fait au moins 68 morts en Espagne, le deuxième déraillement meurtrier de l'année",
+   "contested": "Certains bilans font état de 68 morts (AP, Euronews, Le Monde), tandis que des sources italiennes évoquent 69 victimes (Repubblica).",
+   "why": "Cette catastrophe ferroviaire fragilise le réseau à grande vitesse espagnol et suscite de vifs débats politiques avant les élections anticipées.",
+   "stat": "68",
+   "statLabel": "morts déplorés après la collision ferroviaire en Espagne",
+   "chart": null,
+   "paras": [
+    "Rescue workers in central Spain have spent the night searching through crushed metal and shattered carriages after two high-speed passenger trains collided near Toledo, leaving at least sixty-eight people dead and over one hundred others injured in one of the country's worst railway disasters in over a decade. Emergency responders utilized heavy cranes, specialized cutting equipment, and sniffer dogs to reach victims trapped in the wreckage. Authorities quickly established a temporary morgue nearby as families gathered in deep shock, awaiting official news regarding their missing loved ones.",
+    "The catastrophic collision occurred when a northbound express train traveling at high speed struck another passenger train that had stalled on the main track due to an unresolved technical failure. Preliminary reports and leaked audio recordings from the regional train control center suggest that operators gave clearance to the incoming train despite signals indicating that the track ahead remained obstructed. Railway safety investigators have gathered technical loggers and communication tapes to determine whether human error, mechanical breakdown, or systemic signaling flaws triggered the fatal sequence of events along this heavily traveled corridor.",
+    "Spanish Prime Minister Pedro Sánchez declared three days of official national mourning as the entire nation reeled from the magnitude of the tragedy. Speaking to public media from the accident site, Sánchez promised a comprehensive, transparent, and swift investigation into the underlying causes of the crash, insisting that accountability would be established at every level. The tragedy has sent shockwaves across the political spectrum, coming at a sensitive moment just weeks before anticipated legislative elections, where public infrastructure management and rail safety standards had already become key campaign topics.",
+    "This deadly accident marks the second major high-speed rail collision in Spain within the past nine months, raising urgent questions among passenger advocacy groups and transportation experts. Critics point out that recent budgetary constraints and maintenance deferrals across the national rail authority Renfe may have compromised essential safety protocols and emergency failsafe systems. Public outcry has escalated rapidly on social networks, with citizens demanding immediate independent audits of high-speed track signaling technology and emergency braking mechanisms to ensure that similar system breakdowns never happen again anywhere in the country.",
+    "Hospitals across the region remain overwhelmed as medical teams treat dozens of injured passengers, many of whom suffered severe trauma, fractures, and internal injuries. Civil defense personnel worked closely alongside military emergency units throughout the night to clear twisted steel off the tracks and allow forensic specialists access to the inner cabins. Transport authorities confirmed that rail service between Madrid and southern destinations remains suspended indefinitely, stranding thousands of commuters while structural engineers inspect damaged track beds and overhead electrical lines before authorizing any line reopening.",
+    "As forensic teams continue the difficult task of identifying victims, international leaders have expressed condolences and offered assistance to the Spanish government. Consular officials from various European nations are coordinating with local authorities to check whether foreign tourists were among the casualties aboard the two crowded trains. For Spain, this disaster reopens painful memories of previous rail tragedies and places immense pressure on transport officials to deliver concrete answers rapidly, rebuild public trust in high-speed travel, and repair the damaged national rail infrastructure."
+   ]
+  },
+  {
+   "desk": "International",
+   "source": "DW",
+   "lang": "DE",
+   "paywalled": false,
+   "url": "https://www.dw.com/de/flávio-bolsonaro-flieht-nach-wahlniederlage-aus-brasilien/a-79786970?maca=de-rss-de-all-1119-rdf",
+   "headline": "Flávio Bolsonaro flieht nach Wahlniederlage aus Brasilien",
+   "headlineEn": "Flávio Bolsonaro flees Brazil after election defeat",
+   "contested": "",
+   "why": "Le départ clandestin du candidat défait vers les États-Unis aggrave la crise institutionnelle brésilienne et tend les relations bilatérales.",
+   "stat": "",
+   "statLabel": "",
+   "chart": null,
+   "paras": [
+    "Der unterlegene brasilianische Präsidentschaftskandidat Flávio Bolsonaro ist überraschend in die Vereinigten Staaten geflohen, nachdem er die Stichwahl am vergangenen Sonntag gegen den amtierenden Präsidenten Luiz Inácio Lula da Silva verloren hatte. Gemeinsam mit seiner Familie landete der Politiker in Miami, Florida, und entzog sich damit den drohenden Rechtsfolgen in seiner Heimat. Von seinem neuen Aufenthaltsort aus erklärte sich Bolsonaro zum rechtmäßigen Führer der brasilianischen Opposition. Er behauptete ohne fundierte Beweise, Opfer eines angeblichen Staatsstreichs sowie gezielter politischer Verfolgung durch die brasilianische Justiz zu sein.",
+    "Die Flucht des Politikers erfolgte nach Erkenntnissen von Ermittlungsbehörden über unauffällige Zwischenstationen in Argentinien und Ecuador, bevor das Verkehrsflugzeug schließlich amerikanischem Boden erreichte. Brasilianische Sicherheitskräfte hatten Bolsonaro bereits wegen mehrerer schwebender Verfahren im Visier, darunter Vorwürfe der Geldwäsche, Korruption und der versuchten Untergrabung demokratischer Institutionen. Dass ihm die Ausreise trotz bestehender gerichtlicher Auflagen gelang, löste in der Hauptstadt Brasília erhebliche Empörung aus. Rechtsexperten und Regierungspolitiker fordern nun die unverzügliche Beantragung eines internationalen Haftbefehls sowie ein offizielles Auslieferungsgesuch an die zuständigen amerikanischen Justizbehörden.",
+    "In den USA trifft Flávio Bolsonaro auf ein politisch wohlgesonnenes Umfeld, da die Familie enge Verbindungen zum ehemaligen amerikanischen Präsidenten Donald Trump pflegt. Trumps politische Weggefährten hatten bereits in der Vergangenheit das Umfeld von Jair Bolsonaro unterstützt, welcher derzeit in Brasilien unter Hausarrest steht. Die Ankunft des Sohnes in Florida könnte die diplomatischen Beziehungen zwischen den Regierungen in Washington und Brasília erheblich belasten. Während Vertreter der brasilianischen Regierung das Vorgehen als feige Flucht vor der Rechenschaftspflicht verurteilen, versuchen Bolsonaros Anhänger im Internet, die Aktion als notwendigen Schutz vor politischer Willkür darzustellen.",
+    "Die politische Situation innerhalb Brasiliens bleibt nach den harten Auseinandersetzungen des Wahlkampfs äußerst angespannt und von tiefer gesellschaftlicher Spaltung geprägt. Die Anhängerschaft der konservativen Bewegung zeigt sich gespalten über die plötzliche Ausreise ihres Spitzenkandidaten mitten in der politischen Krise. Während radikale Unterstützer den Schritt bejubeln und Demonstrationen ankündigen, äußern moderate Stimmen Enttäuschung über den Rückzug ins Ausland. Die Sicherheitskräfte in Großstädten wie São Paulo und Rio de Janeiro wurden in erhöhte Bereitschaft versetzt, um mögliche gewaltsame Ausschreitungen zwischen verfeindeten Demonstrantengruppen zu verhindern.",
+    "Wirtschaftsanalysten warnen davor, dass die anhaltende politische Unsicherheit das Vertrauen internationaler Investoren in die Stabilität Südamerikas größter Volkswirtschaft nachhaltig schädigen könnte. Der brasilianische Real geriet an den Finanzmärkten kurzfristig unter Druck, während Beobachter mit einer langwierigen Phase juristischer Tauziehen rechnen. Die Regierung unter Lula da Silva bemüht sich derweil um Beruhigung und betont, dass die demokratischen Institutionen des Landes voll handlungsfähig seien. Das Justizministerium kündigte an, alle rechtlichen Mittel auszuschöpfen, um eine lückenlose Aufklärung der gegen Bolsonaro erhobenen Vorwürfe zu garantieren.",
+    "Die Entwicklungen rund um die Flucht verdeutlichen die anhaltende Verwundbarkeit lateinamerikanischer Demokratien gegenüber populistischen Strömungen und rechtlichen Konflikten. Der Fall erinnert an frühere politische Krisen in der Region, bei denen prominente Führungspersönlichkeiten das Exil wählten, um einer Strafverfolgung im eigenen Land zu entgehen. Wie die US-Regierung auf mögliche Auslieferungsanträge reagieren wird, bleibt vorerst unklar und hängt stark vom Ausgang kommender diplomatischer Verhandlungen ab. Fest steht jedoch, dass die Rückkehr zur politischen Stabilität in Brasilien durch diese ungeplante Eskalation erheblich erschwert wird."
+   ]
+  },
+  {
+   "desk": "Société",
+   "source": "France 24",
+   "lang": "FR",
+   "paywalled": false,
+   "url": "https://www.france24.com/fr/france/20261029-attentat-de-trappes-l-assaillant-transf%C3%A9r%C3%A9-au-tribunal-en-vue-de-sa-mise-en-examen",
+   "headline": "Attentat de Trappes : le suspect admet avoir ciblé des personnes \"musulmanes, africaines ou nord-africaines\"",
+   "headlineEn": "Trappes attack: suspect admits targeting \"Muslim, African or North African\" people",
+   "contested": "",
+   "why": "L'enquête confirme le mobile raciste et terroriste de l'attaque des Yvelines, ravivant les tensions autour de l'extrême droite.",
+   "stat": "",
+   "statLabel": "",
+   "chart": null,
+   "paras": [
+    "Le principal suspect de l'attentat terroriste à caractère raciste survenu le 23 octobre dans les Yvelines a été transféré devant le tribunal de Paris en vue de sa mise en examen formelle. Lors des premières auditions menées par les enquêteurs, l'individu désigné sous le nom de Kevin T. a explicitement reconnu avoir délibérément ciblé des personnes en raison de leur appartenance réelle ou supposée aux communautés musulmane, africaine ou nord-africaine. Le procureur de la République anti-terroriste, Olivier Christen, a publiquement confirmé ces éléments choquants lors d'une conférence de presse très attendue par les médias.",
+    "Les perquisitions effectuées au domicile du suspect ont permis aux forces de l'ordre d'effectuer des découvertes particulièrement complétantes pour le dossier judiciaire. Les enquêteurs y ont saisi plusieurs armes à feu, des munitions, un exemplaire du livre d'Adolf Hitler Mein Kampf ainsi que du matériel de propagande d'extrême droite comprenant des autocollants du Rassemblement National. Ces éléments matériels étayent l'hypothèse d'une radicalisation idéologique profonde et planifiée. La justice cherche désormais à déterminer si l'assaillant a bénéficié de complicités logistiques ou financières au sein de réseaux extrémistes violents opérant sur le territoire national.",
+    "L'attaque tragique a coûté la vie à Pengo Bossio Wangi, un jeune homme âgé de seulement vingt-six ans, pour lequel un hommage national sera rendu ce vendredi. Par ailleurs, une jeune fille âgée de douze ans qui avait été touchée par huit projectiles se trouve toujours dans un état grave et reste hospitalisée sous surveillance médicale stricte. Le drame a suscité une vive émotion à travers l'Hexagone et déclenché un vaste élan de solidarité populaire envers les familles éprouvées, tandis que les responsables politiques nationaux ont fermement condamné cet acte odieux.",
+    "En réponse à cette attaque sanglante, les associations antiracistes et les représentants des communautés locales ont immédiatement réclamé des mesures de sécurité renforcées autour des lieux de culte et des espaces publics. Des manifestations spontanées d'hommage et de protestation contre les discours de haine ont été organisées dans plusieurs grandes villes de France. Les dirigeants syndicaux et associatifs dénoncent un climat politique délétère qui favoriserait le passage à l'acte d'individus isolés nourris de thèses suprémacistes, exigeant une réponse ferme de l'État contre toute forme de radicalisme haineux.",
+    "Sur le plan judiciaire, le Parquet national anti-terroriste a ouvert une information judiciaire pour assassinats et tentatives d'assassinats en relation avec une entreprise terroriste. Les juges d'instruction entendent faire toute la lumière sur le parcours psychiatrique et idéologique du suspect afin de comprendre les mécanismes exacts de son endoctrinement. Les experts informatiques analysent actuellement le matériel numérique confisqué pour vérifier si l'homme entretenait des contacts réguliers avec des groupuscules extrémistes en ligne ou s'il a agi sous l'influence directe de contenus incitant à la violence raciale.",
+    "Cette affaire remet au centre du débat public la lutte contre la menace terroriste d'extrême droite en France et dans plusieurs pays européens voisins. Le gouvernement a promis une vigilance absolue et un renforcement des moyens consacrés au renseignement intérieur pour détecter les profils violents avant qu'ils ne passent à l'action. Alors que la communauté nationale se prépare à honorer la mémoire de la victime décédée, les autorités appellent au calme et à l'unité pour prévenir toute résurgence de violences intercommunautaires dans les quartiers sensibles touchés."
+   ]
+  }
+ ],
+ "desks": [
+  {
+   "name": "Luxembourg",
+   "stories": [
+    {
+     "source": "RTL.lu",
+     "lang": "fr",
+     "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPNXREVHJCZG10U1ZEVnNwVjh4LVRVY1d0YWlvbkgtUTBYZV9UX3NvWlBSMW1nWFByQmpaeDhuanBHVjF4RU10YlYyOGNxbkpSNUJkdUR4VWFWX3M3ZUpEaVQ4ckI1UE9SaGNYQ1F4RFpIM1FEdmxqM28yZm1RQnRtWUFJa1ZQVUstc0tfdndReEctblUxcmtFWTI1akZKS2BPZFg5Y0RwR3E2T1BkbTZfY2R6WFlUOUt5TUE0MDlQNHhKMnA2N2lURGl6NVVRS3R4d2lPbnhfRUI?oc=5",
+     "headline": "Temps de travail: Le ministre propose quatre journées de 10 heures au lieu des cinq de huit heures",
+     "headlineEn": "Working hours: Minister proposes four 10-hour days instead of five 8-hour days",
+     "summary": "Le ministre du Travail propose une réorganisation du temps de travail au Luxembourg en introduisant la possibilité de travailler quatre jours de dix heures par semaine, au lieu du modèle traditionnel de cinq jours de huit heures. Cette initiative vise à offrir plus de flexibilité aux salariés tout en maintaining la durée hebdomadaire globale à quarante heures. Les discussions autour de cette réforme ravivent le débat sur l'aménagement du temps de travail dans le Grand-Duché, alors que le député Marc Spautz remet également la semaine de quatre jours au cœur des échanges politiques. Le gouvernement souhaite consulter les partenaires sociaux pour évaluer les modalités d'application.",
+     "why": "Cette proposition de réorganisation du temps de travail touche directement le quotidien et la productivité des salariés et des entreprises luxembourgeoises.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    },
+    {
+     "source": "Luxemburger Wort",
+     "lang": "de",
+     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQZzdTM1BFWnhrNzRxNmZDeVRRQWpnbmd2cDFITUtiSDFVczlQZmhTUzV2Y25ZOTFJN2NSYUdaX2s5TXoyd0tsTkZfTHA2bGRhN0ZBaUhrZnlJQ3I2T0HZdFZDLWl3UDBkSUdyUWVkcm1nLW5OUTZnSXV2UE43eGhmLTZhQ2VEY09NNWIzT1htZGhRLVdJdTA3V3Q4REJFUnhreUxQano0WGk4SUNFRGRJ?oc=5",
+     "headline": "Bilder des Tages: Mit dem Topfdeckel für bezahlbaren Wohnraum",
+     "headlineEn": "Photos of the day: Cooking pot lids raised for affordable housing",
+     "summary": "In Luxemburg gehen zahlreiche Bürger erneut auf die Straße, um öffentlich für bezahlbaren Wohnraum zu demonstrieren. Mit kreativen Protestaktionen und lautstarkem Auftreten, unter anderem durch das Schlagen auf Kochtopfdeckel, machen die Demonstranten auf die drastische Lage auf dem heimischen Immobilienmarkt aufmerksam. Die kontinuierlich steigenden Mieten und Wohnungspreise stellen viele Haushalte im Großherzogtum vor enorme finanzielle Belastungen und fordern umgehende gesetzliche Maßnahmen von der Politik. Die Proteste verdeutlichen den immensen gesellschaftlichen Druck auf die Regierung, zügig wirksame Wohnungsbaureformen auf den Weg zu bringen.",
+     "why": "La crise du logement demeure l'un des sujets sociaux et politiques les plus brûlants au Luxembourg.",
+     "paywalled": true,
+     "contested": "",
+     "chart": null
+    },
+    {
+     "source": "Luxemburger Wort",
+     "lang": "de",
+     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPX0ZZUHZnY01USUNCTHdMYm96YWpabEUwcFlhb2Y5cHBUYlJGZU5LcUZLelM2cDhqRUh6eWc1Ql9vc1FjcndsamhleTYwT1FGaWxSTXptd0NnX2dhLWZsTzg0T3JKLTQ2bHJKeVY5QWZmYkoyNDhMeGpfWjNSNnRXbm80aV9mSVlobDZaWFh3VGs3RFI2cDlzQ0RsU0E?oc=5",
+     "headline": "Energiekrise könnte Luxemburg noch bis 2028 belasten",
+     "headlineEn": "Energy crisis could weigh on Luxembourg until 2028",
+     "summary": "Die Nachwirkungen der globalen Energiekrise könnten das Großherzogtum Luxemburg noch jahrelang beschäftigen. Nach neuen Prognosen drohen die hohen Energiepreise und Versorgungsrisiken die wirtschaftliche Entwicklung des Landes bis mindestens 2028 spürbar zu belasten. Sowohl private Haushalte als auch Unternehmen müssen sich weiterhin auf erhöhte Ausgaben und Unsicherheiten auf den internationalen Energiemärkten einstellen. Die Analyse unterstreicht die Notwendigkeit, den Ausbau erneuerbarer Energien zu beschleunigen und Maßnahmen zur Effizienzsteigerung konsequent umzusetzen. Experten mahnen zudem zur Vorsorge, um die Wettbewerbsfähigkeit des Standorts langfristig abzusichern.",
+     "why": "Des coûts énergétiques durables risquent de peser longuement sur la compétitivité et le pouvoir d'achat des ménages luxembourgeois.",
+     "paywalled": true,
+     "contested": "",
+     "chart": null
+    }
+   ]
+  },
+  {
+   "name": "Monde / géopolitique",
+   "stories": [
+    {
+     "source": "DW",
+     "lang": "en",
+     "url": "https://www.dw.com/en/european-central-bank-ecb-head-christine-lagarde-to-step-down-in-february-before-her-term-ends/a-79794353?maca=en-rss-en-world-4025-rdf",
+     "headline": "European Central Bank (ECB) head Christine Lagarde to step down in February, before her term ends",
+     "headlineEn": "La présidente de la BCE Christine Lagarde démissionnera en février avant la fin de son mandat",
+     "summary": "European Central Bank President Christine Lagarde will step down in February 2027, nine months before the official end of her eight-year term. European Council President Antonio Costa confirmed that the selection process for her successor is already underway. The early departure is intended to allow European leaders ample time to arrange a smooth transition at the central bank amid economic challenges and political shifts across the continent. Her decision triggers early maneuvering among European member states seeking to secure the influential top monetary role, as financial markets monitor potential shifts in European monetary strategy.",
+     "why": "La succession anticipée à la tête de la BCE est cruciale pour la stabilité monétaire et financière de la zone euro.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    },
+    {
+     "source": "BBC",
+     "lang": "en",
+     "url": "https://www.bbc.co.uk/news/articles/cmdx3knq1xexo?at_medium=RSS&at_campaign=rss",
+     "headline": "Netanyahu's bloc leading Israel election but short of majority, partial results show",
+     "headlineEn": "Le bloc de Nétanyahou en tête des législatives en Israël mais sans majorité",
+     "summary": "Partial election results in Israel show Prime Minister Benjamin Netanyahu’s Likud party and its right-wing allies leading the vote, yet remaining short of a 61-seat majority in the 120-seat Knesset. With 85% of ballots counted, the bloc is projected to secure around 53 seats, leaving the country facing potential political gridlock. Both Netanyahu and opposition leaders are exploring complex coalition scenarios, while Arab-Israeli parties achieved notable gains that could influence government formation. The inconclusive outcome highlights ongoing political fragmentation following the post-October 7 elections, as rival factions navigate deep divisions.",
+     "why": "L'impasse politique à Jérusalem complique les négociations régionales et la stabilité du Moyen-Orient.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    },
+    {
+     "source": "Le Monde",
+     "lang": "fr",
+     "url": "https://www.lemonde.fr/international/live/2026/10/29/en-direct-guerre-en-ukraine-volodymyr-zelensky-reclame-de-nouvelles-sanctions-contre-la-russie-apres-la-terrible-frappe-russe-contre-la-gare-ferroviaire-de-dnipro-qui-a-fait-13-morts_6799896_3210.html",
+     "headline": "Guerre en Ukraine : Volodymyr Zelensky réclame de nouvelles sanctions après la frappe contre la gare de Dnipro",
+     "headlineEn": "War in Ukraine: Volodymyr Zelensky demands new sanctions following strike on Dnipro train station",
+     "summary": "Le président ukrainien Volodymyr Zelensky a réclamé un renforcement immédiat des sanctions internationales contre Moscou à la suite d'une frappe de drone russe contre la gare de Dnipro, ayant fait au moins 13 morts. L'attaque s'est produite sur un quai fréquenté où se trouvait un train reliant Dnipro à Zaporijia, malgré le déclenchement des alertes aériennes. Cet événement s'inscrit dans une escalade des bombardements ciblant les infrastructures de transport en Ukraine. Les autorités ukrainiennes soulignent que les frappes répétées contre les civils nécessitent une réponse occidentale accrue sur le plan diplomatique et militaire pour freiner l'offensive russe.",
+     "why": "L'intensification des frappes russes sur les transports ferroviaires fragilise la logistique et la protection des civils ukrainiens.",
+     "paywalled": true,
+     "contested": "",
+     "chart": null
+    }
+   ]
+  },
+  {
+   "name": "International — hors Europe",
+   "stories": [
+    {
+     "source": "Al Jazeera",
+     "lang": "en",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/10/29/argentina-farmers-evacuate-cattle-by-boat-as-el-nino-escalates?traffic_source=rss",
+     "headline": "Argentina farmers evacuate cattle by boat as El Nino escalates",
+     "headlineEn": "Les agriculteurs argentins évacuent le bétail par bateau face à l'escalade d'El Niño",
+     "summary": "Farmers in Argentina have begun evacuating thousands of cattle by boat to higher ground as rising water levels driven by the El Niño weather pattern submerge pastures. The extreme flooding has disrupted agricultural operations across key farming provinces, forcing livestock producers to undertake complex transport operations across swollen rivers. Local agricultural authorities warn that prolonged waterlogging threatens feed supplies and could result in significant economic losses for the beef sector. The crisis underscores the growing climate risks confronting South American food production and rural infrastructure as extreme weather events increase in frequency.",
+     "why": "Les inondations majeures en Argentine menacent les exportations agricoles et les marchés alimentaires mondiaux.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    },
+    {
+     "source": "AP",
+     "lang": "en",
+     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQbG5oNWFHU282dUI5bk9LMUhXNERoZlhnYWpCbm5RY1lhRGZvdHZUZVV6VXRBUUE5aThnZFpySkhGYXh3S1EzRG4tUXNqYkRJS2N5VUlMRndjZEpURXJQSWdZeE1DajAxSG9ZR3MzVGhiUDAtdUtETERqbXpWMGhJUzNIVXVFLXBmQXdPUVhGaWxCdGczTHdROTU3ckVsaWZXZjFIdi1LSQ?oc=5",
+     "headline": "Trump calls for prosecution of Democratic Alaska Senate candidate over spoiler candidate controversy",
+     "headlineEn": "Trump réclame des poursuites contre la candidate démocrate au Sénat en Alaska",
+     "summary": "Donald Trump has called for criminal prosecution and the disqualification of Democratic Representative Mary Peltola in Alaska's Senate race following allegations regarding her campaign tactics. A New York Times report alleged that Democratic operatives recruited a candidate sharing a similar name with the incumbent Republican senator to confuse voters and split the conservative vote. Republican Governor Mike Dunleavy announced a state investigation to determine whether civil or criminal violations took place. Peltola’s campaign maintains that all election activities complied with state election laws amidst intense scrutiny ahead of the upcoming midterm elections.",
+     "why": "Les tensions judiciaires et politiques autour du scrutin en Alaska illustrent la radicalisation de la campagne pour les midterms.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    },
+    {
+     "source": "Reuters",
+     "lang": "en",
+     "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPMG5CSk5rbFRVazFYVEpXdWU2cTE2R2h4OFZaZUI5VU81Y3JFQzVPenJybnhDeUlNWGNuSl9MdVlSbmU4bXRYaVB1aTZyLWliQTBCaE5ka0F2elN1XzllVVZRSGFXUnJOdXlqTkRFVUhGSWNfTGJ5N0VpdUpQQlBqQXZUU3BJY0dMYTd3Yk9YN1UxZ1lmV1hoejNn?oc=5",
+     "headline": "Hong Kong leader apologises for deadly Tai Po fire, pledges reform",
+     "headlineEn": "Le dirigeant de Hong Kong présente ses excuses après l'incendie mortel de Tai Po",
+     "summary": "Hong Kong Chief Executive John Lee issued a public apology following a catastrophic residential fire in Tai Po that claimed 168 lives, making it one of the deadliest blazes in the territory’s history. Lee announced the resignation of the city's housing secretary and pledged comprehensive regulatory reforms to inspect older residential buildings and strengthen fire safety standards. Public anger has mounted over safety compliance and maintenance lapses in densely populated high-rise complexes. Authorities have launched an official investigation into the disaster while emergency services continue relief efforts for displaced residents across the city.",
+     "why": "Ce drame historique relance les critiques publiques sur la sécurité des logements à haut risque dans la métropole asiatique.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    },
+    {
+     "source": "BBC",
+     "lang": "en",
+     "url": "https://www.bbc.co.uk/news/articles/ck0e075n79j5o?at_medium=RSS&at_campaign=rss",
+     "headline": "El Salvador sends 2,000 troops to Haiti to rescue four missing soldiers",
+     "headlineEn": "Le Salvador envoie 2 000 soldats en Haïti pour secourir quatre militaires disparus",
+     "summary": "El Salvador has deployed 2,000 military personnel to Haiti following an ambush on the outskirts of Port-au-Prince that left four Salvadoran soldiers missing. The operation aims to track down armed gang members responsible for the attack and rescue the trapped personnel in an increasingly volatile security environment. Medical organizations, including Doctors Without Borders, report a sharp surge in urban violence and casualties across the Haitian capital since the ambush occurred. The deployment highlights the worsening humanitarian and security collapse in Haiti as international support efforts struggle to contain rampant gang violence.",
+     "why": "La dégradation sécuritaire à Port-au-Prince risque d'entraîner une escalade militaire régionale et une crise humanitaire accrue.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    },
+    {
+     "source": "Foreign Affairs",
+     "lang": "en",
+     "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFA1bFZKWkExdlc0YndQeGNwaUViQm1jeFo4R3ZJaGVGSE9xSVhGX1E0SEtjblpIT2F5VjRaNmxiUkZObmlVdTlOZWNWQmNWQW5SVzhDT2NnWm9EX1cxaXlxbG1wY3hBWVNLQlItbTlmZk91QTZUR0VmZnh4NA?oc=5",
+     "headline": "Only the Gulf Can End the Iran War",
+     "headlineEn": "Seul le Golfe peut mettre fin à la guerre en Iran",
+     "summary": "An analysis published in Foreign Affairs argues that a lasting resolution to the escalating conflict involving Iran depends primarily on diplomatic leadership from the Gulf Arab states. As regional military tensions remain high, neighboring Gulf monarchies possess unique diplomatic leverage and economic ties necessary to mediate between Tehran and Western allies. The piece outlines how collective security guarantees and regional economic incentives could pave the way for de-escalation where external power intervention has stalled. Ultimately, sustained regional stability will require Gulf capitals to take the helm in crafting a durable security framework for the Middle East.",
+     "why": "L'analyse souligne le rôle pivot indispensable des monarchies du Golfe pour stabiliser le Moyen-Orient face au risque de conflagration.",
+     "paywalled": true,
+     "contested": "",
+     "chart": null
+    }
+   ]
+  },
+  {
+   "name": "Europe & politiques de l'UE",
+   "stories": [
+    {
+     "source": "DW [EN]",
+     "lang": "EN",
+     "url": "https://www.dw.com/en/european-central-bank-ecb-head-christine-lagarde-to-step-down-in-february-before-her-term-ends/a-79794353?maca=en-rss-en-world-4025-rdf",
+     "headline": "European Central Bank (ECB) head Christine Lagarde to step down in February, before her term ends",
+     "headlineEn": "La présidente de la BCE Christine Lagarde démissionnera en février avant la fin de son mandat",
+     "summary": "European Central Bank President Christine Lagarde is set to step down in February 2027, nine months before the official end of her eight-year term in October. European Council President António Costa announced that the search for her successor is already underway. The decision to depart early aims to allow European leaders to navigate leadership transitions smoothly and reduce political uncertainty ahead of crucial national elections in member states, notably in France. Lagarde's early departure opens up a high-stakes race among European governments to secure the presidency of the eurozone's main monetary authority.",
+     "why": "Cette démission anticipée ouvre une succession complexe au sommet de la politique monétaire européenne dans un climat politique et financier tendu.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    },
+    {
+     "source": "BBC [EN]",
+     "lang": "EN",
+     "url": "https://www.bbc.co.uk/news/articles/cq8ezj7jylrzo?at_medium=RSS&at_campaign=rss",
+     "headline": "Carney to push for closer ties at Canada-EU summit in Montreal",
+     "headlineEn": "Mark Carney préconise des liens plus étroits lors du sommet Canada-UE à Montréal",
+     "summary": "European leaders and Canadian officials are meeting in Montreal to discuss deepening economic and defense ties between Canada and the European Union. Canadian Prime Minister Mark Carney and EU leaders aim to launch an 'Alliance for the Future' to bolster economic security and reduce strategic dependencies on major powers like the United States and China. While the idea of formal \"associate member\" status for Canada has been ruled out, discussions focus on energy security, critical raw materials, and defense cooperation amid heightened geopolitical uncertainty and global trade friction.",
+     "why": "L'UE cherche à diversifier ses alliances stratégiques et sécuritaires face aux tensions commerciales globales et aux incertitudes géopolitiques.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    },
+    {
+     "source": "DW [DE]",
+     "lang": "DE",
+     "url": "https://www.dw.com/de/merz-wirbt-für-neue-wirtschaftsallianz-mit-japan/a-79789621?maca=de-rss-de-all-1119-rdf",
+     "headline": "Merz wirbt für neue Wirtschaftsallianz mit Japan",
+     "headlineEn": "Friedrich Merz plaide pour une nouvelle alliance économique avec le Japon",
+     "summary": "Bundeskanzler Friedrich Merz wirbt während einer Asienreise mit einer hochrangigen Wirtschaftsdelegation für eine vertiefte Partnerschaft zwischen Deutschland und Japan. Angesichts wachsender geopolitischer Spannungen und Handelskonflikte fordert der Kanzler eine engere Bündelung der Kräfte beider Industrienationen. Neben Aufträgen für deutsche Unternehmen stehen strategische Sicherheit, der Schutz von Lieferketten und technologische Zusammenarbeit im Mittelpunkt der Gespräche. Merz betonte, dass eine starke Wirtschaftsallianz zwischen demokratischen Partnern entscheidend sei, um globale Herausforderungen und einseitige Abhängigkeiten erfolgreich zu bewältigen.",
+     "why": "La recherche de partenariats économiques renforcés avec le Japon vise à réduire la dépendance industrielle européenne vis-à-vis de la Chine.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    }
+   ]
+  },
+  {
+   "name": "Économie & marchés",
+   "stories": [
+    {
+     "source": "Reuters [EN]",
+     "lang": "EN",
+     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPcG1Cdmo4cUo0WUJ2TENLcXNfMERDQ2JWMVlRUUg4enp5RHBhM3FhUkJ3TzJBZG9TVGI2NVNMbVhHT2x6c0NETmdQaWdKRl9CQ0k1T3hGRFbicFBoNUZ0QUtsRnNwd05ndlNacXhGQmZ1RGktUFBoN3owbEFqQXVfRkY4NUozY0N6QVBKZ3kxU3RBb0RvUV8yN2tzdkRvVGp5QXRkSTZuSzluQWJOLS1MYWRuTWQ?oc=5",
+     "headline": "Shell and Total post highest quarterly profit since 2022",
+     "headlineEn": "Shell et Total affichent leurs profits trimestriels les plus élevés depuis 2022",
+     "summary": "Energy giants Shell and TotalEnergies reported their highest quarterly profits since 2022, driven by robust refining margins and strong oil trading performance. Both European oil majors benefited from sustained global energy demand and elevated processing margins despite volatile crude oil prices. The surging cash flows allow both companies to maintain their share buyback programs and dividend distributions to shareholders. The strong financial performance highlights how integrated energy firms continue to generate substantial earnings during periods of market tightness, even as broader industrial sectors in Europe face economic headwinds.",
+     "why": "Les bénéfices record des géants pétroliers européens renforcent leurs flux de trésorerie malgré les débats sur la transition énergétique.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    },
+    {
+     "source": "FAZ [DE]",
+     "lang": "DE",
+     "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/vw-meldet-milliardenverlust-im-dritten-quartal-accg-201631461.html",
+     "headline": "Volkswagen macht 5,8 Milliarden Euro Verlust",
+     "headlineEn": "Volkswagen enregistre une perte de 5,8 milliards d'euros",
+     "summary": "Europas größter Automobilhersteller Volkswagen ist im dritten Quartal tief in die roten Zahlen gerutscht und verzeichnete einen Verlust von 5,8 Milliarden Euro. Das Unternehmen begründete den massiven Einbruch vor allem mit erheblichen Sondereffekten, darunter Wertberichtigungen auf die Beteiligung an Porsche sowie Restrukturierungskosten. Neben einmaligen Belastungen leidet der Konzern unter schwächelnden Absatzzahlen, hohen Produktionskosten in Europa und verschärftem Wettbewerb auf dem wichtigen chinesischen Markt. VW kündigte weitere Sparmaßnahmen an, um die Rentabilität angesichts der Transformation zur Elektromobilität wieder zu stabilisieren.",
+     "why": "Les pertes colossales de Volkswagen illustrent la crise profonde du secteur automobile européen face à la concurrence chinoise et aux coûts de restructuration.",
+     "paywalled": true,
+     "contested": "",
+     "chart": null
+    },
+    {
+     "source": "Reuters [EN]",
+     "lang": "EN",
+     "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOYlBTMnFidXphUDIycWFBZG8xQkFfdEZCR3oyRlMwY3JIRTZZOE1tX1ZpM0JCb1BnQ1Y3LUxUVWZqT3ZUazJBZVJoWnpuQkMydUFvZmVsVkR4ZnlBbVJIZHFPMzlidFpSXzB2VmNkenJubEJaTng5ME1vNVBWSUUxdnZJWHJucVUyaDBEUDB1NDZMRUtSVnZCMFNIUWdMOG5UR19hVVBIZ3RtWDhubDV6dEJLN3hBYThNWTNRTDJUR2Roem9y?oc=5",
+     "headline": "Lloyds shares drop on muted third quarter results as higher taxes loom",
+     "headlineEn": "Les actions de Lloyds chutent après des résultats tièdes au troisième trimestre et la perspective de hausses d'impôts",
+     "summary": "Shares in Lloyds Banking Group fell following the release of muted third-quarter financial results that missed analyst expectations. The UK's largest mortgage lender was impacted by narrowing net interest margins and cautious consumer borrowing behavior. Investors are also reacting nervously to impending tax hikes and fiscal tightening measures expected from the British government's upcoming budget. Despite maintaining stable credit quality across its loan portfolio, Lloyds warned that shifting macroeconomic conditions and potential banking sector levies could constrain profitability in the coming quarters.",
+     "why": "La sensibilité des banques britanniques aux arbitrages fiscaux du gouvernement souligne les craintes quant à la croissance économique du Royaume-Uni.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    }
+   ]
+  },
+  {
+   "name": "Technologie & sciences",
+   "stories": [
+    {
+     "source": "Reuters [EN]",
+     "lang": "EN",
+     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxObTRZdktaNHNaUkc2SG45TFV3V3hKRlMwdWdFTEhyUVFSRnBodWFIM0gxSHh5NWZDVkp3WnJOX3RTZGFtUDVIN3ZPQnB6NlNOQ01OOXhTRnNhNjkyajZ2ejhEZkRBS1IxMkxjVWJmY3FYa3lqcHUxajVqRXpWdS1UWjdxZFZYTW8tUjBtN2NZTGlLSWFiRlpjTDNKaVlVbHRiLVRCcA?oc=5",
+     "headline": "Nasdaq futures fall 1% as Alphabet results intensify AI spending fears",
+     "headlineEn": "Les contrats à terme du Nasdaq chutent de 1 % alors que les résultats d'Alphabet attisent les craintes sur les dépenses en IA",
+     "summary": "Nasdaq futures fell by 1% as quarterly earnings from Alphabet sparked renewed concern among investors over massive capital expenditure on artificial intelligence. Although Alphabet delivered revenue growth in its core Search and Cloud divisions, investors reacted negatively to the escalating costs required to build out AI infrastructure and data centers. Wall Street is growing increasingly cautious about when heavy investments in generative AI will yield substantial profit margins. The market reaction pulled down other major technology stocks, reflecting broader investor anxiety over corporate AI spending.",
+     "why": "Les doutes de Wall Street sur la rentabilité à court terme des investissements massifs dans l'intelligence artificielle pèsent sur l'ensemble du secteur high-tech.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    },
+    {
+     "source": "SZ [DE]",
+     "lang": "DE",
+     "url": "https://www.sueddeutsche.de/politik/weltnaturkonferenz-armenien-renaturierung-biodiversitaet-umweltpolitik-li.3568987",
+     "headline": "UN-Gipfel: Die Natur feiert ein Comeback",
+     "headlineEn": "Sommet de l'ONU : la nature amorce son retour",
+     "summary": "Laut einem neuen Bericht der Vereinten Nationen zur Weltnaturkonferenz in Armenien wurde weltweit noch nie so viel geschädigte Umwelt erfolgreich wiederhergestellt wie in den vergangenen Jahren. Renaturierungsprojekte für Wälder, Feuchtgebiete und Flusslandschaften zeigen globale Fortschritte im Kampf gegen den Biodiversitätsverlust. Dennoch steht der Gipfel vor schwierigen Verhandlungen über die Finanzierung dieser Umweltmaßnahmen. Die zentralen Fragen bleiben, wer für die langfristigen Wiederherstellungskosten aufkommt und wie Entwicklungsländer bei der Umsetzung von Naturschutzzielen finanziell unterstützt werden können.",
+     "why": "Les progrès de la renaturation mondiale se heurtent au défi majeur du financement des politiques de biodiversité dans les pays en développement.",
+     "paywalled": true,
+     "contested": "",
+     "chart": null
+    },
+    {
+     "source": "AP [EN]",
+     "lang": "EN",
+     "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNMndnaEFOR0U3d1ZnRlpLR2VOWlhPanhKSmZPNXNqUzRmRC11dGF6WmV0VVpWUHNncGRtRGUyZHhRWVkzcVBvbTgyRENrUzFpM1dUT201MmdqQVl5NjNIYnR6TldmZjBPNmtMVHFLMXlBaXpXUFVGenpieGd5RUpGeXFUZnRhTWtJNmtHMHF6d3hNLUV6WWpR?oc=5",
+     "headline": "South Korea fines Google and Apple over unfair app market practices",
+     "headlineEn": "La Corée du Sud amende Google et Apple pour pratiques déloyales sur le marché des applications",
+     "summary": "South Korean telecommunications regulators have imposed substantial fines on tech giants Google and Apple for unfair practices in their respective mobile application stores. Authorities concluded that both companies abused their dominant market position by forcing app developers to use proprietary in-app payment systems and charging excessive commission fees. The regulatory crackdown forms part of a global push by antitrust regulators to enforce open competition and prevent anti-competitive behavior in digital ecosystems. Both companies continue to face heightened legal scrutiny across Asian and European jurisdictions over app store monopolies.",
+     "why": "La décision sud-coréenne s'inscrit dans la tendance mondiale de régulation des géants de la tech pour garantir la concurrence numérique.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    }
+   ]
+  },
+  {
+   "name": "Sport",
+   "stories": [
+    {
+     "source": "NPR [EN]",
+     "lang": "EN",
+     "url": "https://www.npr.org/2026/10/29/nx-s1-6021953/brewers-win-first-world-series-title",
+     "headline": "Brewers beat the Rays to win the first World Series title in franchise history",
+     "headlineEn": "Les Brewers battent les Rays et remportent le premier titre de World Series de l'histoire de la franchise",
+     "summary": "The Milwaukee Brewers defeated the Tampa Bay Rays to capture their first World Series championship in franchise history. Playing in Major League Baseball's smallest market, the Brewers secured the decisive victory in their 58th season, capping a remarkable postseason run built on strong pitching and tactical execution.",
+     "why": "Un exploit historique pour une franchise évoluant dans le plus petit marché de la ligue nord-américaine de baseball.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    },
+    {
+     "source": "AFP [EN]",
+     "lang": "EN",
+     "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1kVU81VGJRb0FTMlB6YU5UVDBJMWJJY1FFOVgtNHZ0U3U4YXhSSmFIQWdvei02V0ZBWTI5b09pRWtBUHhtQmJzMnpmSQ?oc=5",
+     "headline": "Odegaard urges Arsenal to move on after Fleetwood upset",
+     "headlineEn": "Ødegaard invite Arsenal à tourner la page après la défaite surprise contre Fleetwood",
+     "summary": "Arsenal captain Martin Ødegaard has called on his teammates to refocus quickly following a surprising cup defeat against underdog Fleetwood Town. Speaking after the match, the Norwegian midfielder stressed that the squad must learn from their tactical mistakes and maintain full concentration as they prepare for upcoming Premier League and European fixtures.",
+     "why": "Le capitaine d'Arsenal tente de remobiliser son équipe après une élimination inattendue en coupe.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    }
+   ]
+  }
+ ],
+ "sourced": true,
+ "feeds": {
+  "ok": 26,
+  "of": 29,
+  "items": 245,
+  "skipped": [
+   "Euronews (FR): HTTP 406",
+   "RTL.lu (LB)",
+   "Washington Post (EN): HTTP 502"
+  ]
+ },
+ "words": 4175,
+ "readMin": 21,
+ "storyCount": 25
+}
