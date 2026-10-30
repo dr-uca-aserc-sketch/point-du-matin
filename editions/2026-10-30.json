@@ -1,0 +1,405 @@
+{
+ "date": "2026-10-30",
+ "kind": "daily",
+ "heat": 0.85,
+ "oneThing": "Crypto exchange Binance suspended transactions following a massive cyberattack resulting in the theft of an estimated 6.3 billion dollars.",
+ "followUps": [
+  {
+   "n": "01",
+   "thread": "Situation politique au Brésil",
+   "change": "Flávio Bolsonaro s'est rendu aux États-Unis après sa défaite électorale et s'est proclamé dirigeant du Brésil."
+  },
+  {
+   "n": "02",
+   "thread": "Catastrophe ferroviaire en Espagne",
+   "change": "Le bilan officiel de la collision de deux trains près de Tolède s'établit désormais à 69 morts au deuxième jour de deuil national."
+  },
+  {
+   "n": "03",
+   "thread": "Épidémie d'Ebola en RD Congo",
+   "change": "Un centre de traitement de MSF en Ituri s'est vidé de ses derniers patients pour la première fois depuis le mois de mai."
+  }
+ ],
+ "mustReads": [
+  {
+   "desk": "Moyen-Orient",
+   "source": "France 24",
+   "lang": "FR",
+   "paywalled": false,
+   "url": "https://www.france24.com/fr/vid%C3%A9o/20261030-l%C3%A9gislatives-en-isra%C3%ABl-de-nombreux-sc%C3%A9narios-possibles-pour-la-cr%C3%A9ation-du-nouveau-gouvernement",
+   "headline": "Résultats définitifs des législatives en Israël : le bloc de Netanyahu en tête mais sans majorité",
+   "headlineEn": "Final results of Israeli elections: Netanyahu's bloc ahead but short of a majority",
+   "contested": "Alors que les résultats officiels attribuent 53 sièges au bloc de Benyamin Netanyahou, le parti du Premier ministre sortant dénonce des fraudes et qualifie l'élection de volée.",
+   "why": "L'absence de majorité claire plonge Israël dans une nouvelle crise politique majeure et bloque la formation d'un gouvernement stable.",
+   "stat": "53",
+   "statLabel": "sièges obtenus par la coalition de Benyamin Netanyahou sur les 120 de la Knesset",
+   "chart": null,
+   "paras": [
+    "Les résultats définitifs des élections législatives israéliennes sont désormais officiellement publiés et confirment une profonde impasse politique au sein du pays. Le bloc mené par le Premier ministre sortant Benyamin Netanyahou arrive en tête du scrutin sans parvenir à réunir la majorité absolue. Sur les cent vingt sièges que compte la Knesset, la coalition réunissant la droite et l'extrême droite n'obtient que cinquante-trois sièges. Ce chiffre se situe bien en dessous du seuil critique de soixante-et-un sièges indispensable pour pouvoir former un gouvernement stable.",
+    "De son côté, le principal bloc de l'opposition parlementaire comptabilise quarante-huit sièges. Face à cette fragmentation inédite, les formations politiques arabes se retrouvent dans une position charnière inattendue, détenant un rôle d'arbitre potentiel dans le futur paysage institutionnel. Malgré cette progression numérique significative des partis arabes, de nombreux observateurs soulignent les difficultés systémiques à les intégrer pleinement au sein d'une coalition gouvernementale formelle. La situation crée un niveau d'incertitude rarement égalé lors des précédents scrutins nationaux, rendant chaotiques les négociations à venir entre les différentes factions.",
+    "La tension politique est encore montée d'un cran en raison de la réaction virulente du camp du Premier ministre. Plusieurs dirigeants proches de Benyamin Netanyahou ont ouvertement mis en doute l'honnêteté du décompte des voix, allant jusqu'à dénoncer une élection prétendument volée. Ces accusations d'irrégularités massives ont rapidement suscité une vive préoccupation parmi les spécialistes du droit constitutionnel et les diplomates étrangers. L'affaiblissement de la confiance citoyenne envers la commission électorale centrale menace en effet d'ébranler durablement les piliers de la démocratie israélienne dans un contexte sécuritaire extrêmement vulnérable.",
+    "Le président de l'État d'Israël, Isaac Herzog, s'apprête désormais à ouvrir la phase de consultations officielles avec l'ensemble des groupes représentés au Parlement. Conformément aux dispositions légales de la Loi fondamentale, le chef de l'État devra désigner le parlementaire qui lui semble disposer des meilleures chances de bâtir une majorité solide. Toutefois, aucun des candidats déclarés ne semble aujourd'hui en mesure d'envisager sereinement l'assemblage d'une alliance stable. Les divergences idéologiques irréconciliables entre la droite religieuse, les partis laïcs et les mouvements arabes rendent l'équation politique complexe.",
+    "Sur le plan international, cette absence persitante de gouvernance claire inquiète fortement les partenaires occidentaux et régionaux de l'État hébreu. Alors que le pays fait face à des défis stratégiques colossaux et à des négociations régionales complexes, l'absence d'un exécutif pleinement investi de sa légitimité ralentit toute prise de décision d'envergure. Les observateurs redoutent que la paralysie institutionnelle actuelle ne débouche à terme sur la convocation de nouvelles élections anticipées. Ce scénario répété plongerait une nouvelle fois le pays dans un cycle sans fin d'instabilité parlementaire.",
+    "En attendant la conclusion de ces tractations ardues, le gouvernement intérimaire reste aux commandes pour gérer les affaires courantes du pays. Cette période transitoire s'annonce éprouvante pour les institutions démocratiques, soumises à d'intenses pressions partisanes. Le blocage institutionnel actuel souligne la polarisation extrême de la société israélienne, fracturée entre diverses visions sociétales irréconciliables. La capacité des leaders politiques à dépasser leurs querelles personnelles déterminera la trajectoire future du pays, au moment où les urgences économiques et de sécurité intérieure nécessitent des réponses fermes et consensuelles."
+   ]
+  },
+  {
+   "desk": "Cybersécurité & Finance",
+   "source": "Repubblica",
+   "lang": "IT",
+   "paywalled": false,
+   "url": "https://www.repubblica.it/economia/2026/10/30/news/binance_furto_criptomonete_hacker_63_miliardi_dollari-425686413/",
+   "headline": "Criptomonete, il furto del secolo. Binance bucata per 6,3 miliardi di dollari",
+   "headlineEn": "Cryptocurrencies, heist of the century: Binance hacked for $6.3 billion",
+   "contested": "",
+   "why": "Un piratage de cette ampleur sur la principale plateforme mondiale de cryptomonnaies ébranle la confiance des investisseurs et accélère les projets de régulation du secteur.",
+   "stat": "6,3",
+   "statLabel": "milliards de dollars dérobés lors du piratage de la plateforme Binance",
+   "chart": null,
+   "paras": [
+    "Il mondo delle valute digitali è stato scosso da un evento di portata storica senza precedenti. La piattaforma di scambio Binance, leader incontestato del settore globale delle criptovalute, ha subito una cyberattacco di dimensioni gigantesche. Secondo le prime informazioni confermate, il valore complessivo del furto ammonta alla cifra astronomica di 6,3 miliardi di dollari. L'attacco hacker ha costretto i vertici dell'azienda a sospendere immediatamente una vasta gamma di operazioni finanziarie per arginare l'intrusione e verificare la sicurezza dei sistemi informatici compromessi.",
+    "Le indagini preliminari condotte da società specializzate nella sicurezza informatica indicano che l'operazione sia stata orchestrata da un gruppo altamente qualificato di pirati informatici. Diverse fonti di analisi statunitensi ipotizzano un coinvolgimento diretto di hacker legati al regime nordcoreano, noti per condurre offensive digitali coordinate contro le infrastrutture finanziarie mondiali. Le modalità con cui i malintenzionati sono riusciti a penetrare i complessi protocolli di sicurezza della piattaforma evidenziano una pianificazione dettagliata durata molti mesi, mirata a sfruttare vulnerabilità critiche nei codici di gestione delle transazioni.",
+    "Nonostante la gravità inaudita dell'incidente, il fondatore della società ha cercato di rassicurare la clientela e i mercati finanziari internazionali attraverso dichiarazioni ufficiali. L'azienda ha promesso di utilizzare le proprie riserve finanziarie per coprire interamente le perdite subite dagli utenti coinvolti nel furto. Il vertice societario ha ammesso che si tratta di un colpo durissimo per l'immagine dell'impresa, ma si è detto fiducioso sulla capacità di sopravvivenza della struttura. Tuttavia, l'annuncio ha scatenato un'ondata di panico immediata tra gli investitori di tutto il pianeta.",
+    "I mercati delle valute virtuali hanno reagito in modo estremamente negativo alla notizia della violazione dei sistemi. Il valore del Bitcoin e delle principali valute digitali ha registrato una brusca flessione al ribasso nelle ore successive all'annuncio del blocco operativo. Gli analisti finanziari sottolineano come questo evento dimostri che nessuna piattaforma, per quanto grande e patrimonializzata, possa considerarsi del tutto invulnerabile di fronte ad attacchi informatici avanzati. La fiducia degli utenti verso gli scambi centralizzati appare fortemente compromessa, spingendo molti a ritirare i propri fondi.",
+    "L'ampiezza di questa cyberattacco rischia di accelerare gli interventi normativi da parte delle autorità di vigilanza finanziaria globali. Regolatori statunitensi ed europei stanno da tempo valutando la necessità di imporre regole molto più stringenti sulle piattaforme di scambio non regolamentate. Un furto di queste proporzioni fornisce nuove argomentazioni a chi sostiene l'urgenza di controlli rigorosi e audit di sicurezza obbligatori. Le istituzioni governative temono inoltre che tali enormi somme possano essere riutilizzate per finanziare attività illecite o programmi di armamento sottoposti a sanzioni internazionali.",
+    "Mentre gli esperti lavorano senza sosta per tracciare i flussi finanziari rubati sulla rete blockchain, molti ritengono che il recupero dei fondi sia un'impresa quasi impossibile. I cybercriminali utilizzano infatti sofisticate tecniche di offuscamento per riciclare i gettoni digitali attraverso numerosi passaggi intermedi. L'intera vicenda segna un punto di svolta drammatico per l'ecosistema delle criptovalute, costretto ora ad affrontare una crisi di credibilità senza precedenti. La capacità del settore di implementare standard di sicurezza realmente efficaci determinerà la sua futura sopravvivenza ed evoluzione."
+   ]
+  },
+  {
+   "desk": "Europe & Ukraine",
+   "source": "BBC",
+   "lang": "EN",
+   "paywalled": false,
+   "url": "https://www.bbc.co.uk/news/articles/c60me298k1yeo?at_medium=RSS&at_campaign=rss",
+   "headline": "Residents leave devastated Russian-occupied Oleshky as evacuation corridor opens",
+   "headlineEn": "Les habitants quittent la ville dévastée d'Olechky sous occupation russe alors qu'un couloir d'évacuation s'ouvre",
+   "contested": "",
+   "why": "Ce couloir humanitaire et ce trêve temporaire offrent une échappatoire vitale aux civils piégés depuis des mois sur la ligne de front.",
+   "stat": "",
+   "statLabel": "",
+   "chart": null,
+   "paras": [
+    "A crucial humanitarian milestone has been reached in the war-torn Ukrainian town of Oleshky following days of intense diplomatic effort. Hundreds of local residents have begun evacuating the devastated settlement currently under Russian military occupation. The operation became possible after a temporary local ceasefire took effect along this section of the frontline. For months, those trapped in the town have endured continuous bombardment without access to basic infrastructure, including electricity, running gas, or clean drinking water. Relief organizations are now moving in to assist vulnerable populations.",
+    "Despite the opening of this safe corridor, several hundred people have reportedly chosen to remain in their homes. Many elderly citizens and individuals with mobility issues expressed deep reluctance to abandon their properties despite the harsh living conditions. Local aid representatives report that those staying behind rely entirely on emergency food deliveries distributed during this brief window of calm. The humanitarian situation inside Oleshky remains precarious, with emergency personnel working rapidly before the truce expires. De-mining operations are also being conducted in surrounding areas to ensure transport safety.",
+    "The temporary truce was established following complex international mediation involving diplomatic channels in the United States and regional actors. Ukrainian negotiators confirmed that essential supplies of food and medical equipment have finally started reaching distribution points within the occupied territory. This localized arrangement represents a rare instance of operational cooperation between fighting forces since the outbreak of hostilies in the region. Humanitarian workers emphasize that maintaining the stability of this corridor is vital to saving lives and providing necessary medical treatment to injured civilians.",
+    "However, the broader security situation across Ukraine remains volatile and deeply dangerous. While quiet holds over Oleshky, military clashes and aerial strikes continue unabated in other parts of the country. Recent drone attacks and missile strikes on civilian transport hubs have highlighted the fragile nature of localized agreements. Military analysts caution that such brief ceasefires rarely translate into broader diplomatic breakthroughs, as both sides remain committed to their primary strategic objectives. Civilians in neighboring districts continue to live under the constant threat of renewed shelling.",
+    "International human rights agencies have repeatedly drawn attention to the suffering of populations living under occupation in eastern and southern regions. Many communities have been cut off from official medical assistance and supply lines for extended periods. The successful implementation of the Oleshky evacuation demonstrates that targeted humanitarian corridors can function when both sides respect agreed parameters. International observers hope this agreement might serve as a model for future evacuations from other frontline towns where trapped civilians face severe shortages of life-saving supplies.",
+    "For the evacuating families, leaving Oleshky marks the beginning of a long journey toward safety and recovery. Buses organized by rescue organizations are transporting displaced residents to safer regions controlled by Ukrainian authorities or designated reception centers. Volunteers are providing immediate psychological support, warm meals, and temporary shelter to arriving refugees. As the truce enters its final scheduled days, humanitarian groups are urging international leaders to push for extensions so that every civilian wishing to flee the combat zone can be evacuated safely."
+   ]
+  }
+ ],
+ "desks": [
+  {
+   "name": "Luxembourg",
+   "stories": [
+    {
+     "source": "RTL.lu",
+     "lang": "fr",
+     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPSlI1LXpuQWZVSTl2RlFVbXVUdHJKaW5sSDhyMlE4akZkSUpvZXpfMlhSNHdkZVlMZGtXcjNYTWdTSHlnQzRiUEpvVW5WaHFUTlpqTmNDekJhZkZ6c1JTbGpCeUlCTkQ1bGZtUXVBX2tuRmRrak80aDJ6RGNxN1NDRi1SYlRvOVV0WXFaSlVCdzJORzQ0bnhibzZsNA?oc=5",
+     "headline": "Pompe à chaleur: La transition énergétique reste semée d'embûches",
+     "headlineEn": "Heat pumps: Energy transition remains fraught with obstacles",
+     "summary": "Au Luxembourg, le passage aux pompes à chaleur s'impose comme un pilier de la transition énergétique, mais sa mise en œuvre concrète se heurte à de nombreux obstacles sur le terrain. Les propriétaires font face à des coûts d'installation élevés, des contraintes techniques dans les logements anciens et des délais d'attente prolongés pour l'intervention de professionnels qualifiés. De plus, la complexité des démarches administratives pour obtenir les aides étatiques décourage certains ménages d'entamer ces travaux de rénovation. Face à ces freins, les acteurs du secteur appellent à une simplification des procédures et à un accompagnement renforcé pour accélérer la décarbonation du chauffage résidentiel.",
+     "why": "Le déploiement des pompes à chaleur reflète les défis concrets de la transition écologique du parc résidentiel grand-ducal.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    },
+    {
+     "source": "Luxemburger Wort",
+     "lang": "de",
+     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNVzBTd2RsSmRaS3k2VzhjRUVuLTdUQXM5XzdQVXpWbUVqNkhHUjlWb3FIWXpsTDJVSEFyQWZqcEdEclZaUUxRaldhaWFWQ2I3dDE4d1FqM2tOVjNvQ09fT05LQXFkdVVTNHVuR1FSTzNNODBpdElYUncxRlZ2VTRSNzlKbVVUVU1TQUJDSTZMS1BsOUNNtFVqeG15V01TRG1oeGlGcG93?oc=5",
+     "headline": "Nach Betrug in der Philharmonie: Neuer Buchhalter wird gesucht",
+     "headlineEn": "After fraud at the Philharmonie: Search underway for a new accountant",
+     "summary": "Nach dem aufgedeckten Betrugsfall in der Luxemburger Philharmonie sucht die renommierte Kulturinstitution nun offiziell nach einem neuen qualifizierten Buchhalter. Der Vorfall hatte im gesamten Großherzogtum für erhebliches Aufsehen gesorgt und gravierende Lücken in den internen Kontrollmechanismen der Einrichtung offengelegt. Mit der Neubesetzung dieser Schlüsselposition soll nicht nur die laufende Finanzverwaltung wieder auf ein solides Fundament gestellt werden, sondern auch das verloren gegangene Vertrauen der Öffentlichkeit und aller Beitragszahler zurückgewonnen werden. Die Verantwortlichen der Kulturstätte betonen ausdrücklich, dass künftig strengere Sicherheitsvorkehrungen und Kontrollverfahren konsequent angewendet werden, um ähnliche finanzielle Unregelmäßigkeiten in der Zukunft auszuschließen.",
+     "why": "La Philharmonie cherche à rétablir sa rigueur financière et sa réputation après un incident de détournement de fonds.",
+     "paywalled": true,
+     "contested": "",
+     "chart": null
+    },
+    {
+     "source": "RTL.lu",
+     "lang": "fr",
+     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQUHlueFR6NDg2Rk83bzRuWnExYllmNXZvdjh0SVg2aHlxUW44OGJmcF9VU0lNbXZxUE53Wmppb1hfeWp5R3M3dXFKNjRpYkllUEIxUjJkWHVZRGZQQ1JnQU5FY2ZjUTB3bGQxcWZJZmgxUUhNVjhiQ1gyZVJ4UnZCczE5dU00dWVvQWFid3ZVVDlpQ2hDb1NaMVJLS1EwTTg?oc=5",
+     "headline": "Suivez l'événement en direct!: Les imposantes antennes de Beidweiler bientôt dynamitées",
+     "headlineEn": "Follow live: Massive Beidweiler radio towers soon to be dynamited",
+     "summary": "Les emblématiques antennes de transmission de Beidweiler, véritables repères visuels du paysage luxembourgeois depuis des décennies, vivent leurs derniers jours avant leur démolition programmée par dynamitage. Cet événement spectaculaire marque le terme de l'exploitation de ces structures géantes autrefois centrales pour la diffusion radio de RTL en grandes ondes. Un périmètre de sécurité rigoureux et des mesures d'encadrement strictes ont été mis en place par les autorités locales pour garantir le bon déroulement des opérations de tir. Le public pourra suivre cette opération d'ingénierie délicate en direct, scellant la fin d'un chapitre historique de l'audiovisuel national.",
+     "why": "La démolition de ces pylônes emblématiques marque la fin d'une époque pour les infrastructures de radiodiffusion luxembourgeoises.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    }
+   ]
+  },
+  {
+   "name": "Monde / géopolitique",
+   "stories": [
+    {
+     "source": "Reuters",
+     "lang": "en",
+     "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPTEZ5UV9XWUJPdkJDanlwdEFEY1V5T3A3UExxWHoxZFBHbnY1RjFsS0JwWk92TFhqYWpLVTFmMk9VUUhiRzZDVDZsdERfTERlUUZ0cWdKNm9MeUE4Mm5MNWZuaXpNLXVOM3BVczNXVndOOGlBZk9PLXBqT3hGLXpsRGVkREl6cTk5RXNWRThVVkNrem5BQkp0SVFReWY3aEktdGItd0c5bTNQUFVsRGZwczRYSUJVUFE?oc=5",
+     "headline": "EXCLUSIVE: Pentagon tells Europeans to cool their rhetoric on Russia, sources say",
+     "headlineEn": "EXCLUSIF : Le Pentagone demande aux Européens de modérer leur rhétorique sur la Russie, selon des sources",
+     "summary": "US defense officials have privately urged European allies to tone down their public declarations regarding Russia, according to sources familiar with the matter. The Pentagon fears that increasingly aggressive rhetoric from Western European capitals could complicate sensitive diplomatic channels and heighten risks of direct escalation with Moscow. While Washington remains committed to supporting Ukraine and maintaining NATO's deterrent stance, American strategists prefer a more measured posture to avoid miscalculations. European officials have reacted with mixed feelings, as several Eastern flank nations maintain that firmness remains the only language understood by the Kremlin.",
+     "why": "Les tensions diplomatiques sous-jacentes entre Washington et ses alliés européens influencent la stratégie globale face à Moscou.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    },
+    {
+     "source": "France 24",
+     "lang": "fr",
+     "url": "https://www.france24.com/fr/vid%C3%A9o/20261030-collision-tragique-en-espagne-tristesse-et-indignation-dans-tout-le-pays",
+     "headline": "Collision tragique en Espagne : tristesse et indignation dans tout le pays",
+     "headlineEn": "Tragic collision in Spain: Grief and outrage spread across the country",
+     "summary": "L'Espagne observe un deuil national de trois jours après la collision dévastatrice entre deux trains à grande vitesse près de Tolède, qui a coûté la vie à au moins 69 personnes. Alors que le roi Felipe VI s'est rendu au chevet des blessés dans les hôpitaux, la tristesse initiale fait désormais place à une vive indignation populaire quant aux défaillances techniques présumées. Les enquêteurs privilégient l'hypothèse d'une panne du système de signalisation automatique combinée à des instructions contradictoires. À un mois des élections législatives, cette tragédie remet la gestion des infrastructures et les investissements publics au cœur du débat politique national.",
+     "why": "La pire catastrophe ferroviaire espagnole depuis 2013 réouvre le débat sur la sécurité et la maintenance des transports publics.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    },
+    {
+     "source": "DW",
+     "lang": "en",
+     "url": "https://www.dw.com/en/european-central-bank-ecb-head-christine-lagarde-to-step-down-in-february-before-her-term-ends/a-79794353?maca=en-rss-en-world-4025-rdf",
+     "headline": "European Central Bank (ECB) head Christine Lagarde to step down in February, before her term ends",
+     "headlineEn": "La présidente de la Banque centrale européenne Christine Lagarde démissionnera en février, avant la fin de son mandat",
+     "summary": "European Central Bank President Christine Lagarde has announced she will step down in February, roughly nine months before the official conclusion of her eight-year tenure. European Council President António Costa confirmed that the formal process to identify and appoint a qualified successor has already been launched among eurozone member states. Lagarde's early departure comes at a delicate junction for the European economy, marked by stagnant growth and persistent underlying inflation pressures. Financial markets are closely monitoring potential candidates, as the choice will signal whether the Frankfurt institution intends to accelerate monetary easing or maintain a cautious policy stance.",
+     "why": "Le départ anticipé de Christine Lagarde ouvre une succession cruciale pour la conduite de la politique monétaire de la zone euro.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    }
+   ]
+  },
+  {
+   "name": "International — hors Europe",
+   "stories": [
+    {
+     "source": "Al Jazeera",
+     "lang": "en",
+     "url": "https://www.aljazeera.com/news/2026/10/30/saudi-arabia-reports-interception-of-houthi-drone-targeting-mecca?traffic_source=rss",
+     "headline": "Saudi Arabia reports interception of Houthi drone targeting Mecca",
+     "headlineEn": "L'Arabie saoudite affirme avoir intercepté un drone houthi visant La Mecque",
+     "summary": "Saudi Arabian air defense forces have intercepted a drone launched by Yemeni Houthi forces targeting the region surrounding the holy city of Mecca, according to official Saudi statements. Houthi military spokespersons promptly denied intentionally targeting the Muslim holy site, though cross-border skirmishes and drone attacks have surged in recent weeks. The incident underscores the fragile security environment in the Arabian Peninsula despite ongoing regional peace initiatives. International observers express deep concern over the potential widening of hostilities, warning that strikes near religious landmarks could trigger unpredictable regional retaliation and destabilize crucial energy transport routes.",
+     "why": "L'escalade militaire entre Riyad et les rebelles yéménites menace de nouveau la stabilité du Golfe et les sites sacrés.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    },
+    {
+     "source": "DW",
+     "lang": "en",
+     "url": "https://www.dw.com/en/flavio-bolsonaro-lands-in-us-declares-himself-leader-of-brazil/a-79788659?maca=en-rss-en-world-4025-rdf",
+     "headline": "Flavio Bolsonaro lands in US, declares himself 'leader' of Brazil",
+     "headlineEn": "Flávio Bolsonaro atterrit aux États-Unis et se proclame « dirigeant » du Brésil",
+     "summary": "Flávio Bolsonaro, son of former Brazilian president Jair Bolsonaro, has arrived in the United States and declared himself the rightful leader of Brazil despite losing Sunday's presidential election runoff. Facing multiple judicial investigations in his home country, his departure defied explicit court restrictions and sparked fierce condemnation from authorities in Brasília. By seeking refuge in Florida, the politician aims to rally international conservative support while challenging the legitimacy of the electoral outcome. The incident threatens to deepen political polarization within Brazil and complicates diplomatic relations between Washington and the newly elected administration in Brasília.",
+     "why": "La fuite de Flávio Bolsonaro aux États-Unis accentue les tensions démocratiques et judiciaires après le scrutin présidentiel brésilien.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    },
+    {
+     "source": "BBC",
+     "lang": "en",
+     "url": "https://www.bbc.co.uk/news/articles/cq5ynw94k7kzo?at_medium=RSS&at_campaign=rss",
+     "headline": "Record number of purges as Xi emphasises 'party discipline' at China political gathering",
+     "headlineEn": "Nombre record de purges alors que Xi insiste sur la « discipline du Parti » lors du rassemblement politique chinois",
+     "summary": "China has recorded an unprecedented number of official dismissals and disciplinary investigations as President Xi Jinping reinforced the imperative of strict party discipline during a major Communist Party gathering. Analysts observe that the anti-corruption drive has increasingly evolved into a structural mechanism designed to consolidate Xi's supreme authority and eliminate potential internal dissent. The gathering left key political questions, including the appointment of potential future successors, entirely unanswered amidst growing economic headwinds and international friction. Observers note that the leadership's primary focus remains preserving internal stability and enforcing absolute loyalty across all levels of the state apparatus.",
+     "why": "La campagne anti-corruption intensifiée par Xi Jinping raffermit son contrôle absolu sur l'appareil d'État de Pékin.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    },
+    {
+     "source": "AP News",
+     "lang": "en",
+     "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOYjFUTkJXRlZDN0E1bEFRZS1lNkZLVzNtQThKbEZIRFVjS21PYTVFUG1RaFp5b01CZUJOTi1IVnd2cWVjNlZOdnI3QTJwcUQ4YUN6OUhOSmNGeDMyaVM5WFVJNUhueWd3VU1UVmI2cncxanJGeHZEUDdJRFdaTURUOUtOMEt0UFhWb1V0YTYtX3JiZFo2ZE1mUUlWLUZHa2RZTlEyM1VTMk1EVWl4c0E?oc=5",
+     "headline": "Trump cancels rallies in Kansas and Iowa, opting for telerallies to reach more voters, RNC says",
+     "headlineEn": "Trump annule ses meetings au Kansas et dans l'Iowa, optant pour des télé-meetings selon le RNC",
+     "summary": "Donald Trump has canceled scheduled in-person campaign rallies in Kansas and Iowa, choosing instead to hold virtual telerallies to maximize voter reach ahead of the midterm elections, according to the Republican National Committee. The decision sparked speculation regarding campaign fatigue and tactical reprioritization, though party strategists insisted the remote format allows the former president to address broader national audiences simultaneously. The adjustment comes as both major American political parties intensify their final mobilization efforts in pivotal battleground states. With Senate and House majorities hanging in the balance, Republican organizers are focusing heavily on driving turnout through digital channels and phone banks.",
+     "why": "Le changement de stratégie de campagne de Donald Trump reflète les ajustements de fin de parcours avant les élections de mi-mandat.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    },
+    {
+     "source": "Council on Foreign Relations",
+     "lang": "en",
+     "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPNjV4cHhFMjktSVdQb1QyX0RnUWx1d0Q1dWdlTTBCaTF4cy1mSHpEVTNjSzVPZG5Ob1BuWVV0bFJqVDBuTERkRUZwRjFQdkdlWXhDVnlqbmd6SXVnRFhGUTJmUDZxby1vaDE0dDBCYmpYTXdTaFpQS0FmSGZlTUxkMTc0b2VnLTFFbGd5T2dNTnJUdDB4cWxORURGZHIzcmQzYWFFYWpQR2ZITnNJVlJKUldkaGpqaGxiNU4wXzYyVzllRUhraGo2eE1ZTFJEOEpK?oc=5",
+     "headline": "An Economic Shield of the Americas: How Washington Can Counter China and Build a More Prosperous Hemisphere",
+     "headlineEn": "Un bouclier économique des Amériques : comment Washington peut contrer la Chine et bâtir un hémisphère plus prospère",
+     "summary": "In an insightful strategic analysis published by the Council on Foreign Relations, policy experts urge Washington to forge a comprehensive \"Economic Shield of the Americas\" to counterbalance growing Chinese commercial influence across the Western Hemisphere. The proposal advocates for nearshoring critical supply chains, expanding targeted trade agreements, and offering robust infrastructure investments to Latin American partner nations. By strengthening economic integration, the United States could diminish regional reliance on Beijing's loans and investments while bolstering long-term democratic stability. The analysis emphasizes that sustainable American leadership requires proactive economic partnership rather than purely security-driven diplomacy.",
+     "why": "La rivalité stratégique sino-américaine pousse Washington à repenser son intégration économique et sécuritaire dans les Amériques.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    }
+   ]
+  },
+  {
+   "name": "Europe & politiques de l'UE",
+   "stories": [
+    {
+     "source": "DW",
+     "lang": "en",
+     "url": "https://www.dw.com/en/european-central-bank-ecb-head-christine-lagarde-to-step-down-in-February-before-her-term-ends/a-79794353?maca=en-rss-en-world-4025-rdf",
+     "headline": "European Central Bank (ECB) head Christine Lagarde to step down in February, before her term ends",
+     "headlineEn": "Christine Lagarde va quitter la présidence de la BCE en février, avant la fin de son mandat",
+     "summary": "European Central Bank President Christine Lagarde has announced she will resign in February 2026, nine months before the official end of her eight-year term. Antonio Costa, President of the European Council, confirmed that the formal process to select her successor has already been launched. Lagarde's decision comes at a delicate period for European monetary policy as the central bank navigates shifting economic growth and inflation dynamics across the eurozone. EU leaders will now work to reach a consensus on who will lead the financial institution.",
+     "why": "Ce départ anticipé ouvre une course à la succession cruciale pour l'avenir de la politique monétaire européenne.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    },
+    {
+     "source": "Reuters",
+     "lang": "fr",
+     "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPV2tyVENJUXI0WXNCVUFHTVBBY29vaW1ZZTloeDA5MkhyX29HZGVBQTNTdW9RSG9LVEFiZnlVU2JCUW1hNGFQZ0FVTHRGcDRxTUQ3MjRtOW94bUt4TDQ2cU5aOVVmWFhxek9pdFBMUVdMVElYeUE5X1FuaUtZcWZCX0Ric0FLbk9sSHpCNEpMQ2llU2lXdlZOLU9icDJONHV6QVhUTEhmNmhhRnEtMzMyeDRuM2pTRGFDWmVYWFRKSE80TTBfeENuTTBNV0x2X1BQalFhdm5RYzU?oc=5",
+     "headline": "EU urges member states to tap €21.3 billion SAFE fund to boost defence, support Ukraine",
+     "headlineEn": "EU urges member states to tap €21.3 billion SAFE fund to boost defence, support Ukraine",
+     "summary": "L'Union européenne exhorte ses États membres à mobiliser les 21,3 milliards d'euros du fonds SAFE afin de renforcer leurs capacités de défense et d'accroître leur soutien militaire à l'Ukraine. Cette initiative vise à accélérer les investissements stratégiques dans l'industrie européenne de l'armement et à répondre aux besoins urgents de sécurité du continent. Alors que la pression sur les stocks nationaux augmente, Bruxelles souhaite inciter les gouvernements à utiliser pleinement les mécanismes financiers européens existants pour coordonner leurs achats d'équipements. Les représentants européens soulignent l'importance d'une action rapide pour garantir la stabilité régionale et la souveraineté européenne.",
+     "why": "L'activation de ce fonds reflète l'urgence européenne à renforcer son autonomie stratégique en matière de défense.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    },
+    {
+     "source": "France 24",
+     "lang": "fr",
+     "url": "https://www.france24.com/fr/vid%C3%A9o/20261030-accident-ferrovaire-tragique-en-espagne-le-pays-plong%C3%A9-dans-son-deuxi%C3%A8me-jour-de-deuil-national",
+     "headline": "Accident ferrovaire tragique en Espagne : le pays plongé dans son deuxième jour de deuil national",
+     "headlineEn": "Tragic train accident in Spain: country plunged into second day of national mourning",
+     "summary": "L'Espagne observe un deuil national de trois jours après la collision tragique entre deux trains à grande vitesse survenue en Castille-La Manche, faisant au moins 68 morts. Les premiers éléments de l'enquête pointent vers une défaillance du système de sécurité et un ordre erroné transmis aux conducteurs. À un mois des élections législatives, ce drame provoque une vague d'indignation et relance le débat politique sur la maintenance des infrastructures ferroviaires. Le roi Felipe VI s'est rendu au chevet des nombreux blessés, tandis que les familles des victimes réclament toute la lumière sur cette catastrophe.",
+     "why": "Cette tragédie ferroviaire remet la sécurité des transports au cœur des débats politiques espagnols.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    }
+   ]
+  },
+  {
+   "name": "Économie & marchés",
+   "stories": [
+    {
+     "source": "WSJ",
+     "lang": "en",
+     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPdWRMVDlKNDhtc1N5cjBQTW1wZU5LM2JlNVpNUnJ2RTdROWxLc1g0R2VxT3hEM2hjdU5MWmQ3Z09FTHhWVVVqWmZzVEhLU1lsS0lLV2I5YmpyWW5zcG1kNFJKUF9jVFBBeE1wT1RfRllTZDBBaFUxal9YV1VXZGFKa2FabHlIcGlq?oc=5",
+     "headline": "French Economy Unexpectedly Contracts as Debt Worries Mount",
+     "headlineEn": "L'économie française se contracte inopinément face aux inquiétudes sur la dette",
+     "summary": "France's economy shrank by 0.1% in the third quarter of 2026, catching analysts off guard as government debt concerns and political instability continued to weigh on economic activity. The unexpected contraction highlights the growing headwinds facing the eurozone's second-largest economy, even as broader economic figures across the 21-nation bloc showed modest resilience. Weak consumer spending and reduced business investment contributed to the downturn during a crucial period for budget negotiations in Paris. Policymakers are facing increasing pressure to address fiscal deficits while avoiding further economic slowdown.",
+     "why": "La contraction inattendue de l'économie française fragilise la trajectoire de croissance de la zone euro.",
+     "paywalled": true,
+     "contested": "",
+     "chart": null
+    },
+    {
+     "source": "Reuters",
+     "lang": "en",
+     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPT3h0ZnhqQXNOaC15cXFDMlJfa0kwa0xKeDloU0hKQVducC1rOERkX2R5bG1rQ1JSUFpYMUVaZ0p5RGw1eDZEMVliNTJ6V2s3elFyaks4UDg4UWNMMklreW9iUHBoZWpVZE5mZmxnY2JybHI3bUI3SWxuVV9lZVFvUDRYREYydzN5dDVHMXV6bXp5T3ZHZTlIXw?oc=5",
+     "headline": "BP beats third-quarter forecasts with record $8.46 billion profit",
+     "headlineEn": "BP dépasse les prévisions au troisième trimestre avec un profit record de 8,46 milliards de dollars",
+     "summary": "Energy giant BP outperformed market expectations by posting a quarterly profit of $8.46 billion, driven by significantly stronger oil refining margins and robust trading performance. The results represent a major boost for the UK-based energy company as global energy markets navigate fluctuating crude prices and ongoing geopolitical tensions. Executive leadership highlighted that operational efficiency and disciplined capital allocation helped optimize financial returns across upstream and downstream operations. The surge in profitability provides BP with extra flexibility for shareholder returns and clean energy investments.",
+     "why": "Ces bénéfices records renforcent la capacité financière de BP malgré la volatilité des marchés énergétiques.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    },
+    {
+     "source": "WSJ",
+     "lang": "en",
+     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPWnJWU0FUQ3RzZzNCVjVCREZiMTJvOGI5UjU1VmlwR2lmYThxSGt2LS10eTEzd054TXpCVjhnRFlVcDBWYjAxOHRSSFZKdlVqMGJ0WDJGck43cTFGRXRiYW1TYTlrZUVEdEJVWVdCZjI4ZUV0czFUOC15dG9FYlpwRk5FOHFNR25RbWhrRVVPVlVkcWJUTGtrNVlzMnFaa1JjOGtrQjRLWG5JTnBrMi1R?oc=5",
+     "headline": "Bank of Japan Declares Inflation Win, Clearing Way for Rate Hikes",
+     "headlineEn": "La Banque du Japon proclame sa victoire sur l'inflation, ouvrant la voie à des hausses de taux",
+     "summary": "The Bank of Japan has officially declared that its long-standing 2% inflation target has been achieved, marking a historic shift after decades of deflationary pressure in the country. While the central bank decided to hold interest rates steady at its latest policy meeting, officials signaled that conditions are now set for further monetary tightening. Economists increasingly anticipate a rate hike as early as December, as sustainable wage growth and price dynamics take root. This milestone represents a dramatic transformation for Japan's economy and its financial markets.",
+     "why": "L'atteinte de la cible d'inflation met fin à une longue ère déflationniste pour la troisième économie mondiale.",
+     "paywalled": true,
+     "contested": "",
+     "chart": null
+    }
+   ]
+  },
+  {
+   "name": "Technologie & sciences",
+   "stories": [
+    {
+     "source": "FT",
+     "lang": "en",
+     "url": "https://www.ft.com/content/c695558e-11e6-494c-aeee-0f9fb5c75afc?syn-25a6b1a6=1",
+     "headline": "Big Tech sheds nearly $900bn in rout over soaring AI spending",
+     "headlineEn": "Les géants de la tech perdent près de 900 milliards de dollars sur fond d'explosion des dépenses en IA",
+     "summary": "Major technology companies have seen nearly $900 billion wiped off their collective market value as investors react nervously to massive spending on artificial intelligence infrastructure. Earnings reports from tech giants including Google, Amazon, and Meta revealed escalating capital expenditures, prompting Wall Street to question when these investments will deliver substantial returns. Concerns over profit margins and slowing core revenue growth triggered a broad market sell-off across global stock exchanges. Market analysts note that enthusiasm for AI breakthroughs is being tempered by mounting anxiety over short-term financial sustainability.",
+     "why": "Le doute des investisseurs sur le retour sur investissement dans l'IA pèse lourdement sur la valorisation de la Tech.",
+     "paywalled": true,
+     "contested": "",
+     "chart": null
+    },
+    {
+     "source": "SZ",
+     "lang": "de",
+     "url": "https://www.sueddeutsche.de/wissen/zwergplanet-2026-ed138-vera-rubin-teleskop-pluto-astronomie-li.3571009",
+     "headline": "Neuer Nachbar im Sonnensystem",
+     "headlineEn": "New neighbor in the Solar System",
+     "summary": "Astronominnen und Astronomem haben mithilfe des neu in Betrieb genommenen Vera-Rubin-Teleskops ein bisher unbekanntes Objekt im äußeren Sonnensystem entdeckt. Es handelt sich aller Wahrscheinlichkeit nach um einen neuen Zwergplaneten, was erst die sechste Entdeckung dieser Art in unserer kosmischen Nachbarschaft wäre. Die Himmelsforscher erhoffen sich durch weitere Beobachtungen der Umlaufbahn detaillierte Erkenntnisse über die Entstehung und Entwicklung des Sonnensystems jenseits der Neptunbahn. Die Entdeckung unterstreicht das enorme Potenzial moderner Observatorien bei der Erkundung des Weltalls.",
+     "why": "La découverte de nouveaux corps célestes éclaire la compréhension de la formation de notre système solaire.",
+     "paywalled": true,
+     "contested": "",
+     "chart": null
+    },
+    {
+     "source": "Le Monde",
+     "lang": "fr",
+     "url": "https://www.lemonde.fr/planete/article/2026/10/30/en-indonesie-les-incendies-ont-cause-3-560-morts-liees-a-la-pollution-de-l-air-en-septembre_6802919_3244.html",
+     "headline": "En Indonésie, la pollution de l'air due aux incendies a causé la mort de 3 560 personnes en septembre",
+     "headlineEn": "In Indonesia, air pollution from forest fires caused 3,560 deaths in September",
+     "summary": "En Indonésie, la grave pollution de l'air provoquée par les feux de forêt a entraîné le décès de 3 560 personnes durant le seul mois de septembre, selon une étude récente. Le pays fait face à une sécheresse exceptionnelle, largement intensifiée par le phénomène climatique El Niño, qui a détruit plus de 1,9 million d'hectares d'arbres depuis le début de l'année. Les autorités environnementales et les organisations sanitaires tirent la sonnette d'alarme face aux risques respiratoires majeurs encourus par la population. Cette crise écologique souligne la vulnérabilité croissante des régions tropicales face au réchauffement climatique.",
+     "why": "La hausse de la mortalité liée à la pollution illustre l'impact sanitaire direct du dérèglement climatique en Asie.",
+     "paywalled": true,
+     "contested": "",
+     "chart": null
+    }
+   ]
+  },
+  {
+   "name": "Sport",
+   "stories": [
+    {
+     "source": "DW",
+     "lang": "de",
+     "url": "https://www.dw.com/de/tennis-star-zverev-erf%C3%BCllt-sich-traum-von-nummer-eins/a-79805048?maca=de-rss-de-all-1119-rdf",
+     "headline": "Tennis-Star Zverev erfüllt sich Traum von Nummer eins",
+     "headlineEn": "Tennis star Zverev achieves dream of world number one ranking",
+     "summary": "Alexander Zverev steht vor einem historischen Meilenstein in seiner Karriere. Nach seinem Viertelfinaleinzug beim ATP-Turnier in Wien übernimmt der Hamburger am Montag die Spitze der Weltrangliste und löst Jannik Sinner ab. Genau 35 Jahre nach Boris Becker ist Zverev erst der zweite deutsche Tennisprofi, dem dieser Sprung gelingt. Für den 29-Jährigen geht damit ein lang gehegter Kindheitstraum in Erfüllung.",
+     "why": "Zverev marque l'histoire du tennis allemand en atteignant le sommet du classement mondial ATP.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    },
+    {
+     "source": "AFP",
+     "lang": "en",
+     "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9IVDBaMUxkaXJmUDhMd2NPc3FQTDQ4b2kxMUplNUl2MEliRURLa1ZOSFl6T29UUDE4REZseFNxOFVvTUFSTGJQS2F4SQ?oc=5",
+     "headline": "Rybakina secures year-end top rank with Tokyo win",
+     "headlineEn": "Rybakina s'assure la première place mondiale en fin d'année grâce à sa victoire à Tokyo",
+     "summary": "Elena Rybakina achieved a major career milestone by securing the year-end world number one ranking following her victory at the Tokyo tournament. The Kazakh tennis star delivered an impressive performance throughout the week, confirming her dominance on the WTA tour this season. Her success in Japan caps off a remarkably consistent year at the highest level of professional tennis.",
+     "why": "Cette performance consacre Rybakina comme la joueuse la plus constante de la saison sur le circuit WTA.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    }
+   ]
+  }
+ ],
+ "sourced": true,
+ "feeds": {
+  "ok": 27,
+  "of": 29,
+  "items": 258,
+  "skipped": [
+   "RTL.lu (LB)",
+   "Washington Post (EN): HTTP 502"
+  ]
+ },
+ "words": 4235,
+ "readMin": 21,
+ "storyCount": 25
+}
