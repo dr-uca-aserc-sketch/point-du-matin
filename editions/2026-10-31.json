@@ -1,0 +1,404 @@
+{
+ "date": "2026-10-31",
+ "kind": "daily",
+ "heat": 0.82,
+ "oneThing": "The US approved a $2.1 billion Patriot missile sale to Ukraine, while Binance works to recover $6.3 billion stolen in a record hack.",
+ "followUps": [
+  {
+   "n": "01",
+   "thread": "Crise politique et judiciaire en Pologne",
+   "change": "La police a sécurisé le siège du Tribunal constitutionnel à Varsovie après la suspension de son président par le gouvernement Tusk, déclenchant de vives manifestations."
+  },
+  {
+   "n": "02",
+   "thread": "Soutien militaire américain à l'Ukraine",
+   "change": "Washington a approuvé une vente de 500 missiles intercepteurs Patriot d'une valeur de 2,1 milliards de dollars, bien que Kyiv redoute des délais de livraison de plusieurs années."
+  },
+  {
+   "n": "03",
+   "thread": "Cybersécurité et piratage informatique de Binance",
+   "change": "La plateforme Binance tente de retracer 6,3 milliards de dollars en actifs numériques dérobés lors du plus grand piratage de l'histoire des cryptomonnaies, imputé à la Corée du Nord."
+  }
+ ],
+ "mustReads": [
+  {
+   "desk": "Europe & Justice",
+   "source": "AP News",
+   "lang": "EN",
+   "paywalled": false,
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxONTN6V2ZLYWRNNzFWb3hYckNxQzgzMXZlTHY2MGN3NldSRW1BUGEtX0NUVTRzREhQcTdldGtuNkFVRzY4ZFlYRUYzS2Q0Y0tuT1hYbmpVMmZ4T3pjQjB4Si1sRndxN1haVVJ6dnlVbElWRW5vWC00Mnd6dnRsNkFsZXc2WUlRTnlxM3pmNHBUN1BERGdJcElnb1hrbGpudHFMbzJaWGxrdmx1T1c3cDJYOUplUnk?oc=5",
+   "headline": "Police secure Poland’s Constitutional Tribunal as protests erupt over court chief’s suspension",
+   "headlineEn": "La police sécurise le Tribunal constitutionnel polonais alors que des manifestations éclatent après la suspension de son président",
+   "contested": "",
+   "why": "Le conflit institutionnel entre le gouvernement centriste et le président conservateur plonge la haute juridiction polonaise dans une crise profonde.",
+   "stat": "2",
+   "statLabel": "juges de la haute cour suspendus par le gouvernement centriste",
+   "chart": null,
+   "paras": [
+    "Polish riot police secured the surroundings of the Constitutional Tribunal in Warsaw after violent protests erupted following the government's suspension of the court's president. The dramatic escalation marks a critical juncture in the ongoing political battle between Prime Minister Donald Tusk’s centrist administration and conservative allies of the former governing party. Demonstrators gathered outside the court complex late into the night, chanting slogans and clashing with security personnel who blocked entry to the building. Authorities maintained a heavy presence to prevent further escalation as legal uncertainty deepened across the capital.",
+    "The confrontation intensified after the government moved to suspend senior justices and initiate criminal proceedings against them over alleged political bias and procedural irregularities. In response, President Karol Nawrocki interrupted an official overseas trip to return to Warsaw, calling an emergency meeting with representatives of all parliamentary factions. The president strongly condemned the executive action, describing it as an unlawful infringement on judicial independence. Meanwhile, government officials defended the measure, arguing that sweeping reforms were essential to restore public trust in democratic institutions damaged by years of partisan interference.",
+    "Supporters of the suspended court chief claim that the centrist government is overstepping its constitutional mandate by removing appointed judges without due process. Legal experts point out that the tribunal has long been a battleground between opposing political forces, creating systemic gridlock within the country's highest judicial authority. Protesters aligned with conservative opposition groups expressed outrage over what they characterize as an authoritarian purge. On the other hand, pro-government advocates insist that previous appointments were fundamentally flawed and required urgent legislative intervention to re-establish proper constitutional order.",
+    "The standoff has drawn significant attention from European Union diplomats who are closely monitoring the rule of law situation in Poland. Following years of disputes between Warsaw and Brussels regarding judicial reforms, the latest developments add another layer of political complexity. European institutions have repeatedly urged Polish authorities to ensure that all judicial changes comply with continental democratic standards and international treaties. However, domestic political divisions remain exceptionally deep, making a swift compromise between the prime minister and the head of state increasingly unlikely in the near future.",
+    "Tensions on the street escalated further as civil society organizations organized counter-demonstrations demanding full transparency and structural accountability within the judiciary. Local media reported several arrests during overnight clashes near the court building, with law enforcement personnel using barricades to separate opposing factions. Business leaders and constitutional scholars have expressed mounting concern over the operational stability of Polish legal frameworks. They warn that prolonged gridlock could disrupt economic activity and erode international confidence in the stability of national regulations, legal enforcement, and fundamental institutional checks.",
+    "With parliamentary elections approaching next year, neither side appears willing to retreat from its hardened position. The president's planned consultations with party leaders are expected to yield intense debate but few immediate solutions given the fundamental disagreement over judicial legitimacy. Analysts suggest that the ongoing confrontation could define the political landscape for months to come, further polarizing voters ahead of key electoral contests. As police maintain their cordon around the Constitutional Tribunal, the country faces a prolonged legal paralysis that tests the resilience of its governance."
+   ]
+  },
+  {
+   "desk": "Tech & Cybersécurité",
+   "source": "BBC News",
+   "lang": "EN",
+   "paywalled": false,
+   "url": "https://www.bbc.co.uk/news/articles/cwe8lp7zy07zo?at_medium=RSS&at_campaign=rss",
+   "headline": "Crypto giant Binance attempting to recover $6.3bn stolen in hack linked to North Korea",
+   "headlineEn": "Le géant des cryptomonnaies Binance tente de récupérer 6,3 milliards de dollars volés lors d'un piratage lié à la Corée du Nord",
+   "contested": "",
+   "why": "Ce piratage historique met en lumière la vulnérabilité des grandes infrastructures financières numériques face à des groupes cybercriminels étatiques.",
+   "stat": "6.3B",
+   "statLabel": "dollars dérobés lors du piratage historique de la plateforme Binance",
+   "chart": null,
+   "paras": [
+    "Cryptocurrency exchange Binance is actively attempting to trace and recover approximately six point three billion dollars in digital assets following a massive cyberattack. Cybersecurity experts and law enforcement agencies believe the breach represents the largest digital asset theft in history. Preliminary investigations suggest that elite hacking syndicates affiliated with North Korea orchestrated the sophisticated operation. The perpetrators exploited critical system vulnerabilities to bypass automated security measures, rapidly transferring vast sums into complex networks of unhosted wallets. The incident sent shockwaves across global financial markets and raised urgent questions regarding exchange safety.",
+    "The cyberattack unfolded over several hours before internal detection protocols alerted engineers to unauthorized wallet drains across multiple blockchain networks. Executive leadership at Binance confirmed that immediate containment measures were deployed to freeze remaining funds and prevent additional unauthorized withdrawals. However, the sheer scale of the stolen assets has severely strained liquidity pools and created widespread panic among retail and institutional investors. International law enforcement task forces have joined the investigation, collaborating with blockchain analytics firms to track the movement of stolen tokens through sophisticated obfuscation tools and decentralized mixers.",
+    "Industry analysts note that North Korean hacking groups have increasingly targeted digital asset platforms to fund state programs and evade international sanctions. Security researchers highlighted that the methods employed in the Binance heist demonstrated unprecedented technical sophistication and meticulous planning. By infiltrating internal management tools, the attackers compromised key authorization protocols without triggering standard operational alarms. Cyber defense firms warn that traditional security architectures in the cryptocurrency sector remain vulnerable to state-sponsored actors who possess extensive resources, specialized talent, and long-range strategic objectives aimed at global financial infrastructure.",
+    "In response to the unprecedented breach, major cryptocurrency exchanges worldwide have issued joint calls for immediate industry-wide security upgrades and unified defensive standards. Regulatory bodies in the United States, Europe, and Asia are intensifying scrutiny over digital asset custodians, demanding stricter compliance frameworks and mandatory audit protocols. Officials argue that existing oversight mechanisms are insufficient to protect consumers against highly organized cyber threats. Industry leaders acknowledge that restoring public confidence will require transparent reporting, enhanced multi-signature authorization protocols, and closer collaboration between private platforms and government intelligence agencies.",
+    "Market reaction to the heist was swift and severe, contributing to a broader downturn across major cryptocurrency assets and related tech equities. Investors expressed growing skepticism regarding the resilience of decentralized systems when confronted with coordinated state-level attacks. Financial commentators pointed out that the magnitude of the loss could trigger significant restructuring within Binance and accelerate formal legislative efforts to regulate digital asset exchanges. Meanwhile, platform executives reiterated their commitment to reimbursing affected users through corporate emergency reserves, though complete financial recovery remains an exceptionally complex challenge.",
+    "As forensic investigations continue, cybersecurity experts emphasize that tracing stolen funds across privacy-focused networks will require prolonged international cooperation. Law enforcement agencies face substantial hurdles in freezing assets once they pass through decentralized finance protocols and foreign intermediary entities. The record-breaking theft serves as a stark reminder of the persistent security challenges confronting the broader fintech ecosystem. Without robust defense mechanisms and international regulatory harmonization, digital asset platforms remain attractive targets for sophisticated cybercriminals seeking to exploit vulnerabilities in decentralized financial infrastructure worldwide."
+   ]
+  },
+  {
+   "desk": "Guerre en Ukraine & Défense",
+   "source": "Euronews",
+   "lang": "EN",
+   "paywalled": false,
+   "url": "https://www.euronews.com/2026/10/31/zelenskyy-thanks-us-over-deal-for-500-patriot-missiles-but-warns-delivery-could-take-years",
+   "headline": "Zelenskyy thanks US over deal for 500 Patriot missiles but warns delivery could take years",
+   "headlineEn": "Zelensky remercie les États-Unis pour le contrat de 500 missiles Patriot mais prévient que la livraison pourrait prendre des années",
+   "contested": "",
+   "why": "L'approvisionnement en missiles intercepteurs est indispensable pour protéger le réseau énergétique ukrainien face aux frappes hivernales.",
+   "stat": "500",
+   "statLabel": "missiles intercepteurs Patriot dont la vente a été approuvée par Washington",
+   "chart": null,
+   "paras": [
+    "Ukrainian President Volodymyr Zelenskyy welcomed the United States government's approval of a major sales agreement for five hundred Patriot air defense missiles. The two point one billion dollar transaction provides crucial support for Ukraine’s military as winter approaches and missile attacks on critical infrastructure escalate. However, the Ukrainian leader voiced serious concern regarding the prolonged delivery schedules associated with the procurement deal. Speaking during a official press address, Zelenskyy emphasized that defense forces urgently require interceptor stockpiles today to protect civilian centers rather than waiting several years for industrial manufacturing.",
+    "The American-made Patriot system remains one of the few air defense platforms capable of effectively intercepting advanced Russian ballistic missiles and high-velocity drones. Kyiv has repeatedly appealed to Western allies for additional batteries and ammunition to shield major cities and power grids from sustained bombardment. While the newly announced defense contract represents a significant long-term commitment to Ukrainian security, defense experts caution that global supply chain bottlenecks could delay complete delivery until late in the decade. Ukrainian officials are consequently urging international partners to expedite existing inventory transfers from active foreign stocks.",
+    "Military analysts highlight that the timing of the missile package is critical given recent intelligence indicating intensified Russian preparations for winter offensive strikes. Disruption to energy networks caused by sustained missile attacks previously left millions of Ukrainians without heat and electricity during freezing temperatures. The acquisition of five hundred intercepters aims to prevent widespread infrastructure collapse and maintain effective operational umbrella coverage across front-line regions. However, Ukraine’s defense leadership stresses that operational success depends entirely on how quickly manufacturing contractors can accelerate production lines to fulfill orders without compromising domestic readiness.",
+    "The approval of the defense package comes amidst broader political debates in Washington regarding foreign military financing and defense industrial capacity. U.S. officials stated that the deal reflects long-term strategic support for European security architecture and alliance commitments. Concurrently, European NATO members are evaluating supplemental military contributions to bridge immediate capability gaps until American shipments arrive. Coordinating logistics and ammunition compatibility across coalition forces remains a primary operational challenge, prompting joint defense procurement initiatives aimed at streamlining production timelines and ensuring continuous replenishment for Ukrainian air defense units.",
+    "On the ground, humanitarian conditions in front-line areas remain extremely precarious as diplomatic negotiations over localized truces continue. In towns like Oleshky, brief operational pauses have allowed emergency services to evacuate civilians and deliver critical supplies under international supervision. Nevertheless, Ukrainian military leadership maintains that tactical truces offer only temporary relief from ongoing aerial threats. Strengthening air defense capabilities remains the central strategic imperative to secure long-term stability and safeguard vital civilian infrastructure against relentless long-range missile and drone strikes conducted throughout the winter months.",
+    "As Congressional approval processes move forward in Washington, Ukrainian defense planners are preparing contingency strategies to manage existing interceptor inventories. Military commanders must balance the immediate protection of urban populations with the necessity of preserving specialized ammunition for high-priority strategic assets. International observers emphasize that long-term defense commitments send a strong geopolitical signal to Moscow regarding Western resolve. However, the practical effectiveness of the newly approved Patriot missile contract will ultimately depend on whether manufacturing and delivery schedules can be dramatically compressed to meet Kyiv’s urgent operational requirements."
+   ]
+  }
+ ],
+ "desks": [
+  {
+   "name": "Luxembourg",
+   "stories": [
+    {
+     "source": "Luxemburger Wort",
+     "lang": "de",
+     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOYUlmbW9tU1diYzh2Q192S0ZyT1JvOWhfR3JrMFhaRHlwVlZDUTY5R2lnUGJGa3Z3TGFiZ2ZGeDVsRnlPWTU1NzBTbDhBelJ6RUJYTDZEVFpGUTVncGpCaXROeVMyY1U0Z0FYQ0hXSXJUazlYV244TTVaNGJXbTRSV0x0MXlScGcwRjlPMEE1VmpPOVVHNWhiRE91NXM2cEtkSjg5VFFxOE1IVldk?oc=5",
+     "headline": "Wahlrecht ab 16: Wo die Parteien heute stehen im Vergleich zu 2015",
+     "headlineEn": "Droit de vote à 16 ans : où se situent les partis aujourd'hui par rapport à 2015",
+     "summary": "Mehr als elf Jahre nach dem historischen Referendum von 2015, bei dem eine deutliche Mehrheit der luxemburgischen Wähler die Absenkung des Wahlalters ablehnte, wird die Debatte über das Wahlrecht ab 16 Jahren im Großherzogtum erneut geführt. Die politischen Parteien nehmen heute differenzierte Positionen ein, die von einer uneingeschränkten Senkung des Wahlalters für alle nationalen Wahlen bis hin zu freiwilligen Modellen oder einer Beibehaltung der Volljährigkeit mit 18 Jahren reichen. Während einige Parteien eine stärkere Einbindung der Jugend in politische Entscheidungsprozesse fordern, verweisen Skeptiker auf die verfassungsrechtlichen Hürden und das damalige Votum der Bevölkerung. Die erneute Diskussion zeigt, wie sich die gesellschaftlichen Ansichten zur politischen Teilhabe jüngerer Generationen verändert haben.",
+     "why": "Le débat touche directement à la représentativité politique et à la participation de la jeunesse dans les institutions luxembourgeoises.",
+     "paywalled": true,
+     "contested": "",
+     "chart": null
+    },
+    {
+     "source": "Luxemburger Wort",
+     "lang": "de",
+     "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPX3RKUGQ0czRYdnlPcG83aWlLWjhfeTR4c3FoYVFqejFvNmZ0Ri1QcmRvbUFTWFZIWUh5WExIV0VwQmgwdnJSTVo0aFlUMlozMkpZSTRqWXRGLXR1SldnNlBSRElWWV80alczNXhVTXhwZmw2ekttWmRoaDJQa0hpbnBIUnlVckxYTWJ5eU5yVlBqQ1hjd0ozX24yV2tocDFrRWoxcWh4Qm95ZVR0Ry0wQVUteGItUk9ianZSZEIzX0JROEU2eDFv?oc=5",
+     "headline": "Unternehmer bietet 30 Milliarden Euro für Luxemburger Holding der Ray-Ban-Familie",
+     "headlineEn": "An entrepreneur offers 30 billion euros for the Ray-Ban family's Luxembourg holding company",
+     "summary": "Ein internationaler Investor hat ein spektakuläres Übernahmeangebot in Höhe von 30 Milliarden Euro für eine in Luxemburg ansässige Holdinggesellschaft vorgelegt, die beträchtliche Anteile der Besitzerfamilie der Brillenmarke Ray-Ban verwaltet. Dieses milliardenschwere Angebot unterstreicht erneut die zentrale Rolle des Finanzplatzes Luxemburg als strategische Drehscheibe für die Strukturierung großer Familienvermögen und globaler Beteiligungen. Analysten beobachten das Übernahmeangebot genau, da eine Transaktion dieser Größenordnung erhebliche Auswirkungen auf die Holdingstruktur und die künftige Ausrichtung des Konzerns haben könnte. Sollte das Geschäft zustande kommen, wäre es eine der größten Finanztransaktionen im Großherzogtum in diesem Jahr.",
+     "why": "Cette offre XXL met en lumière l'importance stratégique des holdings luxembourgeoises dans la gestion des grands groupes mondiaux.",
+     "paywalled": true,
+     "contested": "",
+     "chart": null
+    },
+    {
+     "source": "Luxemburger Wort",
+     "lang": "de",
+     "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNSXJOWDR6RXRyUVl0Q3UybWxKLVh4LVhreDVzV3N2eFZoN1VJVGtEa2lZc1NkeG9ULTZjbDNMa1RBVmdodWRmNGhyMF9lR1BuOXhPQk1rTWRxb3prSFZHTkpVYkhHQUVUdURoek5TVlZ3Ml9TQmx5czcwMVRwQnF2V1laN1JGbjc1WklPbm44Vk5reDBqMzNmb1Q5Y2xDbnQwWkE0YkNEdHl0STNMWWVlRmtSeUdCbnZsMHV4VXI3dmwwR2c?oc=5",
+     "headline": "Die Tram treibt dem Monnericher Bürgermeister den Schweiß auf die Stirn",
+     "headlineEn": "The tram brings sweat to the forehead of the Mayor of Mondercange",
+     "summary": "Die geplanten Ausbauarbeiten für das künftige Tramnetz im Süden von Luxemburg sorgen in der Gemeinde Mondercange für große Besorgnis bei den lokalen Verantwortlichen. Der Bürgermeister von Mondercange äußert erhebliche Bedenken hinsichtlich der verkehrstechnischen Auswirkungen, der potenziellen Überlastung der Gemeindestraßen und der komplexen Bauphasen. Trotz der grundsätzlichen Befürwortung nachhaltiger Mobilitätslösungen fordert die Gemeindeführung klare Garantien und Nachbesserungen von den staatlichen Planern, um unzumutbare Belastungen für die Anwohner zu verhindern. Die Auseinandersetzung verdeutlicht die Spannungen zwischen nationalen Infrastrukturprojekten und den Interessen der betroffenen Kommunen im Süden des Landes.",
+     "why": "Le projet de tram rapide suscite des frictions locales complexes autour de l'aménagement du territoire et de la mobilité au Sud.",
+     "paywalled": true,
+     "contested": "",
+     "chart": null
+    }
+   ]
+  },
+  {
+   "name": "Monde / géopolitique",
+   "stories": [
+    {
+     "source": "France 24",
+     "lang": "fr",
+     "url": "https://www.france24.com/fr/vid%C3%A9o/20261031-mobilisation-sociale-et-politique-en-france-acte-iii-ce-samedi",
+     "headline": "Mobilisation sociale et politique en France : Acte III ce samedi",
+     "headlineEn": "Social and political mobilization in France: Act III this Saturday",
+     "summary": "La France se prépare ce samedi à une troisième journée nationale de mobilisation sociale et politique contre la vie chère et les mesures gouvernementales, dans un climat de forte tension. Les autorités ont déployé un dispositif de sécurité exceptionnel comprenant 70 000 policiers et gendarmes sur l'ensemble du territoire pour encadrer les cortèges et prévenir d'éventuels débordements. À Paris, le Conseil d'État a confirmé l'interdiction du parcours initialement prévu entre Bastille et Nation à la demande du ministère de l'Intérieur. La coïncidence avec les rassemblements de la fête d'Halloween accentue les craintes des forces de l'ordre face à d'éventuelles violences urbaines.",
+     "why": "Ce nouvel acte de contestation sociale teste la capacité du gouvernement français à maintenir l'ordre sans embraser davantage le pays.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    },
+    {
+     "source": "BBC",
+     "lang": "en",
+     "url": "https://www.bbc.co.uk/news/articles/cmeweppr990qo?at_medium=RSS&at_campaign=rss",
+     "headline": "Spain train disaster clouds Sánchez chances of re-election",
+     "headlineEn": "Le désastre ferroviaire en Espagne assombrit les chances de réélection de Sánchez",
+     "summary": "A catastrophic collision between two trains in central Spain that left at least 69 people dead has created a severe political crisis for Prime Minister Pedro Sánchez just weeks before snap general elections. The opposition has heavily criticized the government's management of the rail network and demanded immediate accountability regarding signal and traffic control failures. Sánchez had intended to center his upcoming campaign on social equity and housing reforms, but the disaster has forced him onto the defensive over state infrastructure safety. This tragedy comes as emergency crews continue the painful process of identifying victims amidst rising grief and public anger.",
+     "why": "Cette tragédie ferroviaire fragilise le gouvernement espagnol à l'approche du scrutin et remet au centre la sécurité des infrastructures.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    },
+    {
+     "source": "BBC",
+     "lang": "en",
+     "url": "https://www.bbc.co.uk/news/articles/c60me298k1yeo?at_medium=RSS&at_campaign=rss",
+     "headline": "Hundreds evacuated from Russian-occupied Oleshky during rare Ukraine ceasefire",
+     "headlineEn": "Des centaines de personnes évacuées d'Olechky sous occupation russe lors d'un rare cessez-le-feu en Ukraine",
+     "summary": "Hundreds of Ukrainian civilians have been evacuated from the frontline town of Oleshky, currently under Russian control, following a rare localized ceasefire negotiated between Moscow and Kyiv. The humanitarian operation was coordinated directly by the human rights ombudspersons of both warring nations to assist residents trapped in heavily damaged combat zones. Despite the dangerous conditions and ongoing risks, many civilians managed to cross safely toward Belarus or government-controlled territory, although several hundred chose to remain behind. Observers view this successful, albeit limited, humanitarian agreement as an exception in an otherwise unyielding and devastating military conflict.",
+     "why": "Ce cessez-le-feu humanitaire ponctuel démontre que des canaux de négociation pragmatiques restent possibles pour sauver des civils.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    }
+   ]
+  },
+  {
+   "name": "International — hors Europe",
+   "stories": [
+    {
+     "source": "Al Jazeera",
+     "lang": "en",
+     "url": "https://www.aljazeera.com/features/2026/10/31/education-under-fire-gazas-children-face-death-on-their-way-to-school?traffic_source=rss",
+     "headline": "Education under fire: Gaza’s children face death on their way to school",
+     "headlineEn": "Éducation sous le feu : les enfants de Gaza frôlent la mort sur le chemin de l'école",
+     "summary": "Palestinian children in the Gaza Strip are risking their lives daily to access basic education as schools attempt to operate amid ongoing military strikes and severe infrastructure destruction. Since the academic year officially resumed, students and teachers have encountered frequent bombardment and military fire along damaged routes to makeshift classrooms. Humanitarian agencies report that hundreds of educational facilities have been destroyed or converted into overcrowded shelters for displaced families. Despite extreme danger and trauma, local educators are striving to maintain learning activities, highlighting the resilience of young Palestinians seeking normalcy under persistent siege.",
+     "why": "L'effondrement du système éducatif à Gaza menace le droit fondamental à l'instruction de toute une génération d'enfants.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    },
+    {
+     "source": "AP News",
+     "lang": "en",
+     "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQVFpTUTA2NWczOGNBdDdvTzZHdzFGTFpfdXB1Zmk5aTUtMUN5TzZjcXhSZEFtQUJPNEoxWHY0bUVway1oUDZoNFJKOGZmdnROU1NsczlTWW1zZFUxNnhKNjlBN3psQjdlRWZxZ2ZFb2huUDBZTW40UGVURGVWVVVKTFlWaDlx3h2TkRVbERlRHZsRngxSnNsVUQ1dmlEZ0dVTVFwbDk5Z1M1RmZ0NkE?oc=5",
+     "headline": "Difficult negotiations lie ahead in Israel after Netanyahu’s bloc lost its parliamentary majority",
+     "headlineEn": "De difficiles négociations s'annoncent en Israël après la perte de la majorité parlementaire par le bloc de Nétanyahou",
+     "summary": "Official election results in Israel have confirmed that Prime Minister Benjamin Netanyahu’s right-wing bloc has lost its majority in the 120-seat Knesset, securing only 53 seats. The outcome sets off weeks of intense political bargaining among deeply divided secular, religious, and Arab-led parliamentary factions to attempt to form a working coalition government. Netanyahu’s party has publicly rejected the certified tally, alleging widespread irregularities and voting fraud, claims that national election authorities have firmly dismissed. The current political impasse leaves Israel in prolonged uncertainty as rival leaders maneuver to construct an alternative ruling alliance.",
+     "why": "La perte de la majorité par Nétanyahou réouvre le jeu politique en Israël et complique la formation du futur gouvernement.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    },
+    {
+     "source": "AP News",
+     "lang": "en",
+     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOWU1SRDdzUXFZNm5UeU5nZzVvMkFYMXNwNUF6eXdsbWNtN3lveTdwNVlCS3BVWjFRQ0NjTjc4Rm1qdC0yUmVQMFVXb21nREdOM3F5NVFxdWtqODNvVFh6Q3hLU2N1MWZhUFJ4c1dlTXRrRGlTQ01iUTBEdlVNR0VYdTJWc0JRck93bThTSUNvellaY3JUaVNJRFdOY2RiUWVW?oc=5",
+     "headline": "Justice Department seeks to isolate Alaska ballots as criminal probe underway over Senate candidate",
+     "headlineEn": "Le ministère de la Justice demande à isoler les bulletins en Alaska sur fond d'enquête pénale visant une candidate au Sénat",
+     "summary": "The US Department of Justice has requested a federal court order to segregate specific Senate race ballots in Alaska as part of an active criminal investigation into a candidate. Federal prosecutors are examining potential campaign finance violations and voter fraud allegations involving the closely contested congressional seat just days before the midterm election conclusion. Local election officials assured voters that all cast ballots are being handled strictly according to state law while cooperating fully with federal inquiries. The legal intervention adds intense controversy to a critical race that could decide party control of the Senate.",
+     "why": "L'intervention de la justice fédérale en Alaska jette un doute sur un scrutin sénatorial clé pour le contrôle du Congrès américain.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    },
+    {
+     "source": "AP News",
+     "lang": "en",
+     "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOU2dLZS1NaklPODk2amZTY2YtUG5obEdwWW1hSWx1RFpQQWdWNDZFQkxFM3JxU2ZhaTVMdFI2X25GV1FfeVZTRkhoNUlNc3plQXQ5SWtqZEx4M0llYUhzeGVVMHE5cGZaczF5V2JDRTN6eXF3RGF1azU0TUlIUVg0aEp1TC1XY3R1cmJj?oc=5",
+     "headline": "Congo’s Ebola deaths top 5,000 as fear of continent-wide spread mounts",
+     "headlineEn": "Le bilan d'Ebola au Congo dépasse les 5 000 morts alors que la crainte d'une propagation continentale s'accroît",
+     "summary": "The death toll from the ongoing Ebola epidemic in the Democratic Republic of Congo has officially exceeded 5,000, triggering alarm among international public health agencies over potential regional spread. Health workers on the ground face severe obstacles, including active armed conflict, limited medical supplies, and widespread public mistrust in rural communities. The World Health Organization is expediting emergency vaccine distribution and emergency funding to bolster containment measures across neighbouring Central and East African nations. Medical experts warn that without immediate international intervention, the outbreak threatens to overwhelm regional health infrastructures.",
+     "why": "La franchissement de ce seuil critique souligne l'urgence d'une mobilisation internationale face à une crise sanitaire majeure en Afrique.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    },
+    {
+     "source": "Council on Foreign Relations",
+     "lang": "en",
+     "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPV005LWdFdzZKckY4UFY0bE03X1phbm02MGc2MVlFZFViUDVoMnUtTXZoa1ExQW1ZcURuS2hNbWFMUjlqNXp4NDZyS2l2YUtoMkFycjZzVDJGUjhpNlktRWxrOTlIay1iSEx6NE94bGZWQ2pkWmc2Um5Bb1VvQ2MzZw?oc=5",
+     "headline": "The Surprising Staying Power of Trump’s Tariffs",
+     "headlineEn": "La surprenante longévité des tarifs douaniers de Trump",
+     "summary": "An analysis published by the Council on Foreign Relations examines how trade tariffs introduced during Donald Trump's presidency have largely persisted as enduring pillars of American commercial policy. Despite initial opposition from international trading partners and domestic economists, these protectionist measures have been maintained or adapted across successive administrations to shield key domestic industries. The article highlights how bipartisan national security concerns, particularly regarding trade relations with China, have transformed temporary tariff policies into permanent economic statecraft tools. Consequently, global supply chains continue to adjust to a reshaped international trade environment characterized by heightened protectionism.",
+     "why": "Cette analyse démontre comment le protectionnisme est devenu une constante durable de la politique commerciale et stratégique américaine.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    }
+   ]
+  },
+  {
+   "name": "Europe & politiques de l'UE",
+   "stories": [
+    {
+     "source": "France 24",
+     "lang": "fr",
+     "url": "https://www.france24.com/fr/vid%C3%A9o/20261031-mobilisation-sociale-et-politique-en-france-acte-iii-ce-samedi",
+     "headline": "Mobilisation sociale et politique en France : Acte III ce samedi",
+     "headlineEn": "Social and political mobilization in France: Act III this Saturday",
+     "summary": "La France se prépare ce samedi à une troisième journée de mobilisation sociale d'ampleur contre la vie chère et la dégradation du pouvoir d'achat. Pour éviter le scénario chaotique du 17 octobre, le gouvernement déploie un dispositif sécuritaire exceptionnel de 70 000 policiers et gendarmes à travers le territoire. À Paris, le Conseil d'État a confirmé l'interdiction du parcours entre Bastille et Nation afin de prévenir les débordements urbains. La coïncidence avec les festivités d'Halloween et la crainte d'infiltrations par des groupes violents accentuent la nervosité des autorités face à ce mouvement contestataire.",
+     "why": "Cette troisième vague de manifestations teste la capacité de maintien de l'ordre du gouvernement français dans un climat social de plus en plus tendu.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    },
+    {
+     "source": "Reuters",
+     "lang": "en",
+     "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPVVU2eHhKcXB0TU1teDBNamJNdjczWUVuNFpYVDBQUTNCMEJwYmYweGE1MXFsXzAxcGdYVlVObG1VQjg3dm94dXUyc2F5UHd6TkE0cUdQb2xpTk8tczhWNWdMR3pubExzLVkwZzdTWUY4bjhocmFMeWhzUE01WE1qTkZzNHBZZm1RUDlUQkJxSG5HT2tyS1ZDQm9GeWtXdjJOTXBrY29EZmJVVkxKOHNDLUc0RXY2VG8?oc=5",
+     "headline": "Gen Z protests reach Germany as over 160,000 expected at Halloween rallies",
+     "headlineEn": "Les manifestations de la génération Z atteignent l'Allemagne avec plus de 160 000 participants attendus pour Halloween",
+     "summary": "Youth-led protests driven by Generation Z activists have spread into Germany, with organizers expecting more than 160,000 young people to attend rallies scheduled across major cities on Halloween. Demonstrators are taking to the streets to demand systemic reforms regarding education funding, economic opportunities, and generational fairness in political decision-making. Police departments in cities like Munich and Frankfurt are maintaining high visibility while anticipating largely peaceful demonstrations. The movement highlights growing frustration among younger voters who feel overlooked by traditional political parties focused primarily on older demographics across Europe.",
+     "why": "Le mouvement de la génération Z s'étend en Europe centrale, révélant un fossé politique croissant entre les jeunes citoyens et les partis traditionnels.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    },
+    {
+     "source": "BBC",
+     "lang": "en",
+     "url": "https://www.bbc.co.uk/news/articles/cmeweppr990qo?at_medium=RSS&at_campaign=rss",
+     "headline": "Spain train disaster clouds Sánchez chances of re-election",
+     "headlineEn": "Le désastre ferroviaire en Espagne assombrit les chances de réélection de Sánchez",
+     "summary": "Spanish Prime Minister Pedro Sánchez is facing heightened political pressure following a fatal train collision in central Spain that claimed at least 69 lives. The disaster arrives at a critical juncture just weeks before an upcoming snap general election, severely undermining the government's planned campaign focus on housing and economic inequality. Public outrage has intensified as transport officials investigate potential signaling and traffic control errors that allowed a high-speed train to proceed into occupied track space. The crisis poses a severe threat to Sánchez's re-election prospects amid growing scrutiny of infrastructure safety.",
+     "why": "Cette tragédie ferroviaire fragilise le gouvernement espagnol à l'approche du scrutin législatif et place la sécurité des infrastructures au cœur du débat public.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    }
+   ]
+  },
+  {
+   "name": "Économie & marchés",
+   "stories": [
+    {
+     "source": "Financial Times",
+     "lang": "en",
+     "url": "https://www.ft.com/content/852b05a1-4090-4aee-afc6-4d4c353ef3cf?syn-25a6b1a6=1",
+     "headline": "Rating agency Fitch hits France with surprise outlook downgrade",
+     "headlineEn": "L'agence de notation Fitch abaisse à la surprise générale la perspective de la France",
+     "summary": "Credit rating agency Fitch unexpectedly downgraded France's sovereign credit outlook, dealing a fresh financial blow to the French government. The decision was published just hours after official economic data revealed a surprise contraction in French gross domestic product during the third quarter. Fitch highlighted persistent fiscal deficits, rising borrowing costs, and political obstacles hindering structural budget reforms as primary drivers for the negative shift. The downgrade intensifies financial pressure on Paris, complicating efforts to manage public debt while balancing social spending demands amid ongoing domestic political unrest.",
+     "why": "Cette dégradation de la perspective française ravive les inquiétudes sur la soutabilité du budget de l'État dans une période de stagnation économique.",
+     "paywalled": true,
+     "contested": "",
+     "chart": null
+    },
+    {
+     "source": "AFP",
+     "lang": "en",
+     "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1YOGpneERDU0k2blJyVE9MWGNhbjlleEZDWnE4cGVxUXVjMHB2ckppLUVLN3VqZ1l2MWdrNGs2Y3ZhR1FTOUsxeFA2UQ?oc=5",
+     "headline": "US oil giants report profit surge again on Iran war",
+     "headlineEn": "Les géants pétroliers américains voient de nouveau leurs profits s'envoler en raison de la guerre en Iran",
+     "summary": "Major US oil corporations have delivered another quarter of soaring quarterly earnings, driven by heightened global crude prices resulting from the conflict involving Iran. Strong profit margins were supported by sustained international energy demand and elevated refined product prices at consumer fuel pumps. Energy companies reported substantial cash flows, enabling expanded stock buybacks and dividend payments to investors despite political pressure over inflation. However, consumer advocacy groups and lawmakers continue to criticize the windfall profits, arguing that high energy costs are exacerbating broader inflationary pressures on household budgets worldwide.",
+     "why": "Les bénéfices record des groupes pétroliers illustrent l'impact direct du conflit avec l'Iran sur les prix mondiaux de l'énergie et la rentabilité du secteur.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    },
+    {
+     "source": "AP",
+     "lang": "en",
+     "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOd0NzZS1PMzlOVF9Hc0hrbW5sOGZ0bWhjTzNiTC1LWkZ5R1FFNDNBMGNxblJfWTBxaklaSjhwM1FXX1JSVFFGd0I4TXYta3RvczdQeTlUUjJMLXZ1bmY3TW15NU14UVAyMlRhcHlsTTZkUFdVM21yQXZpWThuN3Z5cVd4UEU4VTNnNDRvT1Jwc2E5QXM?oc=5",
+     "headline": "Wall Street drops to its worst day since June after the sell-off for tech stocks deepens",
+     "headlineEn": "Wall Street enregistre sa pire journée depuis juin alors que le dégagement sur les valeurs technologiques s'accentue",
+     "summary": "US stock markets suffered their largest single-day decline since June as a broad market sell-off accelerated across the technology sector. Disappointing quarterly financial guidance and worries over heavy artificial intelligence capital expenditure triggered sharp declines in major semiconductor and software shares. Major equity indexes tumbled sharply, reversing earlier gains from earlier in the autumn and dampening broader investor sentiment. Analysts noted that market participants are growing increasingly cautious ahead of upcoming macroeconomic data releases and the upcoming general elections, leading funds to reduce risk exposure.",
+     "why": "Le repli marqué des valeurs technologiques montre la nervosité croissante des investisseurs face aux dépenses massives dans l'IA et aux incertitudes politiques.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    }
+   ]
+  },
+  {
+   "name": "Technologie & sciences",
+   "stories": [
+    {
+     "source": "Reuters",
+     "lang": "en",
+     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNTWw3N0l5dm5KUi1FQmllTEpEeUdkY1k5TVlFNTlnWWFlbTgtdUJfZE9RMjZiQlJEVXU2VFo2blVaWk1MZzNYMm9OYmdrSngtSk02YnhKNDdVMVZkS3hIMHpWZ2dnRjJZWjBzQ0lFRU4ySFFUQzdTdnUzN3JETGtCYlo3Y3kxeGJseG5veVJMSVVCRDVPYzB3TXQyaFE?oc=5",
+     "headline": "OpenAI slashes funding target by $10 billion amid tech rout, FT reports",
+     "headlineEn": "OpenAI réduit son objectif de levée de fonds de 10 milliards de dollars sur fond de baisse du secteur tech",
+     "summary": "Artificial intelligence firm OpenAI has reduced its capital fundraising target by $10 billion amid an ongoing downturn in tech sector valuations. According to reports, the decision reflects growing investor skepticism regarding the immense financial burn rates required to train advanced AI models. The company had initially aimed for a significantly higher valuation target, but venture capital partners have become increasingly disciplined about high-tech commitments. The adjustment underscores a broader recalibration across the AI industry, where financial markets are shifting focus from rapid capability expansion toward path-to-profitability metrics.",
+     "why": "La révision à la baisse des ambitions d'OpenAI signale la prudence accrue des investisseurs face aux coûts astronomiques du développement de l'intelligence artificielle.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    },
+    {
+     "source": "AFP",
+     "lang": "fr",
+     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPTHdpWS1MYXBsWEZ3Wk11WVZneDlxMDRGdHg4X3VDRGNYS0JlZDNFV3BRblh1R2doWnpZUmFpMGZqMDFuZ25UdVdCSEJUcXpISUJBT24tb2F0cjBNZTlBWnRJY1loQVpwS3U5ZU5ERkJ5d0c4MzlhZEtaTFJHQmVQNWt6cHFQbGVNRlFVTXVSYWdidWlLWklyR0FGM25kS1hXWTE0YUpNU3NWZXJ4?oc=5",
+     "headline": "Pour de bonnes nouvelles sur le climat, oubliez la politique et regardez les tribunaux",
+     "headlineEn": "For good news on climate, forget politics and look at the courts",
+     "summary": "Face aux lenteurs et aux blocages des négociations politiques internationales, les actions en justice s'imposent désormais comme le levier le plus efficace pour faire avancer la cause climatique. Partout dans le monde, des citoyens, ONG et collectivités saisissent les tribunaux afin de contraindre gouvernements et grandes entreprises polluantes à respecter leurs engagements environnementaux. Les récentes victoires juridiques établissent des jurisprudences historiques en reconnaissant l'inaction climatique comme une violation des droits humains fondamentaux. Cette judiciarisation croissante offre une lueur d'espoir aux militants en transformant les promesses politiques en obligations légales contraignantes.",
+     "why": "Les recours juridiques deviennent une arme centrale pour contraindre les États et les entreprises à accélérer la transition écologique.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    },
+    {
+     "source": "AP",
+     "lang": "en",
+     "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOU2dLZS1NaklPODk2amZTY2YtUG5obEdwWW1hSWx1RFpQQWdWNDZFQkxFM3JxU2ZhaTVMdFI2X25GV1FfeVZTRkhoNUlNc3plQXQ5SWtqZEx4M0llYUhzeGVVMHE5cGZaczF5V2JDRTN6eXF3RGF1azU0TUlIUVg0aEp1TC1XY3R1cmJj?oc=5",
+     "headline": "Congo’s Ebola deaths top 5,000 as fear of continent-wide spread mounts",
+     "headlineEn": "En République démocratique du Congo, le bilan d'Ebola dépasse les 5 000 morts face à la crainte d'une propagation continentale",
+     "summary": "The death toll from the ongoing Ebola outbreak in the Democratic Republic of Congo has surpassed 5,000 health officials confirmed, raising grave concerns about regional contagion across Central Africa. International medical organizations report that response efforts are severely hindered by damaged healthcare infrastructure, local distrust, and logistical hurdles in remote provinces. Cross-border screening protocols have been reinforced in neighbouring nations to prevent further transmission, while public health agencies urgently call for expanded vaccine supply deployments. The crisis underlines urgent gaps in global epidemic preparedness and healthcare financing for vulnerable regions.",
+     "why": "Le franchissement du seuil de 5 000 décès liés à Ébola alerte les organismes de santé mondiale sur les risques d'une crise sanitaire régionale majeure.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    }
+   ]
+  },
+  {
+   "name": "Sport",
+   "stories": [
+    {
+     "source": "France 24",
+     "lang": "fr",
+     "url": "https://www.france24.com/fr/%C3%A9missions/sports/20261031-psg-encha%C3%AEne-9e-victoire-cons%C3%A9cutive-gr%C3%A2ce-tripl%C3%A9-d-achraf-hakimi",
+     "headline": "Le PSG enchaîne une 9e victoire consécutive grâce à un triplé d’Achraf Hakimi",
+     "headlineEn": "PSG secures 9th straight win thanks to Achraf Hakimi hat-trick",
+     "summary": "Le Paris Saint-Germain a poursuivi son sans-faute en Ligue 1 en décrochant une neuvième victoire consécutive sur la pelouse du Havre (5-1). L'homme du match, Achraf Hakimi, a livré une prestation exceptionnelle en inscrivant un triplé et en délivrant deux passes décisives. Grâce à cette démonstration offensive au stade Océane, le club parisien consolide sa place de leader du championnat, tandis que Le Havre s'enfonce à la dernière place.",
+     "why": "Le PSG confirme sa domination totale en Ligue 1 grâce aux performances individuelles impressionnantes de ses cadres.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    },
+    {
+     "source": "AP",
+     "lang": "en",
+     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNMVdEQXZRcldlS21feHQ0ODMyTXVMTG9IM2ptRTB3V05CS3Rzd0NSNWxQNlpvWjI1bUZySGY5bXRjTDN0akhXUzF5NDZHdWZkZTdueV9QTWsxS0VuR095Q0FiVjAzZ3BiM1doMEE3UE5vd1M0ZzJ6Yk9aSUQ3MjdTQ09E?oc=5",
+     "headline": "Russia is back in the ice hockey world championships after sports court ruling",
+     "headlineEn": "La Russie réintégrée aux championnats du monde de hockey sur glace après une décision du tribunal du sport",
+     "summary": "Russia has been cleared to return to the ice hockey world championships following a ruling by the Court of Arbitration for Sport. The sports tribunal overturned the international federation's ban imposed after the invasion of Ukraine. While Russian athletes will be permitted to compete, they must do so under neutral status without national symbols, flags, or anthems. The decision has sparked divided reactions among competing member nations ahead of the upcoming tournament.",
+     "why": "Cette décision du TAS marque le retour progressif des athlètes russes dans les compétitions sportives internationales majeures.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    }
+   ]
+  }
+ ],
+ "sourced": true,
+ "feeds": {
+  "ok": 28,
+  "of": 29,
+  "items": 260,
+  "skipped": [
+   "Washington Post (EN): HTTP 502"
+  ]
+ },
+ "words": 4367,
+ "readMin": 22,
+ "storyCount": 25
+}
