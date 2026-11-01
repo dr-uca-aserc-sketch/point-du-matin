@@ -1,0 +1,424 @@
+{
+ "date": "2026-11-01",
+ "kind": "weekly",
+ "heat": 0.8,
+ "oneThing": "Massive youth protests across Europe and political deadlocks from Israel to Brazil highlight a growing global strain on traditional political institutions.",
+ "followUps": [
+  {
+   "n": "01",
+   "thread": "Brésil : fuite de Flávio Bolsonaro aux États-Unis",
+   "change": "Après la confirmation de la réélection de Lula et la reconnaissance du scrutin par son parti, Flávio Bolsonaro a quitté le Brésil pour rejoindre les États-Unis. Donald Trump et Marco Rubio ont affirmé que Washington n'avait pas facilité sa fuite, précisant qu'il pouvait séjourner aux États-Unis aussi longtemps qu'il le souhaitait."
+  },
+  {
+   "n": "02",
+   "thread": "Serbie : transition politique après la défaite de Vučić",
+   "change": "À la suite de la victoire électorale de la liste étudiante soutenue par les mouvements citoyens, le régime d'Aleksandar Vučić s'effondre. Bien que les vainqueurs réclament justice rapidement, la transition se heurte aux résistances de l'ancien pouvoir encore ancré dans les structures judiciaires et administratives."
+  },
+  {
+   "n": "03",
+   "thread": "Espagne : conséquences politiques du drame ferroviaire",
+   "change": "Le bilan tragique de l'accident de train à grande vitesse s'est alourdi à au moins 68 morts. Le drame suscite une vive émotion et fragilise la position du président du gouvernement Pedro Sánchez, remettant la sécurité des transports et la montée de l'opposition au cœur des débats électoraux."
+  }
+ ],
+ "mustReads": [
+  {
+   "desk": "Monde / géopolitique",
+   "source": "DW",
+   "lang": "EN",
+   "paywalled": false,
+   "url": "https://www.dw.com/en/germany-takes-cautious-approach-on-israeli-election-results/a-79805184?maca=en-rss-en-world-4025-rdf",
+   "headline": "Germany takes cautious approach on Israeli election results",
+   "headlineEn": "L'impasse électorale en Israël met à l'épreuve l'avenir politique de Benyamin Nétanyahou.",
+   "contested": "",
+   "why": "L'absence de majorité au Parlement plonge Israël dans une nouvelle paralysie politique en pleine crise sécuritaire régionale.",
+   "stat": "19",
+   "statLabel": "sièges remportés par les partis arabes au Parlement",
+   "chart": null,
+   "paras": [
+    "Earlier in the week, voters across Israel headed to the polls in a pivotal general election to decide whether Benjamin Netanyahu would retain leadership after three years of devastating regional conflict. The campaign unfolded amidst deep social polarization, security challenges, and severe economic strain. Observers underscored that this election represented a historic referendum on Netanyahu's long-standing governance, his strategic military conduct, and the political trajectory of the nation. As polls closed, preliminary estimates indicated an extremely tight contest between the ruling bloc and diverse opposition factions seeking leadership reform.",
+    "As vote counting progressed mid-week, partial returns confirmed that Netanyahu’s right-wing nationalist alliance led the vote tally but fell short of securing an absolute parliamentary majority. The lack of a clear 61-seat threshold in the Knesset immediately plunged the country into severe political uncertainty. Political analysts noted that without a decisive mandate, building a stable governing coalition would require complex negotiations with smaller niche parties. Rival leaders quickly declared that the outcome signaled widespread public frustration with the administration's prolonged wartime policies and internal judicial reforms.",
+    "The mid-week counting further revealed historic gains for non-aligned and Arab-led parliamentary factions, which collectively secured 19 seats in the new Knesset. Representation for Arab-led parties reached unprecedented levels, positioning their leaders as potentially crucial players in legislative maneuvering. Opposition leaders immediately initiated informal consultations to explore constructing an alternative anti-Netanyahu coalition. However, deep ideological divides among secular centrist, leftist, and right-leaning opposition groups created immediate obstacles to forging a unified legislative front capable of taking executive power without internal parliamentary deadlock.",
+    "Facing arithmetic deadlock, Netanyahu drew upon decades of political experience to approach potential coalition partners, including former political rivals and religious conservatives. Analysts emphasized that his survival strategy depended on persuading reluctant factions to support a emergency unity arrangement or granting policy concessions to hardline groups. Meanwhile, several potential coalition partners publicly expressed hesitation, demanding significant ministerial posts and policy commitments regarding post-war reconstruction. This impasse demonstrated that despite remaining the single largest political force, Netanyahu faces unprecedented constraints in forming a viable cabinet.",
+    "International allies watched the unfolding stalemate with growing concern over regional stability. In Berlin, German officials adopted a notably cautious posture regarding the preliminary election results, delaying formal diplomatic statements until coalition contours became clearer. European governments quietly expressed hope that any future Israeli cabinet would exclude extreme religious hardliners to facilitate diplomatic engagement. European diplomats privately noted that prolonged political paralysis in Jerusalem could complicate ongoing international mediation efforts, ceasefire discussions, and humanitarian coordination across the wider Middle East.",
+    "The political deadlock coincides with heightened security concerns across the region, where military operations and border tensions persist. Regional observers warned that executive instability in Jerusalem might affect military decision-making and diplomatic negotiations regarding hostage releases or border security. Surrounding regional powers and international mediators closely monitored the Knesset arithmetic, aware that a weak or fragile coalition could struggle to execute decisive foreign policy choices. The lack of political clarity has heightened anxieties among domestic businesses and international financial markets watching the post-election landscape.",
+    "As the week concluded, formal legislative results solidified the split parliamentary landscape, confirming that no single bloc commands a ready majority. Formal coalition building has officially commenced, with the state presidency preparing to mandate party leaders for consultations. Netanyahu continues intensive internal discussions, while opposition figures attempt to assemble an alternative governing framework. Public demonstrations and political debates dominate national media, with citizens expressing widespread frustration over the prospect of prolonged political gridlock or potential snap elections if cabinet negotiations completely fail.",
+    "The next critical shift will occur when the president formally assigns the mandate to construct a government following official consultation rounds. Observers will monitor whether key pivot parties decide to enter negotiations with Netanyahu or side with the opposition bloc. Furthermore, any sudden escalation in regional security or international diplomatic pressure could force reluctant political leaders into a compromised national unity government. If coalition talks stall past statutory deadlines, Israel could face yet another round of snap parliamentary elections within months."
+   ]
+  },
+  {
+   "desk": "Économie & marchés",
+   "source": "Le Monde",
+   "lang": "FR",
+   "paywalled": true,
+   "url": "https://www.lemonde.fr/pixels/article/2026/11/01/piratage-de-la-plateforme-de-cryptomonnaies-binance-la-plateforme-annonce-rouvrir-les-retraits-le-fbi-accuse-la-coree-du-nord-du-casse-du-siecle_6803867_4408997.html",
+   "headline": "Piratage de la plateforme de cryptomonnaies Binance : la plateforme annonce rouvrir les retraits, le FBI accuse la Corée du Nord du « casse du siècle »",
+   "headlineEn": "Binance Crypto Hack: Platform Reopens Withdrawals as FBI Accuses North Korea of Historic Theft",
+   "contested": "",
+   "why": "Ce casse record remet au centre les failles de cybersécurité et le risque géopolitique dans l'écosystème mondial des cryptomonnaies.",
+   "stat": "6,3 Mrd $",
+   "statLabel": "montant dérobé lors du piratage de la plateforme Binance",
+   "chart": null,
+   "paras": [
+    "En milieu de semaine, l'industrie mondiale des actifs numériques a été ébranlée par la révélation d'un piratage informatique d'une ampleur sans précédent ciblant la plateforme Binance. Plus de six milliards de dollars en cryptomonnaies ont été dérobés lors d'une attaque sophistiquée contre les infrastructures financières du géant du secteur. Cet événement a immédiatement provoqué une onde de choc sur les marchés financiers virtuels, entraînant une suspension temporaire des opérations de retrait et suscitant une inquiétude généralisée parmi les investisseurs institutionnels et particuliers à travers le monde entier.",
+    "Face à la panique naissante, la direction de Binance a immédiatement réagi en gelant les transactions suspectes et en déployant des équipes d'experts en cybersécurité pour colmater les brèches informatiques. La plateforme a rapidement communiqué auprès de ses utilisateurs pour assurer que la majorité des fonds volés seraient couverts par ses réserves de garantie interne. Malgré ces déclarations rassurantes, le cours des principales monnaies numériques a subi une nette volatilité, reflétant les craintes d'une vulnérabilité systémique des grandes plateformes d'échange décentralisées.",
+    "Les enquêtes judiciaires et techniques ont rapidement mobilisé des agences internationales de sécurité, notamment la police fédérale américaine et des cabinets d'audit informatique spécialisés. Les investigations ont révélé l'utilisation de protocoles d'attaque extrêmement complexes, contournant plusieurs niveaux d'authentification et exploitant des failles résiduelles dans le traitement des transactions automatisées. Les analystes du secteur ont qualifié cet incident de plus grand vol de l'histoire des technologies financières, remettant en question les normes de sécurité actuellement appliquées par l'ensemble des opérateurs mondiaux du marché des actifs numériques.",
+    "Au fil des jours, les services de renseignement occidentaux et le FBI ont formellement attribué la responsabilité de ce piratage massif à des groupes de hackers affiliés à la Corée du Nord. Selon les enquêteurs américains, le collectif connu sous le nom de TraderTraitor a orchestré l'opération pour financer des programmes étatiques sous sanctions internationales. Cette attribution géopolitique a transformé ce fait divers technologique en un enjeu de sécurité nationale majeur, incitant plusieurs gouvernements à exiger un contrôle renforcé des flux financiers transfrontaliers.",
+    "De leur côté, les dirigeants de Binance ont entamé une course contre la montre pour stabiliser leurs liquidités et restaurer la confiance de leurs utilisateurs. Grâce à la mobilisation de fonds de réserve et à la récupération partielle de certains actifs gelés sur des plateformes partenaires, l'entreprise a affirmé avoir couvert environ 90 % des pertes subies lors du casse. Cette annonce a permis de contenir les mouvements de panique et d'éviter un effondrement en cascade d'autres acteurs financiers dépendants de l'écosystème Binance.",
+    "Ce week-end, la plateforme a officiellement annoncé la réouverture progressive des retraits en bitcoin et en ether pour ses utilisateurs mondiaux. Cette reprise s'effectue par étapes successives afin d'éviter un afflux massif de demandes susceptibles d'engorger les réseaux de paiement. Les responsables de la plateforme assurent que des protocoles de contrôle renforcés ont été intégrés à la chaîne de traitement pour détecter toute tentative de manipulation ultérieure, tandis que les audits de sécurité indépendants se poursuivent sans interruption.",
+    "L'affaire relance avec virulence le débat réglementaire au sein de l'Union européenne et aux États-Unis concernant l'encadrement strict des plateformes d'échange. Plusieurs régulateurs financiers ont appelé à imposer des exigences de fonds propres plus élevées et des audits de cybersécurité obligatoires pour toutes les entités gérant des portefeuilles numériques. Les législateurs soulignent que la concentration des actifs sur un petit nombre d'opérateurs mondiaux fait peser un risque systémique majeur sur la stabilité du système financier global en cas d'attaque informatique.",
+    "La suite des événements dépendra de la capacité des autorités internationales à tracer et bloquer les fonds résiduels disséminés sur la blockchain. L'attention des marchés se portera également sur la réaction des régulateurs financiers, qui pourraient prononcer de nouvelles sanctions ou imposer des contraintes opérationnelles inédites aux plateformes. Enfin, la pérennité du modèle économique de Binance sera testée par le volume réel des retraits effectifs dans les jours à venir et par sa faculté à maintenir sa base de clients rassurée."
+   ]
+  },
+  {
+   "desk": "Europe & politiques de l'UE",
+   "source": "DW",
+   "lang": "DE",
+   "paywalled": false,
+   "url": "https://www.dw.com/de/nach-gen-z-demos-schockiert-%C3%BCber-gewaltexzesse-in-frankfurt/a-79820787?maca=de-rss-de-all-1119-rdf",
+   "headline": "Nach \"Gen Z\"-Demos: \"Schockiert\" über Gewaltexzesse in Frankfurt",
+   "headlineEn": "After 'Gen Z' Protests: Political Shock Over Violent Escalations in German Cities",
+   "contested": "Les autorités et la police attribuent les violences nocturnes à des groupes d'extrême gauche et des casseurs infiltrés, tandis que les organisateurs du mouvement de la jeunesse affirment que les manifestations étaient pacifiques et dénoncent une provocation externe.",
+   "why": "L'escalade des manifestations de la jeunesse révèle un fossé politique croissant et une tension sociale vive au cœur de l'Europe.",
+   "stat": "320 000",
+   "statLabel": "manifestants recensés dans les rues lors du pic de mobilisation",
+   "chart": null,
+   "paras": [
+    "Zu Beginn der Woche weiteten sich die sozialen Spannungen in Westeuropa schrittweise aus, als zunächst in Frankreich Hunderttausende Bürger gegen steigende Lebenshaltungskosten demonstrierten. Die Protestbewegung wurde rasch von jungen Menschen und Studierenden getragen, die eine deutliche Verbesserung der Bildungsinfrastruktur und wirksame Maßnahmen gegen die anhaltende Inflation forderten. Die anfänglich friedlichen Demonstrationen zeigten bereits in den ersten Tagen ein hohes Mobilisierungspotenzial. Politische Beobachter wiesen darauf hin, dass sich hier ein tiefer Generationenkonflikt Bahn bricht, der rasch über die Grenzen Frankreichs hinaus auf Nachbarländer auszugreifen drohte.",
+    "Mitte der Woche schwappte die Welle der Jugendproteste unter dem Motto der Generation Z vollends auf Deutschland über. In zahlreichen Großstädten wie Berlin, Hamburg, Köln und Frankfurt am Main versammelten sich Zehntausende junge Menschen zu Großdemonstrationen. Die Organisatoren forderten bezahlbaren Wohnraum, soziale Gerechtigkeit sowie entschlossenere Reformen in der Bildungspolitik. Während der Tagesstunden verliefen die Kundgebungen in weiten Teilen der Bundesrepublik friedlich und von einer kreativen, demonstrierenden Jugend geprägt. Die hohe Teilnehmerzahl überraschte viele Sicherheitsbehörden und verdeutlichte das Ausmaß des Unmuts unter jungen Bürgern.",
+    "In der Nacht zum Wochenende kippte die Stimmung in mehreren deutschen Städten jedoch dramatisch um. Nach dem Ende der offiziellen Demonstrationen schlossen sich gewaltbereite Gruppen den Ansammlungen an und provozierten schwere Ausschreitungen. Besonders in Frankfurt am Main und Köln kam es zu gewaltsamen Zusammenstößen mit der Polizei. Barrikaden wurden errichtet, Feuerwerkskörper auf Einsatzkräfte geworfen und Schaufenster etlicher Einzelhandelsgeschäfte zerstört. Die Polizei antwortete mit einem Großaufgebot, um die Lage in den Innenstädten zu unterdrücken und weitere Plünderungen im Keim zu ersticken.",
+    "Die politische Führung zeigte sich zutiefst erschüttert über die unerwartete Eskalation der Gewalt während der nächtlichen Krawalle. Bundesinnenminister und Landespolitiker verurteilten die Ausschreitungen aufs Schärfste und sprachen von einer inakzeptablen Entgleisung. Behördenvertreter betonten, dass Kriminelle und linksextreme Gruppierungen den berechtigten Anliegen der friedlichen Jugendproteste schweren Schaden zugefügt hätten. Die Debatte verlagerte sich rasch von den ursprünglichen Forderungen der Jugendlichen auf die Notwendigkeit von Polizeischutz und rechtlichen Konsequenzen für die Randalierer, was die Spannungen zwischen Protestierenden und Staat weiter anheizte.",
+    "Die Veranstalter des Bündnisses der Jugendproteste distanzierten sich umgehend klar von den gewaltsamen Übergriffen der Halloween-Nacht. In offiziellen Stellungnahmen betonten die Sprecher, dass die Ausschreitungen von strömungsfremden Einzeltätern und gekaperten Gruppen ausgingen. Sie warnten davor, die gesamte Generation Z aufgrund der Vorfälle in Verruf zu bringen oder den friedlichen Kern der Bewegung zu kriminalisieren. Dennoch sahen sich die Initiatoren mit der Herausforderung konfrontiert, die Kontrolle über ihre Kundgebungen zu behalten und eine weitere Vereinnahmung durch radikale Kräfte zu verhindern.",
+    "Gleichzeitig hielten die Proteste auch im benachbarten Frankreich unvermindert an, wo hunderte Mobilisierungen in Großstädten stattfanden. Auch dort kam es nach Einbruch der Dunkelheit vereinzelt zu Zusammenstößen zwischen demonstrierenden Jugendlichen und Sicherheitskräften. Die französischen Behörden setzten Zehntausende Polizeikräfte ein, um Ausschreitungen zu verhindern. Europäische Medien zogen verstärkt Parallelen zwischen den länderübergreifenden Protestformen und sahen in der grenzüberschreitenden Welle ein Anzeichen für eine tiefe politische Entfremdung der jüngeren Generation von den etablierten Parteien und Institutionen in Europa.",
+    "Zum Ende der Woche stehen die Regierungen in Berlin und Paris unter erheblichem Druck, angemessen auf die Krise zu reagieren. Einerseits fordern Sicherheitskräfte und Wirtschaftsverbände ein hartes Durchgreifen gegen Gewalttäter und die Durchsetzung der öffentlichen Ordnung. Andererseits warnen Soziologen und Jugendvertreter davor, die inhaltlichen Anliegen der Protestierenden zu ignorieren. Die Ereignisse haben gezeigt, wie rasch friedlicher Unmut in gewaltsame Krawalle umschlagen kann, wenn politische Entscheidungsträger den Dialog mit der jungen Generation schleifen lassen und Antworten auf zukunftsrelevante Fragen schuldig bleiben.",
+    "Die künftige Entwicklung hängt davon ab, ob die Politik konkrete Dialogangebote an die Jugendverbände macht und messbare Reformen einleitet. Sollten die Regierungen lediglich mit verschärften Sicherheitsmaßnahmen reagieren, droht eine weitere Radikalisierung der Protestbewegung. In den kommenden Wochen wird sich zeigen, ob das Protesthoch an Dynamik verliert oder sich zu einer dauerhaften sozialen Bewegung formiert. Beobachter achten besonders darauf, ob geplante Folgekundgebungen friedlich bleiben können und ob die Polizeibehörden neue Einsatzkonzepte entwickeln, um gewalttätige Ausschreitungen bei künftigen Demonstrationen wirksam zu unterbinden."
+   ]
+  },
+  {
+   "desk": "Monde / géopolitique",
+   "source": "AP News",
+   "lang": "EN",
+   "paywalled": false,
+   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPX0JsVDBfeVVaYnBubzFPN3ppVGJZa2tlU21wZVRaUVZ3eVF5S0FaeUNXek5MNVUySkxNYUdfeWJLakN5aWF6VFdNUi1BeUREYWpxQzRXQjVtWU1tRENaTGNtNUt4aDN3Y0dGYVlaT3Zqbms1ZzRWM0JFcHk1Vy1IMGYwYUIwZ0tkWnhZNC1yVjE5UkdSMVFGX2wzUzFEQQ?oc=5",
+   "headline": "Evacuees reunite with family at the Ukrainian-Belarusian border after fleeing Oleshky",
+   "headlineEn": "La trêve humanitaire à Olechky permet l'évacuation de centaines de civils piégés par la guerre.",
+   "contested": "",
+   "why": "Cette trêve humanitaire rare a permis de sauver des centaines de civils piégés depuis des mois sur la ligne de front.",
+   "stat": "500+",
+   "statLabel": "civils évacués d'Olechky durant le cessez-le-feu",
+   "chart": null,
+   "paras": [
+    "Earlier in the week, localized diplomatic efforts led to an unprecedented agreement establishing a temporary humanitarian truce in the Russian-occupied city of Oleshky. Situated directly along the active Kherson frontline, the city had been severely isolated by intense shelling, destroyed infrastructure, and cut-off supply lines for months. Civilian residents endured catastrophic living conditions without reliable access to electricity, clean water, heating, or medical supplies. The announced ceasefire provided a rare and narrow window of opportunity for humanitarian organizations to organize safe evacuation corridors across dangerous territory.",
+    "As the temporary truce took effect mid-week, humanitarian teams initiated complex logistical operations to transport vulnerable civilians out of the devastated city. Hundreds of residents, including elderly individuals and families with young children, prepared for immediate departure under the supervision of international monitors. Reports from the ground described desperate scenes as civilians gathered at designated assembly points, leaving behind damaged property to escape constant artillery fire. Local officials emphasized that maintaining strict adherence to the ceasefire agreement was essential to prevent tragic incidents during the evacuation.",
+    "The evacuation process required navigating treacherous transit routes through heavily mined areas and damaged transport infrastructure along the frontline. Evacuees were transported in organized bus convoys across designated checkpoints toward the Ukrainian-Belarusian border and government-controlled territories. Humanitarian workers provided urgent medical assessments, food rations, and psychological support to passengers during the long and harrowing journey. Despite minor logistical delays and tense security checks at border crossings, the initial evacuation phases proceeded without major military disruptions, offering relief to hundreds of trapped civilians.",
+    "Personal accounts shared by arriving evacuees revealed the severe human toll of prolonged isolation in the occupied zone. Trapped residents reported surviving on minimal food supplies, often resorting to cooking garden weeds and gathering rainwater when basic utilities failed completely. Many families had been separated from relatives for years due to active fighting and restricted movement across control lines. The successful crossing into safe territory produced emotional reunions at border transit centers, where aid agencies provided temporary shelter, warm clothing, and emergency assistance to weary survivors.",
+    "Military and political analysts noted that while the Oleshky ceasefire was strictly localized and humanitarian in scope, it demonstrated that tactical negotiations remain possible between warring parties under specific conditions. International observers commended the coordination between humanitarian agencies and local authorities that enabled safe passage. However, officials cautioned against viewing this brief pause as a signal of broader diplomatic rapprochement, pointing out that fierce fighting continued unabated across other sector frontlines in eastern and southern Ukraine throughout the week.",
+    "The temporary nature of the truce generated growing urgency among remaining residents who hesitated during the initial evacuation calls. Local coordinators worked tirelessly to identify individuals requiring specialized medical transport or mobility assistance before the corridor closed. International relief organizations urged both military commands to extend the operational window, warning that hundreds more civilians remained in dire need of evacuation. Security risks remained elevated as surrounding artillery positions continued active monitoring, creating a tense atmosphere around evacuation routes.",
+    "By the end of the week, the primary evacuation operations concluded as the agreed ceasefire period approached its expiration date. Hundreds of rescued civilians were successfully relocated to safer regions within Ukraine or received assistance to join relatives abroad. Humanitarian agencies expressed deep concern for those left behind, noting that basic utility restoration in Oleshky remains impossible due to extensive war damage. The successful corridor highlighted the critical role of international humanitarian oversight in preserving civilian life amidst intense armed conflict.",
+    "Looking ahead, the focus will turn to integrating evacuees into long-term support systems and providing medical rehabilitation for those suffering from severe deprivation. Observers will watch whether the successful Oleshky corridor can serve as a operational template for similar localized humanitarian agreements in other besieged frontline settlements. Furthermore, any changes in military momentum or international diplomatic pressure could influence whether future evacuation windows are granted. For now, aid groups remain focused on supporting survivors as winter conditions approach the region."
+   ]
+  }
+ ],
+ "desks": [
+  {
+   "name": "Luxembourg",
+   "stories": [
+    {
+     "source": "Luxemburger Wort",
+     "lang": "de",
+     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOcXlFUTR3MU9ELURBbEhwdENSZUpCd0t1RXlmU2Q0a2tSUG1BWW9peXlvR1RHMURJYmZUWnpSWkF0MlhfQ01xb0NraGFsbGVpcnJMYm1zWXNRWnJuTTlEZ2ZidmlVcXcxOHBZekxQMTNSOXE0ckNpQlRCYUljYloyc1oybTljV1lIajFXdmZYX0F0OW9SeVpjMVM4SWZNR0lDT2FzTWRR?oc=5",
+     "headline": "Verwaltungsgerichtshof weist Steuerbehörde in die Schranken",
+     "headlineEn": "Administrative Court limits the powers of the tax authority",
+     "summary": "Der luxemburgische Verwaltungsgerichtshof hat in einem Grundsatzurteil die Handhabung von Steuernachforderungen durch die Steuerverwaltung eingeschränkt. Das Gericht stellte klar, dass die Steuerbehörde Ermessensspielräume nicht einseitig zu Lasten der Steuerzahler auslegen darf, ohne transparente Kriterien anzuwenden. Diese Entscheidung stärkt die Rechts- und Planungssicherheit für Unternehmen sowie Privatpersonen im Großherzogtum erheblich. Juristische Experten sehen in dem Urteil ein bedeutendes Signal für eine ausgewogene Praxis zwischen fiskalischen Interessen und den Rechten der Steuerzahler. Die Entscheidung könnte künftige Verwaltungsverfahren nachhaltig beeinflussen.",
+     "why": "Cette décision judiciaire renforce la sécurité juridique des contribuables et encadre plus strictement les prérogatives de l'administration fiscale luxembourgeoise.",
+     "paywalled": true,
+     "contested": "",
+     "chart": null
+    },
+    {
+     "source": "Luxemburger Wort",
+     "lang": "de",
+     "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQb3JQbFFmXy1IeHFRQV8xQ3ZwVDNmU0daWElxSGtJdE1JUzJpdTlXZXRxM29Ual9sOVZUX0JORFhXclJPMkpsRXlYczJyVDFiT1pwNmhqOWd6a1FiVjhHWVdlR2ZIU1N1WXV1UmNlQV93dnFGUGVqSVpIRlE4Q3poODAyRi1ZNl9ZV0dfcWtsdlJsZw?oc=5",
+     "headline": "Wer profitiert wirklich von den Energiehilfen?",
+     "headlineEn": "Who really benefits from the energy subsidies?",
+     "summary": "Eine neue Analyse beleuchtet die genauen Auswirkungen der staatlichen Energiepreisbremsen und Subventionen auf die Haushalte in Luxemburg. Während einkommensschwächere Familien von den direkten Deckelungen profitieren, fließen verhältnismäßig große Summen an Haushalte mit sehr hohem Energieverbrauch. Die Debatte über eine stärkere soziale Staffelung der Hilfsmitteln gewinnt daher im Parlament erneut an Fahrt. Politiker und Wirtschaftsexperten diskutieren nun Anpassungen, um die Mittel gezielter einzusetzen und gleichzeitig Fehlanreize beim Energiesparen zu vermeiden. Die künftige Gestaltung dieser Unterstützungsmaßnahmen bleibt ein zentrales Thema der nationalen Finanzpolitik.",
+     "why": "Le ciblage des aides énergétiques estatales alimente les débats budgétaires sur l'équité sociale et l'efficacité écologique au Grand-Duché.",
+     "paywalled": true,
+     "contested": "",
+     "chart": null
+    },
+    {
+     "source": "Luxemburger Wort",
+     "lang": "de",
+     "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOcFpFa0haNUQwZWRvbXoxLXdmWXNCakVSLUh2ZjVkUXlnM2RSeGlmNWZWU3VmNW5vUXpRMFA1WHhjd1U0ZEVhOUtKSFk3d3hYX01zUW5nV0I2MnRSWDNGOTJnZzRQMFJsVS10XzdRTS05TG5zZWlTQzB5Mm5feXdkNWY5WVlkYzFtal9JRUVyQ1dHWWJyWkRhUEZLcG9rdmJZZnJhdk5zckttMjhJUlE?oc=5",
+     "headline": "Trauer kennt kein Alter: Wie Kinder mit Verlust umgehen",
+     "headlineEn": "Grief knows no age: How children deal with loss",
+     "summary": "Pädagogen und Psychologen in Luxemburg setzen sich verstärkt für eine gezieltere Betreuung von Kindern in Trauerphasen ein. Initiativen in Schulen und Fachzentren bieten spezialisierte Begleitung an, um traumatische Erlebnisse bei jungen Menschen frühzeitig aufzuarbeiten. Expertinnen betonen, wie wichtig altersgerechte Kommunikation und professionelle Anlaufstellen für Familien sind, um psychischen Folgeschäden vorzubeugen. Der Ausbau dieser sozialen Unterstützungsnetzwerke wird von den zuständigen Ministerien gefördert und soll flächendeckend im Land verankert werden, um Betroffenen in Krisenzeiten schnellen Beistand zu leisten.",
+     "why": "L'amélioration de l'accompagnement psychologique des jeunes renforce la prise en charge de la santé mentale au sein du système éducatif luxembourgeois.",
+     "paywalled": true,
+     "contested": "",
+     "chart": null
+    }
+   ]
+  },
+  {
+   "name": "Monde / géopolitique",
+   "stories": [
+    {
+     "source": "Le Monde",
+     "lang": "fr",
+     "url": "https://www.lemonde.fr/international/article/2026/11/01/en-bulgarie-le-second-tour-de-l-election-presidentielle-s-ouvre-dimanche-avec-un-duel-serre-sur-fond-de-tensions-avec-la-russie_6804128_3210.html",
+     "headline": "En Bulgarie, le second tour de l’élection présidentielle s’ouvre, duel serré en vue sur fond de tensions avec la Russie",
+     "headlineEn": "In Bulgaria, the second round of the presidential election opens with a tight duel against a backdrop of tensions with Russia",
+     "summary": "Le second tour de l'élection présidentielle bulgare s'est ouvert dimanche dans un climat d'incertitude politique et de divisions géopolitiques marquées. La présidente sortante Iliana Iotova, qui prône un dialogue pragmatique avec Moscou pour mettre fin au conflit ukrainien, affronte Andreï Guiourov, candidat soutenu par l'opposition pro-occidentale. Ce scrutin est scruté de près par les chancelleries européennes, alors que la mer Noire demeure le théâtre de vives tensions sécuritaires. Le taux de participation, traditionnellement bas lors des derniers scrutins, constituera un facteur décisif pour l'issue de cette confrontation serrée.",
+     "why": "L'orientation diplomatique de la Bulgarie influe directement sur la cohésion de l'UE et de l'OTAN sur le flanc oriental et en mer Noire.",
+     "paywalled": true,
+     "contested": "",
+     "chart": null
+    },
+    {
+     "source": "Le Monde",
+     "lang": "fr",
+     "url": "https://www.lemonde.fr/international/article/2026/11/01/en-espagne-vox-durcit-le-ton-contre-le-gouvernement-et-poursuit-son-ascension-dans-les-sondages_6804132_3210.html",
+     "headline": "En Espagne, Vox durcit le ton contre le gouvernement et poursuit son ascension dans les sondages",
+     "headlineEn": "In Spain, Vox toughens tone against government and continues rise in polls",
+     "summary": "À l'approche des élections législatives anticipées du 29 novembre, la formation d'extrême droite Vox intensifie ses attaques contre le gouvernement socialiste de Pedro Sánchez. Exploitant les récents drames ferroviaires et les difficultés économiques, Vox enregistre des gains significatifs dans les enquêtes d'opinion. Déjà associé au Parti populaire dans plusieurs exécutifs régionaux, le parti pourrait devenir incontournable pour former une majorité absolue au Parlement. Cette dynamique accentue la polarisation de la scène politique espagnole et fragilise l'exécutif sortant au terme d'une semaine marquée par le deuil national.",
+     "why": "La poussée de Vox pourrait faire basculer l'Espagne vers une coalition de droite et transformer le paysage politique de la quatrième économie de la zone euro.",
+     "paywalled": true,
+     "contested": "",
+     "chart": null
+    },
+    {
+     "source": "The New York Times",
+     "lang": "en",
+     "url": "https://www.nytimes.com/2026/11/01/world/middleeast/netanyahu-coalition-building-tests-political-skills.html",
+     "headline": "Netanyahu’s Bid to Stay in Power Will Test His Political Savvy",
+     "headlineEn": "Les efforts de Nétanyahou pour se maintenir au pouvoir vont mettre à l'épreuve son habileté politique",
+     "summary": "Following the general election in Israel, Prime Minister Benjamin Netanyahu faces a complex political puzzle after his right-wing bloc failed to secure an absolute parliamentary majority. Netanyahu must now engage in intricate negotiations with diverse political factions, including Arab-led parties that gained a record 19 seats and seek to block his return to power. The political deadlock complicates regional diplomatic initiatives and prolongs domestic instability amidst ongoing security challenges. Analysts emphasize that constructing a viable governing coalition will require unprecedented political maneuvering and concessions to potential partners.",
+     "why": "L'absence de majorité claire à la Knesset plonge Israël dans une incertitude politique prolongée, pesant sur la stabilité diplomatique et sécuritaire au Moyen-Orient.",
+     "paywalled": true,
+     "contested": "",
+     "chart": null
+    }
+   ]
+  },
+  {
+   "name": "International — hors Europe",
+   "stories": [
+    {
+     "source": "France 24",
+     "lang": "fr",
+     "url": "https://www.france24.com/fr/asie-pacifique/20261101-en-inde-opposition-manifestation-contre-r%C3%A9forme-listes-%C3%A9lectorales",
+     "headline": "En Inde, l'opposition manifeste pour demander la démission du chef de la commission électorale",
+     "headlineEn": "In India, the opposition demonstrates to demand the resignation of the election commission chief",
+     "summary": "Des milliers de manifestants se sont rassemblés à New Delhi à l'appel des partis d'opposition et des mouvements étudiants pour exiger la démission du chef de la Commission électorale. L'opposition accuse l'institution de réviser les listes électorales au profit du parti au pouvoir, le Bharatiya Janata Party du Premier ministre Narendra Modi, au risque de priver de droit de vote des dizaines de millions de citoyens. Un important dispositif anti-émeute a été déployé dans la capitale alors que la tension politique monte. Cette mobilisation massive reflète les inquiétudes grandissantes quant à l'indépendance des institutions démocratiques indiennes.",
+     "why": "Ces contestations de masse mettent en lumière les vives tensions entourant l'équité du processus électoral dans la plus grande démocratie du monde.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    },
+    {
+     "source": "Al Jazeera",
+     "lang": "en",
+     "url": "https://www.aljazeera.com/news/2026/11/1/mediators-continue-us-iran-negotiations-amid-war-rhetoric-what-we-know?traffic_source=rss",
+     "headline": "Mediators continue US-Iran negotiations amid war rhetoric: What we know",
+     "headlineEn": "Les médiateurs poursuivent les négociations entre les États-Unis et l'Iran sur fond de rhétorique guerrière",
+     "summary": "Regional and international mediators are pressing ahead with diplomatic talks between Washington and Tehran to avert a wider regional conflict. While US officials describe the exchanges as constructive, Iranian leaders reiterate their readiness to retaliate against any direct military attack. Tensions remain acute in strategic waterways, underscored by recent projectile impacts on commercial gas tankers near the Strait of Hormuz. Diplomatic efforts focus on establishing de-escalation mechanisms to protect maritime trade routes and prevent miscalculations that could trigger a broader confrontation.",
+     "why": "Le maintien des canaux diplomatiques reste crucial pour éviter un embrasement militaire direct et protéger le commerce énergétique dans le Golfe.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    },
+    {
+     "source": "Reuters",
+     "lang": "en",
+     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPSmwzNUwxNEpXRmE1UjRrTlBIeGJQMGJ0N1NxOUlVZENsWFVadHloUlA2MzlWRWU1dGFqYk55aUpWeUVkbDJhczBBUThTZ0p6alRuV245ckRGOTl2S1VXbzJDc2NCU1g3QV9QeE1KYnhaVEY5YVp0RnZjVmtpZkNkNFdhdUZjVi0ySXpJWjdPTHUxNDhmeUdxVkR3aTBiRmIxN0ZmT2F0RVBvNlU?oc=5",
+     "headline": "Trump says Flavio Bolsonaro can stay in US 'as long as he wants'",
+     "headlineEn": "Trump déclare que Flavio Bolsonaro peut rester aux États-Unis « aussi longtemps qu'il le souhaite »",
+     "summary": "Following his defeat in the Brazilian legislative elections and subsequent departure from Brazil, Flavio Bolsonaro has arrived in the United States. US President Donald Trump stated that the Brazilian politician is welcome to remain in the country indefinitely, raising diplomatic friction between Washington and the re-elected administration of President Lula da Silva in Brasilia. US Secretary of State Marco Rubio denied that the US government facilitated Bolsonaro's travel. The situation adds diplomatic strain to US-Latin American relations following recent electoral shifts across the region.",
+     "why": "L'asile accordé de fait à Flavio Bolsonaro crée une vive tension diplomatique entre Brasilia et Washington sur fond de contestations électorales.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    },
+    {
+     "source": "PBS News",
+     "lang": "en",
+     "url": "https://www.pbs.org/newshour/world/congos-ebola-deaths-top-5000-as-fear-of-continent-wide-spread-mounts",
+     "headline": "Congo's Ebola deaths top 5,000 as fear of continent-wide spread mounts",
+     "headlineEn": "Le bilan des décès dus à Ebola au Congo dépasse les 5 000 alors que les craintes d'une propagation continentale s'amplifient",
+     "summary": "Official health statistics from the Democratic Republic of the Congo show that the death toll from the current Ebola outbreak has passed 5,000, out of more than 10,000 recorded cases. The disease carries a mortality rate close to 50 percent, prompting severe concerns among international health agencies regarding potential regional transmission across Central and East Africa. Humanitarian organizations cite medical supply shortages and ongoing regional conflict as major obstacles to containment. Emergency medical aid and international health support are being deployed to reinforce local health infrastructure.",
+     "why": "La gravité de l'épidémie en RDC nécessite une réponse sanitaire internationale urgente pour endiguer une crise humanitaire transfrontalière.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    }
+   ]
+  },
+  {
+   "name": "Europe & politiques de l'UE",
+   "stories": [
+    {
+     "source": "Euronews",
+     "lang": "fr",
+     "url": "https://fr.euronews.com/2026/11/01/crise-politique-en-pologne-bruxelles-exprime-son-soutien-au-premier-ministre-donald-tusk",
+     "headline": "Crise politique en Pologne : Bruxelles exprime son soutien au premier ministre Donald Tusk",
+     "headlineEn": "Political crisis in Poland: Brussels expresses support for Prime Minister Donald Tusk",
+     "summary": "La Commission européenne a réaffirmé le droit du Parlement polonais de désigner les juges au Tribunal constitutionnel, soutenant ainsi le gouvernement de Donald Tusk dans son bras de fer avec le président conservateur Andrzej Duda. Cet arbitrage intervient après des tensions physiques et des manifestations devant le siège de la haute juridiction à Varsovie, retransmises en direct à la télévision. La crise judiciaire polonaise refait ainsi surface au cœur des débats institutionnels européens. Bruxelles souligne l'importance du respect de l'État de droit et de la légitimité démocratique des décisions parlementaires.",
+     "why": "Le soutien de Bruxelles à Varsovie illustre l'enjeu crucial du rétablissement de l'indépendance judiciaire pour la conformité de la Pologne aux normes de l'UE.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    },
+    {
+     "source": "Euronews",
+     "lang": "en",
+     "url": "https://www.euronews.com/2026/10/31/zelenskyy-thanks-us-over-deal-for-500-patriot-missiles-but-warns-delivery-could-take-years",
+     "headline": "Zelenskyy thanks US over deal for 500 Patriot missiles but warns delivery could take years",
+     "headlineEn": "Zelensky remercie les États-Unis pour l'accord sur 500 missiles Patriot mais prévient que la livraison pourrait prendre des années",
+     "summary": "Ukrainian President Volodymyr Zelenskyy welcomed an agreement with the United States for the procurement of 500 Patriot air defense missiles, aimed at strengthening Ukraine's defense network. However, he cautioned that production schedules and logistics mean full delivery could take several years. European defense officials highlight the immediate urgency of protecting power grids and critical infrastructure as winter approaches amidst continuing Russian drone and missile barrages. Discussions within the European Union focus on accelerating interim defense supplies and utilizing shared procurement mechanisms.",
+     "why": "Les délais de livraison d'armements critiques soulignent les défis industriels alliés pour sécuriser le réseau énergétique ukrainien cet hiver.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    },
+    {
+     "source": "Deutsche Welle",
+     "lang": "en",
+     "url": "https://www.dw.com/en/canadian-pm-mark-carney-discusses-talks-with-the-eu-overdependence-on-the-us-and-how-to-deal-with-donald-trump-in-a-dw-interview/a-79811469?maca=en-rss-en-world-4025-rdf",
+     "headline": "Canadian PM Mark Carney discusses talks with the EU, overdependence on the US and how to deal with Donald Trump in a DW interview",
+     "headlineEn": "Le Premier ministre canadien Mark Carney évoque les discussions avec l'UE, la dépendance envers les États-Unis et la gestion de Donald Trump",
+     "summary": "In an interview with DW, Canadian Prime Minister Mark Carney outlined Canada's strategy to deepen ties with the European Union, seeking formal 'associate membership' status. Carney stressed the necessity for middle powers to diversify supply chains and trade alliances to reduce vulnerability to unilateral US economic policies under Donald Trump. While some European member states remain cautious regarding institutional frameworks, negotiations are scheduled to conclude ahead of a major summit in June. The initiative reflects a broader push toward multilateral alignment among democratic allies.",
+     "why": "Le rapprochement stratégique entre le Canada et l'UE témoigne d'une volonte partagée de diversifier les alliances face au protectionnisme américain.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    }
+   ]
+  },
+  {
+   "name": "Économie & marchés",
+   "stories": [
+    {
+     "source": "Financial Times",
+     "lang": "en",
+     "url": "https://www.ft.com/content/937308d7-aa2e-4dac-b19b-423d83bc1253?syn-25a6b1a6=1",
+     "headline": "Rating agency Fitch hits France with surprise outlook downgrade",
+     "headlineEn": "L'agence de notation Fitch abaisse à la surprise générale la perspective de la France",
+     "summary": "Credit rating agency Fitch unexpectedly downgraded France's sovereign outlook to negative, citing persistent fiscal deficits and mounting public debt challenges amidst sluggish economic growth. The decision follows economic data showing an unexpected contraction in French gross domestic product. Financial market participants note that rising debt servicing costs could constrain future government spending and pressure euro area bond yields. The downgrade increases political scrutiny on budgetary choices in Paris as lawmakers navigate difficult fiscal negotiations in a highly polarized parliament.",
+     "why": "Cette dégradation ravive les craintes financières sur la trajectoire budgétaire de la France et la stabilité de la dette souveraine en zone euro.",
+     "paywalled": true,
+     "contested": "",
+     "chart": null
+    },
+    {
+     "source": "Reuters",
+     "lang": "en",
+     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNMVRNX1Y5b0xXX3dlMU1QX2lRbVkxbkJYSU9SUVdxUFlXQ2hGcjRpRlVIbklCeTlZa1d2VnNOQWFaaVN0NHJVcnJSRVhUSngyVmcxdzlsZVpwSm1wbmduTGpNbXkwWEhKbGZQdURzZ0c0UHl2S28zLUxjbDdSUkdzZTFnMmtubVlvbmFVMHlsX3BvOVpLa2NqcWozZTJUWlhnUWUxYXFn?oc=5",
+     "headline": "OPEC+ set to keep oil output targets steady, sources say",
+     "headlineEn": "L'OPEP+ s'apprête à maintenir ses objectifs de production pétrolière inchangés",
+     "summary": "Delegates from the OPEC+ alliance indicated that member nations plan to maintain current crude oil production targets during their upcoming policy meeting. The decision comes against a backdrop of volatile global energy markets influenced by Middle Eastern geopolitical tensions and fluctuating demand forecasts in major economies. Analysts suggest that keeping production steady aims to balance market supply while preventing sharp price collapses amidst mixed global macroeconomic indicators. Energy traders continue to monitor potential regional supply disruptions and inventory levels closely.",
+     "why": "La stabilité de la production de l'OPEP+ vise à équilibrer les marchés pétroliers mondiaux face aux tensions géopolitiques et à l'incertitude économique.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    },
+    {
+     "source": "Associated Press",
+     "lang": "en",
+     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQaS1PbC12ckM5dTFzWDZISy0zcmVfWjc2ODREc1dFMnlOem5RUmpWWGdxR2dKSlNQS0JrZXVvZGI4VDN2aXRQQkpIaHF4bWdwSjJvYjduMkFQUmdDaEdGS01lQThMQXpjTS02SW5YenA5U0ZQZUZsazg5SnhyZzFZel9YWTZqUmVVYUcxYTEyTDl3V3Z5dEZ6RTZCS3U5ZkUwWFBna2hDNnZ3dHo0?oc=5",
+     "headline": "Wall Street drops to its worst day since June after tech sell-off deepens",
+     "headlineEn": "Wall Street subit sa pire journée depuis juin après l'intensification du dégagement sur les valeurs technologiques",
+     "summary": "Major stock indices on Wall Street experienced sharp declines, recording their steepest single-day losses in months as tech sector shares dropped significantly. Investor sentiment was rattled by massive capital expenditure commitments toward artificial intelligence infrastructure by major tech corporations, sparking concerns over near-term profitability and return on investment. The broader sell-off was further compounded by mixed quarterly corporate earnings and rising bond yields. Market analysts emphasize that growing investor scrutiny is forcing tech leaders to justify heavy AI spending plans.",
+     "why": "L'inquiétude des investisseurs quant à la rentabilité des investissements colossaux dans l'IA pèse lourdement sur la valorisation boursière mondiale.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    }
+   ]
+  },
+  {
+   "name": "Technologie & sciences",
+   "stories": [
+    {
+     "source": "Euronews",
+     "lang": "fr",
+     "url": "https://fr.euronews.com/2026/11/01/japon-premiere-greffe-cerebrale-de-cellules-souches-contre-la-maladie-de-parkinson",
+     "headline": "Japon: première greffe cérébrale de cellules souches contre la maladie de Parkinson",
+     "headlineEn": "Japan: First stem cell brain transplant against Parkinson's disease",
+     "summary": "Des chercheurs japonais ont réalisé avec succès une première médicale en greffant des cellules souches pluripotentes induites dans le cerveau d'un patient atteint de la maladie de Parkinson. L'objectif de cette thérapie cellulaire novatrice est de remplacer les neurones dopaminergiques détruits par la maladie neurodégénérative, afin de restaurer le contrôle moteur et de réduire les tremblements subis par les malades. L'équipe médicale surveille étroitement l'intégration des tissus et l'absence de rejet. Cette avancée clinique ouvre des perspectives thérapeutiques majeures pour le traitement des pathologies neurologiques chroniques à l'échelle mondiale.",
+     "why": "Cette première médicale mondiale ouvre une voie prometteuse pour traiter la maladie de Parkinson grâce aux cellules souches reprogrammées.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    },
+    {
+     "source": "Bloomberg",
+     "lang": "en",
+     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOSGJoZUdrNzFHTjRVcm9OOVZ5a1Z4dVB4ME1aNjlmYmdjX1ZOTXNWTFJTNFFFUkQ2UUxxTGV4UDlOS0RjMnRlWlFUZ04yemVtQU9zU3FZbHlWY1YxMi1YSVBGb3k5cGszYnptNnZVZk1mR1NmS0RvLUhOeS1QUmxZamtoNGgzR21CR2tmY0JUd1c3YXBBMlc0SDhkZm9kOFRtZ3NvQ2RLNVZOYnFaV2x5Vy1ra3ZNUQ?oc=5",
+     "headline": "DeepSeek Drops Enhanced Coding Agent With Aim to Rival Anthropic",
+     "headlineEn": "DeepSeek lance un agent de codage amélioré visant à rivaliser avec Anthropic",
+     "summary": "Chinese artificial intelligence developer DeepSeek released an updated AI coding agent designed to handle complex software development tasks and automated programming. The launch represents a direct effort to challenge leading Western frontier models developed by Anthropic and OpenAI in the specialized domain of software engineering. DeepSeek claims significant performance improvements in benchmark evaluations and code accuracy. The release highlights the accelerating international technological rivalry in frontier AI development despite tightening export controls and semiconductor restrictions.",
+     "why": "Le lancement par DeepSeek de cet outil de codage illustre la compétition technologique acharnée entre développeurs chinois et américains d'IA.",
+     "paywalled": true,
+     "contested": "",
+     "chart": null
+    },
+    {
+     "source": "Reuters",
+     "lang": "en",
+     "url": "https://www.ft.com/content/8ee19897-1d15-4dd7-8ca8-162c4ea22b3a?syn-25a6b1a6=1",
+     "headline": "OpenAI slashes funding target by $10 billion amid tech rout",
+     "headlineEn": "OpenAI réduit son objectif de levée de fonds de 10 milliards de dollars sur fond de repli du secteur technologique",
+     "summary": "Artificial intelligence startup OpenAI has significantly reduced its latest fundraising target by $10 billion in response to shifting market conditions and heightened investor caution surrounding AI infrastructure costs. Financial backing for massive generative AI models has encountered resistance as venture funds and corporate investors demand clearer pathways to revenue and profitability. Industry analysts observe that high operational and computational costs are prompting leading tech firms to recalibrate expansion timelines. The adjustment signals a broader period of financial discipline across the AI development sector.",
+     "why": "La révision à la baisse des ambitions financières d'OpenAI reflète la prudence accrue des investisseurs face aux coûts d'infrastructure de l'IA.",
+     "paywalled": true,
+     "contested": "",
+     "chart": null
+    }
+   ]
+  },
+  {
+   "name": "Sport",
+   "stories": [
+    {
+     "source": "France 24",
+     "lang": "fr",
+     "url": "https://www.france24.com/fr/sports/20261101-gabby-williams-remporte-le-titre-de-wbna-et-se-hisse-au-sommet-du-basket-nord-am%C3%A9ricain",
+     "headline": "Gabby Williams remporte le titre de WNBA et se hisse au sommet du basket nord-américain",
+     "headlineEn": "Gabby Williams wins WNBA title and rises to the top of North American basketball",
+     "summary": "La Française Gabby Williams a guidé les Valkyries de San Francisco au titre de WNBA lors du match 7 décisif face au Dream d'Atlanta (68-63). Auteure d'une prestation magistrale avec 30 points inscrits, la capitaine des Bleues a été désignée meilleure joueuse des finales, devenant la première tricolore à décrocher cette distinction prestigieuse dans le basket américain.",
+     "why": "Gabby Williams entre dans l'histoire du basket français en décrochant le titre WNBA et le trophée de MVP des finales.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    },
+    {
+     "source": "Repubblica",
+     "lang": "it",
+     "url": "https://www.repubblica.it/sport/moto-gp/2026/11/01/news/marc_marquez_vince_gp_malesia_2026_motogp-425691167/",
+     "headline": "Marc Marquez domina a Sepang, il decimo Mondiale è ad un passo. Bezzecchi solo sesto",
+     "headlineEn": "Marc Marquez dominates at Sepang, tenth World Title is one step away",
+     "summary": "Marc Marquez ha dominato il Gran Premio della Malesia a Sepang, precedendo Pedro Acosta e il fratello Alex Marquez. Con questo successo, lo spagnolo porta a 44 punti il vantaggio in classifica generale su Jorge Martin e si avvicina al suo decimo titolo mondiale in carriera, che potrà sigillare matematicamente nel prossimo appuntamento in Qatar.",
+     "why": "La victoire magistrale di Marc Márquez en Malaisie lui permet d'effleurer un dixième titre mondial historique en MotoGP.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    }
+   ]
+  }
+ ],
+ "sourced": true,
+ "feeds": {
+  "ok": 26,
+  "of": 29,
+  "items": 247,
+  "skipped": [
+   "Reuters (FR)",
+   "Washington Post (EN): HTTP 502",
+   "CFR (EN)"
+  ]
+ },
+ "words": 5151,
+ "readMin": 26,
+ "storyCount": 25
+}
