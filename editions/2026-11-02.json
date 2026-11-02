@@ -1,0 +1,361 @@
+{
+ "date": "2026-11-02",
+ "kind": "daily",
+ "heat": 0.85,
+ "oneThing": "",
+ "followUps": [
+  {
+   "n": "01",
+   "thread": "Tensions diplomatiques et militaires autour d'Ormuz",
+   "change": "Téhéran se dit prêt à rouvrir le détroit d'Ormuz en deux jours si les États-Unis acceptent ses conditions, malgré les menaces de Donald Trump."
+  },
+  {
+   "n": "02",
+   "thread": "Impasse budgétaire et politique en Belgique",
+   "change": "Le Premier ministre belge Bart De Wever a présenté la démission de son gouvernement au roi Philippe à la suite du blocage des négociations budgétaires."
+  },
+  {
+   "n": "03",
+   "thread": "Résultats de la présidentielle en Bulgarie",
+   "change": "La présidente sortante prorusse Ilijana Jotowa remporte le second tour de l'élection présidentielle face à son candidat pro-européen."
+  }
+ ],
+ "mustReads": [
+  {
+   "desk": "Europe",
+   "source": "France 24 [FR]",
+   "lang": "FR",
+   "paywalled": false,
+   "url": "https://www.france24.com/fr/europe/20261102-europe-des-chaines-de-supermarches-victimes-incidents-informatiques-sur-refrigerateurs",
+   "headline": "Europe : des chaînes de supermarchés victimes de cyberattaques visant leurs réfrigérateurs",
+   "headlineEn": "Europe: Supermarket chains hit by cyberattacks targeting freezers",
+   "contested": "",
+   "why": "Cette attaque informatique inédite touche directement la chaîne logistique alimentaire européenne et le Luxembourg.",
+   "stat": "50",
+   "statLabel": "degrés Celsius, température atteinte dans certains congélateurs piratés",
+   "chart": null,
+   "paras": [
+    "Plusieurs dizaines de grandes surfaces situées en Belgique, au Luxembourg et en Suède ont été frappées par une cyberattaque informatique inédite ciblant directement le système de gestion technique de leurs installations frigorifiques. Cet incident est survenu entre dimanche soir et la matinée de ce lundi. Les pirates informatiques sont parvenus à prendre le contrôle à distance des logiciels qui régulent la température des congélateurs commerciaux. Dans certains magasins suédois, la température interne des appareils est soudainement montée jusqu'à cinquante degrés Celsius, provoquant la décongélation immédiate et la destruction totale de nombreuses denrées alimentaires périssables.",
+    "Face à cette anomalie à la fois brutale et généralisée, les équipes de sécurité informatique et les responsables logistiques des différentes enseignes concernées ont réagi en urgence pour isoler les réseaux compromis. L'objectif immédiat était d'empêcher toute propagation supplémentaire de la panne aux systèmes d'encaissement ou aux infrastructures centrales de stockage. Des techniciens spécialisés ont été immédiatement dépêchés sur place afin de réinitialiser manuellement les contrôleurs de température et d'évaluer la quantité exacte de marchandises définitivement perdues. Les supermarchés touchés ont dû fermer provisoirement l'accès à plusieurs rayons frais pour des raisons d'hygiène évidentes.",
+    "Cette vague d'attaques rappelle de manière frappante un incident similaire survenu le douze octobre dernier dans plusieurs magasins français, ce qui laisse suggérer une opération coordonnée à l'échelle européenne. Les enquêteurs cherchent à déterminer si les cybercriminels ont exploité une vulnérabilité logicielle commune présent au sein des systèmes de gestion des bâtiments ou s'ils ont utilisé des identifiants d'accès volés à un prestataire informatique sous-traitant. Pour l'instant, aucune revendication formelle n'a été transmise, mais le mode opératoire semble viser le sabotage économique plutôt que la demande classique de rançon financière.",
+    "Au Luxembourg, la découverte de ces pannes au niveau local a provoqué une vive inquiétude chez les commerçants et les autorités de régulation sanitaire. Bien que les pertes financières soient encore en cours de chiffrage par les assureurs, les perturbations logistiques menacent d'affecter l'approvisionnement continu en produits congelés au cours des prochains jours. Les responsables de la grande distribution tentent de rassurer les consommateurs en affirmant que les chaînes de froid sécurisées de secours fonctionnent normalement. Toutefois, la vulnérabilité des installations connectées face aux intrusions à distance soulève désormais d'importantes questions sécuritaires.",
+    "Les experts en cybersécurité soulignent que les systèmes de gestion de l'énergie et du climat dans les grands magasins sont fréquemment reliés à Internet sans protection suffisante. Cette architecture réseau facilite certes la maintenance à distance pour le personnel technique, mais elle offre également une porte d'entrée idéale aux pirates malveillants. Les agences nationales de sécurité des systèmes d'information en Belgique, en Suède et au Luxembourg recommandent instamment d'isoler immédiatement tous les équipements industriels connectés. Elles préconisent également de mettre en place des procédures d'authentification renforcées afin de bloquer toute nouvelle tentative de piratage.",
+    "Alors que les investigations se poursuivent, cet événement met en lumière les risques émergents qui pèsent sur l'Internet des objets au sein des infrastructures commerciales critiques. Les gouvernements européens ont promis de coordonner leurs efforts de renseignement pour identifier les auteurs de cette cyberattaque coordinative. Les commerçants doivent désormais investir massivement dans la sécurisation de leurs réseaux pour éviter que de telles sabotages ne perturbent à nouveau la distribution alimentaire. Les clients espèrent un retour rapide à la normale dans leurs supermarchés de proximité, tandis que les stocks de nourriture détruits sont progressivement remplacés par de nouveaux arrivages."
+   ]
+  }
+ ],
+ "desks": [
+  {
+   "name": "Luxembourg",
+   "stories": [
+    {
+     "source": "Luxemburger Wort",
+     "lang": "de",
+     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQQ0EwdGpoMUxsanlPYUE3RVRQb005WXNYZHBUb1ZJaTFpbVcxdVZmNWdmTEFaZlJKUUZGUTY5elZFMTZXVkpEMmYwMWhMZGR0bl9ENlR4bWppZm1IMFpUVkNPSlRURjJCM19jYUZuMTZXMkRaU0VQLThUX3BCN09LMHJBYjF3QzZpMHI3dVJyZldqRUlKVXBJWlNKNW02MS1oRExKc2VvTmhoV0wx?oc=5",
+     "headline": "Wohnungen sind da, Mieter auch – dennoch bleiben Türen verschlossen",
+     "headlineEn": "Apartments are available and so are tenants – yet doors remain locked",
+     "summary": "In Luxemburg herrscht weiterhin ein signifikanter Widerspruch auf dem nationalen Wohnungsmarkt. Obwohl vollendete Wohnungen zur Vermietung bereitstehen und die Nachfrage seitens wohnungssuchender Bürger und Grenzgänger anhaltend hoch bleibt, bleiben zahlreiche Immobilien unbewohnt. Branchenexperten und Marktbeobachter verweisen auf verschiedene tieferliegende Ursachen für diese Blockade, darunter bürokratische Hürden, strenge Vermietungskriterien der Eigentümer sowie verunsicherte Investoren. Diese anhaltende Stagnation verschärft die ohnehin angespannte Lage auf dem Immobilienmarkt für viele Menschen im Großherzogtum spürbar, während die Politik intensiv nach wirksamen gesetzlichen Gegenmaßnahmen sucht. Zusätzlich fordern Verbände schnelle administrative Reformen, um den Zugang zu freiem Wohnraum kurzfristig zu erleichtern.",
+     "why": "Le blocage du marché de la location aggrave la crise du logement au Luxembourg malgré la présence de biens disponibles.",
+     "paywalled": true,
+     "contested": "",
+     "chart": null
+    },
+    {
+     "source": "RTL.lu",
+     "lang": "fr",
+     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNUW44R2syV2ZBYy1tVmNSckdPTGYtbWtkZTBsTlVaZ3JXc1BNdzJjOU9LS0JTNWR1ejBzaS0xejE1aVdKcHdVdkxtNEZYZ0RyaHMyMU00clRRTy1Wb1ZwTXB1VGhTNUxickRnZ2RhMmVQTTR4R1B2bG8zbVVvbGM4RWd5cXZ1NmJUQnVXRUo4eV8xZHVIak1VSkNLaDlxMFM5UHc?oc=5",
+     "headline": "Grand écart transfrontalier: Les Luxembourgeois retraités bien avant leurs voisins",
+     "headlineEn": "Cross-border gap: Luxembourgers retire much earlier than their neighbours",
+     "summary": "Une récente étude comparative met en lumière un écart significatif entre l'âge effectif de départ à la retraite des résidents luxembourgeois et celui de leurs voisins frontaliers. Alors que les travailleurs en France, en Allemagne et en Belgique voient leur âge légal ou effectif de départ progressivement repoussé, les résidents du Grand-Duché continuent de bénéficier de conditions légales et financières leur permettant de quitter le marché du travail nettement plus tôt. Ce phénomène ravive d'importants débats au sein de la société luxembourgeoise concernant la soutenabilité financière à long terme des régimes de pension. De plus, les experts soulignent les enjeux d'équité régionale dans un bassin d'emploi transfrontalier très intégré.",
+     "why": "Les disparités d'âge de départ à la retraite accentuent les débats sur la soutenabilité du système de pension luxembourgeois.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    },
+    {
+     "source": "RTL.lu",
+     "lang": "fr",
+     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOY2FNRnpDMnRpUUtKY1IxVThWQ0g1Y25zTHlGam9YMkdHYkc5aVNXZktKbEtFWXR0UWd2UjhoMkJzZU9aNGFISVQ3WDhRM1puVkNMRW9CdzVvYnk5dTh2S0dkY3l5VFBYQmxZSGdsTVBfbUxnY1NYYVlHOFJjd1FYOW9zOS00eFkzdGdRN185Sm1qSVcwbTBNVDFNX2M3QQ?oc=5",
+     "headline": "Arnaque Luxtrust: Une \"mule\" interpellée par la police luxembourgeoise",
+     "headlineEn": "Luxtrust scam: A \"mule\" arrested by Luxembourg police",
+     "summary": "La police grand-ducale a annoncé l'interpellation d'un individu soupçonné d'avoir agi en tant que mule financière dans le cadre d'une vaste escroquerie ciblée visant le système d'authentification Luxtrust. L'enquête judiciaire a permis de déterminer que le suspect recevait directement sur ses comptes bancaires des fonds issus d'usurpations d'identité et de campagnes de hameçonnage sophistiquées, avant de les transférer rapidement vers l'étranger. Les autorités luxembourgeoises profitent de cette arrestation pour rappeler une nouvelle fois aux utilisateurs de faire preuve d'une vigilance extrême face aux messages suspects. Il est vivement conseillé de ne jamais divulger d'identifiants bancaires ou personnels sur des liens non vérifiés.",
+     "why": "La sécurité des transactions bancaires en ligne reste une priorité face aux réseaux de fraude visant les utilisateurs luxembourgeois.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    }
+   ]
+  },
+  {
+   "name": "Monde / géopolitique",
+   "stories": [
+    {
+     "source": "Le Monde",
+     "lang": "fr",
+     "url": "https://www.lemonde.fr/international/article/2026/11/02/belgique-le-premier-ministre-bart-de-wever-presente-sa-demission-au-roi-sur-fond-de-blocage-budgetaire_6805239_3210.html",
+     "headline": "Belgique : le premier ministre, Bart De Wever, présente sa démission au roi sur fond de blocage budgétaire au Parlement",
+     "headlineEn": "Belgium: Prime Minister Bart De Wever tenders resignation to the King amid parliamentary budget deadlock",
+     "summary": "Le premier ministre belge Bart De Wever a présenté lundi sa démission au roi Philippe après le constat d'un blocage politique majeur au sein de sa coalition gouvernementale. Les négociations budgétaires très tendues menées au Parlement n'ont pas permis de trouver un compromis acceptable entre les partenaires de la majorité concernant les réformes fiscales et les économies structurelles requises. Le souverain n'a pas immédiatement accepté cette démission et a choisi d'accorder un temps de réflexion en prévoyant de recevoir à nouveau le chef du gouvernement vendredi prochain. Cette situation plonge la Belgique dans une nouvelle période d'incertitude politique susceptible de retarder l'adoption du budget national.",
+     "why": "L'instabilité politique chez le voisin belge bloque l'adoption du budget et fragilise la coalition au pouvoir.",
+     "paywalled": true,
+     "contested": "",
+     "chart": null
+    },
+    {
+     "source": "AP News",
+     "lang": "en",
+     "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPSUpHTEVONW0yRVJoVzhBci1rTVpaUXZwR2JmTUFwYy1zSzdpa0lsdTMyVGV3WnNoUmJoVkkxcWZJQTJzN3NSby1MSF96TGFNcUhERjZlekhTZDhSdXpjbEF5Qm9XZWdfV1hEUENLM1d6dUx1cU5HTE55MWFaZ0dMN1VLRHprT2FZTlVTOTQtVWdFS3BmQjgzSHE1S2xFd2V1UlhKeXE2ZHFGalN2R0J2dw?oc=5",
+     "headline": "Initial results suggest Yotova wins runoff to become Bulgaria’s first elected female president",
+     "headlineEn": "Les premiers résultats indiquent la victoire de Yotova au second tour, devenant la première femme présidente élue de Bulgarie",
+     "summary": "Preliminary official figures indicate that incumbent President Iliana Yotova has secured a decisive victory in Bulgaria's presidential election runoff, positioning her to become the country's first elected female head of state. Yotova campaigned on a platform emphasizing national stability, peace, and maintaining balanced diplomatic links across Europe during turbulent times. Her victory over her pro-European opponent solidifies her political standing in the NATO and EU member state amidst continuing debates regarding Sofia's broader foreign policy orientation. Observers note that the election result underscores persistent divisions among voters over how Bulgaria should navigate its strategic alignments with both Western partners and international actors.",
+     "why": "L'élection d'Iliana Yotova confirme l'orientation politique de la Bulgarie au sein de l'UE et de l'OTAN.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    },
+    {
+     "source": "DW",
+     "lang": "en",
+     "url": "https://www.dw.com/en/serbia-after-vucic-the-winners-are-losing-patience/a-79817586?maca=en-rss-en-world-4025-rdf",
+     "headline": "Serbia after Vucic: The winners are losing patience",
+     "headlineEn": "La Serbie après Vucic : les vainqueurs perdent patience",
+     "summary": "Following the electoral victory of the Student List, the political apparatus associated with former president Aleksandar Vucic is experiencing rapid disintegration across Serbia. Citizens and political activists are demanding swift judicial accountability and systemic justice, particularly concerning high-level corruption and the tragic collapse at the Novi Sad railway station. However, the transition process faces significant obstacles because key figures aligned with the previous administration still retain considerable leverage within the judiciary and civil service. This structural inertia is fueling growing impatience among the public, leading to renewed calls for comprehensive institutional reforms to ensure transparency and accountability.",
+     "why": "La transition politique en Serbie se heurte à la résistance des cadres de l'ancien régime au sein des institutions.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    }
+   ]
+  },
+  {
+   "name": "International — hors Europe",
+   "stories": [
+    {
+     "source": "Al Jazeera",
+     "lang": "en",
+     "url": "https://www.aljazeera.com/news/2026/11/2/al-jawf-becomes-new-hotspot-in-yemen-war-between-government-forces-houthis?traffic_source=rss",
+     "headline": "Al-Jawf becomes new hotspot in Yemen war between government forces, Houthis",
+     "headlineEn": "Al-Jawf devient le nouveau point chaud de la guerre au Yémen entre les forces gouvernementales et les Houthistes",
+     "summary": "Heavy military clashes between Yemeni government forces and Houthi fighters have intensified in the northern province of Al-Jawf, transforming the area into the latest hotspot of the conflict. Recent tactical troop advances highlight the strategic significance of Al-Jawf for controlling vital regional supply routes and territory. This sharp escalation coincides with reports of missile interceptions by Saudi-led coalition forces and air strikes reported near the port city of Hodeidah. The renewed fighting threatens to derail delicate regional de-escalation negotiations and deepens the already catastrophic humanitarian crisis facing local civilian populations across the country.",
+     "why": "La reprise des combats intenses au Yémen menace la stabilité de la région du Golfe et les efforts de paix.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    },
+    {
+     "source": "Le Monde",
+     "lang": "fr",
+     "url": "https://www.lemonde.fr/international/article/2026/11/02/iran-teheran-se-dit-pret-a-rouvrir-le-detroit-d-ormuz-sous-deux-jours-si-washington-accepte-ses-conditions_6805241_3210.html",
+     "headline": "Iran : Téhéran se dit prêt à rouvrir le détroit d’Ormuz sous deux jours si Washington accepte ses conditions",
+     "headlineEn": "Iran: Tehran says it is ready to reopen the Strait of Hormuz within two days if Washington meets its conditions",
+     "summary": "La diplomatie iranienne a déclaré être disposée à rouvrir le détroit d'Ormuz dans un délai rapide de deux jours si les États-Unis satisfont à plusieurs exigences majeures. Téhéran réclame en particulier l'instauration d'un cessez-le-feu régional global ainsi que la levée des sanctions économiques imposées par Washington. Cette annonce intervient alors que des propositions de compromis diplomatique élaborées au Qatar sont soumises aux parties et que Donald Trump multiplie les mises en garde militaires. La fermeture prolongée de cette voie maritime stratégique continue de peser lourdement sur le commerce mondial du pétrole et sur l'économie internationale.",
+     "why": "La réouverture du détroit d'Ormuz est cruciale pour le marché pétrolier mondial et la baisse des cours de l'énergie.",
+     "paywalled": true,
+     "contested": "",
+     "chart": null
+    },
+    {
+     "source": "AP News",
+     "lang": "en",
+     "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNZTZaeEZ3WHhrS2s0VVVXSWpRLVVLb185QTR6djh1R3UtZ1F0SFJCS1BWbDBaUmZxeEI4ekkyMVBObTV3R1RyZktuX0dISE9rTmFVd2tVY3NnMm8xTUQ5SGo1VFc1bWoySVdkNHp2c2JmR0g4a2hQOEJfdFVVaFZTQ2hSZWwwMHc1Sm81clYxelpTN1JGbFJZOEpEMlRVWkRBSTdCU0RzX1VWdDRrQXc?oc=5",
+     "headline": "El-Sayed's primary opponent stuns Democrats by endorsing Republican opponent in Michigan Senate race",
+     "headlineEn": "L'adversaire d'El-Sayed aux primaires sidère les démocrates en soutenant son rival républicain dans le Michigan",
+     "summary": "Democratic Representative Haley Stevens has stunned her party leadership by publicly endorsing Republican candidate Mike Rogers in the pivotal Michigan Senate race. Stevens had previously competed against progressive candidate Abdul El-Sayed during the Democratic primary, which was marked by sharp disagreements over economic policy and international affairs. Her surprising cross-party endorsement comes on the eve of the US midterm elections, delivering a significant blow to Democratic efforts to preserve their fragile majority in the Senate. The political split has injected fresh uncertainty into Michigan, one of the primary battleground states determining congressional control.",
+     "why": "La fracture interne chez les démocrates du Michigan renforce les chances républicaines d'obtenir la majorité au Sénat.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    },
+    {
+     "source": "AP News",
+     "lang": "en",
+     "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPT3VPQVE0dmE3bnM0TVptc2lUeHFmSHNfc1pEdHJPdG01UTRZMW1NaWVZXzRQbWRBcmN3WlJqTTA5YWpOZURQQlUwNTJSNXY2azVQWmVFbmpRWldybndPMzNlWGFnQk5Na0dTdlFmeWRzbW56ZkpOV091MEdmWHViUW1IWFRqOEEzN3c?oc=5",
+     "headline": "Jet nosedives and erupts into fireball near busy roadway in South Florida. All 9 on board died",
+     "headlineEn": "Un jet s'écrase et s'embrase près d'une route fréquentée en Floride du Sud, faisant 9 morts",
+     "summary": "A private business jet crashed precipitously near a busy roadway in Palm Beach County, Florida, resulting in the tragic deaths of all nine individuals on board. Federal aviation authorities reported that the Learjet nosedived into a residential area close to Cresthaven before exploding into a massive fireball upon impact. Emergency crews responded immediately to the scene, where the crash created a large crater and disrupted local traffic. The National Transportation Safety Board has launched a formal investigation to determine the technical failures or environmental factors that caused the disaster, which occurred near President Trump's Mar-a-Lago resort.",
+     "why": "Un accident aérien majeur frappe la Floride à proximité de lieux hautement sécurisés.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    },
+    {
+     "source": "Foreign Affairs",
+     "lang": "en",
+     "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNWkhxTE5LS0JuRzMzczRfaXhiWEJVYUg5Z01HYTFFZXBnMTVvVE1Mb3V3TzI3cldjTHhSV2RjMUJPUl9nVzYwaUd1MFVrXy1La1NMejdjc0cwaE1OdjVLR1drVlQ0Q0tZYVBmMHdTZ3dURUUzTGs5MDBYM1lyNkNLZ0Fudw?oc=5",
+     "headline": "How America Can Counter Chinese Coercion",
+     "headlineEn": "Comment l'Amérique peut contrer la coercition chinoise",
+     "summary": "An analytical piece published by Foreign Affairs examines strategic policy options available to the United States for countering China's expanding economic and technological leverage. The study emphasizes how Beijing utilizes its dominance in critical sectors, including renewable energy components, rare earth supply chains, and active pharmaceutical ingredients, to exert geopolitical influence. To counter these coercive tactics, the author argues that Washington must implement targeted domestic industrial strategies alongside robust international partnerships. The analysis stresses that building resilient supply chains with allied nations is essential to safeguarding economic security without causing total global market fragmentation.",
+     "why": "L'analyse propose des pistes stratégiques pour réduire la dépendance occidentale vis-à-vis des technologies critiques chinoises.",
+     "paywalled": true,
+     "contested": "",
+     "chart": null
+    }
+   ]
+  },
+  {
+   "name": "Europe & politiques de l'UE",
+   "stories": [
+    {
+     "source": "Le Monde",
+     "lang": "fr",
+     "url": "https://www.lemonde.fr/international/article/2026/11/02/belgique-le-premier-ministre-bart-de-wever-presente-sa-demission-au-roi-sur-fond-de-blocage-budgetaire_6805239_3210.html",
+     "headline": "Belgique : le premier ministre, Bart De Wever, présente sa démission au roi sur fond de blocage budgétaire au Parlement",
+     "headlineEn": "Belgium: Prime Minister Bart De Wever tenders resignation to the King amid parliamentary budget deadlock",
+     "summary": "En Belgique, le premier ministre Bart De Wever a officiellement présenté la démission de son gouvernement au roi Philippe ce lundi. Cette décision survient après l'échec répété des négociations au sein de la coalition au pouvoir concernant l'adoption du budget fédéral au Parlement. Les divergences profondes entre les partenaires politiques n'ont pas permis d'atteindre un compromis acceptable sur les réformes fiscales et budgétaires. Le souverain a choisi de suspendre sa décision et recevra à nouveau le chef du gouvernement vendredi afin d'évaluer les options de sortie de crise.",
+     "why": "Une crise politique en Belgique risque de paralyser l'adoption du budget fédéral et d'instabiliser l'exécutif au cœur de l'Union européenne.",
+     "paywalled": true,
+     "contested": "",
+     "chart": null
+    },
+    {
+     "source": "DW",
+     "lang": "de",
+     "url": "https://www.dw.com/de/bulgariens-präsidentin-jotowa-bleibt-im-amt/a-79826496?maca=de-rss-de-all-1119-rdf",
+     "headline": "Bulgariens Präsidentin Jotowa bleibt im Amt",
+     "headlineEn": "Bulgarian President Yotova remains in office after runoff victory",
+     "summary": "Bei der entscheidenden Stichwahl um das Präsidentenamt in Bulgarien hat sich die russlandfreundliche Amtsinhaberin Ilijana Jotowa klar gegen ihren pro-europäischen Herausforderer durchgesetzt. Die Siegerin sicherte sich somit eine weitere Amtszeit an der Spitze des EU- und NATO-Mitgliedsstaates. Nach der Auszählung der Stimmen betonte Jotowa öffentlich, sie wolle eine Präsidentin des Friedens sein und hoffe auf eine künftige wichtige Rolle Russlands in der europäischen Sicherheitsarchitektur. Das eindeutige Ergebnis dieser Abstimmung gilt in Sofia als wesentliche Richtungsentscheidung für die politische und diplomatische Zukunft des Landes auf dem Balkan.",
+     "why": "Le maintien d'une présidente pro-russe à la tête d'un État membre de l'UE et de l'OTAN influence la cohésion européenne face à Moscou.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    },
+    {
+     "source": "Reuters",
+     "lang": "en",
+     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNeHlDMjA3R2E1a0lESG95YlBSVWYxTFJOWnQtajNkQ3otV2dmTEFUd3AzWFlreFpjd0hfY0NZVGhDQ0Z3ZDhUUThtTjlOZWktY3BJUHFMb3Ytcy1QUXNVOWt4NjJoMlBoemtjWDVyQkxWaXZTRVFpX1pCZ3EweFdoYUUyTlhzWHlVX2M2Rkt4VUs2RGpKclo3WTByRm94RWpucjBpbQ?oc=5",
+     "headline": "UK to unveil migrant settlement overhaul after months of debate",
+     "headlineEn": "Le Royaume-Uni va dévoiler une refonte de l'installation des migrants après des mois de débats",
+     "summary": "The British government is set to present a major overhaul of its migrant settlement rules following months of intensive political debate. The new proposals aim to restructure the procedures governing how newcomers obtain legal status and settle within the country. Official sources indicate that the policy shift responds to growing pressures on public infrastructure and sustained public scrutiny regarding border management. Opposition parties and advocacy groups are preparing to debate the measures in Parliament, where ministers face tough questions on implementation timelines and international compliance.",
+     "why": "Les modifications des règles d'immigration au Royaume-Uni ont un impact direct sur les flux migratoires et les politiques d'asile à l'échelle européenne.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    }
+   ]
+  },
+  {
+   "name": "Économie & marchés",
+   "stories": [
+    {
+     "source": "BBC",
+     "lang": "en",
+     "url": "https://www.bbc.co.uk/news/articles/cwj34gdmnly4o?at_medium=RSS&at_campaign=rss",
+     "headline": "Binance users withdraw $3.6bn after largest-ever crypto hack",
+     "headlineEn": "Les utilisateurs de Binance retirent 3,6 milliards de dollars après le plus grand piratage crypto de l'histoire",
+     "summary": "Cryptocurrency exchange Binance has experienced massive customer withdrawals totaling $3.6 billion after suffering the largest cyber heist in digital asset history. The trading platform moved swiftly to freeze standard transactions following the security breach, which law enforcement authorities have attributed to a sophisticated cybercrime organization linked to North Korea. The sudden flight of funds highlights rising anxiety among retail and institutional investors over platform security and asset safety. Regulators across multiple global jurisdictions are now closely monitoring the platform's liquidity as company executives attempt to restore operational integrity.",
+     "why": "Ce piratage massif ébranle la confiance dans le marché des crypto-actifs et accentue la pression réglementaire internationale sur les plateformes de trading.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    },
+    {
+     "source": "AP",
+     "lang": "en",
+     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQdndJTkZzZVB3bUs3SWZPMjZXZ3JzbnlHbWJoak5WWlJWTnQwZFpJNWZpd0tQb3RYanMyckQxMmVjWm5nQnk2Tzl6QjVCOVFmN21RNks4Q2tsM2tUODBSMldsdVQ3eDBoX3UyZDZMM3JybmZVRVhxT2lReGVMMEJuMTNvLTNUbmR0TmVqeXRXV1FZSVdUV1ZtcWVhQQ?oc=5",
+     "headline": "Global shares are mixed and US futures advance, while oil prices fall nearly 4%",
+     "headlineEn": "Les actions mondiales restent mitigées, les contrats à terme américains progressent et le pétrole chute de près de 4 %",
+     "summary": "Global stock markets displayed mixed results on Monday as Wall Street futures pushed higher while crude oil prices registered a sharp decline of nearly 4 percent. Financial markets are navigating heightened sensitivity ahead of the United States midterm elections and ongoing diplomatic efforts in the Middle East. The significant drop in energy prices helped relieve inflation worries for corporate earnings, boosting select technology and consumer futures. However, trading volumes remained cautious across European and Asian bourses as institutional investors refrained from making major directional bets until political outcomes become clearer.",
+     "why": "La baisse marquée des prix du pétrole atténue temporairement les tensions inflationnistes mondiales à la veille d'échéances politiques majeures aux États-Unis.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    },
+    {
+     "source": "RTL.lu",
+     "lang": "fr",
+     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNUW44R2syV2ZBYy1tVmNSckdPTGYtbWtkZTBsTlVaZ3JXc1BNdzJjOU9LS0JTNWR1ejBzaS0xejE1aVdKcHdVdkxtNEZYZ0RyaHMyMU00clRRTy1Wb1ZwTXB1VGhTNUxickRnZ2RhMmVQTTR4R1B2bG8zbVVvbGM4RWd5cXZ1NmJUQnVXRUo4eV8xZHVIak1VSkNLaDlxMFM5UHc?oc=5",
+     "headline": "Grand écart transfrontalier: Les Luxembourgeois retraités bien avant leurs voisins",
+     "headlineEn": "Cross-border gap: Luxembourgers retire much earlier than their neighbors",
+     "summary": "Une étude récente met en évidence des disparités notables en matière de départ à la retraite entre le Luxembourg et ses pays voisins de la Grande Région. Les résidents luxembourgeois cessent leur activité professionnelle nettement plus tôt que leurs homologues français, allemands et belges. Cette différence s'explique principalement par un cadre légal favorable, des régimes de pensions avantageux et une prise en compte spécifique de la pénibilité. Toutefois, les experts soulignent que cet écart démographique soulève des questions financières sur la viabilité à long terme des caisses de retraite luxembourgeoises face au vieillissement de la population.",
+     "why": "Le financement du système de retraite luxembourgeois constitue un enjeu économique majeur pour la pérennité du modèle social du Grand-Duché.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    }
+   ]
+  },
+  {
+   "name": "Technologie & sciences",
+   "stories": [
+    {
+     "source": "DW",
+     "lang": "de",
+     "url": "https://www.dw.com/de/digitalgipfel-rund-um-ki-startet-in-berlin-news-kompakt-das-wichtigste-kurz-gefasst/a-79825269?maca=de-rss-de-all-1119-rdf",
+     "headline": "Digitalgipfel rund um KI startet in Berlin",
+     "headlineEn": "AI Digital Summit kicks off in Berlin",
+     "summary": "In der deutschen Hauptstadt Berlin hat ein zweitägiger Digitalgipfel begonnen, der sich schwerpunktmäßig mit den Entwicklungen der künstlichen Intelligenz befasst. Zahlreiche hochrangige Vertreter aus Politik, Wirtschaft und Wissenschaft kommen zusammen, um ausführlich über die wirtschaftlichen Chancen sowie die gesellschaftlichen Risiken neuer KI-Technologien zu beraten. Auf der Tagesordnung stehen insbesondere zentrale Regulierungsfragen, die Stärkung der europäischen Wettbewerbsfähigkeit und der ethische Einsatz fortschrittlicher Algorithmen in der Industrie. Die Konferenz soll zukunftsweisende Wege aufzeigen, wie Europa eine führende und zugleich vertrauenswürdige Rolle im globalen Technologiewettlauf einnehmen kann.",
+     "why": "Ce sommet fixe les priorités européennes pour concilier l'innovation technologique en IA et la régulation éthique.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    },
+    {
+     "source": "DW",
+     "lang": "en",
+     "url": "https://www.dw.com/en/for-us-democrats-climate-policy-is-now-about-energy-bills/a-79808783?maca=en-rss-en-world-4025-rdf",
+     "headline": "For US Democrats, climate policy is now about energy bills",
+     "headlineEn": "Pour les démocrates américains, la politique climatique tourne désormais autour des factures d'énergie",
+     "summary": "Democratic political campaigns in the United States have pivoted their environmental messaging to focus almost exclusively on lowering household energy bills. Explicit references to broader climate change initiatives have largely faded from campaign speeches as candidates respond to voter anxiety over inflation. Party strategists argue that framing green investments around immediate cost savings on electricity and heating resonates more effectively with suburban voters. Environmental policy experts are closely analyzing this strategic shift, debating how a potential Democratic majority in Congress would reconcile consumer-focused bill relief with ambitious long-term carbon reduction targets.",
+     "why": "Le recentrage des démocrates américains sur le coût de l'énergie montre l'impact direct des contraintes économiques sur les politiques environnementales.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    },
+    {
+     "source": "Reuters",
+     "lang": "en",
+     "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNWE5XcHI5ZDVTSTViS05jTG9pTGdTV2UxVUpuZkpLeF_Bc29MSWVza3VXeTQtNEc4VmtpMG02dWduN2dqUXFLT2N6WTZSd2g5S1VXVGY4TDB5dVpkSGZMYUttRm50U040WXJ0emt1dTZkTEFjQnI1YTRuVFpWV09jbGQ5M08tRllhM2hMZWM1ZGN5VVpnR2FpN3QySlZnWGtxYWZGV0JzbGRYR3NpZksycGFfeG5UVFlCUVROYXlqZlh1Snl0NmJOQmhlMA?oc=5",
+     "headline": "SpaceX in talks to buy Boost Mobile or use its network, Washington Post reports",
+     "headlineEn": "SpaceX est en pourparlers pour acheter Boost Mobile ou utiliser son réseau, selon le Washington Post",
+     "summary": "Commercial space flight firm SpaceX is currently conducting negotiations to acquire mobile carrier Boost Mobile or access its existing terrestrial network infrastructure, according to media reports. The potential transaction would allow Elon Musk's enterprise to integrate ground-based wireless spectrum with its Starlink satellite internet constellation. Combining space-based broadband with conventional cellular networks could enable direct-to-cell connectivity without requiring specialized hardware modifications on consumer mobile phones. Regulatory authorities are expected to scrutinize any formal deal due to competition concerns within the telecommunications sector.",
+     "why": "L'intégration potentielle de réseaux mobiles terrestres et satellitaires pourrait bouleverser l'industrie des télécommunications et étendre la couverture mondiale.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    }
+   ]
+  },
+  {
+   "name": "Sport",
+   "stories": [
+    {
+     "source": "Euronews",
+     "lang": "fr",
+     "url": "https://fr.euronews.com/2026/11/02/kimi-antonelli-devient-le-plus-jeune-champion-du-monde-f1-a-mexico",
+     "headline": "Kimi Antonelli devient le plus jeune champion du monde F1 à Mexico",
+     "headlineEn": "Kimi Antonelli becomes the youngest F1 world champion in Mexico",
+     "summary": "À seulement 20 ans, le pilote italien Kimi Antonelli est entré dans l'histoire de la Formule 1 en décrochant le titre de champion du monde lors du Grand Prix du Mexique. Au volant de sa Mercedes, il a assuré sa couronne en franchissant la ligne d'arrivée en troisième position derrière Max Verstappen et Lewis Hamilton, concluant ainsi une saison remarquable.",
+     "why": "À 20 ans, l'Italien devient le plus jeune champion de l'histoire de la F1 et marque l'avènement d'une nouvelle génération de pilotes.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    },
+    {
+     "source": "DW",
+     "lang": "de",
+     "url": "https://www.dw.com/de/russlands-rückkehr-spaltet-den-eishockeysport-deb-prüft-rückgabe-der-heim-wm-2027/a-79828606?maca=de-rss-de-all-1119-rdf",
+     "headline": "Russlands Rückkehr spaltet den Eishockeysport: DEB prüft Rückgabe der Heim-WM 2027",
+     "headlineEn": "Russia's return divides ice hockey: DEB considers giving up 2027 Home World Championship",
+     "summary": "Nach der Entscheidung des Internationalen Sportgerichtshofs CAS, russische Mannschaften wieder zuzulassen, zieht der Deutsche Eishockey-Bund eine Rückgabe der Ausrichtung der Heim-Weltmeisterschaft 2027 ernsthaft in Betracht. Der Verband warnt vor erheblichen Sicherheitskosten, rechtlichen Visa-Konflikten mit deutschen Behörden sowie möglichen Boykotten anderer Teilnehmerländer. Ein Verzicht auf das Turnier würde drastische finanzielle und organisatorische Auswirkungen auf den gesamten deutschen Sport haben.",
+     "why": "La réadmission de la Russie crée des frictions politiques et logistiques majeures qui menacent l'organisation de grands événements sportifs internationaux.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    }
+   ]
+  }
+ ],
+ "sourced": true,
+ "feeds": {
+  "ok": 27,
+  "of": 29,
+  "items": 244,
+  "skipped": [
+   "AFP (FR)",
+   "Washington Post (EN): HTTP 502"
+  ]
+ },
+ "words": 3251,
+ "readMin": 16,
+ "storyCount": 23
+}
