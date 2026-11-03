@@ -1,0 +1,61 @@
+{
+ "date": "2026-11-03",
+ "kind": "daily",
+ "heat": 0.85,
+ "oneThing": "",
+ "followUps": [
+  {
+   "n": "01",
+   "thread": "Élections de mi-mandat américaines",
+   "change": "Les bureaux de vote ont ouvert aux États-Unis après le rejet par la Cour suprême des recours de Donald Trump concernant des bulletins en Californie."
+  },
+  {
+   "n": "02",
+   "thread": "Tensions entre les États-Unis et l'Iran",
+   "change": "Washington a mené des frappes militaires présentées comme défensives sur l'île de Qechem dans le détroit d'Ormuz."
+  },
+  {
+   "n": "03",
+   "thread": "Guerre en Ukraine et diplomatie",
+   "change": "Une frappe aérienne russe a fait plus de 25 morts dans le sud de l'Ukraine alors que Volodymyr Zelensky s'est rendu à Berlin."
+  }
+ ],
+ "mustReads": [
+  {
+   "desk": "World News / US Politics",
+   "source": "AP News",
+   "lang": "EN",
+   "paywalled": false,
+   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOaXY1aWpuUVJ5TFNzYnlVNUx3SDZ1SG1sVTgway1wdS1ja1VsdGRCb0NZYmxyN1Z6TnN6OUF0RXYyb2RMTEJvN2ZfUDVOdEVPbTVMUkRPVW9PZFcyb2lGU1drVUg4VFpyUjM5cHdjWXQ3YTNnMjE3c2Y5bEZQWjNMdFJSR0Z5ZTdTQ0ZVUUpWcXEtaWNHbk5MWXE1TQ?oc=5",
+   "headline": "Voters fear the America they’ve known is slipping away. On that, the left and right agree",
+   "headlineEn": "Les électeurs craignent que l'Amérique qu'ils ont connue ne leur échappe.",
+   "contested": "",
+   "why": "Ces élections détermineront l'équilibre des pouvoirs au Congrès et le cours du second mandat de Donald Trump.",
+   "stat": "",
+   "statLabel": "",
+   "chart": null,
+   "paras": [
+    "As polling places open across the United States today, millions of citizens are casting their ballots in highly contentious midterm elections. Voters across the political spectrum express a profound sense of anxiety regarding the direction of the nation. Both Democratic and Republican supporters share a widespread conviction that traditional American values and institutions are under severe strain. Despite their sharp ideological differences, voters on both sides agree that the upcoming election represents a critical turning point that could permanently alter the governance and social cohesion of the country.",
+    "Control of both the House of Representatives and the Senate remains strictly on the line as election results begin to roll in. President Donald Trump has campaigned aggressively in key battleground states, urging his conservative base to maintain Republican majorities in Congress. Meanwhile, Democratic candidates have shifted their campaign focus toward immediate economic concerns, promising to lower household utility expenses and protect public services. Independent voters remain deeply divided, weighing rising living costs against concerns over political polarization, executive power, and the broader future of democratic norms throughout the nation.",
+    "Legal disputes and administrative challenges have already begun to shadow the voting process in several states across the country. Just hours before the polls opened, the United States Supreme Court rejected an urgent appeal from the Trump administration seeking to disqualify over twenty thousand ballots in California. The administration had claimed that non-citizens were included in the voter registrations, but the high court declined to intervene. Electoral authorities in key jurisdictions are preparing for extended tallying periods, noting that mail-in ballots and procedural checks may delay definitive outcomes.",
+    "Financial markets and political prediction platforms are reflecting intense volatility as election day voting gets under way nationwide. Investors are closely monitoring key Congressional contests to gauge potential shifts in federal tax policy, energy regulations, and public spending programs. Trading volume on prediction markets has surged to unprecedented levels, with participants placing massive wagers on which party will gain control of legislative committees. Analysts warn that a divided government could produce prolonged policy gridlock in Washington, affecting economic forecasts and corporate investment plans across major industrial sectors.",
+    "In traditional strongholds such as Texas, Democratic challengers are mounting aggressive campaigns that have drawn global attention. Candidates like James Talarico are challenging long-standing Republican dominance by mobilizing young voters and focusing on purchasing power and anti-corruption messages. Turnout initiatives on college campuses and urban centers have reached record participation numbers. Republican organizers, however, are pushing back with heavy advertising campaigns emphasizing border security and traditional values, setting up remarkably tight contests in districts that were once considered completely safe for the incumbent political party leadership.",
+    "Beyond domestic policy, the outcome of these midterm elections will carry significant implications for international relations. Foreign governments are watching closely to see whether a reshaped Congress might restrict executive authority regarding foreign military aid, trade tariffs, and international treaties. Key decisions regarding support for Ukraine and military posture in the Middle East could be re-examined depending on which party secures committee chairmanships. As millions of American citizens complete their votes today, the world awaits a definitive signal on the future trajectory of American foreign engagement."
+   ]
+  }
+ ],
+ "desks": [],
+ "sourced": true,
+ "feeds": {
+  "ok": 27,
+  "of": 29,
+  "items": 260,
+  "skipped": [
+   "Reuters (FR)",
+   "Washington Post (EN): HTTP 502"
+  ]
+ },
+ "words": 558,
+ "readMin": 3,
+ "storyCount": 1
+}
