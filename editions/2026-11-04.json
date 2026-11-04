@@ -1,0 +1,255 @@
+{
+ "date": "2026-11-04",
+ "kind": "daily",
+ "heat": 0.85,
+ "oneThing": "Democrats swept both houses of Congress in the US midterm elections, dealing a severe blow to President Donald Trump's legislative agenda.",
+ "followUps": [
+  {
+   "n": "01",
+   "thread": "Élections de mi-mandat aux États-Unis",
+   "change": "Les démocrates ont conquis la Chambre des représentants et le Sénat, basculant le Congrès et affaiblissant la présidence de Donald Trump."
+  },
+  {
+   "n": "02",
+   "thread": "Catastrophe ferroviaire en Espagne",
+   "change": "Face aux pressions politiques consécutives à l'accident ayant causé 69 morts, le ministre des Transports Óscar Puente a finalement présenté sa démission."
+  },
+  {
+   "n": "03",
+   "thread": "Blocage budgétaire au Sénégal",
+   "change": "L'Assemblée nationale sénégalaise a rejeté pour la troisième fois le projet de loi de finances rectificative, compliquant l'accord de soutien avec le FMI."
+  }
+ ],
+ "mustReads": [
+  {
+   "desk": "Europe, wires, Luxembourg",
+   "source": "AP News",
+   "lang": "EN",
+   "paywalled": false,
+   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPRFA3Qk9sWVFFclA5aUMzTVlKenJNX25YTU5oenBmQXVqWjlneGxXUWRyZ3FSNE43TmRRcjJnbVEzLXJFazZJTVVMeDVUSE9FRktPQXh6b1FpeWtrbzYyMmFtYThKN3Y2NE9nTUV4a2RQaXpGblMxM2JycTVkTFQ5cG9hV3NObHpnMnFUQ0lxNlVuaHpOR1lUWkxPZ2NZcUctRnNnNjE1NjZEeUZBTWZaYVg4V2lBaDM0?oc=5",
+   "headline": "Democrats win the US House and Senate as voters deliver a strong rebuke to Trump and Republicans",
+   "headlineEn": "Les démocrates remportent la Chambre et le Sénat américains, infligeant un désaveu cinglant à Trump",
+   "contested": "",
+   "why": "La défaite des républicains aux midterms prive Donald Trump de ses majorités au Congrès et redistribue les cartes politiques à Washington.",
+   "stat": "",
+   "statLabel": "",
+   "chart": null,
+   "paras": [
+    "The 2026 midterm elections delivered a historic defeat to President Donald Trump and the Republican Party as voters across the United States handed control of both the House of Representatives and the Senate to the Democratic Party. Driven by growing public anxiety over the rising cost of living, political inflation, and controversial foreign policy moves, voters turned out in large numbers to express their discontent. The sweeping Democratic gains extended beyond the federal legislature into state capitals, where key governorships and legislative seats flipped in traditional battlegrounds and solid Republican strongholds alike across the nation.",
+    "High voter participation defined the election night, reflecting deep polarization and widespread desire among citizens to check executive authority. Democrats capitalized on local discontent regarding healthcare access, reproductive rights, and economic stagnation. In key suburban districts where Republicans previously held comfortable margins, independent voters swung decisively toward Democratic challengers. Analysis of preliminary exit poll data indicates that working-class voters and suburban women played a pivotal role in creating the electoral wave. This shift deprived the administration of its legislative majorities and signaled a major realignment in political momentum ahead of upcoming presidential campaigns.",
+    "In the House of Representatives, Democrats secured necessary seats by reclaiming swing districts in California, New York, and across the Midwest. Meanwhile, pivotal Senate races in states like Michigan and Texas saw elevated turnout that ultimately tipped the balance of power. The outcome means that incoming Democratic committee leaders will soon gain subpoena power and oversight control over executive agencies, judicial appointments, and federal budgetary legislation. Legislative proposals from the White House regarding tax policy, deregulation, and infrastructure spending will now face immediate deadlock and intense congressional scrutiny during the remaining two years of Trump’s presidential term.",
+    "President Donald Trump publicly acknowledged the electoral defeat, commenting on Truth Social that ongoing geopolitical conflicts and foreign policy tensions had influenced voter choices at the ballot box. Despite acknowledging the Democratic victory, the president deflected personal responsibility for the losses, suggesting that his absence from the direct ballot line altered traditional turnout dynamics among his core base. Meanwhile, Republican party leaders began internal debates concerning campaign messaging, funding allocations, and legislative strategy. Analysts point out that losing both chambers creates significant governance hurdles for the administration while emboldening political opponents nationwide.",
+    "Foreign governments and international observers closely monitored the election results, anticipating notable shifts in American diplomatic and economic priorities. With Democrats taking charge of key congressional committees, foreign military assistance programs, trade tariffs, and international climate agreements are expected to undergo rigorous legislative re-evaluation. Leaders in Europe, Asia, and the Middle East issued statements reflecting both cautious optimism and strategic recalculation. The legislative shift in Washington introduces renewed debates regarding funding commitments to international defense alliances and bilateral aid, altering how the White House projects authority and negotiates treaties on the global diplomatic stage.",
+    "Democratic congressional leaders, including Representative Hakeem Jeffries, celebrated the historic victory and promised a legislative agenda focused on lowering household costs, protecting healthcare coverage, and strengthening democratic institutions. As Washington prepares for a divided government, lawmakers face the challenge of negotiating essential fiscal bills and avoiding administrative shutdowns. Political strategists view this midterm election as a decisive turning point that reshapes the political landscape for the remainder of the presidential term, establishing new legislative battle lines and setting the stage for aggressive congressional oversight over executive policies."
+   ]
+  },
+  {
+   "desk": "Europe, wires, Luxembourg",
+   "source": "Deutsche Welle",
+   "lang": "DE",
+   "paywalled": false,
+   "url": "https://www.dw.com/de/spaniens-verkehrsminister-tritt-nach-zugunglück-zurück/a-79852421?maca=de-rss-de-all-1119-rdf",
+   "headline": "Spaniens Verkehrsminister tritt nach Zugunglück zurück",
+   "headlineEn": "Spain's transport minister resigns after train crash",
+   "contested": "",
+   "why": "La démission du ministre espagnol illustre la gravité de la crise politique provoquée par la pire catastrophe ferroviaire récente du pays.",
+   "stat": "69",
+   "statLabel": "morts dénombrés lors de l'accident de train en Espagne",
+   "chart": null,
+   "paras": [
+    "Nach der schweren Eisenbahnkatastrophe in Spanien mit insgesamt 69 Todesopfern hat der spanische Verkehrsminister Óscar Puente überraschend seinen Rücktritt bekannt gegeben. Ursprünglich hatte der Minister jegliche persönliche oder politische Verantwortung für das Unglück zurückgewiesen und einen Rückzug aus dem Amt mehrfach öffentlich ausgeschlossen. Die anhaltende Kritik der Öffentlichkeit, der Gewerkschaften sowie politischer Oppositionsgruppen erhöhte jedoch den Druck auf die Regierung massiv. Schließlich lenkte Puente ein und begründete seinen Schritt mit der Notwendigkeit, die politische Würde des Amtes zu wahren und den Opfern Respekt zu zollen.",
+    "Das verhängnisvolle Zugunglück hat in ganz Spanien tiefe Bestürzung und Entsetzen ausgelöst. Rettungskräfte und Ermittler arbeiten weiterhin unermüdlich an der Unfallstelle, um die genauen Ursachen der Tragödie lückenlos aufzuklären. Erste Berichte von Experten deuten auf mögliche technische Mängel am Schienensystem sowie auf Schwachstellen in den zentralen Sicherheitskontrollen hin. Der Vorfall hat eine hitzige Debatte über den Zustand der nationalen Bahninfrastruktur entfacht. Eisenbahnexperten fordern nun eine umfassende Überprüfung aller Hochgeschwindigkeitsstrecken und Signalanlagen im gesamten Bundesgebiet, um künftige Katastrophen dieser Art konsequent und dauerhaft zu verhindern.",
+    "Vor seinem Rücktritt hatte Minister Puente noch ein Paket mit dringenden Sicherheitsmaßnahmen angekündigt, um das Vertrauen der Bevölkerung in den Schienenverkehr wiederherzustellen. Dazu gehörten die beschleunigte Einführung des europäischen Zugbeeinflussungssystems ERTMS sowie eine Modernisierung der Leitstellen. Den Oppositionsparteien gingen diese Ankündigungen jedoch nicht weit genug. Sie forderten eine lückenlose parlamentarische Untersuchung und warfen dem Verkehrsministerium jahrelange Versäumnisse bei den Wartungsinvestitionen vor. Der politische Druck wurde schließlich so groß, dass der Verbleib des Ministers im Kabinett die gesamte Regierung von Ministerpräsident Pedro Sánchez zu belasten drohte.",
+    "Nach spanischem Recht ist aufgrund der unnatürlichen Todesursachen bei dem Zugunglück automatisch eine gerichtliche Untersuchung eingeleitet worden. Die Justizbehörden prüfen nun, ob fahrlässiges Verhalten oder organisatorische Mängel zu der tödlichen Kollision beigetragen haben. Neben den juristischen Ermittlungen laufen auch bahninterne Analysen zur Auswertung der Fahrdaten. Die Angehörigen der zahlreichen Unfallopfer verlangen schnelle Antworten und eine gerechte Aufarbeitung. Gewerkschaften der Bahnangestellten wiesen darauf hin, dass Personalmangel und überhöhte Taktzeiten im Bahnverkehr schon seit langer Zeit ein erhebliches Sicherheitsrisiko darstellten, das von den Verantwortlichen ignoriert worden sei.",
+    "Der Rücktritt des Verkehrsministers stellt die spanische Minderheitsregierung vor eine erhebliche politische Belastungsprobe. Die Nachfolge im Verkehrsministerium muss schnell geregelt werden, um die anstehenden Infrastrukturprojekte und Sicherheitsreformen ohne Verzögerung voranzutreiben. Das Vertrauen der Fahrgäste in das einst als hochmodern geltende spanische Eisenbahnnetz hat durch das Unglück schweren Schaden erlitten. Die Regierung steht nun unter Zugzwang, transparente Reformen umzusetzen und beträchtliche Finanzmittel für die Modernisierung des Schienennetzes bereitzustellen, um die Sicherheit der Passagiere auf allen Strecken im Land langfristig zu gewährleisten.",
+    "Die Eisenbahnkatastrophe wirft zudem ein Schlaglicht auf die Herausforderungen der europäischen Verkehrspolitik. Grenzweit einheitliche Sicherheitsstandards wie das ERTMS-System werden zwar seit Jahren gefordert, deren Umsetzung verläuft in vielen EU-Mitgliedstaaten jedoch schleppend. Der tragische Vorfall in Spanien könnte nun auch auf EU-Ebene die Debatte über verbindliche Sicherheitsauflagen und strengere Kontrollen für den Schienenverkehr neu entfachen. Für die spanische Öffentlichkeit bleibt die Trauer um die 69 Opfer im Vordergrund, während die Politik gefordert ist, aus den gravierenden Fehlern der Vergangenheit die notwendigen Konsequenzen zu ziehen."
+   ]
+  },
+  {
+   "desk": "International",
+   "source": "Bloomberg",
+   "lang": "EN",
+   "paywalled": true,
+   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPX0hHX2oyQUZaNUZYUnBydzJ3RXNrXzBaeS05c2N0dHhTMjFiVVN5Rk5mYXZfbU9neVVVUzNwejBVYW83TTZBeGV4UXl0elRzd1JPTDNKdzRINnNXVkxfb085VUpHMU13Zng0c2NiNWs1Qm9pZTVkMGhtX0dSeGVjLXF5R3lJQmRNSGVNa01zblJUcVRrQ093a3RpcVFkbzdPRzJ5N041WHNvT19t?oc=5",
+   "headline": "CVS Plans to Break Up $117 Billion Healthcare Conglomerate",
+   "headlineEn": "CVS prévoit de scissionner son congrégat de santé de 117 milliards de dollars",
+   "contested": "",
+   "why": "La scission de CVS marque la fin du modèle d'intégration verticale géant dans le secteur américain de la santé.",
+   "stat": "",
+   "statLabel": "",
+   "chart": null,
+   "paras": [
+    "Healthcare giant CVS Health Corporation has announced strategic plans to split its massive $117 billion conglomerate into separate corporate entities, marking a dramatic shift in the American pharmaceutical and healthcare retail landscape. Under the proposed restructuring, the company intends to spin off its network of roughly 9,000 retail pharmacies into an independent publicly traded firm. This decisive corporate move follows months of escalating political pressure, regulatory scrutiny, and shifting market dynamics affecting pharmacy benefit managers, insurance operations, and retail store networks across the United States healthcare sector.",
+    "The decision to dismantle the integrated healthcare structure reflects broader commercial headwinds facing large retail pharmacy chains. High operational costs, declining prescription reimbursement rates, and intense competition from online retailers have compressed profit margins across retail pharmacy branches. Furthermore, federal regulators and state lawmakers have increasingly targeted pharmacy benefit managers, accusing large healthcare conglomerates of creating opaque pricing structures that inflate out-of-pocket costs for prescription medications. By separating the retail stores from its insurance and pharmacy benefit units, CVS aims to streamline operations and unlock shareholder value.",
+    "Wall Street investors and financial analysts responded to the corporate breakup announcement with cautious optimism, noting that diversified healthcare holding companies have struggled to maintain market valuation in recent years. The corporate separation will allow each independent entity to pursue distinct capital allocation strategies and adapt more flexibly to regulatory changes. Investors hope that isolating the high-margin insurance and pharmacy services businesses from retail liabilities will improve financial transparency. However, executing such a large-scale corporate spin-off involves complex operational restructuring, contract renegotiations, and potential tax implications over the coming months.",
+    "Retail pharmacy operations have long served as the primary physical touchpoint between CVS and millions of consumers across America. However, changing consumer shopping habits and reduced foot traffic in suburban locations have made managing vast real estate portfolios increasingly challenging. In response, CVS has previously closed hundreds of underperforming stores, but the standalone retail pharmacy company will now need to independently manage store operating costs, labor relations, and inventory supply chains without cross-subsidies from profitable corporate health insurance divisions. Industry experts predict further store network optimizations following the spin-off.",
+    "The planned breakup comes at a time when major corporate conglomerates across several sectors are re-evaluating the benefits of vertical integration. In healthcare, combining health insurance providers, care clinics, and retail pharmacies was initially intended to reduce overall medical costs through integrated patient care. However, regulatory authorities in Washington have grown suspicious of market consolidation, arguing that massive integrated entities reduce competition and limit consumer choice. The spin-off by CVS could encourage other healthcare conglomerates to consider similar structural corporate divestitures under heightened antitrust scrutiny.",
+    "Looking ahead, executive leadership at CVS Health will work alongside financial advisors to finalize the exact timetable and structural details of the corporate separation. Regulatory approvals from antitrust regulators and insurance commissions will be required before the retail pharmacy spin-off can be fully completed. Meanwhile, customers and patients are unlikely to experience immediate disruptions in store services or prescription fills during the transitional period. This corporate restructuring signals a transformative moment for American retail healthcare, potentially setting a new precedent for how major pharmaceutical networks operate independently in the future."
+   ]
+  }
+ ],
+ "desks": [
+  {
+   "name": "Luxembourg",
+   "stories": [
+    {
+     "source": "Luxemburger Wort",
+     "lang": "de",
+     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOZFhxcnhaZ3dpUWdYcE1hVXpEYW1aZjZCSWJua1I0czVtVHRDalRjdXpiRGpNYWFZMWhLclI3aTJNSXFhaWtuYVVXV28wbHNiTUZKVGtmWTFzX1VPZUFNMlVxTllHOW5MNUYyb0FfTkMzdnZVV3RlSklzYllVeGYxYm1GZVdXb3o4Z1ZIc1N5Z1daWkwtRGYwNmE4VDhmdE5kS0dVZWxNdw?oc=5",
+     "headline": "„Bistrotsgespréich, wéi de ganze Bommeleeër-Prozess“",
+     "headlineEn": "\"Bistro conversation, like the entire Bommeleeër trial\"",
+     "summary": "Die juristische und politische Aufarbeitung der Bommeleeër-Affäre sorgt im Großherzogtum weiterhin für heftige Debatten und scharfe Kritik an den langwierigen Ermittlungen. Neue Äußerungen lassen die Diskussionen über die Verantwortung damaliger staatlicher Stellen erneut aufflammen, wobei Beobachter den bisherigen Fortgang des Verfahrens zynisch mit einem einfachen Stammtischgespräch vergleichen. Seit vielen Jahren lassen substanzielle Fortschritte auf sich warten, was das Vertrauen der Luxemburger Bevölkerung in das heimische Justizsystem spürbar belastet. Die Öffentlichkeit fordert daher weiterhin unmissverständlich volle Transparenz über die historischen Vorkommnisse sowie eine endgültige und umfassende Klärung aller politischen und rechtlichen Verantwortlichkeiten.",
+     "why": "Le dossier Bommeleeër continue de faire réagir le monde politique et judiciaire luxembourgeois.",
+     "paywalled": true,
+     "contested": "",
+     "chart": null
+    },
+    {
+     "source": "RTL.lu",
+     "lang": "fr",
+     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOU2JWSHhETXdkLUVHdGhBUWJSZ01oWFFSQW5kVTZYWWpvOGdNdnlYNk5VTnhvM3RKZ1FqemVkQXJGbHhNZ1pxeUgtRmtTclFwN3FHcmVObmFTMHo5aENLbXFWb0h1VFY2Z2d5Nkp2MGY4bGFBaExIVEJNcW9IYlJXM0Z1aXBHSEN4a0V0SVFnZWs2RUN0X0FNdHl6UGRGWE8xdTd6eXExbk1JZw?oc=5",
+     "headline": "À la pompe: Grosse baisse des prix des carburants au Luxembourg",
+     "headlineEn": "At the pump: Big drop in fuel prices in Luxembourg",
+     "summary": "Les automobilistes luxembourgeois et les nombreux travailleurs frontaliers bénéficient d'une nette baisse des tarifs des carburants enregistrée dans l'ensemble des stations-services du Grand-Duché. Cette diminution particulièrement significative concerne aussi bien l'essence que le diesel, offrant ainsi une respiration bienvenue pour le budget transport des ménages. La révision à la baisse des prix plafonds s'explique principalement par l'évolution récente des cours mondiaux du pétrole brut sur les marchés internationaux. Les autorités officielles rappellent que ces tarifs affichés restent strictly encadrés par le mécanisme national de fixation des produits pétroliers.",
+     "why": "La baisse des prix des carburants soulage directement le pouvoir d'achat des résidents et des frontaliers.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    },
+    {
+     "source": "Luxemburger Wort",
+     "lang": "de",
+     "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNdGNIX2k5T01oOS1zMWRyZVlJdzVQQ0VoeS1sXzBEWk1qV1ozMzA0Q0pPS0phdHsoMHhKeXhnMGduYkZLUERzUTJPNXU5MzZ2bENyZE1BSWhDUWJKbmY1eVgtRlBfTTJTRE5fQS05RGlHQmdPLU9yVmhXXzNqUWpIaER0OURCY1hMblJndnN4ZXpYYXQ4VU96R1dhRndGdk5DcjVHNVM4bVZQdlpJM0JMUGVMZHdjYVhaX1UzUlBKcUE3QVJWTEJydQ?oc=5",
+     "headline": "So viel Streusalz lagert und verwendet die Straßenbauverwaltung jährlich",
+     "headlineEn": "This is how much road salt the road administration stores and uses annually",
+     "summary": "Die luxemburgische Straßenbauverwaltung bereitet sich intensiv auf den bevorstehenden Winter vor und sichert dafür beträchtliche Mengen an Streusalz in ihren zentralen Lagern ab. Jährlich werden je nach Witterung Tausende Tonnen Salz benötigt, um das Autobahnnetz und die Landstraßen im gesamten Großherzogtum eisfrei und befahrbar zu halten. Die Logistik erfordert eine vorausschauende Planung, damit die Räumfahrzeuge auch bei plötzlichen Kälteeinbrüchen oder starken Schneefällen jederzeit einsatzbereit sind. Die Verantwortlichen betonen, dass ein nachhaltiger Einsatz des Streuguts angestrebt wird, um die Sicherheit der Verkehrsteilnehmer zu garantieren und gleichzeitig die Umwelt zu schonen.",
+     "why": "La préparation des infrastructures routières est essentielle pour garantir la sécurité du trafic hivernal.",
+     "paywalled": true,
+     "contested": "",
+     "chart": null
+    }
+   ]
+  },
+  {
+   "name": "Monde / géopolitique",
+   "stories": [
+    {
+     "source": "Le Monde",
+     "lang": "fr",
+     "url": "https://www.lemonde.fr/international/live/2026/11/04/en-direct-guerre-en-ukraine-la-chine-dit-etre-en-contact-avec-les-etats-unis-et-la-russie-pour-un-sommet-a-trois_6803934_3210.html",
+     "headline": "Guerre en Ukraine : la Chine dit être en contact avec les Etats-Unis et la Russie pour un sommet à trois",
+     "headlineEn": "War in Ukraine: China says it is in contact with the US and Russia for a three-way summit",
+     "summary": "La diplomatie chinoise a confirmé mener des discussions actives avec Washington et Moscou en vue de l'organisation d'un sommet trilatéral inédit. Cette rencontre au sommet pourrait se tenir en marge du prochain forum de l'APEC à Shenzhen et réunir Xi Jinping, Donald Trump et Vladimir Poutine. Bien que les préparatifs soient évidents, les autorités ukrainiennes expriment de vives inquiétudes quant à des négociations menées sans leur participation directe. Pékin cherche ainsi à s'imposer comme le médiateur central incontournable tout en incitant les grandes puissances à rouvrir des canaux de dialogue stratégique.",
+     "why": "Un sommet trilatéral pourrait redéfinir les équilibres diplomatiques autour du conflit en Ukraine.",
+     "paywalled": true,
+     "contested": "",
+     "chart": null
+    },
+    {
+     "source": "Reuters",
+     "lang": "en",
+     "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNSnlWVjhZeXhCME9sTHdmcC1RWTdrNUVIbUhhbE1td2t3Z2VDbzh1SW1kSmJJdWU5aVRSeW8tQ3hweVJwTDdVMGR0XzdtM0UtSGhkRnY1NWN6ZUkxR0Nxb2NadnJuNjEza3d4cDNOcTRnWXJBT2MzYnJjY2hkbjdHUmxoWjVsWGE0UE5NOUx0QQ?oc=5",
+     "headline": "Euro zone inflation rises to three-year high",
+     "headlineEn": "L'inflation dans la zone euro atteint son niveau le plus élevé depuis trois ans",
+     "summary": "Eurozone inflation has accelerated to its highest level in three years, driven by persistent energy costs and rising service prices across the currency bloc. Headline inflation surpassed financial analysts' forecasts, while core inflation remained well above the European Central Bank's official target of two percent. The unexpected surge creates new policy dilemmas for central bankers who must balance tightening measures with sluggish economic growth in major member states. Financial markets are adjusting expectations, anticipating that the central bank may keep interest rates elevated longer to curb persistent inflationary pressures.",
+     "why": "La hausse de l'inflation complique la politique monétaire de la Banque centrale européenne.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    },
+    {
+     "source": "Reuters",
+     "lang": "en",
+     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNOF_zQS1BZmV0MzhxeXhlN0xKYllETXY0YnNaWUw2LW9DckM1UjJXejFPRi1LMXlRSVB4SWwzQWNjWXlPUkgyVGNzOEhjczhrTjhEUUpaSUMxRVU0TndFaWJKS3RRVVBWMXNtX3JNVGFoQ0VJdmJGNUNsWWVsZ0lLWFBMRlBNMzY4aUM1N0doZVFsb2dtQUtmRXAzdHZxZ0VERlQ1Vm9yd0tFa0NFYUxJ?oc=5",
+     "headline": "Ukraine's anti-graft police target senior officials in major fraud probe",
+     "headlineEn": "La police anticorruption ukrainienne vise de hauts responsables dans une enquête pour fraude majeure",
+     "summary": "Ukrainian anti-corruption authorities have launched sweeping investigations targeting several senior government officials over alleged large-scale embezzlement and procurement fraud. Investigators conducted synchronized raids across multiple state offices, focusing on public supply contracts and the improper allocation of emergency wartime recovery funds. The high-profile probe highlights Kiev's commitment to tackling deep-seated institutional corruption, which remains a crucial requirement for ongoing Western financial support and future European Union accession. Government leaders reiterated their total backing for independent enforcement agencies, emphasizing that no official will be protected from accountability.",
+     "why": "La lutte contre la corruption conditionne l'aide financière et l'adhésion future de l'Ukraine à l'UE.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    }
+   ]
+  },
+  {
+   "name": "International — hors Europe",
+   "stories": [
+    {
+     "source": "Al Jazeera",
+     "lang": "en",
+     "url": "https://www.aljazeera.com/news/2026/11/4/houthis-one-month-siege-on-taiz-is-creating-hell-for-yemenis-stuck-there?traffic_source=rss",
+     "headline": "Houthis’ monthlong siege on Taiz creating misery for trapped Yemenis",
+     "headlineEn": "Le siège d'un mois des Houthis sur Taïz crée la misère pour les Yéménites piégés",
+     "summary": "Intensified armed clashes and a severe monthlong blockade by Houthi forces around Taiz have left thousands of Yemeni civilians trapped under perilous conditions. Local government officials and international humanitarian workers warn of an impending disaster as essential stocks of food, clean drinking water, and medicine run critically low. The tight blockade has completely blocked main transport routes, preventing emergency aid deliveries and forcing desperate residents to flee continuous shelling. Humanitarian organizations are demanding the immediate opening of relief corridors to deliver life-saving supplies and alleviate human suffering in the city.",
+     "why": "La crise humanitaire au Yémen s'aggrave fortement sous la pression des nouveaux affrontements.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    },
+    {
+     "source": "BBC",
+     "lang": "en",
+     "url": "https://www.bbc.co.uk/news/articles/cr4g1x6l77xyo?at_medium=RSS&at_campaign=rss",
+     "headline": "ANC under pressure to reverse South Africa decline",
+     "headlineEn": "L'ANC sous pression pour inverser le déclin de l'Afrique du Sud",
+     "summary": "South Africans are heading to the polls in crucial municipal elections amid widespread public anger over deteriorating municipal services, persistent water shortages, and rising unemployment. The long-ruling African National Congress faces unprecedented electoral pressure as voters across urban townships express deep frustration with governance failures and infrastructure decay. Opposition candidates have aggressively targeted these service breakdowns, hoping to break the ruling party's historic dominance in key economic centers like Johannesburg. Analysts note that further erosion of local support could fundamentally alter the country's political landscape and accelerate coalition politics nationwide.",
+     "why": "Les élections municipales testent l'emprise politique de l'ANC sur les grandes métropoles sud-africaines.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    },
+    {
+     "source": "France 24",
+     "lang": "fr",
+     "url": "https://www.france24.com/fr/vid%C3%A9o/20261104-rd-congo-une-immense-mine-chinoise-accus%C3%A9e-de-pollution-par-27-plaignants",
+     "headline": "RD Congo : une immense mine chinoise accusée de pollution par 27 plaignants",
+     "headlineEn": "DR Congo: Huge Chinese mine accused of pollution by 27 plaintiffs",
+     "summary": "À Kolwezi, vingt-sept habitants ont engagé une poursuite judiciaire d'une ampleur inédite contre un gigantesque consortium minier chinois et le gouvernement congolais. Les plaignants dénoncent une pollution massive des sols et des cours d'eau environnants, entraînant des conséquences graves sur la santé publique localement. L'action en justice vise à obtenir des réparations financières substantielles ainsi que la mise en œuvre immédiate de mesures de dépollution environnementale. Ce procès historique est suivi de près par les organisations de la société civile, car il pourrait transformer la régulation du secteur extractif en République démocratique du Congo.",
+     "why": "Ce procès inédit pourrait fixer un précédent pour la responsabilité environnementale des entreprises minières en Afrique.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    },
+    {
+     "source": "AP News",
+     "lang": "en",
+     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOUktKLVhBdFlIWVBGcDFCZFRCenZNVnZkaWptZjNMbDI4VnFJN0JXWG5fNXpOWGhoeFp0dDZ6YlU1UFg4TTczNV9jS245OVlWdmU1SDdESTRGVWZhVENOTm9LeV_SYUJfMjhTTjFyQU1NWW55eEN6UXpmb3hSUDFjOWlNTGlqLXZPV1_JUGdVOTE2WE05MTZoUEhqUkxFUl_vOU5zZHN4Z2NRZ3lX?oc=5",
+     "headline": "Paraguay seizes major digital bank tied to president, leaving millions of customers in limbo",
+     "headlineEn": "Le Paraguay saisit une importante banque numérique liée au président, laissant des millions de clients dans l'incertitude",
+     "summary": "Paraguayan banking regulators have abruptly seized control of a prominent digital bank closely associated with the nation's president following serious financial irregularity allegations. The sudden regulatory intervention has immediately frozen active accounts, leaving millions of retail customers without access to their deposits or daily payment services. Government authorities stated that taking over management was necessary to contain broader financial risks and protect the integrity of the national banking sector. Opposition politicians are now demanding a comprehensive parliamentary inquiry into the president's personal links with the institution as public outrage grows.",
+     "why": "La crise bancaire au Paraguay met en lumière les risques financiers et politiques liés à la fintech en Amérique latine.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    },
+    {
+     "source": "Foreign Affairs",
+     "lang": "en",
+     "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1qNHFNN2hLRnZxTHc2T2dmSENvWktnbU1xWnZqejlCYUpzTmJtemZiZ0ZIbE0wUTk0LUowNkVzX2R2ZUFfYmpIYnpmNXlvUDBkbVJLeXEySTBYWVJ1QlBDSFdNTHRiVVpwUk5TYl9pRUw0VnFoLUtJ?oc=5",
+     "headline": "The Dangers of a Lame-Duck Trump",
+     "headlineEn": "Les dangers d'un Trump en fin de mandat",
+     "summary": "Following severe electoral setbacks in the recent midterm elections, foreign policy analysts are examining the broader strategic implications of a weakened American presidency. Deprived of congressional majorities, President Donald Trump may rely increasingly on unilateral executive decrees and unpredictable diplomatic maneuvers to assert his authority globally. The analysis warns that international adversaries could seek to exploit political gridlock in Washington, while allies fear sudden shifts in trade policies and security commitments. Consequently, domestic political constraints might prompt the administration to adopt more aggressive foreign posturing to project strength.",
+     "why": "L'affaiblissement politique interne du président américain pourrait modifier sa conduite des affaires étrangères.",
+     "paywalled": true,
+     "contested": "",
+     "chart": null
+    }
+   ]
+  }
+ ],
+ "sourced": true,
+ "feeds": {
+  "ok": 25,
+  "of": 29,
+  "items": 228,
+  "skipped": [
+   "Euronews (EN): HTTP 406",
+   "Euronews (FR): HTTP 406",
+   "RTL.lu (LB)",
+   "Washington Post (EN): HTTP 502"
+  ]
+ },
+ "words": 2940,
+ "readMin": 15,
+ "storyCount": 14
+}
