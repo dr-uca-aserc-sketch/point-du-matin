@@ -1,0 +1,335 @@
+{
+ "date": "2026-11-05",
+ "kind": "daily",
+ "heat": 0.85,
+ "oneThing": "Democrats swept the US midterm elections by capturing both houses of Congress, prompting a sharp political fallout and market rally.",
+ "followUps": [
+  {
+   "n": "01",
+   "thread": "Élections américaines de mi-mandat",
+   "change": "Les démocrates ont remporté le contrôle des deux chambres du Congrès, provoquant une onde de choc chez les républicains où le vice-président J.D. Vance s'est publiquement distancé de Donald Trump."
+  },
+  {
+   "n": "02",
+   "thread": "Guerre en Ukraine et frappes russes",
+   "change": "Au lendemain du bombardement d'un abri à Komychouvakha dont le bilan atteint 42 morts, des frappes nocturnes de drones ont visé la région de Kiev."
+  },
+  {
+   "n": "03",
+   "thread": "Mouvements sociaux en France",
+   "change": "Après les premiers blocages lycéens, la journée nationale de grève s'est intensifiée avec plus de 200 manifestations prévues contre la hausse du coût de la vie."
+  }
+ ],
+ "mustReads": [
+  {
+   "desk": "Politics",
+   "source": "BBC News",
+   "lang": "EN",
+   "paywalled": false,
+   "url": "https://www.bbc.co.uk/news/articles/cq1kdgnn2xdeo?at_medium=RSS&at_campaign=rss",
+   "headline": "What Democrats can and can't do with their new power after taking Congress",
+   "headlineEn": "Ce que les démocrates peuvent et ne peuvent pas faire avec leur nouveau pouvoir après avoir pris le Contrôle du Congrès",
+   "contested": "",
+   "why": "La victoire démocrate au Congrès redessine l'équilibre des pouvoirs à Washington et modifie la trajectoire politique des deux dernières années du mandat de Donald Trump.",
+   "stat": "1500",
+   "statLabel": "points de hausse enregistrés par le Dow Jones après les midterms",
+   "chart": null,
+   "paras": [
+    "The dramatic shift in the American legislative landscape following Tuesday's midterm elections has provided the Democratic Party with complete control of both the House of Representatives and the Senate. Voters across the nation delivered a decisive verdict against the Republican administration, largely driven by economic anxieties, soaring energy costs, and widespread opposition to military involvement in Iran. This political realignment effectively terminates two years of unified Republican governance in Washington, creating a formidable barrier to President Donald Trump's domestic agenda and fundamentally altering the balance of power within the federal capital.",
+    "With majorities in both congressional chambers, Democrats now hold the constitutional authority to set legislative priorities, control key committee assignments, and initiate high-profile oversight investigations into executive branch activities. Congressional leaders have already signalled their intention to scrutinize administration policies, including government efficiency initiatives overseen by prominent allies, national security decisions, and controversial executive appointments. Furthermore, controlling the House of Representatives enables Democrats to draft federal budget proposals and dictate which legislative measures reach the floor for a vote, placing significant leverage back into the hands of opposition lawmakers.",
+    "However, severe constitutional limitations remain that will prevent Democrats from easily enacting their broader policy agenda into federal law. President Donald Trump retains his constitutional veto power, meaning any bill passed by Congress can be rejected unless Democrats secure a two-thirds supermajority in both chambers—a threshold they currently do not possess. Consequently, while lawmakers can effectively block Republican legislation and stall judicial or executive nominations in the Senate, passing major progressive reforms will require either bipartisan compromise or complex parliamentary maneuvering to navigate the realities of divided government.",
+    "The election outcome has already generated significant internal friction within the Republican Party, exposing deep ideological fissures and triggering strategic debates regarding future policy directions. Vice President J.D. Vance offered a remarkably blunt assessment of the electoral defeat, publicly pointing to the economic strain caused by the conflict in Iran as a primary catalyst for voter dissatisfaction. This open critique represents an unusual public rift within a sitting administration, highlighting how economic pressures and foreign policy decisions have alienated moderate voters and disrupted traditional Republican strongholds across multiple key states.",
+    "Global financial markets reacted swiftly to the election results, experiencing a substantial surge as investors calculated that divided government would curb aggressive unilateral policy shifts. Major stock indexes soared significantly, while international crude oil prices experienced a sharp decline following expectations that congressional pressure might accelerate diplomatic efforts to end Middle Eastern hostilities. Investors appear to bet that moderate voices will gain greater influence in legislative negotiations, reducing regulatory uncertainty and providing a more predictable economic environment for domestic and international businesses alike.",
+    "As Washington prepares for this new legislative era, both parties are already recalibrating their strategies ahead of the upcoming presidential contest. Democrats must balance their aggressive investigative ambition with practical legislative accomplishments to convince voters they can govern effectively despite executive resistance. Meanwhile, Republicans face the daunting task of reorganizing their party structure and refining their policy message after suffering major losses across gubernatorial and legislative contests. The next two years will test whether divided government produces legislative gridlock or forces pragmatic compromises on critical national challenges."
+   ]
+  },
+  {
+   "desk": "Security",
+   "source": "Reuters",
+   "lang": "EN",
+   "paywalled": false,
+   "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNSUllcFZWajRSZE9PZE82Zl9aMHl5SlF6b09IejNjUjdqLTRJb2hKemVORDZGVDdkZkFaUksyV3hxMXNCNXlHZnR2QjY5anN0RkFpeC1UMzBQcjkxRC05S0tBcVhSOTA1dWw5d2s3ZDNkX1FadkI3SGh0Ti1zaWloUFVteWRfNlJNQl9uUkRVY0FyXzNDTEo2dkI5R3NveEd2eVVSeHFTOXhGQ0E3RjhZWEpqemFvVVF0d2xjcV84ay12LVdvbEZEdTU3?oc=5",
+   "headline": "New wave of bomb threats hits passenger flights across Europe",
+   "headlineEn": "Une nouvelle vague d'alertes à la bombe touche des vols de passagers à travers l'Europe",
+   "contested": "",
+   "why": "Cette vague d'alertes coordonnées perturbe le trafic aérien européen et met sous pression les services de sécurité civile et militaire du continent.",
+   "stat": "",
+   "statLabel": "",
+   "chart": null,
+   "paras": [
+    "A coordinated wave of false security threats has severely disrupted European commercial aviation, forcing multiple passenger aircraft to make emergency diversions or land under armed military escort across several nations. The incidents, which began early in the morning, targeted commercial flights operated by various international carriers, prompting immediate emergency interventions from national aviation authorities and military air defense commands. Although every targeted aircraft eventually landed safely without any explosive devices discovered on board, the sheer volume and simultaneous nature of these threats have triggered widespread concern among aviation security officials.",
+    "One prominent incident involved an Airbus passenger flight travelling from Dublin to Rome, which was forced to alter its course following a credible security warning received while in transit. French air force fighters quickly intercepted the aircraft and escorted it to Evreux Air Base, located west of Paris, where security forces conducted thorough sweeps of the fuselage, cargo compartments, and passenger baggage. Similar emergency diversions were reported at major European hubs, including airports near Milan, Rome, and Brussels, placing regional air traffic management networks under tremendous operational strain.",
+    "Security analysts and law enforcement agencies suspect these disruptions are part of a deliberately orchestrated hybrid harassment campaign designed to exploit vulnerability protocols within civil aviation infrastructure. Preliminary investigations indicate that electronic communication channels, including anonymous electronic mail addresses, were utilized to send threatening messages to airport control towers and air carriers. Investigators in multiple European jurisdictions are working together to trace the digital signatures behind these messages, assessing whether extremist groups or state-sponsored cyber actors are orchestrating these systematic operational disruptions.",
+    "The financial and operational ramifications of these security alerts are proving substantial for European airlines and airport operators already managing complex seasonal flight schedules. Diverting a commercial airliner requires significant fuel consumption, unscheduled landing fees, ground handling charges, and extensive passenger re-accommodation arrangements. Airline industry representatives have emphasized that while safety protocols mandate treating every threat with utmost seriousness, repeated false alarms threaten to degrade operational efficiency, impose millions in unexpected expenses, and create unnecessary anxiety among international air travellers across the region.",
+    "Government officials and transport ministers across Europe have strongly condemned the incidents, vowing to strengthen cyber defenses and international intelligence sharing to counter digital threats. Emergency responses executed by air defense teams demonstrated high operational readiness, but officials acknowledge that persistent false warnings create a dangerous environment of security fatigue. National authorities are currently reviewing protocol guidelines to ensure that rapid response capabilities remain robust while minimizing potential disruptions to commercial flight corridors and preventing malicious actors from repeatedly paralyzing critical transport infrastructure.",
+    "As multi-agency investigations continue across several European capitals, law enforcement agencies are focusing on identifying the structural origin of the threatening communications. European intelligence partners are sharing digital forensic data to determine whether coordinated bot networks or specialized software were employed to bypass security filters. Meanwhile, passenger advocacy groups and aviation experts are urging governments to enact harsher legal penalties for individuals or entities convicted of launching false security alerts that endanger commercial aviation operations and compromise international public safety."
+   ]
+  },
+  {
+   "desk": "Politics",
+   "source": "Deutsche Welle",
+   "lang": "DE",
+   "paywalled": false,
+   "url": "https://www.dw.com/de/echtes-mannsbild-bestürzung-nach-hubert-aiwangers-tod/a-79863355?maca=de-rss-de-all-1119-rdf",
+   "headline": "Echtes Mannsbild: Bestürzung nach Hubert Aiwangers Tod",
+   "headlineEn": "Real man: Shock following the death of Hubert Aiwanger",
+   "contested": "",
+   "why": "La disparition soudaine du chef des Freie Wähler crée un vide politique majeur en Bavière et bouscule le gouvernement de coalition.",
+   "stat": "",
+   "statLabel": "",
+   "chart": null,
+   "paras": [
+    "Der überraschende Tod des bayerischen Wirtschaftsministers und langjährigen Vorsitzenden der Freien Wähler, Hubert Aiwanger, hat in der gesamten deutschen Politiklandschaft tiefe Bestürzung und große Erschütterung ausgelöst. Der 55-jährige Politiker wurde während eines Aufenthaltes in Berlin leblos in seinem Hotelzimmer aufgefunden, nachdem er zuvor eine geplante Rede aus gesundheitlichen Gründen abgesagt hatte. Die genauen Umstände seines plötzlichen Ablebens bleiben Gegenstand behördlicher Ermittlungen der Berliner Staatsanwaltschaft, während Weggefährten und politische Mitstreiter in ganz Deutschland ihre Trauer und Betroffenheit über den unerwarteten Verlust ausdrücken.",
+    "Hubert Aiwanger galt über viele Jahre hinweg als eine der prägendsten und schillernsten Persönlichkeiten der bayerischen Landespolitik sowie als das unangefochtene Gesicht der Freien Wähler. Der gelernte Landwirt verstand es wie kaum ein anderer, heimatverbundene Themen mit populärer Ansprache zu verbinden und seine Partei aus regionalen Wurzeln in die Regierungskoalition mit der CSU zu führen. Seine kompromisslose Art, traditionelle Werte der ländlichen Bevölkerung zu verteidigen, brachte ihm sowohl leidenschaftliche Unterstützung bei seinen Anhängern als auch scharfe Kritik von politischen Gegnern ein.",
+    "Bayerns Ministerpräsident Markus Söder reagierte zutiefst betroffen auf die Nachricht und würdigte Aiwanger als herausragenden Politiker, der mit seiner bodenständigen Haltung eine große Lücke im Freistaat hinterlässt. Trotz wiederholter politischer Differenzen und inhaltlicher Auseinandersetzungen innerhalb der Regierungskoalition hob Söder das unermüdliche Engagement des Wirtschaftsministers für den Standort Bayern hervor. Auch Vertreter der oppositionellen Parteien im Münchner Landtag drückten der Familie des Verstorbenen ihr aufrichtiges Beileid aus und würdigten seinen authentischen Einsatz für die Belange der Bürger.",
+    "Nach dem unerwarteten Hinscheiden des Wirtschaftsministers wurden greifbare organisatorische und personelle Schritte in München und Berlin umgehend eingeleitet. Gemäß den Regularien der bayerischen Staatsregierung übernimmt Staatssekretär Tobias Gotthardt vorübergehend die kommissarische Leitung des Wirtschaftsministeriums, um die Handlungsfähigkeit der Verwaltung zu sichern. Gleichzeitig entschieden die Freien Wähler, ihren anstehenden Bundesparteitag auf das kommende Jahr zu verschieben, um der Parteibasis Zeit für Trauer und eine geordnete Neuaufstellung zu geben, während die Suche nach einer langfristigen Nachfolge in der Parteiführung beginnt.",
+    "Die politische Karriere von Hubert Aiwanger war stets von bemerkenswerter Kontroversität und großer Durchsetzungskraft geprägt. Er formte die Freien Wähler von einer kommunalen Vereinigung zu einer bundesweit beachteten politischen Kraft, die in Bayern fest in der Landesregierung verankert ist. Seine Rhetorik spaltete oft die Gemüter, doch seine Fähigkeit, die Alltagssorgen der ländlichen Bevölkerung aufzugreifen, verlieh ihm eine beachtliche Wählerbasis. Sein plötzlicher Tod zwingt die Partei nun, ihre inhaltliche Ausrichtung und strategische Führung ohne ihre prägendste Leitfigur grundlegend neu zu bewerten.",
+    "Das Ableben Aiwangers hinterlässt eine erhebliche politische Unsicherheit in der bayerischen Regierungskoalition kurz vor wichtigen landespolitischen Entscheidungen. Die Freien Wähler müssen nicht nur das Amt des Wirtschaftsministers neu besetzen, sondern auch die Position des stellvertretenden Ministerpräsidenten klären. Politische Beobachter gehen davon aus, dass die Nachfolgefrage komplizierte parteiinterne Debatten auslösen könnte. Dennoch steht am heutigen Tag die Trauer um einen Politiker im Vordergrund, der die bayerische Landespolitik über mehr als ein Jahrzehnt mit seiner unverwechselbaren Persönlichkeit entscheidend geprägt hat."
+   ]
+  }
+ ],
+ "desks": [
+  {
+   "name": "Luxembourg",
+   "stories": [
+    {
+     "source": "Luxemburger Wort",
+     "lang": "de",
+     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxORlVHOWM0aFAxUnBOV3dhV3pTZE5mMl8wdFUyRmVTSFEyUVlGUFdfT1NEVzJrbG9LRDZwWTZtbF9LVkpaSHhicHJVN3d2WUh2YUtGZXFkeDFsTXhGQzdkamtSc2V5M1FwNE5xci1lQzF4NkxWOVhnZDJ5YWhWc2JSSzJFRHZQWGxzcmhFbFJqUzdQWm91SkVWWnQwZWRRcVU?oc=5",
+     "headline": "Reboost: Eine Plattform, mehrere Investmentpfade",
+     "headlineEn": "Reboost: One platform, multiple investment paths",
+     "summary": "Die neue Finanzplattform Reboost erweitert das Angebot für Investoren am Finanzstandort Luxemburg erheblich. Mit verschiedenen strukturierten Anlagepfaden richtet sich die Initiative sowohl an institutionelle Akteure als auch an qualifizierte private Anleger, die nach flexiblen und maßgeschneiderten Strategien suchen. Die Plattform soll den Zugang zu diversifizierten Portfolios vereinfachen und gleichzeitig die administrative Effizienz bei der Verwaltung von Investmentfonds steigern. Branchenexperten betonen, dass solche digitalen Innovationen entscheidend sind, um die Wettbewerbsfähigkeit des Luxemburger Finanzsektors im internationalen Vergleich nachhaltig zu sichern, wobei das Projekt die Rolle des Großherzogtums als führendes europäisches Zentrum unterstreicht.",
+     "why": "Cette plateforme vise à renforcer l'attractivité et la compétitivité du secteur financier luxembourgeois face aux évolutions numériques.",
+     "paywalled": true,
+     "contested": "",
+     "chart": null
+    },
+    {
+     "source": "Luxemburger Wort",
+     "lang": "de",
+     "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNcVQzQlRXTnJBaFZmSzFydlpXcTN0NHEzZnZhTUFfTXN2NDFnNU00cXJkdVV5SU0xRFBReWhDUjdBYTFoaVNWMkJFZFFKVm9nbDI4aXdJV3VwOFd4bm14V3F4Z0lzRGZJT3R0cldnQzZWT0l3M216UjRHd1_eWXczamJqMVVfWUNCXzY4UUFPVW1JZ3BTTHRBckxNb1gyWDM5VU9xTlA1eEFfODdyZ2dfcGhxUlYtajVSb25n?oc=5",
+     "headline": "Koerich kauft Kultkneipe Duerfkessel und holt die Kegelbahn zurück",
+     "headlineEn": "Koerich buys iconic Duerfkessel pub and brings back the bowling alley",
+     "summary": "Die Gemeinde Koerich hat das traditionsreiche Lokal Duerfkessel offiziell erworben, um einen zentralen Treffpunkt für das dorfeigene Gemeinschaftsleben dauerhaft zu erhalten. Mit diesem strategischen Ankauf sichert die Schöffenratsspitze nicht nur das historische Gebäude, sondern plant auch die Wiedereröffnung der integrierten Kegelbahn als sozialen Treffpunkt. Die Gemeindeverwaltung beabsichtigt, die Räumlichkeiten schrittweise zu renovieren und den Dorfbewohnern sowie örtlichen Vereinen zur Verfügung zu stellen. Dieser Schritt stößt in der Bevölkerung auf breite Zustimmung, da der Erhalt des traditionsreichen Gastbetriebs als wichtiger Impuls für den Zusammenhalt in der Kommune gewertet wird.",
+     "why": "L'acquisition par la commune préserve le patrimoine local et soutient la vie communautaire dans les zones rurales luxembourgeoises.",
+     "paywalled": true,
+     "contested": "",
+     "chart": null
+    },
+    {
+     "source": "Luxemburger Wort",
+     "lang": "de",
+     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQbVd4Qkl1N0pLbXQ1d2FSMzBwNE1xMERxUzE2ZUtzRF96TTNNY2lFcUhKclNBd3ZBRFVkTzhld1g0eHRiUi0tdEs1aVR3RXFVMUFLaGphQ1JoZmVtZmNmbldMcXNOY29MU1dEVUNKOFE5NTdieE0zc2ExRUhNejBfZDhiQUo5Szl0M3ZOOENLczMyQUt1YVh4c011RW5aNUVmR1VqdXhFTlBlb3B0djFB?oc=5",
+     "headline": "Wieder Hoffnung: ARRI Rental hält an Luxemburg als Filmstandort fest",
+     "headlineEn": "Renewed hope: ARRI Rental sticks with Luxembourg as a film location",
+     "summary": "Das internationale Filmtechnikunternehmen ARRI Rental hat bekannt gegeben, seine Aktivitäten in Luxemburg weiterzuführen und dem Großherzogtum als Produktionsstandort die Treue zu halten. Diese Entscheidung bringt der heimischen Filmbranche nach einer Phase der Unsicherheit neue Zuversicht und stärkt den audiovisuellen Sektor im Land. Das Unternehmen bietet spezialisierte Kamera- und Lichttechnik für internationale sowie lokale Filmprojekte an. Vertretungen der luxemburgischen Filmförderung werten das Bekenntnis als Bestätigung für die hohe Qualität der hiesigen Infrastruktur und der Fachkräfte, wodurch weiterhin ausländische Produktionen angezogen werden sollen.",
+     "why": "Le maintien d'ARRI Rental rassure l'industrie audiovisuelle luxembourgeoise et renforce l'attractivité du pays pour les tournages internationaux.",
+     "paywalled": true,
+     "contested": "",
+     "chart": null
+    }
+   ]
+  },
+  {
+   "name": "Monde / géopolitique",
+   "stories": [
+    {
+     "source": "France 24",
+     "lang": "fr",
+     "url": "https://www.france24.com/fr/vid%C3%A9o/20261105-mobilisations-en-france-des-lyc%C3%A9ens-maintiennent-les-blocus-avant-le-cort%C3%A8ge",
+     "headline": "Mobilisations en France : des lycéens maintiennent les blocus avant le cortège",
+     "headlineEn": "Protests in France: High school students maintain blockades ahead of rally",
+     "summary": "Des milliers de personnes manifestent ce jeudi dans toute la France pour protester contre la hausse du coût de la vie et réclamer des augmentations salariales ainsi que des moyens accrus pour les services publics. Dès le matin, des lycéens et des étudiants ont instauré des blocus devant plusieurs établissements scolaires, notamment à Aubervilliers où des tensions ont nécessité une intervention policière. Les organisations syndicales anticipent des rassemblements majeurs dans les grandes métropoles telles que Paris et Lyon sous une surveillance policière renforcée. Cette journée de grève nationale traduit une exaspération croissante face aux difficultés économiques des ménages.",
+     "why": "La détérioration du pouvoir d'achat et la tension sociale en France menacent de paralyser des secteurs clés et d'accentuer la pression politique sur le gouvernement.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    },
+    {
+     "source": "DW (Deutsch)",
+     "lang": "de",
+     "url": "https://www.dw.com/de/cristiano-ronaldo-beendet-nationalmannschaftskarriere-portugals-ikone-verabschiedet-sich-mit-emotionaler-botschaft/a-79864554?maca=de-rss-de-all-1119-rdf",
+     "headline": "Cristiano Ronaldo beendet Nationalmannschaftskarriere - Portugals Ikone verabschiedet sich mit emotionaler Botschaft",
+     "headlineEn": "Cristiano Ronaldo ends international career - Portugal icon bids farewell with emotional message",
+     "summary": "Der portugiesische Fußballstar Cristiano Ronaldo hat seinen Rücktritt aus der Nationalmannschaft nach mehr als zwei Jahrzehnten offiziell bekannt gegeben. Der 41-jährige Ausnahmespieler verabschiedete sich mit einer emotionalen Botschaft in den sozialen Medien und verkündete das Ende seiner Karriere im Nationaltrikot. Während seiner beispiellosen Laufbahn absolvierte der Angreifer 234 Länderspiele für sein Heimatland und erzielte dabei 146 Tore, womit er zahlreiche Rekorde im Weltfußball aufstellte. Der selbstbestimmte Abgang erfolgt jedoch nicht ohne Zwischentöne, da Berichte über Differenzen mit dem Nationaltrainer den Abschied der Ikone begleiten.",
+     "why": "La fin de carrière internationale de l'une des plus grandes figures du football marque un tournant symbolique majeur pour le sport mondial.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    },
+    {
+     "source": "France 24",
+     "lang": "fr",
+     "url": "https://www.france24.com/fr/vid%C3%A9o/20261105-france-la-banque-cr%C3%A9dit-mutuel-ark%C3%A9a-victime-d-une-cyberattaque",
+     "headline": "France : la banque Crédit mutuel Arkéa victime d’une cyberattaque",
+     "headlineEn": "France: Crédit Mutuel Arkéa bank targeted in major cyberattack",
+     "summary": "Le groupe bancaire français Crédit Mutuel Arkéa a été frappé par une cyberattaque massive qui a entraîné le détournement d'environ 100 millions d'euros. Selon les premiers éléments divulgués, les fonds volés ont été rapidement convertis en cryptomonnaies afin d'en masquer la traçabilité. Le parquet de Paris a immédiatement ouvert une enquête préliminaire confiée aux services spécialisés dans la lutte contre la cybercriminalité. Cet incident critique survient dans un contexte de vulnérabilité accrue des infrastructures financières et commerciales européennes face à des piratages informatiques toujours plus sophistiqués.",
+     "why": "Ce piratage d'une ampleur inédite illustre la vulnérabilité croissante des institutions financières face aux cyberattaques et aux détournements en cryptomonnaies.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    }
+   ]
+  },
+  {
+   "name": "International — hors Europe",
+   "stories": [
+    {
+     "source": "Al Jazeera",
+     "lang": "en",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/5/new-yorkers-rally-against-gun-violence-after-ghanaian-teens-killing?traffic_source=rss",
+     "headline": "New Yorkers rally against gun violence after Ghanaian teen’s killing",
+     "headlineEn": "Manifestation à New York contre la violence par armes à feu après le meurtre d'un adolescent ghanéen",
+     "summary": "Hundreds of residents gathered in New York City to demand justice for Javits Frimpong, a 15-year-old Ghanaian boy shot and killed in the Bronx last month. Demonstrators marched through the streets calling for stricter gun control laws and immediate municipal action to curb rising street violence affecting immigrant communities. Community leaders emphasized that gun-related casualties continue to devastate families, urging local authorities to allocate more resources toward youth protection and violence prevention programs. The rally highlights growing public frustration over public safety concerns and handgun proliferation across urban neighborhoods in the United States.",
+     "why": "La mobilisation à New York souligne les tensions persistantes autour de la sécurité urbaine et de la prolifération des armes à feu aux États-Unis.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    },
+    {
+     "source": "BBC",
+     "lang": "en",
+     "url": "https://www.bbc.co.uk/news/articles/cwp9g3rlp8jlo?at_medium=RSS&at_campaign=rss",
+     "headline": "Joshua Wong, face of Hong Kong's pro-democracy protests, jailed for 10 years",
+     "headlineEn": "Joshua Wong, figure des manifestations prodémocratie à Hong Kong, condamné à 10 ans de prison",
+     "summary": "Prominent democracy activist Joshua Wong has been sentenced to an additional 10 years in prison by a Hong Kong court under the national security law. The 30-year-old former student leader was accused of conspiracy to collude with foreign forces, following previous detentions related to his role in the 2014 and 2019 protests. Rights groups and Western governments have condemned the harsh sentencing as a further erosion of judicial independence and civil liberties in the territory. Human rights advocates warn that Beijing continues to use legal mechanisms to systematically silence political opposition.",
+     "why": "Cette lourde condamnation confirme l'étouffement systématique de l'opposition politique et de la liberté d'expression par le gouvernement de Hongkong.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    },
+    {
+     "source": "AP News",
+     "lang": "en",
+     "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQeE5oQXFGa09VUTdRT0VxOFYxN1FyMkI2MWlzZzVpaEpINjZzcVFjdnlxb18zOENiQXJaaDFvVG5CWkM5V1JhaTA4Y1VJM3R6QkFxQjgzTGhRUHBSMjl2SkxJTktVX19CbjBLRnFxc0d4NWNKQ0xLU1RlU3dMYjdMeVRYT1BvcEF6WVRsTHN3?oc=5",
+     "headline": "Israel's president takes first steps on building new government after accepting election results",
+     "headlineEn": "Le président israélien entame les démarches pour former un nouveau gouvernement après la validation des résultats",
+     "summary": "Israeli President Isaac Herzog has officially accepted the certified results of last week's parliamentary election and initiated formal consultations with elected party leaders. The discussions aim to determine which political candidate has the best chance of building a stable governing coalition in the Knesset. Prime Minister Benjamin Netanyahu faces tough negotiations amid fierce political division and allegations regarding voter turnout in Arab sectors. Herzog urged all parliamentary factions to prioritize national unity and legislative stability as the country navigates significant regional security challenges and economic pressures.",
+     "why": "Le processus de formation de coalition en Israël s'annonce complexe dans un contexte de profondes divisions politiques et d'enjeux sécuritaires majeurs.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    },
+    {
+     "source": "AFP.com",
+     "lang": "en",
+     "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBiSzZjTTNLeXVxcnVqQVlvb3RLQXZEd1hUTG5qc3pZSm1Zd05ya1dTZV9ic2pVRl9MWUI2VEV5T21lMFMxX2t5ejJrcw?oc=5",
+     "headline": "Paraguay opposition seeks president's removal over banking crisis",
+     "headlineEn": "L'opposition au Paraguay demande la destitution du président face à la crise bancaire",
+     "summary": "Opposition lawmakers in Paraguay have initiated formal political proceedings seeking the impeachment of the president following a severe banking crisis that shook the nation's financial system. Critical voices accuse the administration of gross negligence and failure to regulate key financial institutions, which led to widespread liquidity shortages. Protesters have gathered near government headquarters demanding executive accountability and immediate economic reforms to safeguard citizen deposits. The president's supporters maintain that the crisis was caused by external market turbulence and argue that opposition attempts to remove the head of state are politically motivated.",
+     "why": "La crise financière menace la stabilité politique du Paraguay et risque d'aggraver l'incertitude économique dans le pays.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    },
+    {
+     "source": "Council on Foreign Relations",
+     "lang": "en",
+     "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQdzZKMkhBVFVPeU5mVkdPZ2JkYTIyajkzVVFMNnZ1Y0prUEpibWpMeEpiVVhBWnNqSkhRUVhsNGFVbmRvZHQ0akduR3V6ZlViaEtPZzdMMjg5emdwWW9SVnAxLTRsMFlERXFNbFhXM0paZnlDZ3N4aC1BY1dzYVBYa0hxUWE3d0lhaHJSMWNDOUpHOThvNWQ2ZGY2aS1SUFRGTDZsNGNVNC1XZkp4MGc?oc=5",
+     "headline": "Democrats Win Control of Congress. Here’s How That Could Affect U.S. Foreign Policy.",
+     "headlineEn": "Les démocrates prennent le contrôle du Congrès : les retombées sur la politique étrangère américaine",
+     "summary": "An analysis from the Council on Foreign Relations examines how the Democratic takeover of Congress will reshape Washington's diplomatic posture over the next two years. Although President Donald Trump retains veto powers and executive control over foreign military operations, congressional committees gain substantial oversight mechanisms over defense spending, trade tariffs, and diplomatic nominations. Lawmakers are expected to push for heightened scrutiny of White House policy regarding international conflicts, particularly negotiations involving Ukraine and Middle Eastern stability. Experts conclude that while radical policy pivots remain constrained, legislative oversight will create friction for executive initiatives.",
+     "why": "L'analyse souligne les limites du pouvoir exécutif américain à l'étranger face à un Congrès dominé par l'opposition démocrate.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    }
+   ]
+  },
+  {
+   "name": "Europe & politiques de l'UE",
+   "stories": [
+    {
+     "source": "Euronews [EN]",
+     "lang": "en",
+     "url": "https://www.euronews.com/video/2026/11/05/france-workers-and-students-unite-in-nationwide-protests-over-living-costs",
+     "headline": "France: Workers and students unite in nationwide protests over living costs",
+     "headlineEn": "France : les travailleurs et les étudiants s'unissent lors de manifestations nationales sur le coût de la vie",
+     "summary": "Thousands of workers, students, and trade union members took part in mass nationwide strikes and demonstrations across France on Thursday to protest against rising living costs. Organizers are demanding an immediate substantial increase in the minimum wage, higher earnings for all workers, and stronger financial support for essential public services. Authorities in major urban centers, including Paris and Lyon, have imposed strict route restrictions as high school blockades and student marches unfolded ahead of main afternoon rallies. Five major French trade unions joined forces for this national day of action, reflecting mounting public frustration over declining purchasing power.",
+     "why": "Ces grèves nationales reflètent la pression croissante de l'inflation sur les ménages européens et la contestation des politiques budgétaires.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    },
+    {
+     "source": "PBS News [EN]",
+     "lang": "en",
+     "url": "https://www.pbs.org/newshour/world/spains-transport-minister-steps-down-6-days-after-high-speed-train-crash-that-killed-69-people",
+     "headline": "Spain's transport minister steps down 6 days after high-speed train crash that killed 69 people",
+     "headlineEn": "Le ministre espagnol des Transports démissionne 6 jours après l'accident de train à grande vitesse qui a fait 69 morts",
+     "summary": "Spain's transport minister has resigned six days after a catastrophic high-speed train crash that claimed the lives of 69 people. Prior to his formal departure, the outgoing minister announced several comprehensive railway safety measures aimed at preventing future transport disasters. These immediate initiatives include structural upgrades to traffic control centers and an accelerated rollout of the European Rail Traffic Management System across the entire national network. The tragic accident has intensified intense political pressure and public scrutiny regarding railway infrastructure investment and safety standards.",
+     "why": "Cette démission souligne les exigences de responsabilité politique et les défis d'harmonisation de la sécurité ferroviaire en Europe.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    },
+    {
+     "source": "DW [EN]",
+     "lang": "en",
+     "url": "https://www.dw.com/en/36-years-later-hungary-opens-communist-era-secret-service-files/a-79858016?maca=en-rss-en-world-4025-rdf",
+     "headline": "36 years later: Hungary opens Communist-era secret service files",
+     "headlineEn": "36 ans plus tard, la Hongrie ouvre les archives des services secrets de l'ère communiste",
+     "summary": "Thirty-six years after the collapse of Soviet rule, Hungary is finally releasing all of its Communist-era secret service files to the public. The complete disclosure of these historical archives is sparking a renewed national debate regarding former government informants, individual guilt, and moral responsibility under the previous regime. Historians, journalists, and private citizens will now gain direct access to extensive documents detailing state surveillance networks and covert political monitoring. This long-awaited transparency initiative represents a crucial step in Hungary's effort to address historical memory and legal accountability.",
+     "why": "L'ouverture de ces archives relance le travail de mémoire historique et de transparence sur le passé communiste en Europe centrale.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    }
+   ]
+  },
+  {
+   "name": "Économie & marchés",
+   "stories": [
+    {
+     "source": "FT [EN]",
+     "lang": "en",
+     "url": "https://www.ft.com/content/290cf85b-6d95-4c79-af9b-e2a3d79072f6?syn-25a6b1a6=1",
+     "headline": "Bank of England raises interest rates to 4% in bid to tame inflation",
+     "headlineEn": "La Banque d'Angleterre relève ses taux d'intérêt à 4 % pour juguler l'inflation",
+     "summary": "The Bank of England has raised its benchmark interest rate to 4% in a renewed effort to curb persistent inflationary pressures. This decision marks the central bank's first increase in borrowing costs since 2023 as policymakers respond to sustained price growth. Governor Andrew Bailey held a press conference following the announcement to explain the monetary policy committee's reasoning and outlook for the British economy. Higher borrowing rates are intended to cool economic activity, though analysts warn they could place additional financial strain on mortgage holders and businesses across the United Kingdom.",
+     "why": "Cette hausse de taux signale le maintien d'une politique monétaire restrictive en Europe face aux tensions inflationnistes.",
+     "paywalled": true,
+     "contested": "",
+     "chart": null
+    },
+    {
+     "source": "AP [EN]",
+     "lang": "en",
+     "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPSEtETVdDVnpDVFhqVmpJNTdBUURHcFg0YkhsOVdwcFo2YzNqSTl5Q18zUXVZV1Vrck8tLTFtcEYtOEFOX2hMMUo1UXJyMDRPQWp2Qld4Yk9iSWszUEtuMkc0dUo4d003eTN5V0VnRmEwVG9VUjBiMGVxVlc3SWg2TC1YdGFmb0FMMlFuVlVJOE1BalE?oc=5",
+     "headline": "Stocks surge, and the Dow soars 1,500 points as oil prices tumble following the US midterm elections",
+     "headlineEn": "Les actions s'envolent et le Dow prend 1 500 points alors que le pétrole chute après les midterms américaines",
+     "summary": "Global equity markets rallied sharply following the results of the United States midterm elections, with the Dow Jones Industrial Average surging by 1,500 points. Concurrently, international crude oil prices experienced a steep decline as market participants reacted to changing geopolitical and economic expectations. Investors interpret the Democratic sweep of Congress as a significant check on aggressive White House executive actions and trade policy uncertainty. The widespread financial rally reflected optimism among market participants that divided government in Washington will promote legislative moderation and curb extreme policy shifts.",
+     "why": "La réaction euphorique des marchés illustre l'impact immédiat de la politique américaine sur les indices mondiaux et le prix de l'énergie.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    },
+    {
+     "source": "France 24 [FR]",
+     "lang": "fr",
+     "url": "https://www.france24.com/fr/vid%C3%A9o/20261105-france-la-banque-cr%C3%A9dit-mutuel-ark%C3%A9a-victime-d-une-cyberattaque",
+     "headline": "France : la banque Crédit mutuel Arkéa victime d’une cyberattaque",
+     "headlineEn": "France: Bank Crédit Mutuel Arkéa victim of a cyberattack",
+     "summary": "Le groupe bancaire français Crédit Mutuel Arkéa a révélé avoir été la cible d'une vaste cyberattaque ayant entraîné le détournement d'environ 100 millions d'euros. Selon les premières informations communiquées par les autorités, les sommes dérobées auraient été rapidement converties en cryptomonnaies par les cybercriminels afin d'effacer les traces des transactions. Le parquet de Paris a immédiatement ouvert une enquête judiciaire d'ampleur pour intrusion informatique et vol en bande organisée. Cet incident majeur souligne la vulnérabilité persistante des institutions financières européennes face à des attaques informatiques sophistiquées.",
+     "why": "Ce piratage massif illustre la menace grandissante de la cybercriminalité financière et les défis de sécurité pour le secteur bancaire européen.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    }
+   ]
+  }
+ ],
+ "sourced": true,
+ "feeds": {
+  "ok": 27,
+  "of": 29,
+  "items": 247,
+  "skipped": [
+   "Euronews (FR): HTTP 406",
+   "Washington Post (EN): HTTP 502"
+  ]
+ },
+ "words": 3643,
+ "readMin": 18,
+ "storyCount": 20
+}
