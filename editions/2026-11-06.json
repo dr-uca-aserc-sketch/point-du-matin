@@ -1,0 +1,405 @@
+{
+ "date": "2026-11-06",
+ "kind": "daily",
+ "heat": 0.85,
+ "oneThing": "A historic tech stock rout wiped out over two trillion dollars following Democratic midterm victories and growing fears of artificial intelligence regulation.",
+ "followUps": [
+  {
+   "n": "01",
+   "thread": "Retombées des élections américaines de mi-mandat",
+   "change": "Après la défaite des républicains, le président Donald Trump a signé un décret pour protéger l'aménagement du Bureau ovale tout en réfutant les rumeurs de remaniement au sein de son administration."
+  },
+  {
+   "n": "02",
+   "thread": "Frappes russes et crise humanitaire en Ukraine",
+   "change": "Le bilan du bombardement d'un point de distribution d'aide humanitaire à Komychouvakha s'est lourdement aggravé pour atteindre au moins cinquante morts alors que sept régions subissent de nouvelles coupures d'électricité."
+  },
+  {
+   "n": "03",
+   "thread": "Peine de mort aux États-Unis",
+   "change": "Le gouverneur de Californie Gavin Newsom a annoncé la commutation des peines de 548 condamnés à mort en réclusion à perpétuité sans possibilité de libération conditionnelle."
+  }
+ ],
+ "mustReads": [
+  {
+   "desk": "Économie & Tech",
+   "source": "The Wall Street Journal",
+   "lang": "EN",
+   "paywalled": true,
+   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE10SnF2czRFZktMVElNOWFRby1Ra21tSm50TXVWNXVsUUJYeVN6SjBIZmJBdEpFZ3JYR3ZqQllvNkNCYlhVZjJjZW5yZ2QzWkVydVNKWmx1OTFHWERDb29MMjRR?oc=5",
+   "headline": "Wall Street Gets $2.5 Trillion AI Reality Check With Historic Rout of Tech Stocks",
+   "headlineEn": "Wall Street subit un rappel à la réalité de 2 500 milliards de dollars sur l'IA après un effondrement historique des valeurs technologiques",
+   "contested": "",
+   "why": "Cette dégringolade boursière majeure reflète l'inquiétude croissante des investisseurs quant à la régulation des centres de données et de l'intelligence artificielle après les midterms.",
+   "stat": "$2.5T",
+   "statLabel": "perte de valeur boursière enregistrée sur les marchés technologiques mondiaux",
+   "chart": null,
+   "paras": [
+    "Global financial markets experienced a severe shock on Thursday as technology stocks suffered an extraordinary selloff. Investors fled high-flying artificial intelligence equities following political shifts in the United States midterm elections. The broad decline wiped out approximately two point five trillion dollars in market value within a single trading session. Key technology indices recorded their sharpest losses in years as trading algorithms and systematic funds accelerated the downturn. Major semiconductor manufacturers and cloud infrastructure providers bore the brunt of the liquidation across global exchanges as market participants reassessed future earnings projections and capital expenditure commitments.",
+    "The market turmoil was triggered primarily by political uncertainty following the Democratic victory in the congressional midterms. Wall Street analysts point to heightened anxieties over potential regulatory crackdowns on data centers and artificial intelligence infrastructure. Investors fear that a new legislative majority will push for stringent energy consumption rules and stricter oversight of technology giants. These policy concerns created immediate panic among institutional investors who had accumulated concentrated bets on AI sector growth. The resulting wave of selling spread rapidly from New York to Asian and European equity markets throughout the trading day.",
+    "Hedge funds and systematic quantitative strategies contributed significantly to the market acceleration. As key technical support levels broke, automated trading systems triggered massive sell orders across multiple exchanges. Fast-money managers dumped long positions to mitigate risk and meet margin calls. Market liquidity thinned dramatically during peak afternoon trading hours, compounding price volatility for major tech firms. Financial institutions reported widespread position reductions as risk managers enforced strict exposure limits across equity desks. The speed and depth of the market withdrawal caught many retail and institutional investors completely unprepared.",
+    "The selloff was not confined to North American stock exchanges. Asian markets suffered steep declines overnight as chipmakers in South Korea, Taiwan, and Japan faced heavy selling pressure. European equity markets also saw technology shares decline, though some investors began rotating capital into European value stocks. Financial analysts noted that high valuations had left the artificial intelligence ecosystem particularly vulnerable to shift in macroeconomic sentiment. The rapid repricing highlights how heavily global market capitalizations have become concentrated in a handful of prominent technology and semiconductor companies over recent months.",
+    "Corporate executives and industry analysts are now assessing the long-term impact on planned capital investments. Massive expenditures on data center expansion and custom silicon hardware are facing intense scrutiny from shareholders. Some market observers argue that the downturn represents a necessary valuation adjustment after months of speculative enthusiasm. However, others warn that tighter financial conditions and regulatory friction could slow the deployment of advanced software technologies. Industry leaders emphasize that underlying technological demand remains structurally sound despite short-term market turbulence and political headwind.",
+    "Uncertainty remains elevated across global trading floors as investors await upcoming economic reports and policy announcements. Treasury yields fluctuated sharply as capital sought safety in sovereign debt instruments while commodity prices adjusted to changing growth expectations. Market strategists anticipate continued price volatility until political clarity emerges regarding prospective technology legislation. The dramatic market swing underscores the delicate balance between political developments in Washington and global asset pricing. Trillions of dollars in market valuation now depend on how quickly regulatory frameworks and corporate spending plans adapt."
+   ]
+  },
+  {
+   "desk": "International & Politique",
+   "source": "Deutsche Welle",
+   "lang": "DE",
+   "paywalled": false,
+   "url": "https://www.dw.com/de/paraguay-präsident-droht-amtsenthebung-nach-bankenskandal/a-79873533?maca=de-rss-de-all-1119-rdf",
+   "headline": "Paraguay: Präsident droht Amtsenthebung nach Bankenskandal",
+   "headlineEn": "Paraguay: President faces impeachment after banking scandal",
+   "contested": "",
+   "why": "La faillite de la banque Ueno a bloqué les économies de millions de Paraguayens et plongé le gouvernement de Santiago Peña dans une crise politique majeure.",
+   "stat": "",
+   "statLabel": "",
+   "chart": null,
+   "paras": [
+    "Paraguay befindet sich in einer tiefen politischen und wirtschaftlichen Krise nach dem plötzlichen Zusammenbruch der Ueno-Bank. Der Staatspräsident Santiago Peña steht unter enormem Druck, da ihm eine gerichtliche Untersuchung und ein Amtsenthebungsverfahren bevorstehen. Das Scheitern des Finanzinstituts hat Millionen von Kunden den Zugang zu ihren Ersparnissen versperrt und landesweite Entrüstung ausgelöst. Tausende Bürger sind in den Straßen der Hauptstadt Asunción zusammengekommen, um den Rücktritt der Regierungsspitze zu fordern. Die Staatsanwaltschaft ermittelt nun wegen mutmaßlichen Finanzbetrugs und des Verdachts auf Veruntreuung öffentlicher Gelder im Zusammenhang mit den Bankgeschäften.",
+    "Präsident Peña hatte am Donnerstag seinen Rücktritt angeboten, um die Wogen in der Bevölkerung zu glätten. Das Parlament lehnte dieses Gesuch jedoch ab und sprach sich stattdessen für ein förmliches Amtsenthebungsverfahren aus. Die Abgeordneten betonen, dass eine lückenlose juristische Aufarbeitung der Verantwortlichkeiten notwendig sei. Peña, ein früherer Ökonom und ehemaliger Finanzminister, galt einst als Hoffnungsträger der regierenden Partei. Nun wird ihm vorgeworfen, seine politischen Verbindungen genutzt zu haben, um das inschuldengeratene Institut zu stützen. Die Opposition fordert eine umfassende Überprüfung aller staatlichen Aufsichtsbehörden und Finanztransaktionen der vergangenen Jahre.",
+    "Der Zusammenbruch der Bank hat gravierende Auswirkungen auf das alltägliche Leben im südamerikanischen Land. Fast die Hälfte der Bevölkerung besitzt Konten bei diesem Institut oder ist direkt von den Dienstleistungen abhängig. Kleinunternehmer und Familien stehen ohne liquide Mittel da, da Gehaltszahlungen und Überweisungen vollständig blockiert sind. Bürgerproteste dauern in mehreren Städten an, wobei Demonstranten Transparenz und die sofortige Freigabe ihrer Ersparnisse verlangen. Die Notenbank des Landes versucht, das Vertrauen in das Bankensystem wiederherzustellen, doch die Unsicherheit unter den Marktteilnehmern bleibt extrem hoch.",
+    "Internationale Beobachter verfolgen die Lage in Paraguay mit großer Sorge um die Stabilität der Region. Die Krise bedroht nicht nur das Finanzsystem, sondern könnte auch die wirtschaftliche Entwicklung des Landes nachhaltig lähmen. Vorwürfe der Korruption und des Missmanagements erschüttern die Vertrauensbasis zwischen Bürgern und staatlichen Institutionen. Die Staatsanwaltschaft hat angekündigt, Anklage gegen mehrere leitende Manager der Bank sowie beteiligte Regierungsbeamte zu erheben. Ein Ermittlungsteam untersucht derzeit zahlreiche Dokumente und digitale Transaktionen, um den Verbleib verschwundener Kundengelder aufzuklären.",
+    "Die politische Führung steht vor der Herausforderung, einen geordneten Übergang zu gewährleisten und weitere Krawalle zu verhindern. Abgeordnete verschiedener Parteien verhandeln über Übergangslösungen, falls die Amtsenthebung des Präsidenten erfolgreich verläuft. Das Parlament plant Sonderanalysen zur Finanzaufsicht, um künftig ähnliche Katastrophen im Bankensektor auszuschließen. Währenddessen wächst die Wut der Demonstranten vor dem Kongressgebäude weiter an. Viele Bürger befürchten, dass die politischen Auseinandersetzungen die Rettung ihrer Ersparnisse verzögern könnten, während die wirtschaftliche Notlage vieler Haushalte täglich zunimmt.",
+    "Die kommenden Tage werden entscheidend für die Zukunft Paraguays und seiner demokratischen Institutionen sein. Das eingeleitete Amtsenthebungsverfahren erfordert eine qualifizierte Mehrheit im Parlament, um den Präsidenten offiziell seines Amtes zu entheben. Strafverfolgungsbehörden arbeiten unter Hochdruck daran, alle Verantwortlichen für die Bankenpleite zur Rechenschaft zu ziehen. Die Bevölkerung fordert konsequente Reformen im Finanzsektor und wirksame Schutzmechanismen für private Ersparnisse. Paraguays Wirtschaft steht vor einer langwierigen Konsolidierungsphase, während das Land versucht, diese schwere Vertrauenskrise durch rechtsstaatliche Verfahren und Transparenz zu überwinden."
+   ]
+  },
+  {
+   "desk": "Sécurité & Transports",
+   "source": "La Repubblica",
+   "lang": "IT",
+   "paywalled": true,
+   "url": "https://www.repubblica.it/cronaca/2026/11/06/diretta/alllarmi_bomba_ryanair_roma_lisbona-425703663/",
+   "headline": "Un’altra giornata di allarmi bomba: voli bloccati, evacuate a Dublino le sedi di due media",
+   "headlineEn": "Another day of bomb scares: flights grounded, two media headquarters evacuated in Dublin",
+   "contested": "",
+   "why": "Une série d'alertes à la bombe malveillantes perturbe gravement le trafic aérien européen et cible des médias à quelques jours de sommets internationaux.",
+   "stat": "",
+   "statLabel": "",
+   "chart": null,
+   "paras": [
+    "Un ennesimo'ondata di allarmi bomba ha sconvolto i cieli europei provocando il blocco di numerosi voli e l'evacuazione di importanti sedi mediatiche. Per la terza volta nel corso di questa settimana, le autorita di diversi paesi si sono trovate ad affrontare una serie di minacce coordinate. Tra gli episodi piu gravi, un volo della compagnia Ryanair diretto a Lisbona e stato deviato con scorta militare, mentre un aeroplano Wizzair in viaggio verso Roma e stato costretto ad atterrare a Venezia. Almeno otto voli in partenza o in arrivo a Praga hanno subito forti ritardi.",
+    "La tensione e salita notevolmente anche nella capitale irlandese, dove gli uffici di due importanti testate giornalistiche sono stati evacuati d'urgenza. Le sedi di The Irish Independent e della tv pubblica Rte a Dublino hanno ricevuto chiamate anonime che segnalavano la presenza di ordigni esplosivi all'interno degli edifici. Le forze dell'ordine hanno immediatamente isolato le aree interessate per condurre le necessarie verifiche con le unita cinofile. Questi incidenti si verificano a soli pochi giorni da due vertici europei di grande rilevanza che vedranno la partecipazione di cinquanta leader internazionali a Dublino.",
+    "I caccia militari di varie forze aeree europee sono decollati in emergenza per scortare gli aerei commerciali fin dai primi allarmi. Le procedure di sicurezza prevedono il controllo immediato di tutti i bagagli e dei passeggeri una volta che i velivoli toccano terra in zone isolate degli aeroporti. Gli ispettori della sicurezza non hanno trovato alcun materiale pericoloso a bordo dei velivoli controllati nelle ultime ore. Gli inquirenti internazionali stanno ora collaborando per identificare l'origine di queste chiamate minatorie che stanno creando enormi disagi alla circolazione aerea in tutto il continente.",
+    "I responsabili dell'aviazione civile europea hanno espresso forte preoccupazione per il ripetersi di questi falsi allarmi deliberati e malevoli. Le compagnie aeree sono costrette a sostenere ingenti costi operativi a causa delle deviazioni forzate, dei ritardi accumulati e dei carburanti consumati. I passeggeri hanno vissuto ore di grande ansia a bordo dei voli interessati dalle scorte militari e dalle procedure d'emergenza. Le autorita investigative sospettano che dietro questa campagna di intimidazione ci sia un piano ben strutturato mirato a destabilizzare il traffico aereo e la sicurezza pubblica.",
+    "L'impatto di questi allarmi si e fatto sentire in diversi scali strategici come Lisbona, Venezia, Dublino e Praga. Le operazioni aeroportuali hanno subito rallentamenti significativi a causa dei protocolli di bonifica applicati rigorosamente dai reparti speciali delle forze dell'ordine. Gli esperti di sicurezza informatica e telecomunicazioni stanno tracciando le telefonate e i messaggi per risalire agli autori delle minacce. Nel frattempo, i governi coinvolti hanno rafforzato le misure di vigilanza attorno alle infrastrutture critiche e alle sedi istituzionali in vista dei prossimi appuntamenti diplomatici internazionali.",
+    "Mentre le indagini proseguono a livello sovranazionale, le autorita europee ribadiscono l'importanza di mantenere la massima attenzione senza cedere al panico. Le forze di polizia stanno analizzando ogni elemento utile per determinare se vi sia una regia unica dietro gli attacchi informatici e le false segnalazioni. La sicurezza dei voli rimane la priorita assoluta per i vettori aerei e per le agenzie di controllo del traffico. L'opinione pubblica e le istituzioni attendono risposte chiare sulle responsabilita di questa serie di atti che continuano a turbare la tranquillita dei viaggiatori europei."
+   ]
+  }
+ ],
+ "desks": [
+  {
+   "name": "Luxembourg",
+   "stories": [
+    {
+     "source": "RTL.lu",
+     "lang": "fr",
+     "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPUzNtLW9MV2FJX3JfX01mWXU5dWZOOGNuRmVOcnJpdXZTb1dzWDA2NVFNVVlIR09YNVljb25sMEdBY2UtRHgycGlmT2oyOF9abDJCNmZKQXZCREhPamlqNW1UMEdPdklieGxRajNvdmY6OWsycTZuNTdqRFMteEtubzlpY2RmZ3FqZkdpdTFjemdwY2o4RXdVTVdIN0p0dTdrYWVWcW84R2laWi1LZ3ptN29saWZQMnYxT0E?oc=5",
+     "headline": "Luxembourg: Georges Engel plaide pour une sortie progressive du tourisme à la pompe",
+     "headlineEn": "Luxembourg: Georges Engel calls for gradual phase-out of tank tourism",
+     "summary": "L'ancien ministre de la Santé et du Travail, Georges Engel, s'est prononcé en faveur d'une sortie progressive du tourisme à la pompe au Luxembourg. Selon le député socialiste, la dépendance fiscale du Grand-Duché envers les recettes tirées des carburants vendus aux transfrontaliers doit impérativement diminuer au cours des prochaines années. Cette transition s'inscrirait dans une logique d'alignement avec les objectifs climatiques européens et de modernisation des finances publiques nationales. L'élu préconise ainsi une stratégie d'ajustement graduel des accises afin d'éviter un choc brutal pour les recettes de l'État tout en préparant le pays à l'après-pétrole.",
+     "why": "Cette proposition relance le débat crucial sur la soutenabilité des recettes fiscales luxembourgeoises issues de la vente de carburant aux automobilistes transfrontaliers.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    },
+    {
+     "source": "Luxemburger Wort",
+     "lang": "de",
+     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQVlZLbXpRUzlkVThNdUE6NU9GUXZRRGZHTF9tcVdqSTBaSmNORU45MDNTeGQyemNHdm1Pdi1fZkg2VXpSZDk4a0RWZGMtRHZBQnpLanFHUkwzZ3F0d2FyWkV6YThGeFBSMlBJb1kwa1F5bzZjbjdSLTNZdmFIbnBtVkVQc21ZYzJpWkxaT3JyaXEzeUwxcmhqVQ?oc=5",
+     "headline": "Luxemburg als Schleuse für Europas Wasserstoff",
+     "headlineEn": "Luxembourg as a gateway for Europe's hydrogen",
+     "summary": "Luxemburg könnte künftig eine zentrale Rolle im europäischen Energienetz einnehmen und als wichtige Schleuse für den Transit von Wasserstoff dienen. Durch den gezielten Ausbau grenzüberschreitender Infrastrukturen soll das Großherzogtum eng an die entstehenden europäischen Hauptnetzwerke angebunden werden. Ziel dieser Strategie ist es, die industrielle Dekarbonisierung in der gesamten Großregion nachhaltig voranzutreiben und die Energieversorgung langfristig zu sichern. Experten und Entscheidungsträger betonen, dass Luxemburg durch seine strategische Lage in Westeuropa optimale Voraussetzungen besitzt, um sich als Drehscheibe für grüne Energieträger zu etablieren und die regionale Energiewende aktiv mitzugestalten.",
+     "why": "L'intégration du Luxembourg dans le réseau européen d'hydrogène est stratégique pour assurer la transition énergétique et la décarbonation de son industrie.",
+     "paywalled": true,
+     "contested": "",
+     "chart": null
+    },
+    {
+     "source": "Luxemburger Wort",
+     "lang": "de",
+     "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPSXU4ekhEZ2NSZ1AwT0VVdVZqZkNPS3pUVnVLQmFpcDRvSVFWRmZZeGlQUllQdHNrTG1yTW9qY3hULTcwLXBGb0ZNT3ZxUlBfUmxXSmpKbkRqaDN4MEQzOFR2YThjNnNEQkp3OVNhZkx3RTNZSG1lV0RySTVjbmhnNnZQTHpndXV1NjBNdlJnQ1FuV3N2V0pGR2tsQ2RIMjBoOVVkWW1JYkpHNVg4dmtJTlZKU0ZkakpK?oc=5",
+     "headline": "V3-Beschuss auf Luxemburg: Spur zu Hitlers „Wunderwaffe“ führt ins Saarland",
+     "headlineEn": "V3 bombardment of Luxembourg: Traces of Hitler's 'wonder weapon' lead to Saarland",
+     "summary": "Eine historische Spurensuche beleuchtet den Beschuss Luxemburgs durch die deutsche V3-Kanone während des Zweiten Weltkriegs und führt direkt ins benachbarte Saarland. Neue Recherchen dokumentieren, wie die von den Nationalsozialisten als sogenannte Wunderwaffe entwickelte Hochdruckpumpe eingesetzt wurde, um Ziele im Großherzogtum zu treffen. Die historischen Analysen zeigen die engen geografischen und logistischen Verbindungen zwischen den Abschussstellungen im Saarland und den getroffenen Gebieten auf luxemburgischem Territorium. Diese Erkenntnisse vertiefen das Verständnis über die Spätphase des Krieges in der Großregion und erinnern an die schweren Zerstörungen sowie das Leid der Zivilbevölkerung.",
+     "why": "Ce rappel historique met en lumière la mémoire partagée et les tragédies subies par la Grande Région durant la Seconde Guerre mondiale.",
+     "paywalled": true,
+     "contested": "",
+     "chart": null
+    }
+   ]
+  },
+  {
+   "name": "Monde / géopolitique",
+   "stories": [
+    {
+     "source": "Reuters / Le Monde / France 24",
+     "lang": "fr",
+     "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPWml3dEZDYTZha00tSmtBSGUzNWJIOXZCMGtkVnY0WVo1NExxdXdWX2dyRXJTamR5NkRnRXVmV3VxRVJxbWoxSGZUTlg5LTd5MTVZSGtXekVDUTQ0V3ZxTTFTLWo5eGQ1Wnh0d2ZOZkxPZ3dnU01jV3l4RlRfM3diUUlIT25qTGUtUHVOSVZPejh0bHBKeHJLdTd4ZmxENjFhVUIwLW1HSlFGeXlxeVdxaDE5MEZYYmhLS3c?oc=5",
+     "headline": "Ukraine : le bilan du bombardement russe d'un point d'aide monte à plus de 50 morts",
+     "headlineEn": "Ukraine: Death toll from Russian bombing of aid point rises above 50",
+     "summary": "Le bilan du bombardement russe ayant touché un point de distribution d'aide humanitaire à Komychouvakha, dans le sud de l'Ukraine, s'est alourdi à plus de 50 morts. Les équipes de secours poursuivent leurs recherches dans les décombres de l'école où s'étaient rassemblés des civils pour recevoir des fournitures essentielles. Les autorités locales indiquent que plusieurs dizaines de personnes pourraient encore se trouver sous les ruines du bâtiment détruit. Cette frappe meurtrière sur une infrastructure civile suscite une vive indignation internationale alors que les attaques sur les zones résidentielles se multiplient dans la région.",
+     "why": "L'escalade des frappes contre des rassemblements civils et des centres d'aide humanitaire aggrave la crise humanitaire en Ukraine.",
+     "paywalled": false,
+     "contested": "France 24 fait état d'un bilan provisoire de 50 morts, tandis que Reuters et Le Monde rapportent 53 victimes confirmées.",
+     "chart": null
+    },
+    {
+     "source": "FAZ / DW",
+     "lang": "de",
+     "url": "https://www.faz.net/aktuell/politik/ukraine/donald-trump-verhandelt-mit-putins-vertrautem-ueber-die-ukraine-201658190.html",
+     "headline": "Ukraine-Konflikt: Trump stellt nach Treffen mit Kreml-Gesandtem Abkommen in Aussicht",
+     "headlineEn": "Ukraine conflict: Trump holds out prospect of agreement after meeting Kremlin envoy",
+     "summary": "US-Präsident Donald Trump hat im Weißen Haus einen engen Vertrauten des russischen Präsidenten Wladimir Putin empfangen und anschließend ein sehr großes Abkommen zur Beendigung des Ukraine-Kriegs in Aussicht gestellt. Die Gespräche fanden ohne direkte Beteiligung europäischer Partner statt, was in europäischen Hauptstädten und in Kiew für erhebliche Unruhe sorgt. Regierungsvertreter in Europa betonen, dass Verhandlungen über die Zukunft der Ukraine nicht ohne die Betroffenen und ohne NATO-Konsens geführt werden dürfen. Die diplomatischer Vorstoß Trumps unterstreicht die wachsenden Spannungen zwischen Washington und seinen traditionellen Verbündeten über den künftigen Kurs im Konflikt.",
+     "why": "Les négociations directes entre Washington et Moscou sans concertation européenne font craindre un accord imposé aux dépens de Kiev et de la sécurité européenne.",
+     "paywalled": true,
+     "contested": "",
+     "chart": null
+    },
+    {
+     "source": "Le Monde",
+     "lang": "fr",
+     "url": "https://www.lemonde.fr/international/article/2026/11/06/belgique-le-roi-refuse-la-demission-du-premier-ministre-bart-de-wever-presentee-sur-fond-de-blocage-budgetaire-au-parlement_6807784_3210.html",
+     "headline": "Belgique : le roi refuse la démission du premier ministre Bart De Wever",
+     "headlineEn": "Belgium: King rejects Prime Minister Bart De Wever's resignation",
+     "summary": "Le roi des Belges a refusé la démission présentée par le premier ministre Bart De Wever, sur fond de crise politique et de blocage budgétaire au Parlement. Le chef du gouvernement flamand cherche à imposer un plan d'assainissement budgétaire de 10 milliards d'euros d'ici 2029, auquel s'oppose fermement son partenaire de coalition, le Mouvement réformateur. Face à cette impasse institutionnelle, le souverain a demandé au Premier ministre de poursuivre ses consultations pour trouver un compromis budgétaire. La Belgique reste ainsi plongée dans une incertitude gouvernementale majeure alors que les échéances financières européennes se rapprochent à grands pas.",
+     "why": "La crise budgétaire belge menace la stabilité de la coalition gouvernementale et complique le respect des engagements financiers européens du pays.",
+     "paywalled": true,
+     "contested": "",
+     "chart": null
+    }
+   ]
+  },
+  {
+   "name": "International — hors Europe",
+   "stories": [
+    {
+     "source": "Al Jazeera",
+     "lang": "en",
+     "url": "https://www.aljazeera.com/news/2026/11/6/tanzania-court-jails-opposition-leader-for-incitement-lifts-treason-charge?traffic_source=rss",
+     "headline": "Tanzania court jails opposition leader for incitement, lifts treason charge",
+     "headlineEn": "Un tribunal de Tanzanie condamne un leader de l'opposition pour incitation mais abandonne l'accusation de trahison",
+     "summary": "A Tanzanian court has sentenced opposition leader Tundu Lissu to prison on charges of incitement, while dropping the more serious charge of treason against him. The decision enables the 58-year-old politician to avoid the potential death penalty associated with treason allegations. Lissu, who has been in custody since April of last year, maintains that the prosecution was politically motivated to stifle democratic opposition in the country. Human rights organizations and political supporters have voiced strong concerns over the ruling, pointing to a shrinking civic space and increasing judicial pressure on government critics in Tanzania.",
+     "why": "Le jugement contre le principal opposant tanzanien confirme le durcissement politique et le recul des libertés démocratiques en Afrique de l'Est.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    },
+    {
+     "source": "BBC / DW",
+     "lang": "en",
+     "url": "https://www.bbc.co.uk/news/articles/cm5yne5984l0o?at_medium=RSS&at_campaign=rss",
+     "headline": "Kenyan doomsday cult leader Paul Mackenzie sentenced over mass deaths",
+     "headlineEn": "Le chef d'une secte millénariste au Kenya condamné pour la mort de 191 personnes",
+     "summary": "Kenyan doomsday cult leader Paul Mackenzie has been sentenced by a court following his conviction for the murder of scores of followers in a remote forest. Mackenzie instructed hundreds of adherents, including many children, to starve themselves to death under the pretext of meeting Jesus before the end of the world. Investigators recovered dozens of bodies from mass graves in Shakahola forest during a lengthy forensic operation. The tragic case has shocked the nation and triggered widespread calls for stricter regulation of religious organizations and unregistered preaching groups across Kenya.",
+     "why": "Cette condamnation conclut l'une des affaires de dérive sectaire les plus meurtrières de l'histoire récente de l'Afrique.",
+     "paywalled": false,
+     "contested": "BBC fait état d'une peine de prison à perpétuité pour le meurtre de 191 personnes, alors que DW mentionne une peine de 200 ans de prison pour 191 victimes.",
+     "chart": null
+    },
+    {
+     "source": "Le Monde / France 24",
+     "lang": "fr",
+     "url": "https://www.lemonde.fr/afrique/article/2026/11/06/municipales-en-afrique-du-sud-l-anc-obtient-environ-30-des-voix-son-pire-score-apres-80-du-depouillement_6807783_3212.html",
+     "headline": "Municipales en Afrique du Sud : l’ANC réalise un score historiquement bas",
+     "headlineEn": "South African municipal elections: ANC heading for historic low score",
+     "summary": "Le Congrès national africain (ANC), parti au pouvoir en Afrique du Sud depuis la fin de l'apartheid en 1994, s'achemine vers le pire résultat électoral de son histoire lors des élections municipales. Les dépouillements partiels attribuent environ 30 % des voix au mouvement présidentiel, illustrant le désamour croissant des électeurs face aux difficultés économiques et à la corruption. La participation est restée particulièrement faible, avec à peine un électeur sur deux s'étant déplacé aux urnes. Ce revers électoral majeur intervient un an avant le congrès décisif du parti appelé à désigner le successeur du président Cyril Ramaphosa.",
+     "why": "L'effondrement électoral de l'ANC rebat les cartes politiques en Afrique du Sud et fragilise la succession du président Ramaphosa.",
+     "paywalled": true,
+     "contested": "",
+     "chart": null
+    },
+    {
+     "source": "AP / BBC / AFP",
+     "lang": "en",
+     "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQOXM0d1k2ajhHSTBsWmVGM1daSlByM2dqRmttVU9uZjZJVF9fSm1wRTh5TmRFeEhDdlVDREdVcWlpMmIyWElvUm03Tnc5UkZIV2xlUGh0YmEzTTFmb1Etal8xQzB4OW43empXWVJXQVNTRnJkejN0VFc4MGFKRUN5YXdxdlFjbVg4cFFSaHg0T3NMTy1NclB5NUVpR1QwYlJSYlllLWluZmM?oc=5",
+     "headline": "California Gov. Newsom commutes all death sentences in state to life without parole",
+     "headlineEn": "Le gouverneur de Californie commue toutes les peines de mort de l'État en réclusion à perpétuité",
+     "summary": "California Governor Gavin Newsom has announced the commutation of all death sentences in the state to life imprisonment without the possibility of parole. The executive action affects 548 inmates on death row, which was historically the largest capital punishment population in the United States. Newsom stated that state-sanctioned executions are fundamentally inconsistent with California's core values and progressive judicial principles. While anti-death penalty advocates praised the landmark decision as a major human rights victory, critics and legal opponents argued the governor bypassed the law and ignored the victims of violent crimes.",
+     "why": "Cette décision historique élimine la plus grande population de couloirs de la mort aux États-Unis et marque une étape symbolique dans le débat sur la peine capitale.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    },
+    {
+     "source": "Council on Foreign Relations",
+     "lang": "en",
+     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOVWRPYWt5Ym1DWHhUYnVxeE52U0NLSkZ6M3RZd0ZJdGVHc0ZmME5fWGN6TTd1N0V3dkhGazZlc3hGZm1HWl9PREFDX25nTmdNR2ZDSUlObjlaNlNZc24tYlBGTDFOSG5BTmh1Z3E0T2VBd19KN2pVTFpBNjhFT3RHU3EyeVYzN3c3NVEtZ2VVWlhTaEdwN0dqc3gwSUcxOVNndFhr?oc=5",
+     "headline": "They Won’t Say It Out Loud, but Asian Leaders Are Happy About the Midterms",
+     "headlineEn": "Ils ne le diront pas fort, mais les dirigeants asiatiques se réjouissent des résultats des midterms",
+     "summary": "An analysis from the Council on Foreign Relations examines how government officials and strategic analysts across Asia are discreetly welcoming the outcomes of the US midterm elections. Although Asian leaders publicly refrain from commenting on American domestic politics, many privately view the Democratic gains as a potential check on unpredictable trade policies and unilateral tariffs. A rebalanced US Congress could foster greater stability and predictability in transpacific diplomatic and economic relations. However, experts note that broad bipartisan consensus in Washington regarding strategic competition with China will likely keep core Indo-Pacific security posture unchanged.",
+     "why": "L'analyse souligne le soulagement des capitales asiatiques face au frein potentiel posé aux politiques commerciales unilatérales américaines après les midterms.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    }
+   ]
+  },
+  {
+   "name": "Europe & politiques de l'UE",
+   "stories": [
+    {
+     "source": "Le Monde",
+     "lang": "fr",
+     "url": "https://www.lemonde.fr/international/article/2026/11/06/belgique-le-roi-refuse-la-demission-du-premier-ministre-bart-de-wever-presentee-sur-fond-de-blocage-budgetaire-au-parlement_6807784_3210.html",
+     "headline": "Belgique : le roi refuse la démission du premier ministre, Bart De Wever, présentée sur fond de blocage budgétaire au Parlement",
+     "headlineEn": "Belgium: King rejects Prime Minister Bart De Wever's resignation amid parliamentary budget deadlock",
+     "summary": "Le roi des Belges a officiellement rejeté la démission du premier ministre Bart De Wever, présentée en début de semaine en raison d'un grave blocage budgétaire. Le chef du gouvernement conservateur flamand tente d'imposer un vaste plan d'assainissement financier de 10 milliards d'euros d'ici à 2029 afin de se conformer aux règles fiscales de l'Union européenne. Toutefois, cette trajectoire rigoureuse se heurte au refus catégorique du Mouvement réformateur, son partenaire libéral au sein de la coalition gouvernementale. Le souverain a fermement invité l'ensemble des dirigeants politiques à reprendre immédiatement les négociations afin d'éviter une crise institutionnelle prolongée au Parlement.",
+     "why": "Cette crise politique fragilise les finances publiques belges et pèse sur les négociations budgétaires européennes.",
+     "paywalled": true,
+     "contested": "",
+     "chart": null
+    },
+    {
+     "source": "Le Monde",
+     "lang": "fr",
+     "url": "https://www.lemonde.fr/international/article/2026/11/06/la-suede-invoque-la-menace-russe-pour-prolonger-les-controles-a-ses-frontieres_6807752_3210.html",
+     "headline": "La Suède invoque la menace russe pour prolonger les contrôles à ses frontières",
+     "headlineEn": "Sweden cites Russian threat to extend border controls",
+     "summary": "La Suède a annoncé la prolongation de ses contrôles systématiques aux frontières intérieures en invoquant explicitement les risques accrus de sabotage et d'ingérence militaire attribués à la Russie. Alors que Stockholm justifiait jusqu'à présent ces vérifications d'identité par la lutte contre l'immigration illégale et le crime organisé, ce changement de doctrine reflète les vives tensions sécuritaires dans la région balte. D'autres nations scandinaves, notamment la Norvège et le Danemark, ont également réintroduit des mesures de surveillance similaires le long de leurs frontières. Cette accumulation de dérogations exceptionnelles remet directement en cause le principe fondamental de libre circulation garanti par l'espace Schengen.",
+     "why": "La multiplication des dérogations aux règles de Schengen affaiblit la libre circulation au sein de l'Union européenne.",
+     "paywalled": true,
+     "contested": "",
+     "chart": null
+    },
+    {
+     "source": "Le Monde",
+     "lang": "fr",
+     "url": "https://www.lemonde.fr/international/article/2026/11/06/catastrophe-ferroviaire-en-espagne-le-parquet-europeen-ouvre-une-enquete-quant-a-d-eventuelles-fraudes-sur-la-ligne-accidentee-a-urda_6807780_3210.html",
+     "headline": "Catastrophe ferroviaire en Espagne : le parquet européen ouvre une enquête quant à d’éventuelles fraudes sur la ligne accidentée à Urda",
+     "headlineEn": "Spanish train disaster: European Public Prosecutor's Office opens fraud probe into damaged line at Urda",
+     "summary": "Le Parquet européen a formellement ouvert une enquête pénale à la suite du tragique accident ferroviaire survenu sur la ligne à haute vitesse reliant Madrid à Séville, près d'Urda. Les magistrats européens cherchent à vérifier si des détournements de fonds publics de l'Union européenne ont eu lieu lors des travaux d'aménagement et de modernisation. Les investigations se concentrent particulièrement sur les contrats d'amélioration des systèmes de signalisation, de communication et de sécurité ferroviaire financés par le budget communautaire. Les autorités espagnoles ont confirmé leur entière collaboration avec les enquêteurs européens pour faire la lumière sur ces potentielles irrégularités financières et techniques.",
+     "why": "Cette enquête souligne l'importance du contrôle financier de l'UE sur les grands projets d'infrastructures ferroviaires.",
+     "paywalled": true,
+     "contested": "",
+     "chart": null
+    }
+   ]
+  },
+  {
+   "name": "Économie & marchés",
+   "stories": [
+    {
+     "source": "Le Monde",
+     "lang": "fr",
+     "url": "https://www.lemonde.fr/economie/article/2026/11/06/en-italie-une-taxe-de-sortie-pour-les-grandes-fortunes_6807773_3234.html",
+     "headline": "En Italie, une « taxe de sortie » pour les grandes fortunes",
+     "headlineEn": "In Italy, an 'exit tax' for high-net-worth individuals",
+     "summary": "Le gouvernement mené par Giorgia Meloni a inséré un dispositif inédit dans son projet de loi de finances pour 2027 en créant une « exit tax » ciblant spécifiquement les contribuables les plus fortunés. Cette mesure fiscale prévoit d'imposer l'enrichissement latent des résidents aisés qui décideraient de transférer leur résidence fiscale hors des frontières italiennes. Cette initiative marque un tournant politique majeur pour Rome, qui appliquait depuis 2017 un régime de faveur très attractif destiné à séduire les grandes fortunes internationales. Face aux contraintes budgétaires croissantes, le pouvoir italien espère ainsi freiner les départs de capitaux et engranger des recettes fiscales substantielles.",
+     "why": "Le gouvernement italien cherche de nouvelles recettes fiscales tout en durcissant la fiscalité des contribuables très aisés.",
+     "paywalled": true,
+     "contested": "",
+     "chart": null
+    },
+    {
+     "source": "FT",
+     "lang": "en",
+     "url": "https://www.ft.com/content/7dbff765-cf48-4f78-87dc-09a56aee27fe?syn-25a6b1a6=1",
+     "headline": "Olive oil glut prompts unprecedented intervention by Spain",
+     "headlineEn": "La surproduction d'huile d'olive entraîne une intervention inédite de l'Espagne",
+     "summary": "Spanish agricultural authorities have enacted an unprecedented market intervention by ordering olive oil producers to withhold 12 percent of their total output from sale. The decision follows an exceptional harvest that created a severe supply glut, causing wholesale olive oil prices to plummet across European markets. By locking away part of the current production in strategic reserves, the government aims to stabilize market rates and prevent widespread financial distress among domestic farming communities. Industry representatives have generally welcomed the emergency measure, though exporters warn that prolonged market restrictions could temporarily damage international trade contracts and commercial distribution chains.",
+     "why": "Cette mesure de régulation du marché vise à préserver la viabilité économique des exploitations agricoles espagnoles.",
+     "paywalled": true,
+     "contested": "",
+     "chart": null
+    },
+    {
+     "source": "Le Monde",
+     "lang": "fr",
+     "url": "https://www.lemonde.fr/economie/article/2026/11/06/moscou-accelere-la-saisie-d-actifs-russes-de-groupes-occidentaux_6807766_3234.html",
+     "headline": "Moscou accélère la saisie d’actifs russes de groupes occidentaux",
+     "headlineEn": "Moscow accelerates seizure of Western companies' Russian assets",
+     "summary": "Le Kremlin a considérablement intensifié les procédures de réquisition visant les filiales de multinationales européennes et américaines maintenues sur le territoire russe. Ces entreprises étrangères sont désormais placées sous une tutelle provisoire stricte gérée par les autorités étatiques, ce qui équivaut dans les faits à une véritable confiscation de leurs biens. Cette politique agressive intervient alors que des émissaires russes tentaient récemment de convaincre les investisseurs internationaux de revenir faire des affaires en Russie. Ces saisies arbitraires accentuent le climat d'insécurité juridique et scellent la rupture économique durable entre Moscou et les grands groupes industriels occidentaux.",
+     "why": "Ces expropriations de facto compromettent toute tentative de rapprochement économique ou financier entre la Russie et l'Occident.",
+     "paywalled": true,
+     "contested": "",
+     "chart": null
+    }
+   ]
+  },
+  {
+   "name": "Technologie & sciences",
+   "stories": [
+    {
+     "source": "DW",
+     "lang": "de",
+     "url": "https://www.dw.com/de/klimawandel-1-5-grad-marke-wird-schon-wieder-gerissen/a-79875443?maca=de-rss-de-all-1119-rdf",
+     "headline": "Klimawandel: 1,5-Grad-Marke wird schon wieder gerissen",
+     "headlineEn": "Climate change: 1.5-degree threshold breached once again",
+     "summary": "Der europäische Erdbeobachtungsdienst Copernicus hat alarmierende neue Daten veröffentlicht, wonach das Jahr 2026 mit sehr hoher Wahrscheinlichkeit als das zweitwärmste Jahr seit Beginn der Wetteraufzeichnungen eingehen wird. Nach einem außergewöhnlich extremen Sommer lag die weltweite Durchschnittstemperatur im vergangenen Monat Oktober rund 1,75 Grad Celsius über dem vorindustriellen Vergleichsniveau. Damit wird das im Pariser Abkommen angestrebte Ziel einer dauerhaften Begrenzung der Erderwärmung auf 1,5 Grad Celsius erneut deutlich verfehlt. Klimaforscher warnen eindringlich vor kaskadierenden Umweltschäden und fordern von der Politik eine drastische Beschleunigung der globalen Dekarbonisierung.",
+     "why": "Ces données scientifiques soulignent l'urgence extrême d'accélérer la réduction des émissions mondiales de gaz à effet de serre.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    },
+    {
+     "source": "Reuters",
+     "lang": "en",
+     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQQ3ZYSHc0NzlFY3JNTzJja3pTVjB6YXhxeUxoNVZmMVRSSmtDMXBzRjFPLTJFWGhINGNZMDBBRVdZaURHMW1ZeWVzVjRxVDRIdUJ5WFE5Ql9ua01tSVd5LVdQNHlVbTFUQjJkSmMwaUJlTXA4QzdRWlo4N1RIejFWREJ0NFp2ZEtZejNqWF9ITXN2dDFZX01JUXo4eGRVMHhPRGx0WmkxbDFLOXp4?oc=5",
+     "headline": "EU charges TikTok over harmful algorithmic 'rabbit hole' effects",
+     "headlineEn": "L'UE accuse TikTok sur les effets néfastes de ses algorithmes d'enfermement",
+     "summary": "The European Union has formally charged video platform TikTok under the Digital Services Act regarding the design of its recommendation algorithms. European regulators allege that the platform intentionally creates addictive \"rabbit hole\" feedback loops that push vulnerable users toward increasingly harmful content. The Commission highlighted particular concerns over the mental health impact on teenagers, citing features that encourage compulsive scrolling and insufficient safeguards against destructive behavioral patterns. TikTok now faces potential financial penalties running into billions of euros unless it implements structural modifications to its content delivery algorithms and enhances child protection measures across member states.",
+     "why": "Cette procédure réglementaire marque un durcissement majeur de la régulation européenne face aux géants de la tech.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    },
+    {
+     "source": "Le Monde",
+     "lang": "fr",
+     "url": "https://www.lemonde.fr/economie/article/2026/11/06/au-mexique-le-queretaro-concentre-les-data-centers-et-les-inquietudes-sur-leurs-consequences-environnementales_6807753_3234.html",
+     "headline": "Au Mexique, la concentration des data centers suscite l’inquiétude des habitants de l’Etat du Querétaro",
+     "headlineEn": "In Mexico, data center concentration fuels concern among Queretaro residents",
+     "summary": "Dans l'État mexicain du Querétaro, la prolifération massive de centres de données gérés par les géants américains de la technologie suscite une vive contestation populaire. Cette région semi-aride, frappée par une sécheresse chronique, accueille désormais plus des deux tiers des data centers construits au Mexique pour alimenter le secteur du numérique et de l'intelligence artificielle. Les associations locales dénoncent l'absence totale de transparence quant au volume d'eau prélevé pour le refroidissement des serveurs informatiques. De plus, les riverains constatent que les créations d'emplois promises restent extrêmement réduites au regard de l'impact environnemental majeur causé par ces installations industrielles.",
+     "why": "L'expansion des infrastructures d'intelligence artificielle crée d'importantes tensions environnementales sur les ressources en eau locales.",
+     "paywalled": true,
+     "contested": "",
+     "chart": null
+    }
+   ]
+  },
+  {
+   "name": "Sport",
+   "stories": [
+    {
+     "source": "PBS News",
+     "lang": "en",
+     "url": "https://www.pbs.org/newshour/nation/cristiano-ronaldo-announces-his-international-retirement-from-portugal",
+     "headline": "Cristiano Ronaldo announces his international retirement from Portugal",
+     "headlineEn": "Cristiano Ronaldo annonce sa retraite internationale avec le Portugal",
+     "summary": "Cristiano Ronaldo has officially announced his retirement from international football, drawing the curtain on an extraordinary career with the Portuguese national team. The veteran forward represented his country across six World Cup tournaments, winning the European Championship in 2016 while securing the all-time international scoring record in men's football. His departure marks the emotional conclusion of a legendary era on the global stage.",
+     "why": "C'est la fin d'une époque légendaire pour le football portugais et international.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    },
+    {
+     "source": "Al Jazeera",
+     "lang": "en",
+     "url": "https://www.aljazeera.com/sports/2026/11/6/olympic-champion-imane-khelif-to-make-professional-boxing-debut-in-december?traffic_source=rss",
+     "headline": "Olympic champion Imane Khelif to make professional boxing debut in December",
+     "headlineEn": "La championne olympique Imane Khelif fera ses débuts en boxe professionnelle en décembre",
+     "summary": "Algerian Olympic gold medalist Imane Khelif will make her professional boxing debut this December, marking her return to the ring following Paris 2024. The 25-year-old athlete has not competed since her victory in France, where she faced intense public scrutiny surrounding eligibility controversies. Khelif now aims to build a successful career in professional ranks under the guidance of top international promoters.",
+     "why": "La championne olympique entame un nouveau chapitre ambitieux dans le monde de la boxe professionnelle.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    }
+   ]
+  }
+ ],
+ "sourced": true,
+ "feeds": {
+  "ok": 27,
+  "of": 29,
+  "items": 251,
+  "skipped": [
+   "Euronews (FR): HTTP 406",
+   "Washington Post (EN): HTTP 502"
+  ]
+ },
+ "words": 4348,
+ "readMin": 22,
+ "storyCount": 25
+}
