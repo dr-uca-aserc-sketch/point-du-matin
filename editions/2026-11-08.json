@@ -1,0 +1,433 @@
+{
+ "date": "2026-11-08",
+ "kind": "weekly",
+ "heat": 0.8,
+ "oneThing": "The shift in US congressional power establishes a critical institutional check on executive authority that will reshape global trade, financial markets, and diplomacy.",
+ "followUps": [
+  {
+   "n": "01",
+   "thread": "Crise politique budgétaire et maintien de Bart De Wever en Belgique",
+   "change": "Après avoir présenté sa démission suite au blocage budgétaire, le premier ministre belge s'est vu opposer un refus du roi le 6 novembre, stabilisant temporairement la coalition autour des négociations budgétaires."
+  },
+  {
+   "n": "02",
+   "thread": "Démission du ministre espagnol des Transports après l'accident d'Urda",
+   "change": "La démission du ministre espagnol des Transports a été actée cette semaine après la tragédie ferroviaire d'Urda. Le dossier s'oriente désormais vers l'enquête ouverte par le parquet européen sur d'éventuelles fraudes aux fonds d'infrastructures."
+  },
+  {
+   "n": "03",
+   "thread": "Retraite internationale de Cristiano Ronaldo",
+   "change": "L'icône du football portugais a officialisé la fin de sa carrière internationale. L'annonce s'est conclue par des hommages unanimes de la fédération et des supporters, fermant ce chapitre sportif."
+  }
+ ],
+ "mustReads": [
+  {
+   "desk": "Politique internationale",
+   "source": "DW [EN]",
+   "lang": "EN",
+   "paywalled": false,
+   "url": "https://www.dw.com/en/after-victory-in-the-midterms-what-next-for-us-democrats/a-79884957?maca=en-rss-en-world-4025-rdf",
+   "headline": "After victory in the midterms, what next for US Democrats?",
+   "headlineEn": "Après la victoire aux midterms, quel avenir pour les démocrates américains ?",
+   "contested": "",
+   "why": "La victoire démocrate aux élections de mi-mandat redistribue les cartes du pouvoir à Washington et impose un frein institutionnel à l'agenda de Donald Trump.",
+   "stat": "",
+   "statLabel": "",
+   "chart": null,
+   "paras": [
+    "The American political landscape experienced a dramatic shift early this week as midterm elections drew to a decisive conclusion across the nation. Voters faced a stark choice between continuing the unchecked legislative momentum of the Republican administration and establishing a legislative counterweight in Washington. Tensions ran exceptionally high throughout polling stations as turnout figures broke historical records in key swing states. Both major parties spent the opening days of the week preparing for a tight contest, with national commentators predicting potential gridlock or narrow margins across key electoral districts in the House and Senate.",
+    "As preliminary returns poured in on Tuesday evening, initial projections confirmed that the Democratic Party was securing pivotal seats across suburban and urban districts. The electorate delivered a resolute rebuke to the incumbent administration, stripping the Republican party of its coveted majorities in both chambers of Congress. Voters explicitly cited concerns over economic stability, healthcare governance, and executive oversight as primary motivations for their choices. This sudden wave of Democratic triumphs disrupted existing legislative plans in the capital, instantly ending two years of unified Republican control over the executive and legislative branches of government.",
+    "Financial markets responded swiftly and intensely to the unexpected political realignment taking place in Washington. Wall Street initially surged with record gains as investors anticipated that a divided government would prevent aggressive regulatory overhauls or sudden unilateral fiscal policy shifts. However, this initial wave of market euphoria was quickly tempered by subsequent volatility in technology and energy equities. Analysts noted that while congressional gridlock often reassures certain corporate sectors, the sudden loss of legislative predictability created acute anxiety among major tech leaders reliant on federal subsidies and clear regulatory frameworks.",
+    "Inside the White House, the immediate fallout from the midterm defeat prompted severe internal friction and executive reshuffling. President Donald Trump moved quickly to reassert control over his administration, parting ways with key senior aides and offering high-profile communications roles to vocal media allies. Simultaneously, foreign capital cities watched the unfolding power shift with extreme interest. European and Asian leaders evaluated how a Democratic-controlled Congress might restrict executive authority regarding international trade tariffs, diplomatic appointments, and bilateral security agreements, foreseeing a far more constrained American foreign policy over the next two years.",
+    "By Friday, congressional Democratic leaders began outlining their primary legislative priorities for the upcoming legislative session. Armed with subpoena power and control over committee agendas, party leaders promised rigorous oversight regarding executive expenditures and administrative appointments. However, internal debate quickly emerged within Democratic ranks between moderate members seeking pragmatic bipartisan compromise on infrastructure and progressive factions demanding aggressive investigations. Party strategists recognized that maintaining caucus unity among newly elected lawmakers from conservative-leaning districts will prove essential to translating their electoral victory into meaningful legislative leverage against the White House.",
+    "The midterm outcome also reverberated across international conflict zones, most notably in Eastern Europe and the Middle East. Foreign policy experts noted that while the executive branch retains significant constitutional authority over foreign relations, congressional control over appropriations enables Democrats to influence defense spending and international assistance packages. Officials in allied capitals expressed cautious optimism that funding mechanisms could stabilize, whereas adversaries recalculated their tactical timelines. The shift in Washington signaled to global partners that unilateral executive promises would now face intense legislative scrutiny and budgetary approval processes.",
+    "As the weekend arrived, public attention turned to how the newly configured leadership will navigate imminent statutory deadlines, including federal funding legislation and debt ceiling authorizations. The balance of power in Washington now rests on delicate negotiations between an assertive Democratic majority in Congress and an unyielding executive branch. Observers emphasize that the political dynamic has fundamentally transformed from one of rapid legislative execution to complex institutional maneuvering, where every major bill will require strategic concessions from both sides of Pennsylvania Avenue to achieve passage.",
+    "Looking forward, the crucial indicator of stability will be whether Democratic congressional leaders can establish an effective legislative strategy before the new session begins. The immediate test involves finalizing committee assignments and defining unified caucus positions on key fiscal bills. If Democrats successfully bridge their internal policy divisions while managing legislative standoff with the White House, they will effectively constrain executive unilateralism. Conversely, prolonged internal squabbling could allow the administration to bypass congressional intent through executive orders, setting the stage for intense legal battles over presidential authority."
+   ]
+  },
+  {
+   "desk": "Monde / Amérique latine",
+   "source": "DW (Deutsch)",
+   "lang": "DE",
+   "paywalled": false,
+   "url": "https://www.dw.com/de/bankenskandal-in-paraguay-ex-präsident-peña-muss-in-untersuchungshaft/a-79874532?maca=de-rss-de-all-1119-rdf",
+   "headline": "Bankenskandal in Paraguay: Ex-Präsident Peña muss in Untersuchungshaft",
+   "headlineEn": "Banking scandal in Paraguay: Former President Peña remanded in custody",
+   "contested": "",
+   "why": "L'effondrement de la banque Ueno et la destitution du président soulignent la vulnérabilité des institutions face aux crises financières et à la corruption.",
+   "stat": "",
+   "statLabel": "",
+   "chart": null,
+   "paras": [
+    "Die politische Krise in Paraguay erreichte zu Beginn der Woche ihren ersten dramatischen Höhepunkt, als die Aufsichtsbehörden die sofortige Schließung der führenden Digitalbank Ueno anordneten. Die Nachricht überraschte Millionen von Kunden im ganzen Land, deren Sparkonten von einem Moment auf den anderen vollständig eingefroren wurden. Vor den Filialen und Geldautomaten bildeten sich rasch lange Schlangen verzweifelter Bürger, die vergeblich versuchten, an ihr Erspartes zu gelangen. Die unerwartete Insolvenz des Finanzinstituts löste eine Welle des Entsetzens aus und erschütterte das Vertrauen in den nationalen Finanzsektor nachhaltig.",
+    "Im Laufe der Woche verdichteten sich die Anzeichen, dass hochrangige Regierungsmitglieder direkt in die Unregelmäßigkeiten des kollabierten Geldhauses verstrickt waren. Ermittler stießen auf schwere Vorwürfe der Untreue, Korruption und verdächtiger Transaktionen zwischen staatlichen Stellen und der Geschäftsführung der Bank. Die Opposition im Parlament nutzte die Enthüllungen für scharfe Angriffe auf die Führung des Landes und forderte rasche Konsequenzen. Die öffentliche Erregung wuchs weiter, als bekannt wurde, dass Warnungen der Bankenaufsicht über Monate hinweg von Regierungsstellen ignoriert worden waren, was den Verdacht gezielter Vertuschung erheblich verstärkte.",
+    "Die politische Dynamik spitzte sich am Donnerstag im Kongress drastisch zu, als die Oppositionsfraktionen offiziell ein Amtsenthebungsverfahren gegen Präsident Santiago Peña einleiteten. Nach einer stundenlangen, hochemotionalen Debatte stimmte eine deutliche Mehrheit der Abgeordneten für die Absetzung des Staatsoberhauptes. Peñas eigene Partei konnte den Widerstand in den eigenen Reihen nicht mehr aufrechterhalten, da mehrere Abgeordnete unter dem Druck der öffentlichen Proteste die Gefolgschaft verweigerten. Das historische Votum beendete Peñas Präsidentschaft abrupt und stürzte das südamerikanische Land in eine tiefgreifende verfassungsrechtliche Krise.",
+    "Unmittelbar nach der Abstimmung wurde Vizepräsident Pedro Alliana im Palast als neues Staatsoberhaupt vereidigt, um ein Machtvakuum zu verhindern. In seiner Antrittsrede versprach Alliana die vollständige Aufklärung des Finanzskandals und kündigte umfassende Reformen des Bankensektors an. Gleichzeitig entsandte die Justiz Ermittler zur Festnahme des gestürzten Präsidenten. Peña wurde unter dem Vorwurf der schweren Untreue und des Amtsmissbrauchs in Untersuchungshaft genommen. Dieser beispiellose Schritt markierte einen Wendepunkt in der jüngeren Geschichte Paraguay und löste weltweit breites Medienecho sowie Aufsehen unter internationalen Finanzbeobachtern aus.",
+    "Die wirtschaftlichen Folgen der Bankenpleite wiegen für die Bevölkerung extrem schwer. Hunderttausende Kleinunternehmer und Familien stehen ohne liquide Mittel da, was den lokalen Handel in vielen Städten nahezu lähmte. Die Übergangsregierung versuchte am Freitag mit Notkrediten und staatlichen Garantien, die drängendsten Liquiditätsprobleme zu lindern. Doch die Skepsis der Bürger bleibt hoch, da die Auszahlung der Entschädigungen durch bürokratische Hürden verzögert wird. Ökonomen warnen vor einer langanhaltenden Rezession, falls es der Führung nicht gelingt, die Stabilität des Finanzsystems kurzfristig wiederherzustellen.",
+    "Auch international sorgt der Sturz Peñas für erhebliche Verunsicherung bei Investoren und Nachbarstaaten. Organisationen wie der Internationale Währungsfonds und Partnerstaaten in Südamerika forderten eine transparente Untersuchung und die Einhaltung rechtsstaatlicher Prinzipien. Die Ratingagenturen drohten bereits mit einer Herabstufung der Kreditwürdigkeit des Landes, was die Kreditzinsen für den Staat weiter verteuern würde. Die diplomatische Vertretung Paraguays in der Region versucht unterdessen zu vermitteln, dass die demokratischen Institutionen des Landes trotz der schweren Erschütterungen voll handlungsfähig geblieben sind.",
+    "Am Wochenende konzentrierten sich die Ermittlungen der Staatsanwaltschaft auf die Vernehmung weiterer führender Akteure der Zentralbank und der Ueno-Bank. Die Ermittler sicherten umfangreiches Beweismaterial in den Geschäftsräumen der Institutionen, um das genaue Ausmaß der Veruntreuung zu rekonstruieren. Vor den Gerichtsgebäuden demonstrierten weiterhin Tausende Bürger und forderten die lückenlose Bestrafung aller Verantwortlichen. Der Fall ist zu einem Prüfstein für die Unabhängigkeit der Justiz geworden, da mächtige Wirtschaftsakteure versuchen, den Einfluss der Ermittlungen auf weitere politische Entscheidungsträger einzudämmen.",
+    "Für die kommenden Tage entscheidet sich, ob die Interimsregierung unter Alliana das Vertrauen der Märkte und der Bevölkerung zurückgewinnen kann. Der nächste kritische Schritt wird die Präsentation eines Notfallplans zur Entschädigung aller geschädigten Bankkunden sowie die Nominierung einer unabhänigen Bankenaufsicht sein. Gelingt es der Führung nicht, rasch Transparenz zu schaffen und die Liquidität wiederherzustellen, drohen anhaltende soziale Unruhen und eine nachhaltige Isolierung des Landes auf den internationalen Finanzmärkten, was die wirtschaftliche Erholung um Jahre zurückwerfen könnte."
+   ]
+  },
+  {
+   "desk": "Proche-Orient",
+   "source": "DW [EN]",
+   "lang": "EN",
+   "paywalled": false,
+   "url": "https://www.dw.com/en/israeli-president-tasks-gadi-eisenkot-with-forming-government/a-79888288?maca=en-rss-en-world-4025-rdf",
+   "headline": "Israeli president tasks Gadi Eisenkot with forming government",
+   "headlineEn": "Le président israélien charge Gadi Eisenkot de former un gouvernement",
+   "contested": "",
+   "why": "La désignation de Gadi Eisenkot marque un tournant politique majeur en Israël après des années de dominance de Benjamin Netanyahu.",
+   "stat": "",
+   "statLabel": "",
+   "chart": null,
+   "paras": [
+    "Israel entered a period of intense political uncertainty following the certification of parliamentary election results earlier in the week. Voters delivered an indecisive mandate, leaving neither the long-serving Prime Minister Benjamin Netanyahu nor the unified opposition alliance with a clear parliamentary majority. The political atmosphere across Jerusalem remained charged as party leaders launched preliminary negotiations to assess potential coalition combinations. International diplomats and regional partners closely monitored the situation, knowing that the structural composition of the next administration in Jerusalem would heavily influence upcoming security policy, regional integration agreements, and ongoing diplomatic initiatives.",
+    "Throughout the middle of the week, President Isaac Herzog conducted mandatory consultations with delegation representatives from all elected parliamentary factions at the presidential residence. Representatives from a diverse array of centrist, leftist, and nationalist parties formally recommended that Gadi Eisenkot, the former military chief of staff, receive the initial mandate to form a government. Eisenkot secured sixty-seven formal recommendations from lawmakers, surpassing Netanyahu's support base. The recommendation reflected a collective desire among opposition leaders to end prolonged political deadlock and establish a broad-based coalition capable of addressing pressing domestic challenges.",
+    "On Saturday evening, President Herzog officially summoned Eisenkot and formally tasked him with assembling Israel's next governing coalition. Under constitutional rules, the designated prime minister candidate now has twenty-eight days to finalize cabinet appointments and secure a binding legislative majority. Herzog emphasized the urgent necessity of national unity, calling on all political factions to prioritize institutional stability over partisan divisions. Eisenkot accepted the mandate with a measured statement, acknowledging the immense difficulty of balancing competing ideological demands while promising to construct a government centered on security and civic reform.",
+    "The decision represents a severe political setback for Benjamin Netanyahu, who has dominated Israeli governance for over a decade. Netanyahu's Likud party and its traditional right-wing allies strongly criticized the president's decision, claiming that an Eisenkot-led coalition would prove inherently unstable due to deep ideological divides. Likud spokespersons insisted that Netanyahu remains the only leader capable of navigating complex international pressures. Despite these protestations, political analysts observed that Netanyahu's inability to secure enough recommendations highlighted growing fatigue among political elites regarding his divisive leadership style and ongoing legal entanglements.",
+    "Eisenkot's path to securing a parliamentary majority remains fraught with formidable negotiation obstacles. To achieve the required sixty-one seat threshold in the Knesset, his team must forge agreements between secular centrist parties, traditional religious factions, and Arab parliamentary representatives. Key points of friction include proposed legislation regarding military draft exemptions for religious students, economic subsidies, and judicial governance reforms. Coalition negotiators face the daunting challenge of crafting compromises on deeply divisive social issues that have repeatedly fractured previous coalition governments and triggered rapid parliamentary dissolutions over recent years.",
+    "Regional powers and international allies reacted cautiously to the news of Eisenkot's appointment. As a former top military commander, Eisenkot possesses substantial credibility on national defense issues, which reassures foreign security partners. However, diplomats in Washington and European capitals are eager to see whether his prospective administration will pursue constructive diplomatic engagement or maintain existing defense postures. Analysts suggest that a broader coalition government might adopt a more pragmatic approach toward regional diplomacy, potentially easing tensions with neighboring states while maintaining robust defense readiness against external threats.",
+    "Within Israeli civil society, public reaction to the presidential mandate was mixed but noticeably expectant. Supporters of the anti-Netanyahu movement celebrated the opportunity for political renewal, holding peaceful rallies in major cities to demonstrate backing for a broad coalition. Conversely, conservative activists expressed concern that a multi-party compromise government might lack the ideological cohesion necessary to make firm policy decisions during security crises. The broader public, exhausted by repeated electoral cycles, remains anxious for a functional government capable of lowering living costs and repairing domestic social cohesion.",
+    "The upcoming week will serve as a decisive test of Eisenkot's political skills as formal coalition talks commence in earnest. His negotiating team must immediately draft preliminary policy agreements that satisfy mutually exclusive demands from potential partner parties. If Eisenkot successfully navigates these intricate talks and presents a stable cabinet to Parliament, he will usher in a new political era for Israel. Should he fail within the allotted window, the mandate will likely revert to Netanyahu, potentially prolonging the national political stalemate."
+   ]
+  },
+  {
+   "desk": "Guerre en Ukraine / Géopolitique",
+   "source": "DW [EN]",
+   "lang": "EN",
+   "paywalled": false,
+   "url": "https://www.dw.com/en/ukraine-russia-hits-kyiv-with-airstrikes-ahead-of-trilateral-talks/a-79883851?maca=en-rss-en-world-4025-rdf",
+   "headline": "Ukraine: Russia hits Kyiv with airstrikes ahead of trilateral talks",
+   "headlineEn": "Ukraine : la Russie frappe Kiev avec des attaques aériennes avant les pourparlers trilatéraux",
+   "contested": "",
+   "why": "L'intensification des frappes russes sur les infrastructures énergétiques vise à affaiblir la position ukrainienne à la veille de négociations diplomatiques majeures.",
+   "stat": "",
+   "statLabel": "",
+   "chart": null,
+   "paras": [
+    "Diplomatic maneuvers surrounding the conflict in Ukraine gathered significant momentum earlier this week amid reports of prospective high-level peace discussions. Beijing announced active contacts with both Washington and Moscow to facilitate potential trilateral talks, sparking intense speculation regarding a diplomatic breakthrough. Ukrainian officials responded cautiously to these developments, reiterating that any meaningful negotiation must guarantee national sovereignty and territorial integrity. Meanwhile, Western allies evaluated the strategic implications of proposed international summits, stressing that security guarantees for Kyiv must remain at the center of any potential peace framework discussed by major global powers.",
+    "Simultaneously, tactical military developments on the ground starkly contradicted the optimistic diplomatic rhetoric. Russian forces escalated their long-range missile and drone bombardment against civilian infrastructure across multiple Ukrainian regions. Tragic strikes on humanitarian aid distribution centers earlier in the week resulted in heavy civilian casualties, provoking fierce international condemnation. Ukrainian authorities accused Moscow of deliberately targeting vulnerable populations to erode domestic morale. The sharp contrast between diplomatic discussions in foreign capitals and intensified violence on the frontlines highlighted the immense difficulty of establishing a genuine ceasefire between the warring parties.",
+    "As the week progressed, the military campaign increasingly focused on Ukraine's energy grid ahead of the approaching winter season. Russian forces launched coordinated airstrikes targeting critical power generation facilities, transformer substations, and transport infrastructure surrounding Kyiv and eastern regional hubs. Over six hundred thousand residents in the Dnipropetrovsk region were suddenly left without electricity following heavy overnight strikes. Emergency management teams worked frantically around the clock to deploy backup generators to hospitals and essential municipal services, facing severe operational challenges under continuous air raid alerts.",
+    "In the capital city of Kyiv, weekend airstrikes caused widespread damage to key transport routes and energy distribution nodes. A vital bridge spanning the Dnipro river suffered structural damage, forcing municipal authorities to suspend transit links and re-route emergency supply convoys. Ukrainian President Volodymyr Zelenskyy publicly condemned the attacks, asserting that Moscow was attempting to force the nation into a total blackout precisely before scheduled trilateral meetings in Abu Dhabi. He urged international partners to immediately accelerate deliveries of advanced air defense systems to protect civilian lives.",
+    "The systematic destruction of energy infrastructure has created an acute humanitarian situation across urban centers. Heating networks in several major cities face severe disruptions as temperatures drop, raising grave concerns among international humanitarian organizations. Aid agencies warned that prolonged power outages could trigger renewed internal displacement if municipal authorities cannot maintain basic sanitation and heating services. International relief groups are scrambling to deliver heavy-duty industrial generators and winterization kits to affected municipalities, though logistics remain heavily constrained by damaged transportation networks and recurring missile strikes.",
+    "Political dynamics in Western capitals added another layer of complexity to the crisis. Following the U.S. midterm elections, Ukrainian officials expressed cautious hope that financial and military aid commitments would remain stable, despite political shifts in Congress. However, reports of preliminary contacts between American representatives and Kremlin envoys raised anxiety in European capitals. European leaders expressed deep concern over potential agreements negotiated without full European involvement, reiterating that European security interests and Ukraine's long-term sovereignty cannot be compromised in high-level geopolitical bargaining.",
+    "On the battlefield, Ukrainian armed forces maintained defensive positions while conducting precision strikes against logistical targets behind enemy lines. Military commanders emphasized that holding key defensive sectors is essential to preventing tactical breakthroughs before seasonal mud restricts heavy armored movements. Despite continuous pressure from numerical superiority, Ukrainian units demonstrated operational resilience. Analysts note that both military forces are attempting to maximize territorial control and strategic leverage before anticipated diplomatic talks begin, resulting in exceptionally violent engagements along the entire front.",
+    "Looking toward the coming week, all eyes are fixed on the scheduled trilateral talks in Abu Dhabi and potential high-level diplomatic contacts. The key variable will be whether Ukrainian delegation officials can secure binding security guarantees while resisting pressure to accept unilateral territorial concessions. If international partners maintain unified support and supply vital air defense interceptors, Kyiv can mitigate energy grid destruction and maintain strategic leverage. If energy infrastructure suffers catastrophic collapse, the resulting humanitarian crisis could severely test the nation's endurance during negotiations."
+   ]
+  }
+ ],
+ "desks": [
+  {
+   "name": "Luxembourg",
+   "stories": [
+    {
+     "source": "RTL.lu",
+     "lang": "fr",
+     "url": "https://www.rtl.lu/actu/luxembourg/a/2245000.html",
+     "headline": "Georges Engel plaide pour une sortie progressive du tourisme à la pompe",
+     "headlineEn": "Georges Engel calls for a gradual exit from petrol tourism",
+     "summary": "Le débat sur la fiscalité environnementale et la pérennité des recettes de l'État s'est intensifié au cours de la semaine écoulée au Grand-Duché. L'ancien ministre Georges Engel a publiquement plaidé pour une stratégie concertée visant à réduire la dépendance financière du pays vis-à-vis des ventes de carburant aux automobilistes transfrontaliers. Cette initiative s'inscrit dans le cadre des engagements climatiques luxembourgeois tout en soulevant des inquiétudes quant aux compensations budgétaires nécessaires pour combler le manque à gagner fiscal. Les discussions à la Chambre des députés soulignent la difficulté d'équilibrer la transition énergétique, l'attractivité économique régionale et l'équilibre des finances publiques à long terme.",
+     "why": "La fin progressive du tourisme à la pompe remet en cause une source majeure d'impôts indirects pour le budget luxembourgeois.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    },
+    {
+     "source": "RTL.lu",
+     "lang": "fr",
+     "url": "https://www.rtl.lu/actu/luxembourg/a/2245001.html",
+     "headline": "Plus de 7.000€ par mois: Le salaire luxembourgeois écrase complètement celui des pays voisins",
+     "headlineEn": "Over €7,000 per month: Luxembourg salaries vastly exceed neighboring countries",
+     "summary": "Les récentes données officielles publiées cette semaine confirment l'ampleur de l'écart salarial moyen entre le Luxembourg et ses voisins de la Grande Région. Avec une rémunération mensuelle moyenne dépassant la barre des 7.000 euros, le marché du travail luxembourgeois conserve son pouvoir d'attraction massif auprès des travailleurs de France, de Belgique et d'Allemagne. Néanmoins, cet avantage salarial considérable alimente en parallèle des tensions sur le coût de la vie locale, notamment dans le secteur de l'immobilier résidentiel. Les acteurs économiques s'interrogent désormais sur la soutenabilité d'un tel modèle face aux défis de mobilité transfrontalière et à la compétitivité des entreprises régionales.",
+     "why": "Cet écart de salaire soutient l'attractivité du Grand-Duché tout en accentuant la pression sur le logement et les infrastructures.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    },
+    {
+     "source": "Luxemburger Wort",
+     "lang": "de",
+     "url": "https://www.wort.lu/luxemburg/wasserstoff-netz.html",
+     "headline": "Luxemburg als Schleuse für Europas Wasserstoff",
+     "headlineEn": "Luxembourg as a gateway for Europe's hydrogen",
+     "summary": "In der abgelaufenen Woche standen wichtige Weichenstellungen für die zukünftige Energieinfrastruktur des Großherzogtums im Mittelpunkt der politischen Debatten. Luxemburg soll durch die schrittweise Einbindung in grenzüberschreitende Pipeline-Netzwerke eine Schlüsselrolle als Transitland für den europäischen Wasserstoffmarkt übernehmen. Diese strategische Positionierung zielt darauf ab, die heimische Schwerindustrie zu dekarbonisieren und gleichzeitig die Energieversorgungssicherheit nachhaltig zu garantieren. Während Umweltverbände die zügige Umsetzung erneuerbarer Importe fordern, betonen Wirtschaftsvertreter die Notwendigkeit enormer Investitionen in das nationale Verteilernetz. Die Regierung hat angekündigt, eng mit den Nachbarstaaten zusammenzuarbeiten, um die rechtlichen Rahmenbedingungen für den grenzüberschreitenden Wasserstofftransport zügig zu harmonisieren.",
+     "why": "L'intégration au réseau européen d'hydrogène est essentielle pour réussir la décarbonation de l'industrie lourde luxembourgeoise.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    }
+   ]
+  },
+  {
+   "name": "Monde / géopolitique",
+   "stories": [
+    {
+     "source": "Le Monde",
+     "lang": "fr",
+     "url": "https://www.lemonde.fr/international/article/2026/11/08/la-pologne-en-etat-de-choc-apres-la-fusillade-de-cracovie_6808422_3210.html",
+     "headline": "La Pologne en état de choc après un attentat à Cracovie",
+     "headlineEn": "Poland in shock after Kraków shooting",
+     "summary": "La Pologne a été frappée par un acte de violence terroriste majeur dans le centre historique de Cracovie, faisant six morts et quinze blessés parmi les passants. L'auteur des tirs, un citoyen polonais de 24 ans rapidement interpellé par les forces de l'ordre, est décrit par les autorités comme un militant fasciné par l'extrême droite et les idéologies ultranationalistes. Le Premier ministre Donald Tusk a fermement condamné cette attaque dramatique tout en appelant l'ensemble de la classe politique à la retenue et à l'unité nationale. Le parquet national a ouvert une enquête pour terrorisme afin de déterminer d'éventuelles complicités et de faire la lumière sur le parcours du tueur.",
+     "why": "Cette attaque terroriste secoue l'un des pays perçus comme les plus sûrs d'Europe et attise le débat sur la radicalisation.",
+     "paywalled": true,
+     "contested": "",
+     "chart": null
+    },
+    {
+     "source": "France 24",
+     "lang": "fr",
+     "url": "https://www.france24.com/fr/vid%C3%A9o/20261108-frappes-intenses-entre-les-houthis-et-l-arabie-saoudite-sanaa-et-riyad-touch%C3%A9s",
+     "headline": "Frappes intenses entre les Houthis et l'Arabie saoudite : Sanaa et Riyad touchés",
+     "headlineEn": "Intense strikes between Houthis and Saudi Arabia: Sanaa and Riyadh hit",
+     "summary": "Une violente escalade militaire a marqué la semaine au Moyen-Orient avec des frappes aériennes croisées d'une intensité inédite entre les rebelles Houthis et la coalition saoudienne. Les bombardements sur la région de Sanaa ont causé la mort d'au moins 27 personnes, tandis que des missiles balistiques ont ciblé le quartier financier et les infrastructures stratégiques de Riyad avant d'être interceptés. Ce regain de tension détruit les espoirs de trêve durable et menace directement la stabilité du golfe Persique. Les organisations humanitaires s'inquiètent des conséquences dramatiques pour les populations civiles coincées au cœur des zones de combat et privées d'accès aux secours d'urgence.",
+     "why": "La reprise des hostilités directes entre l'Arabie saoudite et les Houthis menace la sécurité de la région et du commerce maritime.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    },
+    {
+     "source": "Le Monde",
+     "lang": "fr",
+     "url": "https://www.lemonde.fr/international/article/2026/11/08/leon-xiv-en-uruguay-mariage-pauvrete-ia-et-mate-le-pape-clot-la-premiere-etape-de-son-voyage-en-amerique-latine_6808409_3210.html",
+     "headline": "Pape en Uruguay : mariage, pauvreté, IA et maté… Léon XIV achève la première étape de son voyage en Amérique latine avant de s’envoler pour l’Argentine",
+     "headlineEn": "Pope in Uruguay: Marriage, poverty, AI and mate… Leo XIV ends first leg of Latin American tour before flying to Argentina",
+     "summary": "Le pape Léon XIV a terminé son séjour en Uruguay, première étape d'une tournée sud-américaine particulièrement surveillée après son opération chirurgicale récente. Devant des dizaines de milliers de fidèles rassemblés à Montevideo et Paysandú, le souverain pontife a multiplié les appels à la fraternité sociale, au soutien des démunis et à une régulation éthique des nouvelles technologies. Il s'est également rendu dans des quartiers très défavorisés frappés par la violence et le narcotrafic. Ce voyage pastoral constitue un test physique et politique important avant son arrivée très attendue en Argentine, où l'Église catholique s'oppose ouvertement à certaines réformes sociales du gouvernement ultralibéral.",
+     "why": "Le voyage du souverain pontife vise à remobiliser les fidèles sud-américains face au sécularisme et aux tensions politiques régionales.",
+     "paywalled": true,
+     "contested": "",
+     "chart": null
+    }
+   ]
+  },
+  {
+   "name": "International — hors Europe",
+   "stories": [
+    {
+     "source": "DW",
+     "lang": "en",
+     "url": "https://www.dw.com/en/south-africa-s-anc-facing-worst-ever-performance-in-local-elections/a-79887482",
+     "headline": "South Africa's ANC facing worst-ever performance in local elections",
+     "headlineEn": "L'ANC sud-africain enregistre son pire résultat historique aux élections locales",
+     "summary": "South Africa's ruling African National Congress has suffered a historic defeat in local municipal elections, recording its lowest vote share since the end of apartheid. Voters across major urban centers delivered a stinging rebuke to the party, citing chronic electricity shortages, widespread corruption, high unemployment, and failing municipal services. Opposition parties have capitalized on this growing discontent to secure majorities in key metros, forcing unprecedented coalition negotiations. Political analysts view this sharp decline as a major turning point that permanently reshapes the country's political landscape ahead of national contests, severely weakening President Cyril Ramaphosa's authority inside his own party.",
+     "why": "Le déclin électoral de l'ANC marque la fin de sa domination sans partage et ouvre une ère d'instabilité politique en Afrique du Sud.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    },
+    {
+     "source": "BBC",
+     "lang": "en",
+     "url": "https://www.bbc.co.uk/news/articles/cxr5yyg2nj9eo",
+     "headline": "'Flat', 'tired', 'cynical': Unusually gloomy Kiwis deliver New Zealand's tightest election in years",
+     "headlineEn": "Un électorat morose offre à la Nouvelle-Zélande son élection la plus serrée depuis des années",
+     "summary": "New Zealand voters have delivered an exceptionally tight election outcome, reflecting widespread cynicism and public exhaustion with the political establishment. Neither the ruling party nor the main opposition managed to secure a decisive parliamentary majority after a campaign dominated by economic stagnation and rising living costs. Voters turned in record numbers to minor political formations, complicating the task of assembling a stable governing coalition. The protracted post-election negotiations highlight a growing polarization within a nation traditionally known for political consensus. Observers stress that any future cabinet will face immense difficulties in addressing public frustration and passing significant legislative reforms.",
+     "why": "L'indécision des urnes en Nouvelle-Zélande reflète le mécontentement croissant des citoyens face à la dégradation économique.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    },
+    {
+     "source": "BBC",
+     "lang": "en",
+     "url": "https://www.bbc.co.uk/news/articles/c60e0001ve9wo",
+     "headline": "Kenya cult leader handed 200-year sentence over mass deaths",
+     "headlineEn": "Au Kenya, le chef d'une secte écope de 200 ans de prison pour des dizaines de meurtres",
+     "summary": "A Kenyan court has sentenced doomsday cult leader Paul Nthenge Mackenzie to two centuries in prison following his conviction for the deaths of hundreds of followers. Mackenzie had instructed his congregation to starve themselves to death in order to meet Jesus, leading to one of the most horrific religious tragedies in recent African history. The trial exposed severe oversights by local law enforcement and security services who failed to investigate early warnings from family members. Human rights advocates welcomed the severe sentence as a crucial step toward justice, while calling for stricter state oversight of unregulated religious organizations operating across the country.",
+     "why": "Cette condamnation record vient clore une affaire de dérive sectaire meurtrière et relance le débat sur la régulation des cultes au Kenya.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    },
+    {
+     "source": "Le Monde",
+     "lang": "fr",
+     "url": "https://www.lemonde.fr/afrique/article/2026/11/08/senegal-21-morts-dans-le-naufrage-d-une-pirogue-de-migrants_6808424_3212.html",
+     "headline": "Sénégal : 21 morts dans le naufrage d’une pirogue de migrants",
+     "headlineEn": "Senegal: 21 dead after migrant boat capsizes",
+     "summary": "Un nouveau drame de l'immigration clandestine s'est produit au large des côtes sénégalaises avec la découverte d'au moins 21 corps à la suite du naufrage d'une pirogue surchargée. L'embarcation transportait des dizaines de candidats à l'exil tentant de rejoindre les îles Canaries par la périlleuse route de l'Atlantique. Les autorités de secours poursuivent les recherches pour retrouver de nombreux disparus, alors que les conditions météorologiques difficiles compliquent les interventions. Cette tragédie rappelle l'intensité constante des flux migratoires Ouest-Africains alimentés par la pauvreté, l'absence de perspectives professionnelles pour la jeunesse et la dégradation de la situation socio-économique régionale.",
+     "why": "Ce naufrage meurtrier illustre les dangers persistants de la route migratoire atlantique vers l'Union européenne.",
+     "paywalled": true,
+     "contested": "",
+     "chart": null
+    }
+   ]
+  },
+  {
+   "name": "Europe & politiques de l'UE",
+   "stories": [
+    {
+     "source": "PBS News",
+     "lang": "en",
+     "url": "https://www.pbs.org/newshour/world/eu-accuses-tiktok-of-violating-its-digital-rules",
+     "headline": "EU accuses TikTok of violating its digital rules",
+     "headlineEn": "L'UE accuse TikTok de violer le règlement sur les services numériques",
+     "summary": "The European Commission has formally charged social media platform TikTok with breaching the Digital Services Act over concerns regarding its addictive algorithmic design. Regulators argue that the platform's feed creates harmful behavioral patterns and fails to adequately protect young users from compulsive screen engagement. Brussels is demanding structural alterations to user recommendation algorithms, threatening massive financial penalties if compliance is not achieved promptly. This enforcement action underlines the European Union's determination to strictly apply its landmark digital regulations against global tech platforms to safeguard mental health standards and enforce corporate accountability across all 27 member states.",
+     "why": "Cette procédure marque un durcissement de la régulation de Bruxelles pour protéger la santé mentale des mineurs sur les réseaux.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    },
+    {
+     "source": "Le Monde",
+     "lang": "fr",
+     "url": "https://www.lemonde.fr/international/article/2026/11/06/catastrophe-ferroviaire-en-espagne-le-parquet-europeen-ouvre-une-enquete-quant-a-d-eventuelles-fraudes-sur-la-ligne-accidentee-a-urda_6807890_3210.html",
+     "headline": "Catastrophe ferroviaire en Espagne : le parquet européen ouvre une enquête quant à d’éventuelles fraudes sur la ligne accidentée à Urda",
+     "headlineEn": "Spanish train disaster: European Prosecutor opens probe into potential fraud on the Urda line",
+     "summary": "Le Parquet européen a annoncé l'ouverture d'une procédure pénale concernant les travaux de rénovation de la ligne ferroviaire à grande vitesse d'Urda, où un déraillement meurtrier a coûté la vie à 69 personnes. Les enquêteurs cherchent à déterminer si des détournements de fonds européens et des fraudes aux marchés publics ont compromis la qualité de la signalisation et des éléments de sécurité de la voie. Cette initiative judiciaire accentue la pression sur le gouvernement espagnol, déjà fragilisé par la démission du ministre des Transports. L'affaire relance le débat sur la rigueur du contrôle des subventions communautaires accordées aux grands projets d'infrastructures.",
+     "why": "L'implication du Parquet européen souligne la nécessité de contrôler l'usage des fonds de l'UE pour garantir la sécurité des infrastructures.",
+     "paywalled": true,
+     "contested": "",
+     "chart": null
+    },
+    {
+     "source": "Le Monde",
+     "lang": "fr",
+     "url": "https://www.lemonde.fr/international/article/2026/11/06/la-suede-invoque-la-menace-russe-pour-prolonger-les-controles-a-ses-frontieres_6807912_3210.html",
+     "headline": "La Suède invoque la menace russe pour prolonger les contrôles à ses frontières",
+     "headlineEn": "Sweden cites Russian threat to extend internal border controls",
+     "summary": "Le gouvernement suédois a officiellement notifié à la Commission européenne sa décision de maintenir les contrôles systématiques à ses frontières intérieures pour une période supplémentaire. Stockholm justifie cette mesure d'exception par la multiplication des activités d'espionnage, des opérations hybrides et des cyberattaques attribuées aux services secrets russes dans la région baltique. Cette prolongation s'inscrit dans une tendance lourde au sein de l'espace Schengen, où de nombreux États membres réintroduisent des vérifications nationales. Les défenseurs de l'intégration européenne déplorent cet effritement progressif du principe fondamental de libre circulation des personnes au sein du bloc communautaire.",
+     "why": "La remise en cause prolongée des règles de Schengen illustre la dégradation sécuritaire et les fractures au sein de l'UE.",
+     "paywalled": true,
+     "contested": "",
+     "chart": null
+    }
+   ]
+  },
+  {
+   "name": "Économie & marchés",
+   "stories": [
+    {
+     "source": "The Wall Street Journal",
+     "lang": "en",
+     "url": "https://www.wsj.com/finance/investing/wall-street-gets-2-5-trillion-ai-reality-check-with-historic-rout-of-tech-stocks-425708198",
+     "headline": "Wall Street Gets $2.5 Trillion AI Reality Check With Historic Rout of Tech Stocks",
+     "headlineEn": "Wall Street subit un rappel à la réalité sur l'IA avec un plongeon de 2,500 milliards de dollars des valeurs technologiques",
+     "summary": "Global equity markets experienced a major sell-off as technology stocks suffered a historic rout, wiping out nearly $2.5 trillion in market valuation. Investors are displaying heightened anxiety over high capital expenditures required for artificial intelligence infrastructure alongside tightening regulatory scrutiny surrounding data center power consumption. Major tech conglomerates faced steep valuation haircuts, dragging down benchmark indexes in both Europe and New York. Financial analysts suggest that the market is recalibrating overly optimistic growth projections, demanding clearer timelines for profitability and revenue generation. The rout has reignited discussions regarding potential overvaluation across the entire artificial intelligence value chain.",
+     "why": "Ce recul boursier massif traduit le scepticisme croissant des investisseurs face aux coûts exorbitants du secteur de l'IA.",
+     "paywalled": true,
+     "contested": "",
+     "chart": null
+    },
+    {
+     "source": "DW",
+     "lang": "en",
+     "url": "https://www.dw.com/en/amid-protests-france-s-rising-debt-costs-threaten-stability/a-79865654",
+     "headline": "Amid protests, France's rising debt costs threaten stability",
+     "headlineEn": "Sur fond de manifestations, l'envolée de la dette française menace la stabilité financière",
+     "summary": "France is confronting severe economic headwinds as mounting public debt and rising interest rates strain the national budget. The government's decision to allocate additional billions to public education has failed to quell widespread street demonstrations over purchasing power and living standards. International credit rating agencies and European financial institutions are watching the country's sovereign borrowing costs with increasing vigilance, warning that fiscal slippage risks undermining broader euro zone stability. The executive branch faces an exceptionally narrow margin for political maneuver, trapped between public resistance to austerity measures and financial market demands for fiscal discipline.",
+     "why": "La vulnérabilité budgétaire de la France fait peser des risques de contagion financière sur l'ensemble de la zone euro.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    },
+    {
+     "source": "FT",
+     "lang": "en",
+     "url": "https://www.ft.com/content/bd763f67-4c23-4e55-8fbf-3ca0ed520175",
+     "headline": "Olive oil glut prompts unprecedented intervention by Spain",
+     "headlineEn": "La surproduction d'huile d'olive entraîne une intervention gouvernementale inédite en Espagne",
+     "summary": "Spain has launched an unprecedented market intervention program to support agricultural producers following a massive olive oil surplus that caused wholesale prices to crash. The government scheme involves purchasing surplus stocks to stabilize price levels and protect small-scale farmers from financial ruin after record harvest yields. High production volume combined with shifting consumer habits in key export markets created severe supply imbalances throughout Southern Europe. Agricultural unions welcomed the state funding but stressed that long-term structural reforms are necessary to prevent market volatility and ensure fair compensation for growers across the Mediterranean region.",
+     "why": "Cette intervention publique exceptionnelle vise à secourir la filière oléicole espagnole destabilisée par l'effondrement des prix.",
+     "paywalled": true,
+     "contested": "",
+     "chart": null
+    }
+   ]
+  },
+  {
+   "name": "Technologie & sciences",
+   "stories": [
+    {
+     "source": "France 24",
+     "lang": "fr",
+     "url": "https://www.france24.com/fr/vid%C3%A9o/20261108-non-au-data-center-de-rantigny-manifestation-contre-le-d%C3%A9veloppement-de-l-ia",
+     "headline": "\"Non au data-center de Rantigny\" : manifestation contre le développement de l'IA",
+     "headlineEn": "\"No to Rantigny data center\": Protest against AI development",
+     "summary": "La contestation contre l'implantation massive d'infrastructures informatiques s'est matérialisée par une importante manifestation dans l'Oise, réunissant riverains, écologistes et élus locaux. Les opposants dénoncent la construction d'un gigantesque centre de données destiné à alimenter les systèmes d'intelligence artificielle, soulignant son impact néfaste sur la consommation d'eau, l'accaparement des terres agricoles et la saturation du réseau électrique local. Ce mouvement reflète une résistance citoyenne grandissante en Europe contre l'empreinte écologique du numérique. Les autorités régionales se trouvent ainsi divisées entre la volonté de séduire les investisseurs technologiques internationaux et la nécessité d'apaiser les craintes environnementales des populations riveraines.",
+     "why": "La mobilisation citoyenne contre les centres de données met en lumière le coût environnemental massif du développement de l'IA.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    },
+    {
+     "source": "DW",
+     "lang": "de",
+     "url": "https://www.dw.com/de/klimawandel-1-5-grad-marke-wird-schon-wieder-gerissen/a-79883851",
+     "headline": "Klimawandel: 1,5-Grad-Marke wird schon wieder gerissen",
+     "headlineEn": "Climate change: 1.5-degree limit breached once again",
+     "summary": "Neue wissenschaftliche Auswertungen globaler Wetterdaten bestätigen, dass die globale Durchschnittstemperatur erneut die kritische Schwelle von 1,5 Grad Celsius über dem vorindustriellen Niveau überschritten hat. Umweltforscher warnen vor einer besorgniserregenden Verfestigung dieser Erwärmungsspirale, die extremere Wetterereignisse wie Hitzewellen, Dürren und Sturzfluten weltweit spürbar verstärkt. Die Daten zeigen, dass die bisherigen internationalen Reduktionszusagen bei Weitem nicht ausreichen, um die Erderwärmung wirksam einzudämmen. Auf den bevorstehenden UN-Klimaverhandlungen wächst der Druck auf die Industriestaaten drastisch, ihre nationalen Emissionsziele unverzüglich nachzuschärfen und finanzielle Mittel für Klimaanpassungsmaßnahmen in besonders gefährdeten Entwicklungsregionen bereitzustellen.",
+     "why": "Le franchissement répété du seuil de 1,5 °C confirme l'urgence d'accélérer la transition énergétique mondiale.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    },
+    {
+     "source": "DW",
+     "lang": "en",
+     "url": "https://www.dw.com/en/journalism-and-ai-who-owns-the-news/a-79884854",
+     "headline": "Journalism and AI: Who owns the news?",
+     "headlineEn": "Journalisme et IA : à qui appartient l'information ?",
+     "summary": "Tensions between media publishers and technology companies have intensified over the unauthorized scraping of journalistic content to train artificial intelligence models. News organizations report significant declines in direct web traffic and digital subscription revenue as AI chatbots answer user queries using their original reporting without compensation. Legal battles are mounting across multiple jurisdictions, with publishers demanding fair licensing agreements and intellectual property protections. The debate touches upon the economic viability of independent journalism in an era dominated by automated information synthesis, raising fundamental questions about the future financing of public-interest reporting.",
+     "why": "Le pillage des contenus journalistiques par les systèmes d'IA menace directement le modèle économique de la presse libre.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    }
+   ]
+  },
+  {
+   "name": "Sport",
+   "stories": [
+    {
+     "source": "France 24",
+     "lang": "fr",
+     "url": "https://www.france24.com/fr/vid%C3%A9o/20261108-route-du-rhum-le-fran%C3%A7ais-tom-laperche-triomphe-record-%C3%A0-la-cl%C3%A9",
+     "headline": "Route du Rhum : le français Tom Laperche triomphe, record à la clé",
+     "headlineEn": "Route du Rhum: Frenchman Tom Laperche triumphs with record time",
+     "summary": "Le skipper français Tom Laperche a remporté la prestigieuse course en solitaire de la Route du Rhum à bord de son trimaran géant SVR Lazartigue. Il a franchi la ligne d'arrivée en Guadeloupe en établissant un nouveau temps record dès sa première participation. Dominateur depuis le départ de Saint-Malo, le jeune marin concrétise une performance sportive d'exception.",
+     "why": "Cette victoire en temps record consacre Tom Laperche au sommet de la voile de compétition internationale.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    },
+    {
+     "source": "PBS News",
+     "lang": "en",
+     "url": "https://www.pbs.org/newshour/world/cristiano-ronaldo-announces-his-international-retirement-from-portugal",
+     "headline": "Cristiano Ronaldo announces his international retirement from Portugal",
+     "headlineEn": "Cristiano Ronaldo annonce sa retraite internationale avec le Portugal",
+     "summary": "Portuguese football icon Cristiano Ronaldo has officially announced his retirement from international competition after an extraordinary career spanning over two decades. The legendary forward leaves as the all-time leading goalscorer in international men's football history, having led Portugal to European Championship glory. Tributes poured in from around the sporting world to honor his immense impact on the game.",
+     "why": "La retraite internationale de Cristiano Ronaldo marque la fin d'une époque légendaire pour le football mondial.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    }
+   ]
+  }
+ ],
+ "sourced": true,
+ "feeds": {
+  "ok": 17,
+  "of": 29,
+  "items": 170,
+  "skipped": [
+   "Reuters (EN): HTTP 503",
+   "Reuters (FR): HTTP 503",
+   "AFP (FR): HTTP 503",
+   "AP (EN): HTTP 503",
+   "Euronews (FR): HTTP 406",
+   "RTL.lu (LB): HTTP 503",
+   "RTL.lu (FR): HTTP 503",
+   "Wort (DE): HTTP 503",
+   "WSJ (EN): HTTP 503",
+   "Bloomberg (EN): HTTP 503",
+   "Foreign Affairs (EN): HTTP 503",
+   "CFR (EN): HTTP 503"
+  ]
+ },
+ "words": 5470,
+ "readMin": 27,
+ "storyCount": 25
+}
