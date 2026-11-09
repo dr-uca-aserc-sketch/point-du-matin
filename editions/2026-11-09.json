@@ -1,0 +1,404 @@
+{
+ "date": "2026-11-09",
+ "kind": "daily",
+ "heat": 0.7,
+ "oneThing": "Nvidia launched an investigation into CEO Jensen Huang over his affair with an alleged Chinese intelligence agent, sparking tech market turmoil.",
+ "followUps": [
+  {
+   "n": "01",
+   "thread": "Après-coup des élections américaines de mi-mandat",
+   "change": "Après la défaite républicaine, les conservateurs tentent de finaliser leurs dossiers au Congrès avant le transfert de pouvoir, tandis que Donald Trump nomme Stephen Miller chef de cabinet."
+  },
+  {
+   "n": "02",
+   "thread": "Négociations entre les États-Unis et l'Iran",
+   "change": "Donald Trump juge peu probable une reprise des hostilités, mais Marco Rubio rapporte l'absence de progrès dans les discussions alors que Téhéran exige la levée du blocus."
+  },
+  {
+   "n": "03",
+   "thread": "Enquête sur la fusillade de Cracovie",
+   "change": "Le suspect âgé de 24 ans est décédé à l'hôpital, la police confirmant ses idéologies d'extrême droite et la découverte des corps de trois membres de sa famille à son domicile."
+  }
+ ],
+ "mustReads": [
+  {
+   "desk": "Technologie & Géopolitique",
+   "source": "AP News",
+   "lang": "EN",
+   "paywalled": false,
+   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQUzB5YTdpVVRqQUNKMHhoR3ZQNEdMb00yeU1kQUpTM2tDT2lHbTRmb1p5NHpmdDZqZ21EQlVNTEIzd2tlbDh2cUIwM1RNOVVQeFF6bDdjbXplNjhnWU1VUTR1NndXOFRGTUJlbHJGcmstaWgxWGdSX05SWW9qWmRaUlpLVTBGX1VNc3RnOEpqSktRZW96d0lVYVd0SEg5ZGlnd1FFMDNpdWo?oc=5",
+   "headline": "Nvidia investigates whether CEO Jensen Huang was targeted by Chinese spy with whom he had an affair",
+   "headlineEn": "Nvidia enquête pour savoir si son PDG Jensen Huang a été ciblé par une espionne chinoise avec laquelle il a eu une liaison",
+   "contested": "Pékin dément catégoriquement toute opération d'espionnage en qualifiant ces accusations d'infondées, alors que l'entreprise américaine et des responsables de la sécurité de Washington ont ouvert une enquête approfondie sur cette relation.",
+   "why": "Les soupçons d'espionnage visant le dirigeant du géant mondial des puces électroniques menacent la stabilité des marchés technologiques et l'accès aux technologies critiques.",
+   "stat": "4 %",
+   "statLabel": "Chute du cours des actions Nvidia après les révélations sur l'enquête d'espionnage",
+   "chart": null,
+   "paras": [
+    "The board of directors at Nvidia has launched an official internal investigation regarding Chief Executive Officer Jensen Huang following his public admission of an extramarital affair with a businesswoman suspected of operating on behalf of Chinese intelligence services. The revelations have sent shockwaves across financial markets and global technology sectors, raising immediate concerns over potential security breaches and compromised intellectual property. Investors reacted swiftly as shares of the semiconductor giant registered notable declines during recent trading sessions amid growing uncertainty surrounding executive leadership and regulatory oversight in Washington.",
+    "According to details released by the company, the woman involved in the affair, identified as Alice Huang, had remained within Nvidia's professional orbit for several years, attending key industry events and corporate gatherings. Security officials in the United States suspect that she was strategically deployed by Beijing's intelligence apparatus to gain covert proximity to high-level tech executives. While Jensen Huang issued an apology to staff and shareholders for his personal conduct, he insisted that no confidential technical data or proprietary corporate secrets were ever transferred or shared during their relationship.",
+    "The Chinese government strongly rejected the allegations, characterizing reports of a state-sponsored honeytrap operation as completely baseless and politically motivated fabrications designed to undermine Chinese commercial interests. Chinese diplomatic representatives maintained that Beijing adheres strictly to international law and non-interference principles. Despite these denials, American counterintelligence agencies continue to scrutinize the timeline of events, analyzing whether sensitive information regarding advanced artificial intelligence chip designs and supply chains could have been exposed through informal social channels or unmonitored digital communications over recent months.",
+    "The scandal arrives at an exceptionally delicate moment for Nvidia, which dominates the market for hardware powering artificial intelligence models globally. US President Donald Trump publicly addressed the situation, describing Huang as an honorable individual while acknowledging that security protocols must be rigorously upheld. However, lawmakers in Congress have signalled their intention to press for comprehensive briefings, questioning whether national security safeguards were compromised given Nvidia's central role in the strategic competition between Washington and Beijing over microelectronics manufacturing and advanced computing infrastructure.",
+    "Industry analysts note that any potential disruption to Nvidia's executive management could disrupt broader market sentiment, as tech indices worldwide have already experienced heightened volatility following the announcements. Financial institutions and institutional investors are watching closely to see if the board will recommend temporary executive leave or structural governance adjustments. The ongoing probe highlights the severe geopolitical risks facing technology leaders who operate at the intersection of international trade, critical supply networks, and escalating intelligence friction between world powers.",
+    "As internal auditors and external legal advisors review communication logs, travel records, and corporate disclosures, Nvidia has assured clients and business partners that operational activities remain fully functional. The company stated that robust firewalls and strict security protocols protect its sensitive research laboratories. Nevertheless, the episode underscores how personal vulnerabilities can be exploited by foreign intelligence services seeking strategic leverage over key technological infrastructure, raising broader questions about corporate governance standards across Silicon Valley technology firms."
+   ]
+  },
+  {
+   "desk": "Sécurité internationale",
+   "source": "BBC",
+   "lang": "EN",
+   "paywalled": false,
+   "url": "https://www.bbc.co.uk/news/articles/c6y434dw8319o?at_medium=RSS&at_campaign=rss",
+   "headline": "Krakow shooting suspect has died in hospital, police say",
+   "headlineEn": "Le suspect de la fusillade de Cracovie est mort à l'hôpital, selon la police",
+   "contested": "",
+   "why": "L'attentat de Cracovie ravive le débat politique sur la montée des idéologies d'extrême droite et la sécurité publique en Pologne.",
+   "stat": "6",
+   "statLabel": "Personnes tuées lors de la fusillade de masse sur la grande place de Cracovie",
+   "chart": null,
+   "paras": [
+    "Polish police confirmed on Monday that the suspect behind the devastating mass shooting in Krakow has died in a local hospital from injuries sustained during a firefight with law enforcement officers. The twenty-four-year-old Polish citizen had opened fire with an automatic firearm in the Main Square of Krakow's historic Old Town on Saturday, killing six people and wounding fifteen others. The tragic incident, described by Polish officials as an act of terror, has plunged the nation into mourning while triggering intensive investigations into his motives and online activities.",
+    "In addition to the casualties on the public square, investigators discovering three additional bodies at the suspect's residence believe he murdered members of his immediate family prior to embarking on his violent rampage. Police officers and forensic teams spent the weekend securing the crime scene and gathering evidence from his home, searching through digital devices and personal belongings. Authorities expressed deep condolences to the victims' families, assuring the public that law enforcement agencies acted with maximum speed to neutralize the gunman and prevent further loss of life.",
+    "Poland's Interior Minister Marcin Kierwiński revealed during a press briefing that preliminary findings indicate the gunman held radical far-right beliefs and was deeply fascinated by extremist ideologies. Government officials stressed that the attacker appeared to have acted as a lone actor, though intelligence services are currently cross-referencing his communications to determine if he maintained contact with extremist networks online. The revelation has fueled intense political debate across the country regarding the proliferation of radicalization on digital platforms and the effectiveness of domestic security monitoring.",
+    "The shooting occurred in one of Poland's most famous cultural and tourist landmarks, a crowded pedestrian hub frequented by thousands of visitors every day. Witnesses described scenes of terror as panic spread rapidly through the historic market square when gunfire broke out. Emergency services responded within minutes, establishing a heavy security cordon while medical personnel treated the injured on site before transporting them to regional medical facilities. Several of the wounded remain in critical condition as hospital staff work around the clock.",
+    "Political leaders from across the spectrum have condemned the attack, while sharp disagreements have emerged regarding political rhetoric and preventive security measures. Opposition figures have demanded broader inquiries into firearms access and law enforcement vigilance, while government representatives cautioned against politicizing a national tragedy before investigators finalize their official reports. The Polish government has announced plans to enhance security presences in major public areas across key urban centres while reviewing protocols for identifying individuals exhibiting dangerous signs of ideological radicalization.",
+    "Community gatherings and candlelight vigils were held across Krakow as residents gathered to honor the memory of the victims and express solidarity with affected families. Local municipal authorities declared days of mourning, canceling public festivities and flying flags at half-mast on government buildings. As Poland copes with the shock of a rare mass casualty event, international leaders have extended messages of support, emphasizing unity and resilience against violent extremism while forensic investigators work to reconstruct the precise timeline of the tragic event."
+   ]
+  },
+  {
+   "desk": "Économie & Social",
+   "source": "France 24",
+   "lang": "FR",
+   "paywalled": false,
+   "url": "https://www.france24.com/fr/france/20261109-smic-port%C3%A9-%C3%A0-1-502-euros-net-d%C3%A9cembre-soit-24-euros-de-plus-par-mois",
+   "headline": "Le Smic porté à 1 502 euros net au 1ᵉʳ décembre, soit 24 euros de plus par mois",
+   "headlineEn": "France’s minimum wage to rise to 1,502 euros net from December 1st",
+   "contested": "",
+   "why": "Face à la pression sociale et aux manifestations, le gouvernement français tente d'apaiser le mécontentement sur le pouvoir d'achat sans déséquilibrer les finances des entreprises.",
+   "stat": "1,6 %",
+   "statLabel": "Taux de revalorisation du Smic annoncé par le gouvernement au 1er décembre",
+   "chart": null,
+   "paras": [
+    "Le Premier ministre français Sébastien Lecornu a réuni ce lundi à Matignon les représentants des organisations syndicales et patronales dans le cadre d'une conférence sociale d'urgence destinée à répondre aux inquiétudes grandissantes des citoyens concernant le pouvoir d'achat. À l'issue des négociations, le gouvernement a annoncé une revalorisation du salaire minimum interprofessionnel de croissance à hauteur de un virgule six pour cent à compter du premier décembre. Cette décision portera la rémunération minimale nette mensuelle des salariés concernés à mille cinq cent deux euros environ.",
+    "Le ministre du Travail Jean-Pierre Farandou a précisé devant les journalistes que cette revalorisation représentera une hausse concrète d'environ vingt-quatre euros net par mois pour les travailleurs rémunérés au niveau du Smic. Selon l'exécutif, cette revalorisation anticipée vise à soutenir immédiatement le budget des ménages les plus modestes face à la persistance de l'inflation sur les biens de première nécessité. Le gouvernement souhaite également inciter les branches professionnelles à renégocier leurs grilles salariales afin de réduire le tassement des rémunérations au niveau du salaire minimum.",
+    "Les réactions des partenaires sociaux à l'issue de la rencontre ont rapidement mis en évidence des divergences profondes sur l'efficacité de la mesure. La Confédération française démocratique du travail a qualifié l'annonce d'insuffisante au regard de la dégradation continue du coût de la vie pour de nombreuses familles. De son côté, la Confédération générale du travail a fermement dénoncé des miettes accordées par l'exécutif, estimant que cette revalorisation minimale ne permettra pas de compenser la hausse accumulée des loyers et des factures d'énergie.",
+    "Les organisations patronales ont exprimé des réserves quant à la capacité des petites et moyennes entreprises à absorber des charges salariales supplémentaires dans un contexte économique fragile. Le patronat a souligné que l'augmentation automatique des rémunérations sans compensation fiscale pourrait peser sur la compétitivité et freiner les embauches dans certains secteurs très exposés. Sébastien Lecornu a répondu en assurant que le gouvernement maintiendrait des dispositifs d'accompagnement ciblés pour éviter de fragiliser le tissu économique local tout en garantissant des avancées sociales concrètes.",
+    "Cette réunion au sommet intervient alors que des mobilisations sociales et des manifestations perturbent plusieurs grandes villes du pays depuis plusieurs semaines. Les manifestants réclament des mesures d'urgence plus ambitieuses pour faire face aux dépenses quotidiennes et exigent un blocage temporaire du prix de certains biens essentiels. En organisant cette concertation sociale, le chef du gouvernement cherche à instaurer un dialogue durable avec les partenaires sociaux pour désamorcer les tensions et éviter une paralysie prolongée des transports et des services publics.",
+    "La hausse du salaire minimum constitue la première étape d'une série de chantiers sociaux que le gouvernement entend ouvrir au cours des prochains mois. Sébastien Lecornu a confirmé que des discussions thématiques portant sur la valeur du travail, le pouvoir d'achat et l'égalité professionnelle se poursuivront dans le cadre d'ateliers bipartites. Reste désormais à savoir si cette augmentation du Smic suffira à apaiser le mécontentement populaire ou si les syndicats décideront de poursuivre leur mouvement de contestation dans les semaines à venir."
+   ]
+  }
+ ],
+ "desks": [
+  {
+   "name": "Luxembourg",
+   "stories": [
+    {
+     "source": "Luxemburger Wort",
+     "lang": "de",
+     "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOSXdJZXVrRlN5eUEwa095TjcyWS1sX3lyRXk5TjBBWlREN0RLd3B3LUowN3RiTEQ4U2IwNDBzMGN1UlVfME1ZM1AxR0tRdFFHa1Y3TEtMWlRidjFXSUF5MXVLWmhOQ0hOUUNoc3FYcUg1MjhCMmhVVUZZQ29JRUU2WnJKaDYtQjBzeEVoVDJaVlhTc2lUcHFaVUNsTzZTaXpuY1NDZmFZQ1pOeU0yS2c?oc=5",
+     "headline": "Luxemburger Rentnerpaar steht vor den Trümmern seines Wohntraums",
+     "headlineEn": "Luxembourg retired couple faces the ruins of their housing dream",
+     "summary": "Ein pensioniertes Ehepaar aus Luxemburg steht vor den Trümmern seines lang ersehnten Wohntraums und sieht sich mit dem Verlust seiner Ersparnisse konfrontiert. Das Paar hatte erhebliche finanzielle Mittel in ein Bauprojekt investiert, um den Lebensabend in den eigenen vier Wänden abzusichern. Unerwartete bürokratische Hürden, finanzielle Engpässe der Baufirma sowie erhebliche Verzögerungen führten jedoch dazu, dass das Eigenheim unbewohnbar blieb und hohe Mehrkosten entstanden. Dieser dramatische Fall verdeutlicht die Risiken auf dem luxemburgischen Wohnungsmarkt, auf dem zunehmend auch Senioren unter unsicheren Bauverhältnissen und mangelndem Käuferschutz leiden.",
+     "why": "Cette affaire met en lumière les risques financiers et l'insécurité auxquels font face les ménages luxembourgeois sur le marché immobilier local.",
+     "paywalled": true,
+     "contested": "",
+     "chart": null
+    },
+    {
+     "source": "Luxemburger Wort",
+     "lang": "de",
+     "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPalNhZURpbzQzSVgzYjU1R1d0MDlwNFhrLTdvMlBEZEVaSVIxb0o2ZGtPMHJUWXhid0s0bDZTOGRzbndGSlUyaWpodVFoc2gydmZVeFBtUVJ3RG0zZnlyeDZ2N0dXZ3Vka3lHV2NXRTBEajlLcWEwYzlnRmo2Vk53WkFtRWRnQUx2a1V3MW44N0E0TTBIZHRUS1V5Z2s2TjFUcjZvY3IzRjI?oc=5",
+     "headline": "Fast 700 Schwangerschaftsabbrüche im Jahr 2025",
+     "headlineEn": "Almost 700 abortions registered in Luxembourg in 2025",
+     "summary": "In Luxemburg wurden im Jahr 2025 knapp 700 Schwangerschaftsabbrüche registriert, wie aus den neuesten offiziellen Statistiken des Gesundheitsministeriums hervorgeht. Diese Zahl liegt im Rahmen der Entwicklungen der vergangenen Jahre und verdeutlicht den anhaltenden Bedarf an medizinischer Beratung sowie präventiver Aufklärung im Großherzogtum. Experten weisen darauf hin, dass ein barrierefreier Zugang zu medizinischer Versorgung und psychosozialer Unterstützung entscheidend bleibt, um Frauen in schwierigen Lebenslagen beizustehen. Die Veröffentlichung der Daten hat erneut eine Debatte über den Ausbau von Beratungsangeboten und den präventiven Sexualunterricht an luxemburgischen Schulen angestoßen.",
+     "why": "Ces données relatives à la santé publique alimentent le débat sur l'accompagnement médical et la prévention au Grand-Duché.",
+     "paywalled": true,
+     "contested": "",
+     "chart": null
+    },
+    {
+     "source": "Luxemburger Wort",
+     "lang": "de",
+     "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNVnhYTWZUb3g3dHp3M25oanNPR21UU1_zRnKSJzWFJBSUFYSFh4eUdCSjBuXzdUUW1OYUxFdjF4QkdhSmIyYW5lNUMzaFpCajVkNmp2blRpRzFtUjJjZWFJV2VPUTZucHl4M1ZrNGxDLU94MnBWVndXV09DSFJSWTVGSXlLXzhaTmhINlRxM1VvdlpXS3dwMkVaWHhOU1RMcXNNbUw3d3pQWGdiSEJPeg?oc=5",
+     "headline": "Léa Linster: „Schwere Erkrankungen machen nicht an Landesgrenzen halt“",
+     "headlineEn": "Léa Linster: 'Severe illnesses do not stop at national borders'",
+     "summary": "Die renommierte luxemburgische Spitzenköchin Léa Linster hat in einem engagierten Plädoyer eine engere grenzüberschreitende Zusammenarbeit im Gesundheitswesen gefordert. Aus eigener Erfahrung betont sie, dass schwere Erkrankungen vor Landesgrenzen keinen Halt machen und Patienten in der Großregion den besten verfügbaren Behandlungen zugänglich gemacht werden müssen. Hürden bei der Abwicklung von Behandlungskosten und bürokratische Hindernisse zwischen Luxemburg und seinen Nachbarländern erschweren bisher oft die zeitnahe medizinische Versorgung. Linster fordert die Politik auf, administrative Blockaden rasch abzubauen und gemeinsame Gesundheitsnetzwerke in der Grenzregion konsequent zu stärken.",
+     "why": "La coopération sanitaire transfrontalière est une priorité essentielle pour les résidents et frontaliers de la Grande Région.",
+     "paywalled": true,
+     "contested": "",
+     "chart": null
+    }
+   ]
+  },
+  {
+   "name": "Monde / géopolitique",
+   "stories": [
+    {
+     "source": "DW",
+     "lang": "de",
+     "url": "https://www.dw.com/de/russland-lehnt-europas-teilnahme-an-ukraine-gesprächen-ab/a-79897668?maca=de-rss-de-all-1119-rdf",
+     "headline": "Russland lehnt Europas Teilnahme an Ukraine-Gesprächen ab",
+     "headlineEn": "Russia rejects European participation in Ukraine peace talks",
+     "summary": "Im Vorfeld der geplanten Verhandlungen über eine Beendigung des Ukraine-Kriegs in Abu Dhabi hat Moskau eine Teilnahme europäischer Vertreter entschieden zurückgewiesen. Während Frankreich angekündigt hatte, eigene Diplomaten zu den Gesprächen zu entsenden, beharrt Russland darauf, dass die Verhandlungen ausschließlich zwischen der Ukraine, Russland und den USA geführt werden. Im Mittelpunkt der Treffen sollen künftige Sicherheitsgarantien sowie mögliche Schritte zu einem Waffenstillstand stehen. Die europäische Absage unterstreicht die tiefen Spannungen zwischen Moskau und den EU-Staaten, die ihre Sicherheitsinteressen in der künftigen Friedensordnung bedroht sehen.",
+     "why": "Le rejet de la participation européenne par Moscou risque d'isoler les alliés continentaux de l'Ukraine dans la négociation du futur accord de paix.",
+     "paywalled": false,
+     "contested": "Alors que la France a annoncé son intention d'envoyer des représentants aux négociations d'Abou Dabi, la Russie a publiquement rejeté la présence européenne, exigeant un format restreint à la Russie, l'Ukraine et les États-Unis.",
+     "chart": null
+    },
+    {
+     "source": "DW",
+     "lang": "de",
+     "url": "https://www.dw.com/de/die-csu-politikerin-ilse-aigner-ist-als-erste-bundespräsidentin-nun-favoritin/a-79873744?maca=de-rss-de-all-1119-rdf",
+     "headline": "Die CSU-Politikerin Ilse Aigner ist als erste Bundespräsidentin nun Favoritin",
+     "headlineEn": "CSU politician Ilse Aigner is now favourite to become first female German president",
+     "summary": "Die CSU-Politikerin Ilse Aigner wurde von den Unionsparteien offiziell als Kandidatin für das Amt der deutschen Bundespräsidentin nominiert. Damit gilt die erfahrene Politikerin vor der Wahl in der Bundesversammlung am 30. Januar als klare Favoritin für die Nachfolge von Frank-Walter Steinmeier. Sollte sie gewählt werden, wäre Aigner das erste weibliche Staatsoberhaupt in der Geschichte der Bundesrepublik Deutschland sowie die erste CSU-Politikerin in diesem Amt. In ihren ersten Erklärungen betonte Aigner, als Kandidatin der starken Mitte zu überzeugen und politische Gräben im Land überbrücken zu wollen.",
+     "why": "La désignation probable d'Ilse Aigner marquerait un tournant historique en Allemagne avec l'accès d'une première femme à la présidence fédérale.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    },
+    {
+     "source": "Reuters",
+     "lang": "fr",
+     "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOQXJPVTdRRklXWVVfcDEzUlQ4RHdINUpuei1aYnFyX3BZYWlfMFhIX3pOT3lVc25XS3FnOUhiai1obnZzQmhuSHdsOW92ZkhDV1VXakxfZFJKeFQxemtuQURkSHJxZUpuZUFBcDFqOXJIUWhkMmxneHlwZ3VFTGthdWRTNnp0RGFGQ2VjTGcxdUFsSTJFSzctT1hHUWN2U3hTY2VyaVJpJnNKVHhydkhSUldnNWFyZlg0WmNfYjBXaGdEMGVK?oc=5",
+     "headline": "EU sues IBM and two European companies over troubled border system, FT reports",
+     "headlineEn": "EU sues IBM and two European companies over troubled border system, FT reports",
+     "summary": "L'Union européenne a engagé des poursuites judiciaires à l'encontre du géant informatique IBM et de deux entreprises européennes partenaires en raison des défaillances majeures du nouveau système automatisé de gestion des frontières extérieures. Ce projet technologique ambitieux, censé moderniser le contrôle des voyageurs aux frontières de l'espace Schengen, accuse d'importants retards et des surcoûts considérables. Les autorités bruxelloises reprochent aux prestataires le non-respect des engagements contractuels et l'incapacité à livrer une plateforme opérationnelle dans les délais impartis. Cette action judiciaire souligne les difficultés récurrentes de la Commission européenne dans la conduite des grands projets technologiques de sécurité.",
+     "why": "Ce contentieux judiciaire met en péril le calendrier d'entrée en vigueur des nouveaux contrôles automatisés aux frontières extérieures de l'espace Schengen.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    }
+   ]
+  },
+  {
+   "name": "International — hors Europe",
+   "stories": [
+    {
+     "source": "Al Jazeera",
+     "lang": "en",
+     "url": "https://www.aljazeera.com/news/2026/11/9/gaza-authorities-slam-global-inaction-after-mudslide-kills-five-people?traffic_source=rss",
+     "headline": "Gaza authorities slam global ‘inaction’ after mudslide kills five people",
+     "headlineEn": "Les autorités de Gaza dénoncent l'inaction internationale après un glissement de terrain mortel",
+     "summary": "Authorities in Gaza have strongly condemned international inaction following heavy torrential rains that triggered a deadly mudslide in a displaced persons camp. At least five people, including three children and two women, were killed when a flooded sandbank collapsed onto their makeshift shelter. The storm has inundated tens of thousands of tents across the enclave, worsening the already catastrophic humanitarian situation caused by ongoing conflict and infrastructure destruction. Local emergency services warned that severe restrictions on fuel and aid entering Gaza are severely hampering rescue efforts and leaving hundreds of thousands of displaced residents vulnerable to extreme weather conditions.",
+     "why": "Les intempéries aggravant le sinistre humanitaire à Gaza soulignent la vulnérabilité extrême des populations déplacées face à l'insuffisance de l'aide internationale.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    },
+    {
+     "source": "AFP",
+     "lang": "fr",
+     "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE02cm45ZExhc0dZS0NFSzhuTDgxc2s2VHpZZ3JYNF9uS3o4V0NSaklkYTdkVkU2SkUtV2ZFazA3Q0NuNEh5Vk5ySXdoNA?oc=5",
+     "headline": "Yemen's Houthis claim attack on Riyadh financial district, Aramco skyscraper damaged",
+     "headlineEn": "Yemen's Houthis claim attack on Riyadh financial district, Aramco skyscraper damaged",
+     "summary": "Les rebelles houthistes du Yémen ont revendiqué une attaque par drone et missile visant directement le quartier financier du Roi-Abdallah à Riyad. L'un des projectiles a causé des dégâts matériels importants à un gratte-ciel appartenant à la compagnie pétrolière nationale Saudi Aramco. Cette frappe au cœur de la capitale saoudienne marque une escalade significative, le mouvement yéménite ciblant désormais des symboles majeurs du plan de transformation économique de l'Arabie saoudite. Bien qu'aucune victime ne soit à déplorer, l'incursion a vivement inquiété les milieux d'affaires internationaux et fragilise la confiance des investisseurs étrangers dans la région.",
+     "why": "L'attaque visant le cœur financier de Riyad menace directement la stratégie de diversification économique saoudienne et ravive l'instabilité dans le Golfe.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    },
+    {
+     "source": "BBC",
+     "lang": "en",
+     "url": "https://www.bbc.co.uk/news/articles/ckj0l082jqzvo?at_medium=RSS&at_campaign=rss",
+     "headline": "Pope delivers veiled rebuke of Milei's austerity measures",
+     "headlineEn": "Le pape adresse une critique voilée aux mesures d'austérité du président Milei",
+     "summary": "Pope Leo XIV arrived in Argentina on the second leg of his South American tour, marking the first papal visit to the nation in nearly four decades. Upon landing in Buenos Aires, the pontiff was met by libertarian President Javier Milei, with whom he holds starkly contrasting political views. Speaking to crowds and dignitaries, Pope Leo delivered a veiled rebuke of the government's harsh austerity program, emphasizing that economic policy must prioritize the needy over financial metrics. The historic visit highlights growing social tensions in Argentina, where severe budget cuts have sparked widespread protests and intensified debates over social welfare.",
+     "why": "Les tensions entre l'Église et le gouvernement argentin illustrent les fractures sociales profondes provoquées par les réformes ultralibérales du président Milei.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    },
+    {
+     "source": "BBC",
+     "lang": "en",
+     "url": "https://www.bbc.co.uk/news/articles/cwrkygrxp11mo?at_medium=RSS&at_campaign=rss",
+     "headline": "'Devastating message' as ANC records worst-ever result in South Africa election",
+     "headlineEn": "« Un message dévastateur » : l'ANC enregistre son pire résultat électoral en Afrique du Sud",
+     "summary": "South Africa's governing African National Congress (ANC) has suffered its worst electoral performance in history during the latest municipal elections. President Cyril Ramaphosa stated that the voters' verdict must be respected, while senior party leaders described the outcome as truly catastrophic. Frustrated citizens overwhelmingly punished the liberation movement over persistent corruption, record unemployment, and failing public services including chronic electricity and water shortages. The historic collapse in support represents a critical turning point in South African politics, forcing the party to confront deep internal divisions and widespread public disillusionment ahead of national political realignment.",
+     "why": "La sanction électorale sans précédent reçue par l'ANC redessine l'échiquier politique d'Afrique du Sud et accélère la fin de l'hégémonie du parti historique.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    },
+    {
+     "source": "Foreign Affairs",
+     "lang": "en",
+     "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5xMGRObURucmNZdXBNVWxyU3pqZjc2dVJrSno1dFd4UjQ3REpZUkZQcXUxVmR5OW1VMVI4cExoMGRkSjF4cnRrU3VaNEw1czQxeXg5V3RCOVNkTVgwNmdoZkxHNE1QZHhoWXlHbmtkQkFPd3JL?oc=5",
+     "headline": "The New Epicenter of Global Terror: How Africa’s Weak States and Rare Earths Drive Transnational Extremism",
+     "headlineEn": "Le nouvel épicentre du terrorisme mondial : comment la faiblesse des États africains et les terres rares alimentent l'extrémisme",
+     "summary": "A compelling new analysis in Foreign Affairs highlights how sub-Saharan Africa has rapidly emerged as the primary global epicenter of transnational terrorism. The article explains that fragile state institutions combined with vast, unmonitored deposits of critical minerals and rare earths create an ideal environment for extremist organizations. Armed groups increasingly seize control of lucrative mining operations to finance transnational terror networks and purchase sophisticated weaponry. To counter this growing threat, foreign policy experts argue that Western security strategies must move beyond military intervention and address fundamental governance failures while securing vital global supply chains against extremist exploitation.",
+     "why": "La convergence entre vide sécuritaire et ressources minières stratégiques en Afrique subsaharienne fait peser une menace directe sur les approvisionnements mondiaux et la sécurité globale.",
+     "paywalled": true,
+     "contested": "",
+     "chart": null
+    }
+   ]
+  },
+  {
+   "name": "Europe & politiques de l'UE",
+   "stories": [
+    {
+     "source": "DW [DE]",
+     "lang": "de",
+     "url": "https://www.dw.com/de/die-csu-politikerin-ilse-aigner-ist-als-erste-bundespräsidentin-nun-favoritin/a-79873744?maca=de-rss-de-all-1119-rdf",
+     "headline": "Die CSU-Politikerin Ilse Aigner ist als erste Bundespräsidentin nun Favoritin",
+     "headlineEn": "CSU politician Ilse Aigner is now the favourite to become Germany's first female federal president",
+     "summary": "Die CSU-Politikerin Ilse Aigner gilt nach ihrer Nominierung durch den CDU-Vorsitzenden Friedrich Merz als klare Favoritin für die Nachfolge von Frank-Walter Steinmeier im Amt des Bundespräsidenten. Sollte sie am 30. Januar von der Bundesversammlung gewählt werden, wäre sie die erste Frau an der Spitze des deutschen Staates. Aigner betonte nach ihrer Nominierung, dass sie als Kandidatin der starken Mitte die Bevölkerung zusammenbringen und ein Zeichen gegen populistische sowie extremistische Strömungen setzen wolle. Die Nominierung stieß parteiübergreifend auf breite Zustimmung in der Koalition und markiert einen historischen Moment in der deutschen Nachkriegsgeschichte.",
+     "why": "Cette candidature consensuelle préfigure un changement historique à la tête de l'État fédéral allemand.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    },
+    {
+     "source": "Reuters [FR]",
+     "lang": "fr",
+     "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOQXJPVTdRRklXWVVfcDEzUlQ4RHdINUpuei1aYnFyX3BZYWlfMFhIX3pOT3lVc25XS3FnOUhiai1obnZzQmhuSHdsOW92ZkhDV1VXakxfZFJKeFQxemtuQURkSHJxZUpuZUFBcDFqOXJIUWhkMmxneHlwZ3VFTGthdWRTNnp0RGFGQ2VjTGcxdUFsSTJFSzctT1hHUWN2U3hTY2VyaVJpSnNKVHhydkhSUldnNWFyZlg0WmNfYjBXaGdEMGVK?oc=5",
+     "headline": "L'UE poursuit IBM et deux entreprises européennes concernant le système de contrôle aux frontières",
+     "headlineEn": "EU sues IBM and two European companies over troubled border system",
+     "summary": "L'Union européenne a engagé des poursuites judiciaires contre le géant informatique américain IBM ainsi que deux entreprises européennes partenaires à la suite de dysfonctionnements majeurs affectant son nouveau système automatisé de gestion des frontières. Le système Entry/Exit System, destiné à moderniser les contrôles aux frontières extérieures de l'espace Schengen, a accumulé des retards répétés et des failles techniques importantes. La Commission européenne reproche aux prestataires de ne pas avoir respecté leurs engagements contractuels et exige des réparations financières. Cette procédure judiciaire met en lumière les difficultés chroniques des grands projets technologiques de la Commission pour la sécurité frontalière.",
+     "why": "Ce contentieux juridique met en péril le calendrier d'attribution des contrôles frontaliers dans l'espace Schengen.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    },
+    {
+     "source": "DW [DE]",
+     "lang": "de",
+     "url": "https://www.dw.com/de/russland-lehnt-europas-teilnahme-an-ukraine-gesprächen-ab/a-79897668?maca=de-rss-de-all-1119-rdf",
+     "headline": "Russland lehnt Europas Teilnahme an Ukraine-Gesprächen ab",
+     "headlineEn": "Russia rejects Europe's participation in Ukraine peace talks",
+     "summary": "Moskau hat eine Beteiligung europäischer Vertreter an den geplanten Friedensverhandlungen zur Ukraine in Abu Dhabi strikt abgelehnt, nachdem Frankreich angekündigt hatte, eine Delegation zu entsenden. Die russische Führung stellt klar, dass direkte Gespräche ausschließlich zwischen der Ukraine, Russland und den Vereinigten Staaten stattfinden sollten. Im Zentrum der Verhandlungen stehen künftige Sicherheitsgarantien sowie die Bedingungen für eine mögliche Beendigung der militärischen Auseinandersetzungen. Dieser diplomatische Vorstoß unterstreicht die Spannungen zwischen Moskau und den europäischen Staaten, die verlangen, an Verhandlungen über die Sicherheitsarchitektur ihres eigenen Kontinents beteiligt zu werden.",
+     "why": "Le refus russe d'inclure l'UE dans les négociations marginalise les Européens sur leur propre sécurité.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    }
+   ]
+  },
+  {
+   "name": "Économie & marchés",
+   "stories": [
+    {
+     "source": "DW [EN]",
+     "lang": "en",
+     "url": "https://www.dw.com/en/eu-aims-to-pick-new-ecb-chief-by-year-end/a-79898169?maca=en-rss-en-world-4025-rdf",
+     "headline": "EU aims to pick new ECB chief by year-end",
+     "headlineEn": "L'UE vise à choisir le nouveau chef de la BCE d'ici la fin de l'année",
+     "summary": "The European Union has set an ambitious timeline to select a successor to European Central Bank President Christine Lagarde by the end of December, following her unexpected decision to step down ahead of schedule. Member states are facing intense pressure to quickly agree on a candidate to ensure stability across Eurozone financial markets. The selection process has reignited complex debate among EU capitals regarding regional representation and candidate qualifications during a sensitive economic transition. Financial analysts note that establishing clear leadership at the central bank is critical as the institution navigates ongoing interest rate adjustments and broader macroeconomic uncertainty.",
+     "why": "Le remplacement précoce de Christine Lagarde crée une urgence politique majeure pour les dirigeants de la zone euro.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    },
+    {
+     "source": "Reuters [EN]",
+     "lang": "en",
+     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOMVo4bzYyXzJlM0RUaEJCaDNDQWZ2bzhKOFNmbzBNTnMzNW9UeGRqVm9vd0pDWkNZUnROTXVSRmZ4aFJ1ZW1SeFdfQXJhZmFOREt6R3JQa2NFb3dsa21BYkdRanpFLTdVT1JEUko5NnhTY2lTbVk4cTZZS2NvS3lSMWQ4YnpQbElVcElZMDlQNjE2cDg2VnVwZ3MySXRraGpZQUtJWndKemxDRTVlMzBF?oc=5",
+     "headline": "China extends suspension of new rare earth controls until January",
+     "headlineEn": "La Chine prolonge la suspension des nouveaux contrôles sur les terres rares jusqu'en janvier",
+     "summary": "China has officially extended the suspension of its proposed restrictive export controls on critical rare earth minerals until January, granting temporary relief to international industrial supply chains. The decision delays new licensing rules that threatened to disrupt the global supply of essential components used in electronics, electric vehicles, and defense technology. Industry analysts view the extension as a strategic move by Beijing to maintain economic flexibility during ongoing multilateral trade discussions with Western nations. Global manufacturers welcomed the pause, though companies remain cautious about potential supply constraints when the temporary suspension expires early next year.",
+     "why": "Le report des restrictions chinoises apporte un répit temporaire aux chaînes d'approvisionnement technologiques mondiales.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    },
+    {
+     "source": "Reuters [EN]",
+     "lang": "en",
+     "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNYVZsYWtjTnU4dVhYU3o4LWJCeVdPOUNhNGdUVUhLdG1iZTE3REw3QmR6RHRzblFjc3RKYmlvS1JkRlFJakFpMExqdGx2ZDU1OGcxME5OazNFVTVGYTRQLTlSTjFhTk5Wc041TnV5dUtRdGdWWVQwWXRhMzdMaE9sdmdWOFROSGVoOTR1Z201THNOb25PTmdzWkdraGNkWEg2bFljcld6SDM0MzJvdG84amJkNGRBYjJyMDRCemVFMVhUMzZvcTZR?oc=5",
+     "headline": "Trump administration's embrace of \"perp\" futures sets off risk alarms for Wall Street stalwarts",
+     "headlineEn": "L'adoption par l'administration Trump des contrats à terme perpétuels alerte Wall Street",
+     "summary": "The Trump administration's supportive stance toward perpetual futures contracts has triggered serious risk concerns among established Wall Street institutions and financial regulators. Perpetual futures, which allow traders to speculate on asset prices without expiration dates, have traditionally operated within unregulated cryptocurrency markets. Mainstream financial firms warn that legitimizing these complex derivative instruments could introduce systemic volatility and increase exposure to market manipulation across broader capital markets. Regulators are evaluating whether existing investor protection frameworks can adequately manage the risks associated with offering perpetual contracts to retail and institutional market participants.",
+     "why": "L'introduction de produits financiers à haut risque suscite la crainte d'une instabilité systémique sur les marchés.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    }
+   ]
+  },
+  {
+   "name": "Technologie & sciences",
+   "stories": [
+    {
+     "source": "DW [DE]",
+     "lang": "de",
+     "url": "https://www.dw.com/de/ki-im-klassenzimmer-der-kampf-gegen-die-verdummung/a-79863775?maca=de-rss-de-all-1119-rdf",
+     "headline": "KI im Klassenzimmer: Der Kampf gegen die Verdummung",
+     "headlineEn": "AI in the classroom: The struggle against dumbing down",
+     "summary": "Eine wachsende Zahl von Bildungsforschern warnt vor den negativen Folgen eines unkritischen Einsatzes künstlicher Intelligenz an Schulen und Universitäten. Wenn Lernende KI-Tools ohne pädagogische Anleitung als Abkürzung nutzen, um Hausaufgaben und Berichte zu erstellen, droht ein schleichender Verlust grundlegender analytischer Fähigkeiten sowie ein Absinken der schulischen Leistungen. Lehrkräfte stehen vor der Herausforderung, Unterrichtsmethoden neu zu gestalten und Schülern den verantwortungsvollen Umgang mit den neuen Technologien zu vermitteln. Bildungsexperten fordern daher klare Richtlinien und Fortbildungsprogramme, um KI als Unterstützung statt als Ersatz für eigenständiges Denken im Klassenzimmer zu etablieren.",
+     "why": "L'intégration précipitée de l'IA à l'école pose un défi éducatif direct pour les compétences des futures générations.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    },
+    {
+     "source": "DW [DE]",
+     "lang": "de",
+     "url": "https://www.dw.com/de/cop31-gastgeberland-türkei-noch-stark-abhängig-von-fossil-importen/a-79875337?maca=de-rss-de-all-1119-rdf",
+     "headline": "COP31-Gastgeberland Türkei: noch stark abhängig von Fossil-Importen",
+     "headlineEn": "COP31 host country Turkey: still heavily dependent on fossil imports",
+     "summary": "Die Ausrichtung der UN-Klimakonferenz COP31 in Antalya rückt die Energiepolitik der Türkei in den Blickpunkt der internationalen Öffentlichkeit. Obwohl das Land Gastgeber der globalen Verhandlungen ist, bleibt es in hohem Maße von Importen fossiler Brennstoffe wie Kohle und Erdgas abhängig. Gleichzeitig verfolgt die Regierung das Ziel, den Ausbau erneuerbarer Energien wie Solar- und Windkraft massiv zu beschleunigen, um die Abhängigkeit von Auslandslieferungen zu verringern. Umweltverbände fordern auf dem Gipfel von den Verhandlungsführern eine Beschleunigung des weltweiten Ausstiegs aus fossilen Energieträgern und verbindliche Zusagen zur Finanzierung von Klimamaßnahmen.",
+     "why": "Le contraste entre la dépendance fossile de la Turquie et ses ambitions climatiques illustre la complexité de la transition globale.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    },
+    {
+     "source": "DW [EN]",
+     "lang": "en",
+     "url": "https://www.dw.com/en/ebola-why-is-there-still-no-vaccine/a-79888134?maca=en-rss-en-world-4025-rdf",
+     "headline": "Ebola: Why is there still no vaccine?",
+     "headlineEn": "Ebola : Pourquoi n'y a-t-il toujours pas de vaccin ?",
+     "summary": "Despite decades of medical research since the discovery of Ebola, scientists have not yet deployed an approved vaccine against the Bundibugyo strain currently driving fresh regional outbreaks. Medical researchers face significant logistical and financial hurdles in conducting clinical trials during unpredictable localized epidemics in Central Africa. Recent clinical studies and research initiatives are generating renewed optimism by testing promising candidates designed to provide broad immunity across multiple viral strains. Health experts stress that securing long-term funding and international cooperation is crucial to finalizing effective vaccines and protecting vulnerable populations from future hemorrhagic fever outbreaks.",
+     "why": "L'absence de vaccin contre certaines souches d'Ebola maintient une menace sanitaire grave sur les régions vulnérables.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    }
+   ]
+  },
+  {
+   "name": "Sport",
+   "stories": [
+    {
+     "source": "RTL.lu [FR]",
+     "lang": "fr",
+     "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOdm1Ednp4bVNtbGpRd1hrS3FUZlZacGlzekk4Wjc2OUNZSTFuaFNZc2dab3NtckU3SW1TaS0zRWVFVUwwUzNVNEJZY1B1U3MzaEx3T3JuSFJPZ0ZGQjBSOWtqUTZLNG9pR3pIc2ZwS0FTdUU4WDZSWjJnQ0FFY1RBZTJxaG4tWmxSVmNvaU53MlBFOHpqbUJqSjEtdW5JLS1hUlUyYkFkajV4U3F5TWJQaE9LLTJvWWphcEIxdnpB?oc=5",
+     "headline": "Formule 1: Norris vainqueur du GP du Brésil, Verstappen a remonté toute la grille",
+     "headlineEn": "Formula 1: Norris wins Brazilian GP, Verstappen charges up the grid",
+     "summary": "Le pilote britannique Lando Norris a remporté le Grand Prix de Formule 1 du Brésil au terme d'une course palpitante. Derrière lui, Max Verstappen a réalisé une remontée spectaculaire en partant du fond de la grille pour décrocher une place sur le podium. Cette performance remarquable permet au pilote néerlandais de consolider son avance au championnat tout en maintenant la pression sur ses rivaux.",
+     "why": "Cette victoire de Norris et la remontée de Verstappen relancent l'intérêt sportif en fin de saison de Formule 1.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    },
+    {
+     "source": "RTL.lu [FR]",
+     "lang": "fr",
+     "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNUzU4UmtKMUVuUGJlZWtyMC1YdFc1R0V3YW54bEM5bjZMbWpmZnlmcDdBVlc3UFpXMW9SY2NzdVU1dTNFTndFLWlpTkZOaDhrSmlKbW1Fb1pmckVDeTFIaTQ3MGdRYmV4aWRkQ1hNSy1YdERNemV2S1JNRmkteUotV2dveS02WEFlVDNZeVY2ZlJsMkVZNlJ6VFVtVkVhLU1tcXl3NXZpNDc?oc=5",
+     "headline": "NBA : Les Spurs de Wemby signent une 8e victoire consécutive",
+     "headlineEn": "NBA: Wemby's Spurs sign an 8th consecutive victory",
+     "summary": "Les San Antonio Spurs emmenés par le phénomène français Victor Wembanyama ont décroché une huitième victoire consécutive en saison régulière de NBA. Grâce à une prestation solide en défense et à une efficacité offensive retrouvée, l'équipe poursuit sa remarquable série positive. Cette dynamique confirme le rôle central de Wembanyama dans la progression de la franchise cette saison.",
+     "why": "La série de victoires des Spurs confirme l'impact prépondérant de Victor Wembanyama en NBA.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    }
+   ]
+  }
+ ],
+ "sourced": true,
+ "feeds": {
+  "ok": 28,
+  "of": 29,
+  "items": 256,
+  "skipped": [
+   "Euronews (FR): HTTP 406"
+  ]
+ },
+ "words": 4192,
+ "readMin": 21,
+ "storyCount": 25
+}
