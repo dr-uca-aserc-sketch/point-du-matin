@@ -1,0 +1,383 @@
+{
+ "date": "2026-11-10",
+ "kind": "daily",
+ "heat": 0.85,
+ "oneThing": "",
+ "followUps": [
+  {
+   "n": "01",
+   "thread": "Négociations de paix sur l'Ukraine à Abou Dhabi",
+   "change": "Les délégués ukrainiens, russes et américains ont repris les discussions directes aux Émirats arabes unis sur les garanties de sécurité."
+  },
+  {
+   "n": "02",
+   "thread": "Tensions et diplomatie autour de l'Iran",
+   "change": "Donald Trump a estimé que de nouvelles frappes contre l'Iran étaient très peu probables, tandis que Paris a dénoncé un piratage iranien."
+  },
+  {
+   "n": "03",
+   "thread": "Scandale d'espionnage chez le géant des puces Nvidia",
+   "change": "L'enquête fédérale sur la relation de Jensen Huang avec une espionne présumée suscite de vive réactions politiques et financières."
+  }
+ ],
+ "mustReads": [
+  {
+   "desk": "Reuters",
+   "source": "Reuters",
+   "lang": "EN",
+   "paywalled": false,
+   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNUWZQSk5PbzdVdVhLaVFuakFlTy16TkhEdzcyaDJ6dmQyeDh1UFpBWFk3VjNrT24yZDgtNVU3cUZZODZyTFNxS3JScWdYWmxzcGFLOHNvVEJWSlBVckZHelJDcENpb0t1QkVyRkNON2hXX2hjcWRHN3piNFJxVWRDSEN3VHRWNVJZdHVRUHlhbFVUQ242emtCUXl5cmV4RVlnSWNjeEU1UklHZ3pBWGNCNUo5clRaWkVjRjNJUnVMbmlhUQ?oc=5",
+   "headline": "Nvidia CEO's affair with alleged spy aided $7.5 billion in China chip shipments, Information reports",
+   "headlineEn": "L'affaire du PDG de Nvidia avec une espionne présumée aurait facilité 7,5 milliards de dollars d'expéditions de puces vers la Chine, selon The Information",
+   "contested": "Tandis que Donald Trump affirme que Jensen Huang ignorait la qualité d'espionne de sa partenaire, des rapports d'investigation indiquent que la relation a facilité l'envoi de 7,5 milliards de dollars de puces vers la Chine.",
+   "why": "Cette affaire menace le leadership du géant des puces d'IA et ravive les craintes de fuites technologiques stratégiques vers Pékin.",
+   "stat": "$7,5B",
+   "statLabel": "d'expéditions de puces visées par l'enquête",
+   "chart": null,
+   "paras": [
+    "Revelations regarding Nvidia Chief Executive Officer Jensen Huang have sent shockwaves across Silicon Valley and international financial markets. Reports indicate that Huang admitted to an extramarital relationship with a woman alleged to be acting as an intelligence agent for the Chinese government. The scandal has quickly drawn intense scrutiny from federal law enforcement agencies, including the Federal Bureau of Investigation, as well as lawmakers in Washington. Investors are deeply concerned about potential security vulnerabilities within the semiconductor giant, which currently dominates the global supply of advanced microchips vital for artificial intelligence applications.",
+    "According to investigative reports published by The Information, the personal connection between the chief executive and the suspected intelligence operative reportedly facilitated the shipment of approximately seven point five billion dollars worth of advanced artificial intelligence chips to Chinese customers. These transactions occurred despite stringent export controls previously imposed by the United States government to restrict Beijing's access to cutting-edge semiconductor technology. Officials are now examining whether sensitive proprietary information or supply chain logistics were compromised during the course of the relationship, raising fundamental questions about corporate governance and compliance mechanisms at the tech titan.",
+    "President Donald Trump addressed the escalating controversy during a public statement, confirming that he had spoken directly with the Nvidia founder regarding the allegations. Trump stated that Huang maintained he had no knowledge that the individual was affiliated with foreign intelligence services. The president indicated that while federal authorities are actively investigating the matter, he expressed personal confidence in the executive's leadership. However, congressional leaders from both political parties have voiced growing alarm over the potential national security implications, calling for comprehensive briefings and independent oversight of foreign influence operations targeting American technology firms.",
+    "The timing of the scandal creates significant uncertainty for Nvidia and the broader technology sector, which relies heavily on Nvidia's dominant market position in AI hardware production. Industry analysts note that any prolonged federal probe or leadership disruption could disrupt strategic partnerships and investor sentiment across global markets. Lawmakers have signaled that tech executives operating in high-risk national security sectors must face heightened accountability regarding personal conduct and foreign contacts. The case underscores the intricate geopolitical risks facing American multinational corporations operating at the intersection of international trade, artificial intelligence, and strategic competition.",
+    "Foreign affairs experts and national security specialists view the situation as a clear demonstration of sophisticated foreign intelligence efforts to gain leverage over key figures in critical technology sectors. By targeting senior executives with access to high-value intellectual property and supply chain decisions, foreign entities seek to circumvent international sanctions and trade barriers. The investigation is expected to examine internal security protocols at Nvidia to determine whether corporate surveillance or internal auditing failed to detect potential conflicts of interest or unauthorized exchanges of sensitive commercial data over an extended timeframe.",
+    "As Wall Street assesses the financial ramifications, market participants remain focused on how Nvidia's board of directors will respond to the ongoing federal inquiry and public fallout. While the company's financial performance has been fueled by surging global demand for AI infrastructure, corporate governance experts emphasize that transparent crisis management will be essential to restore confidence among institutional investors. The outcome of the federal investigation could establish significant precedents for how technology executives are monitored and held accountable when national security interests and foreign espionage intersect with corporate enterprise."
+   ]
+  },
+  {
+   "desk": "Le Monde",
+   "source": "Le Monde",
+   "lang": "FR",
+   "paywalled": true,
+   "url": "https://www.lemonde.fr/pixels/article/2026/11/10/derriere-la-cyberattaque-contre-les-frigos-de-supermarches-l-iran-et-l-unite-cyber-des-gardiens-de-la-revolution_6808819_4408996.html",
+   "headline": "Derrière la cyberattaque contre les frigos de supermarchés, l’Iran et l’unité cyber des gardiens de la révolution",
+   "headlineEn": "Behind the cyberattack on supermarket fridges: Iran and the Revolutionary Guard's cyber unit",
+   "contested": "",
+   "why": "Le piratage des frigos démontre la capacité de Téhéran à cibler des infrastructures civiles et de la chaîne alimentaire en Europe.",
+   "stat": "700",
+   "statLabel": "supermarchés touchés par le piratage en France",
+   "chart": null,
+   "paras": [
+    "La diplomatie française a officiellement convoqué l'ambassadeur de la République islamique d'Iran à Paris à la suite de révélations majeures concernant une cyberattaque d'une ampleur inédite subie à la mi-octobre. Les autorités françaises accusent ouvertement Téhéran d'avoir orchestré le piratage des systèmes de réfrigération de près de sept cents supermarchés à travers le territoire national. Cette offensive numérique d'une agressivité sans précédent a perturbé les chaînes logistiques et provoqué d'importantes pertes de marchandises alimentaires. Paris a fermement mis en garde les représentants iraniens en précisant que cette action ne resterait pas sans réponse diplomatique et politique.",
+    "Selon les investigations menées par les services de renseignement et les experts en cybersécurité, l'opération a été formellement attribuée à l'unité cyber Shahid Kaveh, une branche spécialisée rattachée directement au corps des Gardiens de la révolution islamique. Cette structure est particulièrement redoutée par les services occidentaux pour sa capacité à cibler des infrastructures industrielles critiques et des systèmes de contrôle automatisés. En s'attaquant à la chaîne du froid dans le secteur de la grande distribution commerciale, les hackers iraniens ont démontré une maîtrise technique capable de paralyser des activités économiques du quotidien sans recourir à des moyens militaires traditionnels.",
+    "Le gouvernement français entend mobiliser ses partenaires européens afin d'obtenir l'adoption de sanctions rigoureuses à l'encontre des responsables de cette agression numérique. Cette prise de position publique intervient dans un contexte de tensions géopolitiques déjà très vivement exacerbées entre la France et l'Iran sur le dossier du programme nucléaire et la situation au Moyen-Orient. Les autorités de Paris estiment qu'un signal d'une extrême fermeté doit être envoyé à Téhéran pour dissuader toute tentative future d'ingérence ou de déstabilisation ciblant le tissu économique et les infrastructures civiles des pays membres de l'Union européenne.",
+    "Cette cyberattaque met en lumière la grande vulnérabilité des équipements industriels connectés et de la gestion automatisée des réseaux de distribution alimentaire modernes. Les spécialistes de la sécurité informatique soulignent que de nombreux dispositifs de contrôle à distance utilisés dans les commerces manquent de protections renforcées face à des attaques étatiques sophistiquées. Les répercussions de cet incident incitent désormais les entreprises européennes et les décideurs publics à réévaluer d'urgence les normes de cybersécurité appliquées aux chaînes d'approvisionnement critiques afin d'éviter la répétition de sabotages à grande échelle.",
+    "La réaction ferme du ministère français des Affaires étrangères illustre le changement de doctrine des nations occidentales face aux attaques hybrides attribuées à des puissances étrangères. En désignant nommément les Gardiens de la révolution et l'unité Shahid Kaveh, le gouvernement cherche à attribuer publiquement la responsabilité de ces actes pour briser l'anonymat dans lequel opèrent habituellement les groupes de pirates parrainés par des États. Cette stratégie d'attribution publique s'accompagne d'un renforcement du niveau d'alerte des services de défense informatique sur l'ensemble du territoire national.",
+    "Alors que le climat diplomatique entre Paris et Téhéran continue de se détériorer sensiblement, les répercussions de ce dossier risquent de peser lourdement sur les relations bilatérales déjà fragiles. Les milieux économiques et les fédérations du commerce de détail réclament un accompagnement renforcé de l'État pour sécuriser leurs outils informatiques et protéger les consommateurs. Cette affaire démontre que le champ des affrontements géopolitiques s'étend désormais directement au cœur des villes européennes, atteignant des équipements du quotidien jusque-là considérés comme anodins."
+   ]
+  }
+ ],
+ "desks": [
+  {
+   "name": "Luxembourg",
+   "stories": [
+    {
+     "source": "RTL.lu",
+     "lang": "fr",
+     "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPNFFpNmpKTnAzbDdqTEZ2dE1XNUk5bmJwcEFpajlCS2ZBTDk0ZVBuX1A2N1pHN2NsZjR1UElLRUZ2dnZ6cWdleW9ONVcwc1lRSDlUWjhBYjhfYjhqTl9GaFk0d0J5Vm9vUm15eGw4Q1F2SmhMb0tIcV9lUXVsMXJBNzZvMWZiS1ZWUGhSVjRRY2ppTGVVdENFOGt1NnNlZy1JdEdWeDZYZVhaYjBEeVNyZ3VURHZBYjBYc1_oWk5sSkR4Wld2VU15Z1Zvd292UQ?oc=5",
+     "headline": "\"La vitesse à laquelle nous construisons des structures est lamentable\", selon l'Ombudsman",
+     "headlineEn": "The speed at which we build structures is deplorable, according to the Ombudsman",
+     "summary": "L'Ombudsman du Luxembourg tire la sonnette d'alarme face aux lenteurs administratives et aux retards accumulés dans la réalisation des infrastructures et du logement dans le pays. Dans ses observations, l'institution dénonce une lourdeur bureaucratique qui paralyse les projets publics et privés essentiels. Selon le rapporteur, la vitesse de construction de nouvelles structures reste jugée lamentable au vu des besoins urgents de la population. Face à cette situation jugée insoutenable, des réformes administratives profondes sont vivement réclamées afin de simplifier les démarches et d'accélérer les autorisations requises sur l'ensemble du territoire national.",
+     "why": "Cette critique met en lumière la crise du logement et les blocages administratifs qui pèsent lourdement sur l'économie et la population luxembourgeoise.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    },
+    {
+     "source": "RTL.lu",
+     "lang": "fr",
+     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQTWZNdGs1NUZaSWdzcTNKc2tSYkgzeXdnekZWOWhvOGdRbjNhNFl3QzZ2SFRDQkVzVFlkSC1ja1F3N3hwWVFqcFZMNUpIOVJCc2RWbktRdUZwYW1BRVlESGxQYWJMZk1GQU03SmN0RFlvbXRsS0ZPWnF4QWNUR01tRjJkMmdSVmF1ZFlrZ1hBUHBzN3d1dlZJUy16VQ?oc=5",
+     "headline": "\"Nous sommes ici pour rester\": Amazon inaugure son neuvième site au Luxembourg",
+     "headlineEn": "We are here to stay: Amazon inaugurates its ninth site in Luxembourg",
+     "summary": "Le géant du commerce électronique Amazon vient d'inaugurer officiellement sa neuvième structure au Grand-Duché, cette fois-ci localisée dans la commune de Dudelange. La multinationale américaine réaffirme à cette occasion son ancrage durable sur le territoire luxembourgeois avec le slogan explicite \"Nous sommes ici pour rester\". Ce déploiement renforce la présence stratégique du groupe au cœur de l'Europe et s'inscrit dans son développement continu des activités logistiques et opérationnelles dans la région. L'ouverture de cette nouvelle infrastructure constitue également un signal fort pour l'économie locale et la création d'emplois dans le sud du pays.",
+     "why": "L'extension d'Amazon renforce la place stratégique du Grand-Duché dans la logistique européenne tout en stimulant le bassin d'emploi local.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    },
+    {
+     "source": "RTL.lu",
+     "lang": "fr",
+     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOX0l0MEY5WmtPVmI2bU9tTEM5dlFkc09JZHpHZ1p3bEJWZjJGMlByX1RHM3YxdHJiSlRhTUJEYXFNeTlCTDJoTFVXNktRUkhvWWNHejF3RWpnZ3F0VWVaMDhoMnl4eWswQWV1TTYtNE0xNWt2MTNreTJrT1BXWEJUbHViTS11U3BMVDQzWExMdGNBSVNyNXRZOUVFNmhrYmdzTnp4dEE2VG91cXVRUmY3S1Yxaw?oc=5",
+     "headline": "Scandale bancaire: Le Paraguay demande l’aide du Luxembourg, des États-Unis et de l’Argentine",
+     "headlineEn": "Banking scandal: Paraguay requests assistance from Luxembourg, the United States, and Argentina",
+     "summary": "Les autorités du Paraguay ont officiellement sollicité la coopération internationale du Luxembourg, des États-Unis et de l'Argentine dans le cadre d’une vaste affaire de scandale bancaire. Les enquêteurs paraguayens cherchent à retracer des flux financiers suspects et à localiser des fonds détournés qui auraient transité par plusieurs juridictions financières internationales. Cette démarche s'inscrit dans une procédure judiciaire complexe visant à faire toute la lumière sur des malversations d'envergure ayant ébranlé le système bancaire local. La participation de la place financière luxembourgeoise est ainsi jugée essentielle par le gouvernement paraguayen pour faire progresser les investigations transfrontalières.",
+     "why": "Cette demande met en relief le rôle de la place financière de Luxembourg dans l'entraide judiciaire internationale et la lutte contre la criminalité financière.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    }
+   ]
+  },
+  {
+   "name": "Monde / géopolitique",
+   "stories": [
+    {
+     "source": "AP News",
+     "lang": "en",
+     "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOSzJmdDczN2hxRVpiY0V5UzZWZlFBR3oxaUlhWW96SzNvUEcxd3Q5clI3M1FXUTZqMkF5dmpZV29xdjFZV1hBNDZpeXVwalQ4X1lISlZGY1lIWVZ2UXpYUUExQXl0aVlZazNycEFHQ25xclZiNHQyOW5nWlFoYlFPU3VyeTZwa0hPUkNMeTJ5ck9UVk95?oc=5",
+     "headline": "Trump envoys aim to persuade Russia to include Europe in negotiations on ending war with Ukraine",
+     "headlineEn": "Les envoyés de Trump cherchent à convaincre la Russie d'inclure l'Europe dans les négociations sur la fin de la guerre en Ukraine",
+     "summary": "Trilateral talks between delegations from Kyiv, Moscow, and Washington have resumed in Abu Dhabi, marking the first direct diplomatic session in over eight months. US negotiators are attempting to structure discussions around security guarantees and a new European security framework to resolve the ongoing conflict. Ukrainian President Volodymyr Zelensky reiterated that any final agreement must strictly respect Ukraine's territorial integrity and national sovereignty. However, the inclusion of broad European security architecture in the agenda has raised significant questions among international observers regarding the future alignment of Western allies and the Kremlin's strategic ambitions.",
+     "why": "Ces pourparlers à Abou Dhabi pourraient redéfinir l'architecture de sécurité européenne et l'avenir du soutien occidental à l'Ukraine.",
+     "paywalled": false,
+     "contested": "Alors que les envoyés américains affirment vouloir inclure l'Europe et garantir la sécurité ukrainienne, les diplomates européens craignent que les propositions américaines sur la sécurité en Europe ne fassent le jeu de Moscou.",
+     "chart": null
+    },
+    {
+     "source": "AFP.com",
+     "lang": "en",
+     "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFB0dVdzNWxsNllpemktLWFEWkMzVkdxQS1LUjE0R1ZnTkREcWFDQk5hNmIwNzhJMHJRVkRKRjdqdGc0UkQwTVoxZ0l1Zw?oc=5",
+     "headline": "Republican launches impeachment against US defense chief",
+     "headlineEn": "Un républicain lance une procédure d'impeachment contre le chef de la Défense américaine",
+     "summary": "Republican Congressman Thomas Massie has formally initiated an impeachment process against US Defense Secretary Pete Hegseth in the House of Representatives. Massie accuses the defense chief of conducting military operations against Iran for more than ninety days without obtaining the mandatory congressional authorization required by law. President Donald Trump has publicly expressed his continued support for Hegseth despite the growing political pressure on Capitol Hill. Although the political odds of removing Hegseth remain slim, the initiative highlights deepening divisions within the Republican party following the recent midterm elections.",
+     "why": "Cette procédure illustre la fracture au sein du parti républicain et les tensions sur le contrôle parlementaire des opérations militaires américaines.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    },
+    {
+     "source": "AP News",
+     "lang": "en",
+     "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQZEVwOWFXZVhTbVNqVEhqNWYzQU5qb2ZRMEV1ZDlkT0NDRXRGT2lvekFGeXY0eXFNSjYzVUVhRUpJbEdVTjlBTWpyU1NfVW9la1AxMXhzeXlrS1NRY3hpT1NtOGNiOXBRd1VBTWFrMnZtXzEyYVV5YWx5eVBGWlAtSm1JV1gwZkZCby1lWkhaTEFJX2g3aHdHOUFxODR4RjVmaGFmWU5jeElhS1lwS1E?oc=5",
+     "headline": "Germany set to get its first female president as governing parties unite around ex-minister",
+     "headlineEn": "La coalition en Allemagne s'accorde sur la candidature d'une ex-ministre pour devenir la première présidente du pays",
+     "summary": "German governing parties have united behind former federal minister Ilse Aigner as their official candidate to succeed Frank-Walter Steinmeier as Federal President. The decision positions Aigner to become the first female head of state in Germany's post-war history. Political leaders across the coalition praised her extensive political experience as former minister and state parliament president in Bavaria. The nomination comes after prolonged inter-party discussions to secure a consensus candidate capable of representing the nation. The official election by the Federal Convention will take place at the conclusion of Steinmeier's term.",
+     "why": "L'élection probable de la première femme à la présidence fédérale constitue un jalon historique dans la politique institutionnelle allemande.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    }
+   ]
+  },
+  {
+   "name": "International — hors Europe",
+   "stories": [
+    {
+     "source": "Al Jazeera",
+     "lang": "en",
+     "url": "https://www.aljazeera.com/news/2026/11/10/gcc-agrees-to-set-up-advanced-military-command-headquarters-in-kuwait?traffic_source=rss",
+     "headline": "GCC agrees to set up advanced military command headquarters in Kuwait",
+     "headlineEn": "Le CCG accepte de créer un quartier général de commandement militaire avancé au Koweït",
+     "summary": "Leaders of the Gulf Cooperation Council have formally agreed to establish an advanced joint military command headquarters based in Kuwait. The strategic decision was announced following high-level summit meetings aimed at reinforcing regional security and defense integration among member states. Gulf officials emphasized that the new command structure will enhance operational readiness and coordinate joint responses to evolving regional threats. The move comes amid heightened geopolitical instability across the Middle East, pushing Gulf nations to solidify their collective security architecture and streamline military communications across the region.",
+     "why": "La création d'un commandement unifié renforce l'autonomie et l'intégration militaire des pays du Golfe face à l'instabilité régionale.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    },
+    {
+     "source": "Al Jazeera",
+     "lang": "en",
+     "url": "https://www.aljazeera.com/news/2026/11/10/malaysian-court-clears-former-pm-najib-razak-for-house-arrest-transfer?traffic_source=rss",
+     "headline": "Malaysian court clears former PM Najib Razak for house arrest transfer",
+     "headlineEn": "La justice malaisienne autorise le transfert de l'ancien Premier ministre Najib Razak en résidence surveillée",
+     "summary": "A Malaysian court has approved the transfer of former Prime Minister Najib Razak from prison to house arrest to serve the remainder of his sentence. The 73-year-old former leader was incarcerated for his prominent role in the multi-billion-dollar 1MDB sovereign wealth fund corruption scandal. The judicial decision follows extensive legal petitions submitted by his defense team regarding his health and detention conditions. The ruling has sparked widespread public debate in Malaysia over legal accountability and political influence, as civil society groups express concern over potential leniency toward high-profile political figures.",
+     "why": "Cette décision ravive les débats sur l'indépendance de la justice et l'impunité des élites politiques en Malaisie dans l'affaire 1MDB.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    },
+    {
+     "source": "Euronews",
+     "lang": "en",
+     "url": "https://www.euronews.com/2026/11/10/california-voters-reject-one-off-billionaire-wealth-tax-us-media-predicts",
+     "headline": "California voters reject one-off billionaire wealth tax US media predicts",
+     "headlineEn": "Les électeurs californiens rejettent l'impôt exceptionnel sur les milliardaires",
+     "summary": "California voters have decisively rejected a ballot proposition that proposed a one-off wealth tax on the state's billionaires. Opponents of the initiative conducted an extensive campaign warning that imposing such a tax would drive wealthy individuals and business leaders out of the state. The referendum outcome was widely monitored as a significant bellwether for progressive tax initiatives and global efforts to combat economic inequality. Despite strong support from labor organizations and progressive advocates, fears of tax base erosion and economic flight ultimately persuaded a majority of voters to vote against the measure.",
+     "why": "L'échec de ce référendum californien marque un coup d'arrêt aux tentatives de taxation des grandes fortunes aux États-Unis.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    },
+    {
+     "source": "DW",
+     "lang": "en",
+     "url": "https://www.dw.com/en/south-africa-elections-anc-marks-its-worst-ever-performance/a-79887482?maca=en-rss-en-world-4025-rdf",
+     "headline": "South Africa elections: ANC marks its worst-ever performance",
+     "headlineEn": "Élections en Afrique du Sud : l'ANC enregistre le pire résultat de son histoire",
+     "summary": "The African National Congress has suffered its worst electoral defeat since the end of apartheid, securing just over 30 percent of the vote in South Africa's municipal elections. The historic liberation party of Nelson Mandela faced sharp voter backlash due to persistent municipal service failures, widespread water and electricity shortages, and ongoing corruption scandals. Opposition parties made substantial gains in key urban centers across the country as voter frustration reached unprecedented levels. Political analysts indicate that this sharp decline poses an existential challenge to the ANC's traditional political dominance in South African governance.",
+     "why": "Le déclin historique de l'ANC rebat les cartes de la politique sud-africaine et témoigne du mécontentement face à la dégradation des services publics.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    },
+    {
+     "source": "Foreign Affairs",
+     "lang": "en",
+     "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE91cUNTcEZMY25ta3B4SzM4R0NZY3I3dlFFdDhMUUhOUF9KZnRtbnpBYjVaWVNDQi1YYzY4RGFlNk1ZMWlBN3YzbHRXYlNfNHNuLXl2VkhwNW9JRDZlcjhOaGJySDhfd3JXd1NkcFJJclppZw?oc=5",
+     "headline": "China’s AI Diplomacy Is Working",
+     "headlineEn": "La diplomatie chinoise de l'intelligence artificielle porte ses fruits",
+     "summary": "A strategic analysis highlights how Beijing is successfully leveraging artificial intelligence technology as a central pillar of its global diplomatic outreach. By offering AI infrastructure, technical partnerships, and governance frameworks to developing nations, China is establishing long-term technological dependencies across the Global South. This diplomatic offensive effectively counters Western regulatory models while expanding Chinese commercial influence in critical tech sectors. The essay emphasizes that Washington and its allies must urgently reform their international tech engagement strategies to avoid being outpaced in shaping global standards for artificial intelligence.",
+     "why": "Cet article d'analyse démontre comment la Chine utilise l'intelligence artificielle pour accroître son influence géopolitique auprès des pays du Sud global.",
+     "paywalled": true,
+     "contested": "",
+     "chart": null
+    }
+   ]
+  },
+  {
+   "name": "Europe & politiques de l'UE",
+   "stories": [
+    {
+     "source": "DW [DE]",
+     "lang": "de",
+     "url": "https://www.dw.com/de/russland-ukraine-gespräche-in-abu-dhabi-kommt-es-zu-einem-durchbruch/a-79902965?maca=de-rss-de-all-1119-rdf",
+     "headline": "Russland-Ukraine-Gespräche in Abu Dhabi: Kommt es zu einem Durchbruch?",
+     "headlineEn": "Russia-Ukraine talks in Abu Dhabi: Will there be a breakthrough?",
+     "summary": "In Abu Dhabi haben nach monatelanger Pause neue Verhandlungen zwischen Russland und der Ukraine begonnen. Die Gespräche werden von den USA vermittelt und beinhalten hochrangige Vertreter der Geheimdienste sowie Diplomaten beider Länder. Auch europäische Diplomaten reisen in die Vereinigten Arabischen Emirate, um über künftige Sicherheitsgarantien und Wege zu einer Deeskalation zu beraten. Während Kiew auf der Wahrung seiner territorialen Unversehrtheit besteht, verlangt Moskau umfassende Zugeständnisse. Der Ausgang der Verhandlungen bleibt ungewiss, da grundlegende Streitpunkte weiterhin ungelöst sind.",
+     "why": "Ces négociations directes sous médiation américaine pourraient redéfinir l'architecture de sécurité sur le continent européen.",
+     "paywalled": false,
+     "contested": "Alors que Washington met en avant la recherche de garanties de sécurité, plusieurs responsables européens redoutent que les diplomates américains ne concèdent à la Russie une influence excessive sur la sécurité européenne.",
+     "chart": null
+    },
+    {
+     "source": "AP [EN]",
+     "lang": "en",
+     "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQZEVwOWFXZVhTbVNqVEhqNWYzQU5qb2ZRMEV1ZDlkT0NDRXRGT2lvekFGeXY0eXFNSjYzVUVhRUpJbEdVTjlBTWpyU1NfVW9la1AxMXhzeXlrS1NRY3hpT1NtOGNiOXBRd1VBTWFrMnZtXzEyYVV5YWx5eVBGWlAtSm1JV1gwZkZCby1lWkhaTEFJX2g3aHdHOUFxODR4RjVmaGFmWU5jeElhS1lwS1E?oc=5",
+     "headline": "Germany set to get its first female president as governing parties unite around ex-minister",
+     "headlineEn": "L'Allemagne s'apprête à avoir sa première femme présidente alors que la coalition s'unit autour d'une ancienne ministre",
+     "summary": "Governing parties in Germany have rallied behind a former minister to become the country's next federal president, paving the way for the nation to elect its first female head of state. The nomination comes after extended deliberations among coalition partners seeking a consensus candidate to succeed Frank-Walter Steinmeier. The office of the federal president in Germany is largely ceremonial but carries significant moral authority and political prestige. Political observers consider the historic nomination a major milestone in German political history, reflecting broader efforts toward gender representation in executive leadership roles.",
+     "why": "L'élection de la première présidente fédérale en Allemagne marquerait un tournant historique pour la première puissance politique et économique de l'UE.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    },
+    {
+     "source": "DW [EN]",
+     "lang": "en",
+     "url": "https://www.dw.com/en/eu-aims-to-pick-new-ecb-chief-by-year-end/a-79898169?maca=en-rss-en-world-4025-rdf",
+     "headline": "EU aims to pick new ECB chief by year-end",
+     "headlineEn": "L'UE vise à choisir le nouveau chef de la BCE d'ici la fin de l'année",
+     "summary": "European Union leaders have set an expedited timeline to select a new President of the European Central Bank by the end of December following Christine Lagarde's decision to step down ahead of schedule. The early departure has forced member states into swift negotiations to find a successor capable of steering euro area monetary policy through economic uncertainty. Member states are weighing potential candidates to maintain institutional stability and financial credibility. EU officials emphasize that reaching a consensus before year-end is critical to ensuring a smooth transition at the helm of the central bank.",
+     "why": "La nomination anticipée du futur président de la BCE déterminera la trajectoire de la politique monétaire européenne face aux défis économiques.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    }
+   ]
+  },
+  {
+   "name": "Économie & marchés",
+   "stories": [
+    {
+     "source": "FT [EN]",
+     "lang": "en",
+     "url": "https://www.ft.com/content/5ceed157-0016-4822-a272-8b607911da5e?syn-25a6b1a6=1",
+     "headline": "SoftBank slumps to $7bn loss on US data centre writedown",
+     "headlineEn": "SoftBank subit une perte de 7 milliards de dollars suite à la dépréciation de centres de données aux États-Unis",
+     "summary": "Japanese technology investment giant SoftBank Group has recorded a net loss of $7 billion for its latest quarter, marking its first quarterly loss in nearly two years. The financial hit stems primarily from substantial writedowns associated with its US data center investments and shifting operational requirements in artificial intelligence infrastructure projects. Company executives pointed to evolving technical demands and rising costs in data center development as key factors behind the impairment. The result underlines the financial risks and high capital expenditure requirements facing major investors in artificial intelligence infrastructure worldwide.",
+     "why": "Cette perte massive illustre les risques financiers et les coûts très élevés liés au déploiement des infrastructures d'IA aux États-Unis.",
+     "paywalled": true,
+     "contested": "",
+     "chart": null
+    },
+    {
+     "source": "FT [EN]",
+     "lang": "en",
+     "url": "https://www.ft.com/content/f0665cf7-a36f-4573-b7d6-93dda9d59d3f?syn-25a6b1a6=1",
+     "headline": "Italian banks hit out at Giorgia Meloni over latest tax raid",
+     "headlineEn": "Les banques italiennes critiquent Giorgia Meloni après une nouvelle taxe sur le secteur financier",
+     "summary": "Italian banking institutions have strongly criticized Prime Minister Giorgia Meloni's government over new fiscal measures designed to extract €7 billion from the financial sector over the next three years. The government's plan includes raising corporate tax rates for financial institutions to fund state budgetary needs. Representatives from the banking sector warned that the tax raid could impair lending capacity, depress equity valuations, and undermine investor confidence in Italy's financial stability. The escalating dispute highlights growing tension between Rome and the banking sector as the government seeks additional revenues without raising general taxes.",
+     "why": "Le bras de fer entre Rome et le secteur bancaire pourrait peser sur la distribution de crédits et la stabilité financière en Italie.",
+     "paywalled": true,
+     "contested": "",
+     "chart": null
+    },
+    {
+     "source": "DW [DE]",
+     "lang": "de",
+     "url": "https://www.dw.com/de/kalifornier-lehnen-milliardärssteuer-ab/a-79907731?maca=de-rss-de-all-1119-rdf",
+     "headline": "Kalifornier lehnen Milliardärssteuer ab",
+     "headlineEn": "California voters reject billionaire wealth tax proposal",
+     "summary": "Die Wähler im US-Bundesstaat Kalifornien haben eine Vorlage für eine einmalige Vermögenssteuer auf Milliardäre mehrheitlich abgelehnt. Der Entwurf sah eine gezielte Abgabe für extrem vermögende Einwohner vor, um staatliche Programme zu finanzieren. Gegner der Steuer organisierten eine kostspielige Werbekampagne und warnten davor, dass Superreiche und Unternehmen den Bundesstaat verlassen würden. Am Ende schlossen sich die meisten Wähler diesen Befürchtungen an. Die Entscheidung gilt international als Rückschlag für Initiativen, die versuchen, Vermögensungleichheit durch gezielte Sondersteuern für Milliardäre einzudämmen.",
+     "why": "Le rejet de cette taxe en Californie montre les limites politiques des tentatives d'imposition ciblée des hyper-riches.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    }
+   ]
+  },
+  {
+   "name": "Technologie & sciences",
+   "stories": [
+    {
+     "source": "BBC [EN]",
+     "lang": "en",
+     "url": "https://www.bbc.co.uk/news/articles/crpdgd723x2zo?at_medium=RSS&at_campaign=rss",
+     "headline": "Anthropic to raise $64bn in major stock market listing",
+     "headlineEn": "Anthropic cherche à lever 64 milliards de dollars lors d'une entrée en Bourse majeure",
+     "summary": "Artificial intelligence startup Anthropic, the company behind the Claude chatbot, has initiated plans for a major initial public offering aiming to raise up to $64 billion. The stock market debut will offer shares priced between $70 and $78, testing investor sentiment toward high-end AI developers. Financial analysts view the upcoming listing as a critical barometer for Wall Street's continued appetite for artificial intelligence ventures amid soaring infrastructure costs. The funds raised are expected to fuel Anthropic's ongoing model training, computing capacity expansion, and commercial competition against industry rivals.",
+     "why": "L'entrée en Bourse d'Anthropic constitue un test majeur pour l'évaluation boursière des entreprises phares de l'intelligence artificielle.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    },
+    {
+     "source": "Reuters [EN]",
+     "lang": "en",
+     "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPYVBfNG04eWF0OFp6WHJFRFh3YjdHTHlhdU9xTkZiU3h1Qk9OdXpmM0FaZS1vcXJkdFdHRmE2a0ROLWRWYzNWUXhtcGpmVjREYjBJUC1nYzVSZkxPaHA5dVNNSlhpZzVlX2FOVElnZWNPZ0VuVS1sWEQ5cVNQYXYtT3MtUGppSTIzQ25YX0Q1UnFDbzZxc1RITGRRT1ZNeUFKQTZxWlJxc0E5Z0JjdVVEaXIxbmlqdGRZYzVsLWtRWTBuUlJsb3BTZVAwN1RYWlk?oc=5",
+     "headline": "EXCLUSIVE: Microsoft presses Trump to scuttle expected ban on Chinese data center technology",
+     "headlineEn": "EXCLUSIF : Microsoft fait pression sur Trump pour annuler l'interdiction prévue de la technologie chinoise pour centres de données",
+     "summary": "Tech giant Microsoft is lobbying US President Donald Trump to derail an upcoming administration ban on Chinese data center technology. Company representatives argue that sweeping restrictions on Chinese hardware and software components could disrupt global cloud infrastructure operations and inflate costs for American enterprises. The proposed regulatory ban aims to curb potential national security risks linked to Beijing's tech hardware. However, Microsoft contends that tailored security protocols are preferable to broad bans that threaten international tech supply chains and commercial cloud deployments.",
+     "why": "L'intervention de Microsoft souligne la tension croissante entre impératifs de sécurité nationale et contraintes de la chaîne d'approvisionnement technologique.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    },
+    {
+     "source": "FAZ [DE]",
+     "lang": "de",
+     "url": "https://www.faz.net/aktuell/politik/ausland/in-daenemark-waechst-der-widerstand-gegen-rechenzentren-accg-201650453.html",
+     "headline": "KI-Ausbau: Nordeuropa ist ideal für Rechenzentren, aber der Widerstand wächst",
+     "headlineEn": "AI expansion: Northern Europe is ideal for data centers, but local resistance grows",
+     "summary": "Nordeuropäische Länder wie Dänemark und Finnland ziehen wegen kühler Temperaturen, reichlicher Wasserressourcen und stabiler Infrastruktur massiv Investitionen der KI-Industrie an. Der Bau neuer Großrechenzentren stößt jedoch auf wachsenden Widerstand in der Bevölkerung. Anwohner und Umweltforscher kritisieren den enormen Verbrauch von Strom und Wasser sowie die zunehmende Lärmbelastung durch die Anlagen. Die Debatte verdeutlicht den Zielkonflikt zwischen der notwendigen digitalen Transformation und den lokalen ökologischen Belastungen. Experten fordern daher strengere Umweltauflagen für künftige Rechenzentrumsprojekte in Europa.",
+     "why": "L'essor des centres de données d'IA heurte de plus en plus les capacités énergétiques et les exigences écologiques locales en Europe.",
+     "paywalled": true,
+     "contested": "",
+     "chart": null
+    }
+   ]
+  },
+  {
+   "name": "Sport",
+   "stories": [
+    {
+     "source": "Repubblica [IT]",
+     "lang": "it",
+     "url": "https://www.repubblica.it/sport/tennis/2026/11/10/news/sinner_quando_torna_conferenza-425712720/",
+     "headline": "Sinner: “Sto bene, ma non ho il controllo della situazione. Decidono i dottori”",
+     "headlineEn": "Sinner: 'I'm feeling good, but I don't control the situation. The doctors decide'",
+     "summary": "Il tennista azzurro Jannik Sinner ha dichiarato di sentirsi in buone condizioni fisiche, precisando però di non avere il controllo sui tempi del proprio rientro in campo. Sinner ha spiegato che lo staff medico sta definendo tutti i protocolli di recupero, con l'obiettivo primario di preparare al meglio la partecipazione ai prossimi Australian Open.",
+     "why": "Le retour du champion italien est fondamental pour les équilibres du tennis mondial en vue des premiers Chelems della saison.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    },
+    {
+     "source": "DW [DE]",
+     "lang": "de",
+     "url": "https://www.dw.com/de/verletzung-manuel-neuer-schlecht-für-fc-bayern-gut-für-deutschland/a-79901811?maca=de-rss-de-all-1119-rdf",
+     "headline": "Verletzung Manuel Neuer: Schlecht für FC Bayern, gut für Deutschland?",
+     "headlineEn": "Manuel Neuer injury: Bad for FC Bayern, good for Germany?",
+     "summary": "Beim FC Bayern München fällt Torhüter Manuel Neuer wegen einer Fußverletzung für längere Zeit aus. Durch seinen Ausfall rückt der junge Keeper Jonas Urbig in das Tor des Rekordmeisters. Die Verletzung sorgt zudem für neue Spekulationen über den Konkurrenzkampf um die Position der Nummer eins in der deutschen Nationalmannschaft.",
+     "why": "L'absence prolongée de Neuer redistribue les cartes au Bayern Munich et en équipe nationale d'Allemagne.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    }
+   ]
+  }
+ ],
+ "sourced": true,
+ "feeds": {
+  "ok": 27,
+  "of": 29,
+  "items": 256,
+  "skipped": [
+   "Reuters (FR)",
+   "Euronews (FR): HTTP 406"
+  ]
+ },
+ "words": 3693,
+ "readMin": 18,
+ "storyCount": 24
+}
