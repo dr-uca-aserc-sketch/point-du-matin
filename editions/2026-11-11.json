@@ -1,0 +1,405 @@
+{
+ "date": "2026-11-11",
+ "kind": "daily",
+ "heat": 0.78,
+ "oneThing": "Russia and Ukraine completed US-mediated talks in Abu Dhabi, agreeing on a major prisoner exchange despite ongoing impasses over wider peace terms.",
+ "followUps": [
+  {
+   "n": "01",
+   "thread": "Négociations de paix entre la Russie et l'Ukraine",
+   "change": "Des discussions de près de quatre heures sous médiation américaine se sont tenues à Abou Dhabi, aboutissant à un accord sur un échange de prisonniers."
+  },
+  {
+   "n": "02",
+   "thread": "Procédure de destitution du secrétaire américain à la Défense",
+   "change": "La Chambre des représentants américaine a bloqué la tentative de destitution visant Pete Hegseth concernant sa gestion du conflit iranien."
+  },
+  {
+   "n": "03",
+   "thread": "Tensions cybernétiques entre la France et l'Iran",
+   "change": "Paris a convoqué l'ambassadeur iranien après le piratage des systèmes de réfrigération de supermarchés, une accusation démentie par Téhéran."
+  }
+ ],
+ "mustReads": [
+  {
+   "desk": "Europe, wires, Luxembourg",
+   "source": "AP News",
+   "lang": "EN",
+   "paywalled": false,
+   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOQWFsczZITi02Z1V3NGtpMndYU1JJZ1RKOUNYWW9tbWJvcHRpdDAwNGJzQlg1bURIS2pzMXA0UWRNRF9WY25QM3ppRTR0T1lqRzNRSTlzanQyeUY2WC1uOFJWQ3Mwd3pyMVFQcl8zTkZZeERfSTJQQ0g4WXFlWmpvdlI5RzNFeDNnVUUtdnZsVURBN2JPMmpYSEJUa2pXOWM?oc=5",
+   "headline": "Russia and Ukraine hold nearly 4 hours of US-mediated talks in Abu Dhabi",
+   "headlineEn": "La Russie et l'Ukraine tiennent près de quatre heures de discussions sous médiation américaine à Abou Dhabi",
+   "contested": "",
+   "why": "Ces premiers pourparlers sous médiation américaine depuis neuf mois ont permis de conclure un accord sur un échange de prisonniers.",
+   "stat": "4",
+   "statLabel": "heures de négociations sous médiation américaine à Abou Dhabi",
+   "chart": null,
+   "paras": [
+    "Representatives from Russia and Ukraine have gathered in Abu Dhabi to conduct nearly four hours of negotiations mediated by the United States. This meeting represents the first direct diplomatic contact between the two warring nations under American auspices in over nine months. The bilateral discussions brought together high-ranking diplomats, military officials, and intelligence personnel from both sides in an effort to explore potential pathways toward resolving the ongoing conflict. The venue in the United Arab Emirates served as neutral territory for hosting these delicate diplomatic exchanges under close international observation.",
+    "American diplomatic leaders expressed measured optimism following the conclusion of the initial meeting in the Gulf nation. United States Secretary of State Marco Rubio characterized the session as extremely productive, emphasizing the importance of establishing functional communication channels between Moscow and Kyiv. Meanwhile, Ukrainian President Volodymyr Zelenskyy described the dialogue as constructive and substantive, noting that both delegations were willing to address complex security concerns. The presence of senior American mediators underscored Washington's renewed commitment to encouraging direct negotiation between the belligerents.",
+    "The Russian delegation involved in the Abu Dhabi talks was headed by nationalist historian and negotiator Vladimir Medinski, accompanied by military and intelligence representatives. On the Ukrainian side, delegates focused on securing concrete commitments regarding humanitarian issues and territorial integrity. Although broader diplomatic agreement remained elusive across several key geopolitical topics, negotiators managed to reach a formal consensus regarding an upcoming large-scale exchange of military prisoners. This exchange represents one of the few tangible achievements emerging from the intensive diplomatic dialogue in Abu Dhabi.",
+    "The discussions continued into a second day, though the subsequent session concluded in under two hours after delegates encountered significant impasses on core political items. European security arrangements formed a central part of the dialogue, reflecting Moscow's persistent demand for a greater voice in regional security structures. International observers noted that while humanitarian progress was achieved through the prisoner swap agreement, fundamental disagreements regarding sovereignty, territorial control, and future security guarantees continue to present formidable obstacles to achieving a comprehensive peace framework between the two nations.",
+    "The choice of Abu Dhabi as the venue highlights the growing diplomatic role of the United Arab Emirates in facilitating communication between Eastern European powers and Western nations. Both Russian and Ukrainian representatives acknowledged the logistical support provided by host authorities during the proceedings. While the brevity of the second day's meeting indicated ongoing strategic divisions, negotiators from all sides signaled a willingness to schedule follow-up sessions. The continuation of these discussions remains dependent on maintaining active communication channels established during this round.",
+    "Global reactions to the Abu Dhabi talks remain cautious as political leaders evaluate whether these initial contacts can lead to broader ceasefire negotiations. European governments are closely monitoring the role of American mediation and its potential impact on continental security architectures. Despite the limited immediate outcomes beyond the prisoner exchange, the resumption of face-to-face negotiations marks a notable shift in the conflict's diplomatic trajectory, demonstrating that both parties recognize the utility of structured dialogue to manage immediate humanitarian issues during active military operations."
+   ]
+  },
+  {
+   "desk": "Europe, wires, Luxembourg",
+   "source": "Reuters",
+   "lang": "EN",
+   "paywalled": false,
+   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPT0hNNGY0T0RDZVBLMGZlOW5iREJOMXN2VEt6VGV4aEo4Y2JoejZOa3VJMXJicWRvaUtnNE9pTG5iMzNfbGlpQjZPRVc0SW9zV0xiYjJJLU4wTW9OY25oUE5uMkkwRkxtd2NlOUZrVnJlVUVPX1ozcDdmVlNwbEh2WWxqSmNvRWZvTDF4X25jWURpUzFHUFAxWkNvUUtYbnhuLWdKZFIxMWxLS2tfWUY4?oc=5",
+   "headline": "US Army member arrested in UK for suspected 'espionage' for Russia",
+   "headlineEn": "Un militaire américain arrêté au Royaume-Uni pour des soupçons d'espionnage au profit de la Russie",
+   "contested": "",
+   "why": "Cette arrestation met en lumière les risques d'espionnage et d'infiltration visant les forces alliées de l'OTAN en Europe.",
+   "stat": "41",
+   "statLabel": "ans, l'âge du militaire américain arrêté au Royaume-Uni",
+   "chart": null,
+   "paras": [
+    "British counterterrorism police have arrested a 41-year-old member of the United States Army in England on suspicion of conducting espionage activities on behalf of Russian intelligence agencies. The suspect, who was assigned to a North Atlantic Treaty Organization unit in the United Kingdom, was taken into custody near Gloucester following a coordinated operation. Authorities stated that the serviceman had been entrusted with access to highly sensitive military information prior to his detention, prompting immediate security reviews across both British and American defense installations.",
+    "The arrest was the direct result of an extensive joint investigation involving British counterterrorism officers, the Federal Bureau of Investigation, and United States Army Counterintelligence. Law enforcement officials revealed that the operation targeted potential insider threats within allied defense structures operating on British soil. Counterintelligence leaders highlighted that covert attempts by foreign adversaries to compromise military personnel remain a persistent concern. The suspect remains in custody as investigators continue reviewing physical and digital evidence seized during the execution of search warrants.",
+    "Official statements from the Federal Bureau of Investigation emphasized that the case is being treated with the utmost concern by government authorities in Washington and among international allies. American military intelligence leadership echoed these sentiments, pointing out that insider espionage poses a grave risk to operational security across all NATO commands. Officials declined to provide specific details regarding the exact nature of the sensitive information involved, citing ongoing investigative procedures and national security considerations surrounding classified defense technologies and operational planning.",
+    "The location of the arrest near Gloucester highlights the strategic importance of allied military facilities situated throughout the United Kingdom. British law enforcement authorities confirmed that local police forces worked closely with national counterterrorism units to ensure a swift and secure detention process. Legal proceedings are expected to follow established extradition or judicial agreements governing military personnel stationed overseas. Defense analysts note that this case underscores the ongoing intensity of intelligence competition between Russian state operatives and Western security organizations.",
+    "Reactions from military officials in Washington reflect heightened vigilance regarding security clearance protocols and internal screening procedures for service members assigned to sensitive international deployments. The incident has prompted defense administrators to review access controls and monitoring mechanisms for personnel holding high-level clearances. Security experts emphasize that modern counterespionage efforts require continuous cooperation between civilian law enforcement agencies and military intelligence units to identify vulnerable points and prevent sensitive information from being compromised by foreign state actors.",
+    "As the legal process unfolds in the United Kingdom, both American and British officials have reaffirmed their shared commitment to safeguarding military intelligence and maintaining rigorous operational security. The joint nature of the investigation demonstrates strong intelligence-sharing frameworks between Washington and London when addressing external espionage threats. Further updates regarding formal charges and court appearances are expected once prosecutors complete their review of evidence gathered during the multi-agency investigation into the soldier's alleged actions."
+   ]
+  },
+  {
+   "desk": "Europe, wires, Luxembourg",
+   "source": "France 24",
+   "lang": "FR",
+   "paywalled": false,
+   "url": "https://www.france24.com/fr/europe/2026/11/11/italie-au-moins-300-etablissements-scolaires-evacues-a-la-suite-alertes-%C3%A0-la-bombe-par-email",
+   "headline": "Au moins 300 écoles italiennes évacuées à la suite d'alertes à la bombe, l'Irlande du Nord ciblée",
+   "headlineEn": "At least 300 Italian schools evacuated following email bomb threats, Northern Ireland targeted",
+   "contested": "",
+   "why": "Une vague de fausses alertes à la bombe par courriel a provoqué l'évacuation de centaines d'écoles à travers l'Italie.",
+   "stat": "300",
+   "statLabel": "écoles au moins évacuées en Italie après des menaces par courriel",
+   "chart": null,
+   "paras": [
+    "Une vague impressionnante d'alertes à la bombe transmises par courrier électronique a provoqué mercredi l'évacuation d'au moins trois cents établissements scolaires à travers l'Italie. Le ministre italien de l'Éducation, Giuseppe Valditara, a confirmé publiquement l'ampleur de ces évacuations préventives, prévenant que le bilan final des écoles touchées pourrait s'alourdir au fil de la journée. Les messages de menace sont arrivés simultanément dans les boîtes de réception des établissements vers neuf heures cinquante du matin, déclenchant immédiatement les protocoles de sécurité d'urgence et l'intervention des forces de l'ordre.",
+    "Selon les éléments d'enquête révélés par les autorités italiennes, le courriel menaçant provenait d'une adresse électronique associée au domaine de l'université Dayeh à Taïwan. Le message était signé par un individu se présentant sous le nom de Mikhail Andropov. Ce patronyme est déjà bien connu des services de renseignement européens, ayant été utilisé lors d'incidents similaires visant des chaînes de télévision et des infrastructures publiques au cours des derniers mois. Les enquêteurs analysent actuellement l'origine technique exacte du message pour identifier les auteurs de cette opération.",
+    "L'évacuation massive a perturbé le déroulement normal des cours dans de nombreuses régions italiennes, obligeant les enseignants et les personnels administratifs à faire sortir des milliers d'élèves sur les terrains de sport et les places publiques. Les équipes de déminage et les unités cynophiles de la police ont été déployées en urgence pour inspecter méthodiquement les bâtiments scolaires ciblés. Aucune charge explosive n'a été découverte lors des premières fouilles, ce qui incline les autorités à privilégier la piste d'un canular sophistiqué à vaste échelle.",
+    "Cette série de menaces d'attentat ne s'est pas limitée au seul territoire italien, s'inscrivant dans un phénomène plus large d'attaques coordonnées visant plusieurs pays européens. Des établissements scolaires situés en Irlande du Nord, en Écosse et en République d'Irlande ont également reçu des messages d'alerte similaires au cours de la même matinée. En Irlande du Nord, les autorités policières ont rapidement conclu qu'il s'agissait de fausses alertes destinées à semer la confusion et à perturber le fonctionnement des services publics.",
+    "Face à la recrudescence de ces cyberattaques par harcèlement, le gouvernement italien a promis de renforcer la sécurité informatique des réseaux éducatifs et d'accroître la coopération internationale. Le ministre Giuseppe Valditara a souligné que de telles actions criminelles, même lorsqu'elles s'avèrent être des canulars, créent un climat d'angoisse inacceptable pour les familles et mobilisent inutilement d'importants moyens de secours. Les services de police cybernétique italiens collaborent désormais avec leurs homologues européens pour remonter la filière numérique des expéditeurs.",
+    "La répétition de ces fausses alertes à la bombe pose une question complexe aux responsables de la sécurité publique en Europe, contraints d'appliquer le principe de précaution à chaque signalement. Bien que la plupart de ces messages se révèlent être des canulars malveillants, les forces de l'ordre ne peuvent négliger aucune menace potentielle. Les autorités s'engagent à poursuivre les auteurs de ces envois massifs, qui risquent de lourdes peines de prison pour entrave à la circulation et fausse alerte."
+   ]
+  }
+ ],
+ "desks": [
+  {
+   "name": "Luxembourg",
+   "stories": [
+    {
+     "source": "RTL.lu",
+     "lang": "fr",
+     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNbjJ4dUxHOUZ0TlI5SWYyZS02WkE4N2xFRy15NkRUVEpkbzBrZEFHR1ZMRnhCWGduclVIdkRpcE83c3J4eTM4d3lFTEdSUFhPSm5zZmRPY1BGRFc4MC1OQVQwekU3S1dJaVBXRlQ3jxjVWdDUW5GQ2Mwbk85QlJ6TWVPYVpINncxcWhfeTBITEQ3SFRVNEdkLWU0ck1mNElESGtuRF9WT19aNVBRbTQyY0dsRQ?oc=5",
+     "headline": "Le ministre n'était pas demandeur: Tanklux défend son projet d'extension du dépôt pétrolier à Mertert",
+     "headlineEn": "The minister did not request it: Tanklux defends its oil depot expansion project in Mertert",
+     "summary": "Le gestionnaire du dépôt pétrolier Tanklux défend fermement son projet d'extension des capacités de stockage situées sur le site portuaire de Mertert. Face aux interrogations politiques et environnementales, l'entreprise précise que les démarches entreprises répondent à des impératifs d'approvisionnement stratégique et de modernisation des infrastructures existantes. De son côté, le ministre de l'Économie Lex Delles a indiqué qu'il n'était pas le demandeur direct de cette initiative, tout en ne soulevant pas d'objections majeures à ce stade des évaluations. Le dossier continue de susciter des débats quant aux enjeux de sécurité et de transition énergétique locale.",
+     "why": "L'extension de ce site clé touche directement à la sécurité de l'approvisionnement énergétique du pays et à la gestion des infrastructures stratégiques.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    },
+    {
+     "source": "RTL.lu",
+     "lang": "fr",
+     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQZU5hSW9YcjhSbkZEMDB4WFdRN2lPcGFlUlhBNFg0VkMtSEJKdkFtcE5uQ2tOaDRNYzZURktWTlVHWUNVdzFfa01QNjZHaHF6akdNTGNpZklucHJVUF9jM3dMclZGcjdkMU1ONzMzREkwR1BSNDRVbTNaZS1wYzdodWNpQ2h3T2d5bHE5Q08xaS05NmJ5TVdQVWFjbjFEeHIzOXpPNA?oc=5",
+     "headline": "Luxembourg: Un vaste projet immobilier va sortir de terre à la Gare",
+     "headlineEn": "Luxembourg: A major real estate project to be built in the Station district",
+     "summary": "Un nouveau projet immobilier d'envergure s'apprête à transformer le paysage urbain du quartier de la Gare à Luxembourg-Ville. Ce programme d'aménagement prévoit la construction d'espaces mixtes combinant logements, surfaces commerciales et bureaux modernes afin de revitaliser ce secteur très fréquenté. L'initiative vise à répondre à la forte demande résidentielle dans la capitale tout en améliorant l'intégration architecturale et la mobilité aux abords de la gare centrale. Les acteurs du projet mettent en avant une volonté de dynamiser la vie de quartier et de proposer des infrastructures adaptées aux défis urbains contemporains.",
+     "why": "La pénurie de logements et le réaménagement urbain autour des hubs de transport restent une priorité centrale pour la capitale luxembourgeoise.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    },
+    {
+     "source": "Luxemburger Wort",
+     "lang": "de",
+     "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOU21NdjNyUWhNQktaZnQ2Zk5DeWVlQ2swTmd4R1ZzbkxHN2VIVDlmRVFWOGtaUV95LXM5dURCUmVpT3BpUjFHZG5CTVVMTHVyQUhCMUtvMXhTNXVoSzQ3U2pPZEZIQ21pNFRncWI2TG1PdnZ2ZTNrWWJXR0xodlpyUDJxcm9mTkdmQkl6dFl4WW5RemxKblpDU3ZvdkZfSDZ3N0haeVMyVVRrWTFQSzBsc0Z4bHhrR1hwT2twd0p4RFhaUEd3QUlUdW52OA?oc=5",
+     "headline": "Zusammenbruch der paraguayischen Ueno Bank zieht Luxemburg in die Ermittlungen hinein",
+     "headlineEn": "Collapse of Paraguayan Ueno Bank drags Luxembourg into investigations",
+     "summary": "Der plötzliche Kollaps der paraguayischen Ueno Bank hat internationale Ermittlungen ausgelöst, die nun auch den Finanzplatz Luxemburg betreffen. Finanzaufsichtsbehörden und Justizorgane untersuchen grenzüberschreitende Finanzflüsse und Unternehmensstrukturen, die über den Großherzogtum-Standort abgewickelt wurden. Es stehen Vorwürfe im Raum, dass Finanzinstrumente und Investmentvehikel in Luxemburg zur Verdeckung von Kapitalströmen genutzt worden sein könnten. Die Behörden arbeiten eng mit internationalen Partnern zusammen, um die Transaktionen aufzuklären und potenzielle Schwachstellen bei den Compliance-Regularien der betroffenen Institute zu überprüfen.",
+     "why": "Cet incident souligne l'attention constante portée à la réputation et au respect des normes de conformité de la place financière luxembourgeoise face aux scandales bancaires internationaux.",
+     "paywalled": true,
+     "contested": "",
+     "chart": null
+    }
+   ]
+  },
+  {
+   "name": "Monde / géopolitique",
+   "stories": [
+    {
+     "source": "Reuters",
+     "lang": "en",
+     "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPbFRPZy1SWjNiT21UM05JSTBmN3JnWW9Gb3pweVRYSFhxZzNfRlBtbEpCNEZ6VHJQZnhpaFZaZ05jTkpWOTNWaGhZMVlISGdxSzlVX2xKRmE2VXZzTmZ3ZElya0ZLQUs1UVM4MXRMNnR3al84MXZOREM1SzhjZHAzTTJYVkpiMzFTOUJ0VC1SNnJvRE5KTEVpUkE2SkJ1RklfSjREc1BzdGV5aGlWaElrYXVDUUt4bmh0dFE?oc=5",
+     "headline": "France summons Iran envoy over supermarket fridge hack, warns of response",
+     "headlineEn": "La France convoque l'ambassadeur d'Iran après le piratage de réfrigérateurs de supermarchés et avertit d'une riposte",
+     "summary": "France has summoned Iran’s ambassador to Paris following a major cyberattack that targeted internal refrigeration systems in national supermarket chains. French officials warned that Paris reserves the right to respond to the breach, which damaged supply chains and cold storage logistics. Security services reported finding digital traces linking the operation to Iranian state-backed hacking infrastructure. In response, Tehran categorically rejected the allegations, characterizing them as unfounded accusations aimed at escalating diplomatic tensions between the two nations.",
+     "why": "Cette attaque contre des infrastructures agroalimentaires civiles illustre la vulnérabilité croissante des chaînes logistiques européennes face aux cybermenaces d'État.",
+     "paywalled": false,
+     "contested": "La France accuse les services iraniens d'être à l'origine du piratage des systèmes de réfrigération, tandis que Téhéran rejette catégoriquement ces accusations qu'il qualifie de non fondées.",
+     "chart": null
+    },
+    {
+     "source": "Al Jazeera",
+     "lang": "en",
+     "url": "https://www.aljazeera.com/news/2026/11/11/spains-first-general-strike-in-14-years-begins?traffic_source=rss",
+     "headline": "Spain’s first general strike in 14 years begins",
+     "headlineEn": "Début de la première grève générale en Espagne depuis 14 ans",
+     "summary": "Spain is experiencing its first general strike in 14 years as trade unions and social movements take to the streets to protest against soaring housing costs and stagnating wages. The nationwide action has disrupted public transport networks, manufacturing plants, and public services across major cities including Madrid and Barcelona. Demonstrators are demanding urgent legislative reforms to control rent prices and improve purchasing power ahead of the upcoming snap parliamentary elections on November 29. The mobilization serves as a crucial barometer of social discontent facing the government.",
+     "why": "La crise aiguë du logement et de l'inflation en Espagne alimente une contestation sociale majeure à l'approche de réformes politiques décisives.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    },
+    {
+     "source": "Euronews",
+     "lang": "en",
+     "url": "https://www.euronews.com/2026/11/11/russias-last-openly-critical-newspaper-novaya-gazeta-shuts-its-moscow-office",
+     "headline": "Russia’s last openly critical newspaper Novaya Gazeta shuts its Moscow office",
+     "headlineEn": "Novaya Gazeta, le dernier journal ouvertement critique en Russie, ferme son bureau de Moscou",
+     "summary": "Novaya Gazeta, widely regarded as the last major independent newspaper operating inside Russia, has permanently closed its Moscow headquarters. The publication announced that continuous pressure from state censors and security services rendered further reporting impossible after authorities revoked its media license, blocked its website, and evicted staff. For more than three decades, the outlet had exposed high-level corruption and civil rights abuses despite facing severe harassment and targeted attacks against its journalists. Its closure marks a critical turning point in the total suppression of press freedom in Russia.",
+     "why": "L'extinction ultime du journalisme indépendant en Russie scelle la fermeture totale de l'espace médiatique libre dans le pays.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    }
+   ]
+  },
+  {
+   "name": "International — hors Europe",
+   "stories": [
+    {
+     "source": "Al Jazeera",
+     "lang": "en",
+     "url": "https://www.aljazeera.com/news/2026/11/11/gaza-infrastructure-collapse-leaves-residents-defenceless-against-floods?traffic_source=rss",
+     "headline": "Gaza’s infrastructure collapse leaves residents defenceless against floods",
+     "headlineEn": "L'effondrement des infrastructures à Gaza laisse les habitants sans défense face aux inondations",
+     "summary": "Heavy winter rainstorms and high winds have triggered widespread flooding across Gaza, exacerbating the humanitarian crisis for displaced families living in makeshift shelters. The extensive destruction of municipal drainage and sewage systems has left local populations defenceless as floodwaters submerge tent camps and damaged residential zones. Aid agencies report that severe weather conditions are hampering the delivery of essential relief supplies and increasing the risk of waterborne diseases. Local authorities warn that without immediate assistance to rebuild basic infrastructure, living conditions will deteriorate rapidly throughout the winter.",
+     "why": "L'arrivée de l'hiver et la destruction des infrastructures essentielles aggravent dramatiquement la crise humanitaire pour les populations déplacées.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    },
+    {
+     "source": "NPR",
+     "lang": "en",
+     "url": "https://www.npr.org/2026/11/11/nx-s1-6037304/ebola-congo-outbreak",
+     "headline": "Ebola tops 11,000 cases in Congo's deadliest outbreak",
+     "headlineEn": "L'épidémie d'Ebola dépasse les 11 000 cas en RDC, la plus meurtrière du pays",
+     "summary": "The ongoing Ebola outbreak in the Democratic Republic of Congo has surpassed 11,000 recorded cases, resulting in more than 5,300 deaths since the epidemic was declared in mid-May. Health authorities and international relief organizations face severe obstacles in containing the virus due to active armed conflicts in affected provinces and shortages of medical resources. The lack of an adapted vaccine for this specific strain has further complicated containment efforts in high-risk health zones. Medical workers continue to call for urgent global support to strengthen containment measures and field treatments.",
+     "why": "L'ampleur inédite de cette résurgence d'Ebola pose un défi sanitaire d'urgence majeure pour l'Afrique centrale et la santé publique globale.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    },
+    {
+     "source": "Reuters",
+     "lang": "en",
+     "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxObVFtR2hnZ2luVDdXU010VVB4UVpubVBIbUtJc0ZkQVkzLUkzaWxMRDJKaVVoTVNUbzRyRGQ4ZFh1dUZIUFhRVDRTVVNyZ3FWQkRIMm5UTVJOY2J0MDJ4bEFZNkh2MjdUZzRnRkVYbXBKSktfNElhWU42SEVRMktOd0JHYTQyU2N4ZUF2eWZicDRpVHBCTHRYUWFYOVRMT3lrVWNuQldMQkV0MVVGYXc?oc=5",
+     "headline": "US House blocks bid to impeach Defense Secretary Hegseth",
+     "headlineEn": "La Chambre des représentants américaine bloque la procédure de destitution visant le secrétaire à la Défense Hegseth",
+     "summary": "The United States House of Representatives has voted to block a procedural attempt to initiate impeachment proceedings against Defense Secretary Pete Hegseth. The resolution, brought forward over Hegseth's management of military operations in Yemen and Iran, was tabled after Republican lawmakers rallied to defeat the measure. President Donald Trump praised the vote outcome, hailing Hegseth as a patriot while criticizing political opponents. Democratic representatives indicated they plan to renew legislative oversight inquiries into the administration's defense actions when the new congressional session convenes.",
+     "why": "Le rejet de cette motion préserve la direction du Pentagone au milieu des controverses sur les engagements militaires américains au Moyen-Orient.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    },
+    {
+     "source": "NYT",
+     "lang": "en",
+     "url": "https://www.nytimes.com/2026/11/11/world/americas/pope-leo-peru-evangelicals.html",
+     "headline": "Pope Returns to Peru, Where Evangelicals Challenge Catholic Dominance",
+     "headlineEn": "Le pape retourne au Pérou, où les évangéliques contestent la dominance catholique",
+     "summary": "Pope Leo has arrived in Peru for an official pastoral visit to a country where he served for decades as a missionary and bishop prior to his papacy. The pontiff returns to a rapidly shifting religious landscape where evangelical Protestant movements have gained substantial ground among local communities. His itinerary includes pastoral meetings in Lima and regional gatherings aimed at revitalizing Catholic parish life and addressing social inequality. The visit highlights the Vatican's effort to reconnect with Latin American believers amid growing competition from dynamic evangelical denominations.",
+     "why": "Ce voyage pontifical au Pérou met en lumière les mutations religieuses profondes et les défis du catholicisme en Amérique latine.",
+     "paywalled": true,
+     "contested": "",
+     "chart": null
+    },
+    {
+     "source": "Foreign Affairs",
+     "lang": "en",
+     "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNUVhXVDNrdFJJRmFOSk9jZWYtSkVZVkFqWjZNVHJLU2dkS2hlV3RVVnRuQUcyTGtLYS1DU2xoQ3Q3OU53YjR5SWpWMVhqNW1tM2pCVkhNOHRMcjM4aEtsLVZNX3Btc0drUi1XTmtBT1JVXzlibGJyNlk1dVBZSDlDclRmY3pWcXVhSFE?oc=5",
+     "headline": "Trump Is Facing a Very Different North Korea",
+     "headlineEn": "Trump fait face à une Corée du Nord bien différente",
+     "summary": "An analysis in Foreign Affairs examines how Pyongyang's strategic position has evolved, presenting new security challenges for Washington. North Korea has significantly advanced its nuclear arsenal, missile delivery systems, and strategic military partnership with Moscow since previous diplomatic summits. These developments reduce Pyongyang's incentive for conventional denuclearization concessions and alter the geopolitical balance in Northeast Asia. The article argues that US foreign policy must adapt to these changed realities rather than relying on outdated diplomatic frameworks to manage regional deterrence.",
+     "why": "Une analyse clé sur la nécessité de repenser la stratégie de dissuasion américaine face aux progrès nucléaires et aux alliances renforcées de Pyongyang.",
+     "paywalled": true,
+     "contested": "",
+     "chart": null
+    }
+   ]
+  },
+  {
+   "name": "Europe & politiques de l'UE",
+   "stories": [
+    {
+     "source": "Al Jazeera",
+     "lang": "en",
+     "url": "https://www.aljazeera.com/news/2026/11/11/spains-first-general-strike-in-14-years-begins?traffic_source=rss",
+     "headline": "Spain’s first general strike in 14 years begins",
+     "headlineEn": "Début de la première grève générale en Espagne depuis 14 ans",
+     "summary": "Workers across Spain have launched the country's first general strike in 14 years to demand urgent solutions to the worsening housing crisis and low wages. The nationwide action has disrupted public transport networks and industrial sectors just weeks before the snap national election scheduled for November 29. Trade unions organized the demonstrations to pressure the government over soaring rental costs and economic pressures affecting households. Protests in major cities like Madrid and Barcelona aim to serve as a critical measure of social discontent ahead of the upcoming parliamentary vote.",
+     "why": "Cette grève générale constitue un test majeur du mécontentement social espagnol à deux semaines d'élections législatives anticipées.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    },
+    {
+     "source": "Reuters",
+     "lang": "en",
+     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQYlFFZTl0aVRsZGZUcGswcDE0ZVdyZGsxV0pqeXg2Z2xUUDl3dDNBS2tNX3RuVUs5ZkFKaGFMbW5sV3A0SEpYMWFoQ0sxYV9Qb21uM0pmZ25xYmNKdHh2aDgyRnhDZEdNSmx0UEFDVDJSYXp6WFk1TldsMEI5Y1J6SG1BUEdKNFBD?oc=5",
+     "headline": "Twelve dead, fifty injured in Bulgarian motorway pile-up",
+     "headlineEn": "Douze morts et cinquante blessés dans un suraccident sur une autoroute en Bulgarie",
+     "summary": "At least twelve people were killed and fifty others suffered injuries following a massive chain-reaction crash on a Bulgarian motorway. Emergency responders, including police, firefighters, and paramedics, were dispatched to the scene to conduct rescue operations and assist victims. Authorities stated that extremely thick fog severely reduced visibility on the highway, causing multiple vehicles to collide into each other. Bulgarian officials and emergency services spent hours clearing the wreckage and transporting injured passengers to nearby hospitals following the tragic accident.",
+     "why": "Ce drame routier meurtrier met en lumière les risques extrêmes liés aux conditions météorologiques hivernales sur le réseau autoroutier bulgare.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    },
+    {
+     "source": "DW",
+     "lang": "en",
+     "url": "https://www.dw.com/en/iran-denies-role-in-fridge-hack-france-summons-ambassador/a-79910206?maca=en-rss-en-world-4025-rdf",
+     "headline": "Iran denies role in fridge hack, France summons ambassador",
+     "headlineEn": "L'Iran nie tout rôle dans le piratage des frigos, la France convoque l'ambassadeur",
+     "summary": "France has summoned Iran's ambassador following a major cyberattack that targeted supermarket refrigeration units across the country in October. French investigators reported finding digital traces linking the disruptions to Iranian actors, prompting Paris to warn that it rules out no potential response. In turn, Iranian officials categorically rejected the allegations, labeling them as baseless and one-sided accusations regarding Islamic Revolutionary Guard Corps involvement. The diplomatic incident marks a further cooling of relations between Paris and Tehran amid heightened international cyber security concerns.",
+     "why": "Cet incident diplomatique aggrave les tensions entre Paris et Téhéran sur fond de menaces de cyberattaques contre des infrastructures commerciales.",
+     "paywalled": false,
+     "contested": "La France accuse l'Iran d'être derrière les cyberattaques contre les systèmes de réfrigération de supermarchés, tandis que l'Iran rejette catégoriquement ces accusations qu'il qualifie de non fondées.",
+     "chart": null
+    }
+   ]
+  },
+  {
+   "name": "Économie & marchés",
+   "stories": [
+    {
+     "source": "Reuters",
+     "lang": "en",
+     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQLWo2UHlxSDlLcGNITjBhSkhrVmNFMDZNZ29xNEdoZ045dWRUV3JoQXQ1MUZCRlNlbHBqMnh2cG1iWjN1STQzNy1OWTZSLXZONmdLZHp1V29LbWxUcnVQS0JwNFVtR3dmOXlDRVcxLXdHWldWek03TXRvU2x5aTgyR1hhVTIyb3R5NUVvdl93aEhHempGNUFtVFVfTQ?oc=5",
+     "headline": "US consumer prices rise briskly for third straight month",
+     "headlineEn": "Les prix à la consommation aux États-Unis augmentent nettement pour le troisième mois consécutif",
+     "summary": "Consumer prices in the United States recorded a brisk increase for the third consecutive month, according to official economic data. The persistent inflationary pressure is complicating financial outlooks and raising concerns among market participants about sustained living costs. Higher prices across key consumer categories have kept inflation above target levels, placing additional pressure on economic policymakers. Financial analysts observe that this continued upward trend in consumer prices is forcing the Federal Reserve to evaluate potential adjustments to its monetary policy trajectory.",
+     "why": "La persistance de l'inflation américaine alimente les spéculations sur un durcissement prolongé de la politique monétaire de la Réserve fédérale.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    },
+    {
+     "source": "RTL.lu",
+     "lang": "fr",
+     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQRGZhMW9lZnI0eE1wQ3RFV0pLTGl1Z2FYN1hYNldiZmtya3Q0eW9rUFkyT1RqZnZfVmRjZUgyeV9yNE9qZkRrNDdtcDJrdDh3c0pDbS1nMXVYZUZaM2lweHBvaG5CSWk0bVR1M01HMVNlZ1Z6UUlXYXpzdDJsalhSOHlyUGNQbGRvN0JhQUFJTzNMdnNWU3hMX1BhREw1d2ZZMURlQzBSTjg2Zw?oc=5",
+     "headline": "Semaine de quatre jours: Gare à ne pas exclure les petites entreprises, prévient l'UEL",
+     "headlineEn": "Four-day week: Be careful not to exclude small businesses, warns UEL",
+     "summary": "L'Union des Entreprises Luxembourgeoises (UEL) a tiré la sonnette d'alarme concernant les débats autour de la mise en place de la semaine de quatre jours. L'organisation patronale avertit qu'une telle mesure pourrait pénaliser ou exclure les petites et moyennes entreprises qui ne disposent pas de la flexibilité des grands groupes. Selon l'UEL, l'organisation du travail doit impérativement s'adapter aux réalités sectorielles sans imposer un cadre rigide à l'ensemble du tissu économique. La fédération préconise une approche sur mesure afin de préserver la compétitivité et le fonctionnement quotidien des PME au Grand-Duché.",
+     "why": "L'UEL met en garde contre les impacts négatifs d'une réforme uniforme du temps de travail sur la viabilité des PME luxembourgeoises.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    },
+    {
+     "source": "RTL.lu",
+     "lang": "fr",
+     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNbjJ4dUxHOUZ0TlI5SWYyZS02WkE4N2xFRy15NkRUVEpkbzBrZEFHR1ZMRnhCWGduclVIdkRpcE83c3J4eTM4d3lFTEdSUFhPSm5zZmRPY1BGRFc4MC1OQVQwekU3S1dJaVBXRlQ3jxcVWdCQWnGQ2Mwbk85QlJ6TWVPYVpINncxcWhfeTBITEQ3SFRVNEdkLWU0ck1mNElESGtuRF9WT19aNVBRbTQyY0dsRQ?oc=5",
+     "headline": "Le ministre n'était pas demandeur: Tanklux défend son projet d'extension du dépôt pétrolier à Mertert",
+     "headlineEn": "Minister did not request it: Tanklux defends its petroleum depot expansion project in Mertert",
+     "summary": "L'entreprise Tanklux a pris la parole pour défendre publiquement son projet d'extension du dépôt pétrolier situé dans le port de Mertert. Cette réaction fait suite aux précisions des autorités indiquant que le ministre de l'Économie n'était pas à l'origine de cette demande de développement. La société fait valoir que la modernisation et l'agrandissement de ses installations sont essentiels pour garantir la sécurité de l'approvisionnement pétrolier du Luxembourg. Tanklux insiste sur le respect strict des normes environnementales et de sécurité industrielle dans le cadre des démarches administratives en cours.",
+     "why": "Ce projet de stockage d'hydrocarbures ravive le débat sur la transition énergétique et la sécurité d'approvisionnement au Luxembourg.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    }
+   ]
+  },
+  {
+   "name": "Technologie & sciences",
+   "stories": [
+    {
+     "source": "AP News",
+     "lang": "en",
+     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNUGgyVWNnaXVBanlNZmp3S1dmYjhaNllnTmY1cGFjdEJoS0NJdU1mUzRzdnZudFEtQ2YtODNmU0pTMVlXQUpVcWw0clhua012N0ZzTVpaeWFNdFhFR3NyX2VFMWVwdEpJNVFwb1FsM3dlWEFaSE95SGZzbllEOG1OeDllaTVfRmE4bVRlWGIwTE9NZHplMzNoLXhPVQ?oc=5",
+     "headline": "Greta Thunberg warns ‘everything we love is at stake’ as she arrives at UN climate talks",
+     "headlineEn": "Greta Thunberg prévient que « tout ce que nous aimons est en jeu » à son arrivée aux négociations sur le climat de l'ONU",
+     "summary": "Climate activist Greta Thunberg arrived at the UN climate talks COP31 in Turkey with a stark warning that everything people cherish is at risk without immediate action. Her arrival comes as international delegates gather to negotiate global climate strategies, with discussions focusing heavily on energy transition and electrification. Thunberg emphasized the urgency of addressing global warming and urged world leaders to commit to meaningful reductions in greenhouse gas emissions. Her intervention highlights the growing pressure from environmental campaigners on governments to move away from fossil fuel dependence during the summit.",
+     "why": "La présence de militants et les tensions sur les énergies fossiles accentuent la pression politique sur les négociations de la COP31.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    },
+    {
+     "source": "AP News",
+     "lang": "en",
+     "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNWVZSQ09GWGpSaFhYeklfRVNZVUNsNGtycVZrOTJ1eXUzSEl3OFhpUnF3eTVJSWNCT0QxR19JXzhrNU5rOUFjclhnS2hxb0ZSazRjNjhKcWo1ZlV4RFl0ZzZDWjVmcm9ZN2xiZzlqR3c0RWxvJnJPOFRFRkdlZVJWMUd4SDRNOE1XckNLZFpnOUxhMmpf?oc=5",
+     "headline": "FDA adds rare vision-loss warning to popular GLP-1 drugs",
+     "headlineEn": "La FDA ajoute un avertissement rare sur les risques de perte de vision pour les médicaments populaires GLP-1",
+     "summary": "The US Food and Drug Administration has updated warning labels for popular GLP-1 medications to include a rare risk of vision loss. These drugs, widely prescribed for diabetes management and weight loss, now carry updated safety information to alert patients and healthcare providers. Regulatory authorities made the decision after reviewing medical data indicating potential eye complications associated with the treatment. Health officials advise individuals taking these medications to consult their doctors if they experience vision changes while continuing to monitor safety signals.",
+     "why": "Cet avertissement de la FDA pourrait influencer la prescription et le suivi médical de traitements antidiabétiques et anti-obésité extrêmement populaires.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    },
+    {
+     "source": "France 24",
+     "lang": "fr",
+     "url": "https://www.france24.com/fr/%C3%A9missions/focus/20261111-l-aneto-l-un-des-plus-grands-glaciers-du-sud-de-l-europe-condamn%C3%A9-%C3%A0-dispara%C3%AEtre",
+     "headline": "L’Aneto, l'un des plus grands glaciers du sud de l’Europe, condamné à disparaître",
+     "headlineEn": "Aneto, one of southern Europe's largest glaciers, doomed to disappear",
+     "summary": "Le glacier de l'Aneto, plus haut sommet des Pyrénées et l'un des plus grands du sud de l'Europe, connaît une fonte d'une rapidité spectaculaire. Les scientifiques et observateurs estiment que cette masse glacée est inexorablement condamnée à disparaître d'ici une dizaine d'années sous l'effet du réchauffement climatique. Une véritable course contre la montre s'est engagée pour documenter et étudier les derniers kilomètres carrés de glace avant leur extinction définitive. Ce déclin accéléré constitue un symbole marquant de l'impact des hausses de températures sur les écosystèmes montagneux européens.",
+     "why": "La fonte irréversible du glacier de l'Aneto illustre concrètement l'accélération du réchauffement climatique sur le continent européen.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    }
+   ]
+  },
+  {
+   "name": "Sport",
+   "stories": [
+    {
+     "source": "AFP.com",
+     "lang": "en",
+     "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1RbzJTZktwTzVVaEhDRFhvT0FudUtmS2lYZEx5QlBPeVR5MFF6NmtUdmZyNHFTV3dOMXNLMktpSW5fTzVsUDZwbGgyRQ?oc=5",
+     "headline": "Carrick set to be sacked by Man Utd: reports",
+     "headlineEn": "Carrick sur le point d'être limogé par Manchester United selon la presse",
+     "summary": "Reports indicate that Manchester United is preparing to dismiss manager Michael Carrick following a series of disappointing team performances. Pressure has grown on the coaching staff as the club struggles to achieve expected results in domestic competition. Club executives are currently evaluating potential replacements to stabilize the squad.",
+     "why": "Un changement d'entraîneur chez les Red Devils marquerait un nouveau tournant stratégique pour le club anglais.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    },
+    {
+     "source": "AFP.com",
+     "lang": "en",
+     "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1MZmZQUXlXVUMyM2t3Ymk4TVNOU200VS00czBELTRqSWxnajY1MW1Lc1B6bmstcFFHVm5XMkJSYld4QWZFckg4Mk1sYw?oc=5",
+     "headline": "Medvedev into Vienna semis and books ATP Finals place",
+     "headlineEn": "Medvedev en demi-finales à Vienne et qualifié pour le Masters ATP",
+     "summary": "Daniil Medvedev advanced to the semi-finals of the Vienna tournament after securing a hard-fought victory. The win officially guaranteed his qualification for the prestigious end-of-season ATP Finals. The Russian tennis player continues his strong late-season form as he prepares to compete against the world's top players.",
+     "why": "Medvedev confirme son excellente forme de fin de saison en s'assurant un billet pour le tournoi des Maîtres.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    }
+   ]
+  }
+ ],
+ "sourced": true,
+ "feeds": {
+  "ok": 27,
+  "of": 29,
+  "items": 263,
+  "skipped": [
+   "Reuters (FR)",
+   "Euronews (FR): HTTP 406"
+  ]
+ },
+ "words": 4042,
+ "readMin": 20,
+ "storyCount": 25
+}
