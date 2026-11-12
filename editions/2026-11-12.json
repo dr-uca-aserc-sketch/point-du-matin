@@ -1,0 +1,358 @@
+{
+ "date": "2026-11-12",
+ "kind": "daily",
+ "heat": 0.85,
+ "oneThing": "",
+ "followUps": [
+  {
+   "n": "01",
+   "thread": "L'élection du Sénat au Mississippi",
+   "change": "Le démocrate Scott Colom a remporté le siège du Sénat dans le Mississippi, scellant le contrôle démocrate du Congrès."
+  },
+  {
+   "n": "02",
+   "thread": "Nvidia et l'affaire Jensen Huang",
+   "change": "Le conseil d'administration de Nvidia étudie l'éviction de Jensen Huang après des révélations d'espionnage et de relations inappropriées."
+  },
+  {
+   "n": "03",
+   "thread": "Pourparlers de paix sur l'Ukraine",
+   "change": "Les discussions d'Abou Dabi se sont conclues par un accord d'échange de prisonniers, alors que les émissaires américains se rendent à Moscou."
+  }
+ ],
+ "mustReads": [
+  {
+   "desk": "Tech & Géopolitique",
+   "source": "WSJ",
+   "lang": "EN",
+   "paywalled": true,
+   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxON2VaZ01EcWdXc1ZGb3plNUNMM294WGZlT0tTbWw2SFNPOHZ3ZERtQlR6RkhLRWF2cHExRnNfWGZINm1NWVoxVjRSUDRTVXRFb1RaRGcyMXFUdEd0LWtlME5SVHJETVdzOHR6eHhyNXJLVXF6cldFbnhHMXcydFMzTGhzVnhWN2RQX2d0X1N4QVZvdUU?oc=5",
+   "headline": "Exclusive | Nvidia Is Preparing to Oust CEO Jensen Huang",
+   "headlineEn": "Exclusif | Nvidia s'apprête à révoquer son PDG Jensen Huang",
+   "contested": "",
+   "why": "L'éventuelle éviction du dirigeant de Nvidia menace de déstabiliser l'ensemble du secteur de l'intelligence artificielle et des semi-conducteurs.",
+   "stat": "",
+   "statLabel": "",
+   "chart": null,
+   "paras": [
+    "The board of directors of Nvidia is currently holding emergency meetings to determine the future of its co-founder and chief executive officer, Jensen Huang. This corporate crisis follows revelations concerning an extramarital affair with an executive linked to Chinese intelligence services, alongside additional allegations of improper relationships within the company. Investors across global technology markets have reacted with severe anxiety, causing significant volatility in semiconductor equities. Directors are weighing the potential damage of removing the charismatic leader who built Nvidia into a trillion-dollar artificial intelligence powerhouse against the severe reputational and legal risks of keeping him in charge.",
+    "The scandal has intensified scrutiny over Nvidia's compliance with United States export control legislation. Singapore-based customer Megaspeed, which was directly implicated in federal investigations regarding high-end chip transfers, publicly announced full cooperation with American regulatory inspectors. Federal authorities are investigating whether advanced artificial intelligence microprocessors were illegally funneled to Chinese entities in circumvention of trade restrictions. Washington policymakers have expressed grave concern that national security secrets and critical technological capabilities may have been compromised through these executive relationships, creating broader political fallout that extends far beyond Silicon Valley boardroom discussions.",
+    "Financial markets experienced immediate turbulence following news of the board's internal deliberations. Futures tied to the Nasdaq and S&P 500 benchmark indices declined sharply as technology traders moved to reduce exposure to hardware manufacturers. Major Asian technology firms and suppliers connected to Nvidia's supply chain also recorded noticeable stock drops. Analysts note that Nvidia's central position in the global artificial intelligence narrative means any leadership instability risks undermining investor confidence across the entire tech ecosystem, prompting emergency assessments from major investment funds regarding their portfolio allocations.",
+    "Replacing Huang presents extraordinary difficulties for Nvidia's corporate governance committee. Unlike traditional corporations with deep executive benches, Nvidia's corporate identity, strategic vision, and engineering roadmap have been almost single-handedly directed by Huang since the company was founded three decades ago. Industry insiders emphasize that few prospective candidates possess the unique combination of technical expertise, customer relationships, and strategic charisma required to command the trust of both software developers and institutional investors. Finding an interim or permanent successor without triggering further executive departures remains a formidable challenge for the board.",
+    "The geopolitical dimensions of the controversy continue to expand. Beijing's foreign ministry pushed back strongly against assertions from Washington, accusing American officials of fabricating espionage narratives to justify protectionist technology bans. Chinese spokespersons urged the United States to cease using personal corporate scandals as pretexts for restricting normal commercial exchanges and semiconductor trade. Meanwhile, national security agencies in Western capitals are conducting independent reviews to assess whether proprietary hardware designs or supply chain vulnerabilities were exposed to foreign intelligence services through the personal contacts at the heart of the scandal.",
+    "As the crisis unfolds, institutional capital is shifting toward competitor firms and alternative artificial intelligence investments. Competitors like Anthropic are gaining heightened attention as benchmarks for AI trade valuation, while chipmakers with clean corporate governance structures are drawing defensive capital inflows. Industry observers suggest that regardless of whether Huang is ultimately ousted or manages to retain his position, Nvidia will face a prolonged period of regulatory oversight, potential shareholder litigation, and restructured governance protocols designed to prevent future conflicts of interest at the top executive level."
+   ]
+  }
+ ],
+ "desks": [
+  {
+   "name": "Luxembourg",
+   "stories": [
+    {
+     "source": "RTL.lu",
+     "lang": "fr",
+     "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOTEhNV1VGbWVSb3ZxVU9BTHlyODZ2YmpjdnlsYUxiWE5uV2hlS3lQUVVpYmlSaHB1TDduMzZlNS1qUzZmYThmSVJaTGFvUExNSlMxaDBMUE9paHZscjRJOGFEVTZKOVRHaGFZai1XTVlaUmZKb1Y0NXg3QlA2QXF2dWFZbm5Jend3U3ZhN3pyUWJXNzhDX1RQaV9uMnlQUFJXVHJuaDg1TndFWUlWdWhzTG1Gb00wYXNhWl9YU29nSVUzWDZoVEE?oc=5",
+     "headline": "Luxembourg: La hausse des cotisations CNS actée, voici combien elle vous coûtera chaque mois",
+     "headlineEn": "Luxembourg: Health insurance contribution increase confirmed, here is how much it will cost each month",
+     "summary": "Le Conseil d'administration de la Caisse nationale de santé (CNS) a officiellement validé la hausse des cotisations de santé au Luxembourg. À partir du 1er janvier, le taux de cotisation appliqué sur le salaire brut des travailleurs résidents et frontaliers subira une augmentation directe afin de combler le déficit financier de la sécurité sociale. Cette mesure se traduira par un prélèvement mensuel supplémentaire sur les fiches de paie dès le début de l'année. Les partenaires sociaux et le gouvernement ont souligné la nécessité de maintenir l'équilibre financier du système tout en garantissant le niveau élevé des prestations.",
+     "why": "Cette revalorisation des cotisations de santé impacte directement le pouvoir d'achat de l'ensemble des salariés et résidents luxembourgeois dès 2027.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    },
+    {
+     "source": "RTL.lu",
+     "lang": "fr",
+     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQNi1TQWRnNy1BNlhCUmt3RzFTVGxESzlnRkdvRmN3Z0tLdldaaVl6TEkydVQtOG1YOG03OHp0UC1aMVhKeUh5R3dlS1U0Zm1XbXRGaXo2S1JlZ0VLRnFWenU0d1FMSWh6ZWdadHkyM25ZOGdmT2ZxMFl1WXdTUXhWbGhJODVRd2xnWkx2MDJrZ2tjb0xRZHZzUGw3Rm8?oc=5",
+     "headline": "Vignette autoroutière, code au lycée, IA déductible: 14 nouvelles pétitions sur le site de la Chambre",
+     "headlineEn": "Motorway vignette, high school coding, deductible AI: 14 new petitions on the Chamber's website",
+     "summary": "Le site internet de la Chambre des députés du Luxembourg a enregistré le dépôt de quatorze nouvelles pétitions publiques ouvertes à la signature. Parmi les sujets phares figurent l'instauration d'une vignette autoroutière payante pour les automobilistes en transit, l'introduction obligatoire de cours de programmation informatique au lycée et la déductibilité fiscale des abonnements aux outils d'intelligence artificielle. Ces initiatives citoyennes reflètent la diversité des préoccupations de la population sur la mobilité, l'éducation et la fiscalité. Si une pétition atteint le seuil des 4 500 signatures requises, un débat public sera organisé au Parlement.",
+     "why": "Le mécanisme des pétitions publiques permet aux citoyens d'imposer directement leurs priorités au débat parlementaire luxembourgeois.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    },
+    {
+     "source": "RTL.lu",
+     "lang": "fr",
+     "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQQnNFcDhFUzAxTG1XQlFIVDdYUUY5VnpNN3gxaUtyY1Z5czNQS3NhNENnQlRwZ3FMVklCc3ZGa2J6MXhiLWMzNjlmekZiOTZiNXdtUlJ3dmk0MlEwREZsQXZLMXNGTmVjY1VNWE15dFUxdU9sM3NWa2ozX2JDRjVqSDVLRVJpYVhBMEhJYm1nTVVuZXNZTS1GbUdXeUJFU1VVMU9XWWkwY05mSUVFRVFNUlpYOGFjMDRlSVZfQXlUOXowemhJMlNBNWpXcUw?oc=5",
+     "headline": "Fonction publique: Laurent Mosar opposé à l’idée que \"l’État continue à se développer massivement à l’avenir\"",
+     "headlineEn": "Civil service: Laurent Mosar opposed to the idea that \"the State should continue to expand massively in the future\"",
+     "summary": "Le député Laurent Mosar s'est publiquement opposé à l'idée d'une expansion continue et massive des effectifs de la fonction publique luxembourgeoise. Dans une prise de position remarquée, l'élu de la majorité estime que la croissance permanente de la bureaucratie étatique risque de peser lourdement sur les finances publiques à long terme. Il préconise plutôt une rationalisation des processus administratifs et une numérisation accrue pour améliorer l'efficacité des services publics sans augmenter inutilement le nombre d'agents. Ce débat relance les discussions parlementaires sur l'efficience de l'État et la gestion des dépenses publiques au Grand-Duché.",
+     "why": "La taille et le coût de la fonction publique restent au cœur des tensions politiques sur la trajectoire budgétaire du Grand-Duché.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    }
+   ]
+  },
+  {
+   "name": "Monde / géopolitique",
+   "stories": [
+    {
+     "source": "DW",
+     "lang": "de",
+     "url": "https://www.dw.com/de/gespräche-in-abu-dhabi-was-haben-sie-der-ukraine-gebracht/a-79927783?maca=de-rss-de-all-1119-rdf",
+     "headline": "Gespräche in Abu Dhabi: Was haben sie der Ukraine gebracht?",
+     "headlineEn": "Talks in Abu Dhabi: What did they bring for Ukraine?",
+     "summary": "Die trilateralen Verhandlungen in Abu Dhabi zwischen Vertretern der Ukraine, den Vereinigten Staaten und Russland sind ohne einen wesentlichen Durchbruch zur Beendigung des Krieges zu Ende gegangen. Als einziges greifbares Ergebnis einigten sich die Delegationen auf einen umfangreichen Austausch von Kriegsgefangenen. Die US-Unterhändler bemühen sich nun darum, Russland von einer künftigen Einbeziehung europäischer Partner in die Friedensgespräche zu überzeugen, während Moskau eigene Sicherheitsgarantien einfordert. Unterdessen meldet Kiew erneut massive Störungen des militärischen Satellitendienstes Starshield an der Front, was die ukrainische Verteidigung gegen russische Drohnenangriffe erheblich erschwert.",
+     "why": "Ces négociations trilatérales montrent que si des avancées humanitaires ciblées restent possibles, le règlement global du conflit ukrainien demeure au point mort.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    },
+    {
+     "source": "Reuters",
+     "lang": "en",
+     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNbGRJY0NscW1XVmJrX1VJR1JWZW1fVVhXaTdKeXN6aVFEMGJueGdSeTE1SlpGQVVpYjZIN0VOb2RpSmlqVGdmMDhsSVlHSWltYWoyOTBPZkpoVTZVV2V6SG42LUJRcTFIb1Z2TzByT19USElvV1g3eXYyU0ZQVEVfc191ZWl0ZDVLeUJ5c3VlUUhHWTViUDl2REFwQmxZNDNvZkE?oc=5",
+     "headline": "EU to approve more sanctions on Russia on Monday, France says",
+     "headlineEn": "L'UE approuvera de nouvelles sanctions contre la Russie lundi, selon la France",
+     "summary": "France has announced that the European Union is set to approve a new package of sanctions against Russia next Monday. The upcoming restrictions aim to further tighten economic pressure on Moscow while targeting key industrial sectors and financial networks supporting the war effort. European foreign ministers will assemble in Brussels to formally ratify these measures, which also specifically address the circumvention of existing sanctions via third-party states. French officials reiterated that European partners remain fully united in supporting Ukraine and enforcing strict accountability measures against Russian aggressive policies.",
+     "why": "L'Union européenne cherche à maintenir la pression économique sur Moscou alors que les démarches diplomatiques parallèles peinent à aboutir.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    },
+    {
+     "source": "DW",
+     "lang": "de",
+     "url": "https://www.dw.com/de/die-deutsche-wirtschaft-erholt-sich-langsam-doch-hohe-schulden-schwache-produktivität-und-fehlende-reformen-bremsen-den-aufschwung/a-79920472?maca=de-rss-de-all-1119-rdf",
+     "headline": "Die deutsche Wirtschaft erholt sich langsam. Doch hohe Schulden, schwache Produktivität und fehlende Reformen bremsen den Aufschwung",
+     "headlineEn": "The German economy is recovering slowly, but high debt, weak productivity and lack of reforms hamper growth",
+     "summary": "Der Jahresbericht des deutschen Sachverständigenrates zur Begutachtung der gesamtwirtschaftlichen Entwicklung bescheinigt der deutschen Wirtschaft zwar eine leichte Erholung, warnt jedoch vor erheblichen Wachstumsrisiken. Die Ökonomen weisen darauf hin, dass die stark steigende Staatsverschuldung, getrieben durch hohe Verteidigungsausgaben und ausbleibende Strukturreformen, den wirtschaftlichen Aufschwung nachhaltig lähmt. Zudem sorgen Verzögerungen bei der geplanten Senkung der Stromsteuer für heftige politische Debatten innerhalb der Regierungskoalition. Die Experten fordern daher dringende Reformen zur Steigerung der Produktivität und zur Sicherung der Staatsfinanzen, um künftige Generationen nicht übermäßig zu belasten.",
+     "why": "La santé économique du premier partenaire commercial du Luxembourg conditionne l'évolution financière et industrielle de toute la zone euro.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    }
+   ]
+  },
+  {
+   "name": "International — hors Europe",
+   "stories": [
+    {
+     "source": "Al Jazeera",
+     "lang": "en",
+     "url": "https://www.aljazeera.com/news/2026/11/12/xi-jinping-says-taiwans-complete-reunification-with-china-will-happen?traffic_source=rss",
+     "headline": "Xi Jinping says Taiwan’s ‘complete reunification’ with China will happen",
+     "headlineEn": "Xi Jinping affirme que la « réunification complète » de Taïwan avec la Chine aura lieu",
+     "summary": "Chinese President Xi Jinping reiterated that the complete reunification of Taiwan with mainland China is an inevitable historical trend that cannot be stopped by any external force. Speaking at an official gathering, Xi stressed that Beijing remains committed to its core sovereignty principles while Taiwan firmly rejects the proposed 'one country, two systems' framework. The statement comes during a period of heightened strategic competition between Washington and Beijing across the Indo-Pacific region. Cross-strait tensions continue to raise security concerns among regional neighbors and international trade partners dependent on semiconductor supply chains.",
+     "why": "La rhétorique ferme de Pékin sur Taïwan accentue les tensions géopolitiques globales entre les deux premières puissances mondiales.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    },
+    {
+     "source": "AP News",
+     "lang": "en",
+     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNU3ZJQlhjSko5MDVzS25JNzdQaWprR1pORklBMUI1Qlg0T3Zkc2J1eV8yUTE1S2RMdHlLcjdDbXNrNERFdDNtYTFleFlkNHZyeXBfQ25lcS05S29hd3YtT3ZWMXE2eUs2RXpuZXV2Z01OcklJeXdKT2FzR1dqZVRHRE9Ncl9QUzVSTkVod1V6RnFjMWNIcFBkWXBWU0FWWTM3TGJj?oc=5",
+     "headline": "Israeli strike on Gaza hospital kills 6 people, including a doctor and a child, Health Ministry says",
+     "headlineEn": "Une frappe israélienne sur un hôpital de Gaza fait 6 morts, dont un médecin et un enfant, selon le ministère de la Santé",
+     "summary": "An Israeli airstrike hit the Nasser medical complex in southern Gaza, killing at least six people including a surgeon and a child, according to local health officials. Witnesses reported that the missile struck a building housing intensive care units and surgical wards, leaving dozens of patients and medical staff injured. The Israeli military stated that the attack targeted a senior Hamas commander operating from a command center inside the hospital grounds. Palestinian authorities strongly condemned the strike, highlighting the catastrophic conditions facing healthcare facilities under ongoing military operations and a fragile ceasefire agreement.",
+     "why": "Les frappes répétées sur les infrastructures médicales à Gaza soulignent la fragilité du cessez-le-feu et l'aggravation de la crise humanitaire.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    },
+    {
+     "source": "AP News",
+     "lang": "en",
+     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxObGNuUXNneXVWaFk1SjdDUnJmcVM1TjFDc2FQckV3NmZMUDZPUndHdjEybjJwUktLbE9qMkdmRjc5UzJ3QkhWNHRIREQ1UkpJbjdQeEhaNzFLamE2ZlhtQUp2cmdFYkZ4eUpKcnc2a2Q4NXlKdjc3azhSbmUwbEhSamM2d0wtVVNDZURqWWtnY1ZmV2FlRVhRUENLcGJDaUFTUFBjVEd3?oc=5",
+     "headline": "Democrat Scott Colom wins election to U.S. Senate from Mississippi",
+     "headlineEn": "Le démocrate Scott Colom remporte l'élection au Sénat américain dans le Mississippi",
+     "summary": "Democrat Scott Colom has won a historic election to the United States Senate from Mississippi, defeating his Republican opponent in a closely contested race. Colom becomes the first Black senator to represent the Southern state since the Reconstruction era in the late nineteenth century. His victory caps a series of unexpected Democratic wins following the midterm elections, granting the party narrow control over both chambers of the U.S. Congress. Political analysts attribute the outcome to surging voter turnout in urban districts and strong support from minority communities across Mississippi.",
+     "why": "Cette victoire démocrate historique dans un bastion républicain consolide la nouvelle majorité de l'opposition au Congrès américain.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    },
+    {
+     "source": "AP News",
+     "lang": "en",
+     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNaE80VHB2dlMwYkZpM2p1UUdyV0toU0V6TDdvS044OWRteHdVSWltUzJtLUZtd3oyUlpFZHZpd0gzUDdqOWMzTHZQMjM2VDYyR0Y0YkFaSm15dnFHRHM0b3o5ZDU1ME9OcVZ4aGNqWGVSZ1hLdHBIajVMMENZSGEwZVFDeWlwVUFEUGJqQ0s0QlUzVnZPNHpNcWllT1ZveXZZNlE?oc=5",
+     "headline": "Indonesia’s vice president resigns as his eligibility and academic credentials are questioned",
+     "headlineEn": "Le vice-président indonésien démissionne alors que son éligibilité et ses diplômes sont contestés",
+     "summary": "Indonesia's Vice President Gibran Rakabuming Raka has officially submitted his resignation following intense public scrutiny over his academic qualifications and election eligibility. The departure of the vice president marks a major political crisis for President Prabowo Subianto, whose ruling coalition shows signs of severe internal strain. Opposition lawmakers and civic groups had raised persistent questions regarding Gibran's university credentials, sparking widespread protests across major cities. Political experts warn that this high-level resignation could disrupt government policy implementation and weaken investor confidence in Southeast Asia's largest economy.",
+     "why": "La démission du vice-président indonésien déstabilise la coalition au pouvoir au sein de la troisième plus grande démocratie du monde.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    },
+    {
+     "source": "Foreign Affairs",
+     "lang": "en",
+     "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE0xRFlHS3pGYlZOTnp4MV9Eb3dfNEtTckVqMjRSZ1ZBbkN1SEt6d0VLbEtaZkpvUGtoRVZIVUo1T1B0dmd6SUpYbU9mOUFTdmJENUdlM3llclVjbmktbzNZeXF3TEpfZ0pEMGNJdXhSTFZ3bU0?oc=5",
+     "headline": "The Paradox of Dollar Dominance",
+     "headlineEn": "Le paradoxe de la dominance du dollar",
+     "summary": "An analysis published in Foreign Affairs examines the paradox of American dollar dominance in the contemporary global financial system. While the greenback continues to serve as the world's primary reserve currency and trade medium, rising U.S. national debt and aggressive unilateral sanctions are accelerating efforts by emerging economies to diversify their reserves. The article explores how geopolitical fragmentation and alternative digital payment architectures pose long-term challenges to traditional monetary hegemony. Scholars argue that Washington must balance its strategic economic leverage with international institution building to maintain financial stability.",
+     "why": "L'analyse du rôle hégémonique du dollar offre un éclairage crucial sur les équilibres financiers et géopolitiques globaux.",
+     "paywalled": true,
+     "contested": "",
+     "chart": null
+    }
+   ]
+  },
+  {
+   "name": "Europe & politiques de l'UE",
+   "stories": [
+    {
+     "source": "France 24",
+     "lang": "fr",
+     "url": "https://www.france24.com/fr/vid%C3%A9o/20261112-irlande-la-capitale-se-pr%C3%A9pare-%C3%A0-accueillir-le-sommet-de-la-communaut%C3%A9-politique-europ%C3%A9enne",
+     "headline": "Irlande : la capitale prête à accueillir le sommet de la Communauté politique européenne",
+     "headlineEn": "Ireland: Capital ready to host European Political Community summit",
+     "summary": "Dublin s'apprête à accueillir le neuvième sommet de la Communauté politique européenne, réunissant les dirigeants de 47 pays du continent ce jeudi 12 novembre. Dans un contexte de profondes transformations géopolitiques mondiales, cette réunion vise prioritairement à renforcer la compétitivité continentale tout en consolidant les institutions démocratiques. Les débats porteront également sur les défis sécuritaires majeurs auxquels fait face le continent européen. Les responsables espèrent trouver des positions communes sur la défense et l'intégration.",
+     "why": "Ce sommet permet d'aligner les pays membres et non-membres de l'UE face aux défis sécuritaires et économiques mondiaux.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    },
+    {
+     "source": "Luxemburger Wort",
+     "lang": "de",
+     "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNV21Ua01GdExvQUJmdURWSDhyZy03V2FpbnRPS1RKaE5pYkc0amJRTjkxU2d4YUVwM2ZFTHdtdU1CaFBDWTdKUlNtLTN4T3Q1aTU2a2hpVkVHZ1h4RWxPQmdhbUNmMmJSd1JGc0ZHY0ZNTTJpVmF1TVgxa1VpdzAtVVQzWVV2YlRxYjUyOVczQTBhcEhBcWI5cUQtSENVUWtJUGxUTXJ6TnZGTEM3OVdDeEZqaTl0Y3VZOGdZMG5ucw?oc=5",
+     "headline": "Luc Frieden sieht Antonio Costa als Europas „natürlichen“ Ukraine-Unterhändler",
+     "headlineEn": "Luc Frieden sees António Costa as Europe's natural negotiator for Ukraine",
+     "summary": "Der luxemburgische Premierminister Luc Frieden unterstützt den Präsidenten des Europäischen Rates, António Costa, als zentralen Verhandlungsführer Europas im Ukraine-Konflikt. Frieden betonte, dass Costa die nötige diplomatische Legitimität besitze, um die europäischen Sicherheitsinteressen gegenüber Washington und Moskau wirksam zu vertreten. Die Initiative folgt auf wachsende Sorgen in europäischen Hauptstädten über eine mögliche Umgehung der EU bei multilateralen Friedensgesprächen. Eine geschlossene europäische Vertretung gilt für Frieden als unerlässlich.",
+     "why": "Le Luxembourg plaide pour une voix européenne unie dirigée par le président du Conseil européen lors des négociations de paix.",
+     "paywalled": true,
+     "contested": "",
+     "chart": null
+    },
+    {
+     "source": "Reuters",
+     "lang": "en",
+     "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPZ3l0WkhacFplemVmdldqMWxjWVZPVVFYaE94X0VtVEJfOGJXaEtTLW0zTGdyNk50a3NYeXJoYXpSUEpoVmx2MnRiUDhrM25rMHFTemE1U0piTUtwOGxhb1ZqYkVINW8xaTJDOXc4UnY1YXJNUV83WmNhOEY0Z1YwWFpvZlAwX3JxRTlObzVGakxmV1ZaVXpicVhfWmtUTTUyY2hRS1FSeF_PNWdxcXNyWjhFWU1nQUZzRDNJYmlydDFYQQ?oc=5",
+     "headline": "Nordic countries to work towards common defence deal",
+     "headlineEn": "Les pays nordiques travaillent en vue d'un accord de défense commun",
+     "summary": "Nordic nations have agreed to work toward a comprehensive common defence treaty aimed at strengthening military coordination across Northern Europe. The initiative focuses on joint operational planning, shared logistics, and enhanced interoperability among regional armed forces. Officials noted that the move comes in response to evolving security threats along Europe's northern flank. The agreement will complement existing NATO commitments and deepen regional security integration.",
+     "why": "Une alliance militaire renforcée dans le Nord de l'Europe consolide le flanc septentrional de l'OTAN et de l'UE.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    }
+   ]
+  },
+  {
+   "name": "Économie & marchés",
+   "stories": [
+    {
+     "source": "Frankfurter Allgemeine Zeitung",
+     "lang": "de",
+     "url": "https://www.faz.net/aktuell/wirtschaft/wirtschaftsweise-zerpfluecken-schwarz-rote-schuldenpolitik-accg-201672634.html",
+     "headline": "Sachverständigenrat: Wirtschaftsweise zerpflücken schwarz-rote Schuldenpolitik",
+     "headlineEn": "Council of Economic Experts criticizes government's debt-based budget policy",
+     "summary": "Der deutsche Sachverständigenrat zur Begutachtung der gesamtwirtschaftlichen Entwicklung hat die Haushaltspolitik der Bundesregierung scharf kritisiert. Die Wirtschaftsweisen warnen vor den Risiken einer stark steigenden Staatsverschuldung, die vor allem durch zusätzliche Kredite für Verteidigungsausgaben angetrieben wird. Ohne grundlegende Reformen und Ausgabendisziplin drohen langfristig höhere Zinsbelastungen und erhebliche Wohlstandsverluste für kommende Generationen. Das Gremium fordert einen umgehenden Kurswechsel der Fiskalpolitik.",
+     "why": "Les avertissements des experts économiques allemands soulignent les tiraillements sur la dette au sein de la première économie européenne.",
+     "paywalled": true,
+     "contested": "",
+     "chart": null
+    },
+    {
+     "source": "RTL.lu",
+     "lang": "fr",
+     "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOTEhNV1VGbWVSb3ZxVU9BTHlyODZ2YmpjdnlsYUxiWE5uV2hlS3lQUVVpYmlSaHB1TDduMzZlNS1qUzZmYThmSVJaTGFvUExNSlMxaDBMUE9paHZscjRJOGFEVTZKOVRHaGFZai1XTVlaUmZKb1Y0NXg3QlA2QXF2dWFZbm5Jend3U3ZhN3pyUWJXNzhDX1RQaV9uMnlQUFJXVHJuaDg1TndFWUlWdWhzTG1Gb00wYXNhWl9YU29nSVUzWDZoVEE?oc=5",
+     "headline": "Luxembourg: La hausse des cotisations CNS actée, voici combien elle vous coûtera chaque mois",
+     "headlineEn": "Luxembourg: Increase in CNS health insurance contributions confirmed",
+     "summary": "La décision d'augmenter les cotisations à la Caisse nationale de santé (CNS) au Luxembourg est désormais entérinée à partir du 1er janvier. Cette mesure vise à résorber le déficit structurel de l'assurance maladie face à l'accroissement continu des dépenses de santé. La hausse s'appliquera directement sur le salaire brut des résidents et des frontaliers, entraînant une diminution mécanique du revenu net mensuel. Les autorités défendent un ajustement nécessaire pour préserver la qualité du système de soins.",
+     "why": "Cette hausse fiscale directe touche la fiche de paie de tous les salariés résidents et frontaliers au Luxembourg.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    },
+    {
+     "source": "BBC",
+     "lang": "en",
+     "url": "https://www.bbc.co.uk/news/articles/cwvg25nypmrvo?at_medium=RSS&at_campaign=rss",
+     "headline": "Clashes erupt in Barcelona after thousands join Spain general strike",
+     "headlineEn": "Des affrontements éclatent à Barcelone après la grève générale en Espagne",
+     "summary": "Tens of thousands of workers across Spain took part in a nationwide general strike called by major trade unions to protest soaring housing costs and high inflation. Clashes with police were reported in Barcelona as demonstrators blocked key transport routes and commercial districts. The strike disrupted public transportation, manufacturing, and port operations across several major regions. Union leaders warned that further mobilizations will follow if the government fails to address living costs.",
+     "why": "Les tensions sociales liées au coût de la vie et au logement fragilisent l'économie espagnole et son exécutif.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    }
+   ]
+  },
+  {
+   "name": "Technologie & sciences",
+   "stories": [
+    {
+     "source": "Reuters",
+     "lang": "en",
+     "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOSUNLZ3YtTHR3U1dXVUtobzMxMWlKQ0tGV01aSF9SdFVOb3NWZC1lVjZvbThsaTBoUHpiQVlxRDkyRkMtbFpwZGd4b0VFa2JGX1NKNHhvb2dfR0lhNElVRUZ4V0dSRjNkdVhOQ2NTOEJzbGV1T2gzM3M4NDdhSTNShsI5WFKUXXUyd1hMV2dtZmFQQlVSbWFQTEZPNFBTSGx3VjhqZGdfWnVuaFNPNFZuZXFJMXViSlhDSFFnV1duXHRvb00?oc=5",
+     "headline": "US humanoid robot production could hit 400,000 by 2030 as deployment ramps, J.P. Morgan says",
+     "headlineEn": "La production américaine de robots humanoïdes pourrait atteindre 400 000 d'ici 2030, selon J.P. Morgan",
+     "summary": "Annual production of humanoid robots in the United States could reach 400,000 units by 2030 as industrial deployment accelerates, according to a report by J.P. Morgan. Rapid advancements in artificial intelligence models and hardware manufacturing are reducing production costs while expanding capabilities in logistics and assembly lines. Analysts emphasize that integration into factory workflows is moving faster than previously projected. Industrial automation investments are surging across major manufacturing sectors.",
+     "why": "L'essor de la robotique humanoïde industrielle s'annonce comme l'un des relais de croissance majeurs de la tech et de l'automatisation.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    },
+    {
+     "source": "PBS News",
+     "lang": "en",
+     "url": "https://www.pbs.org/newshour/science/oil-shock-from-iran-war-led-to-drop-in-carbon-pollution-scientists-say",
+     "headline": "Oil shock from Iran war led to drop in carbon pollution, scientists say",
+     "headlineEn": "Le choc pétrolier lié à la guerre en Iran a entraîné une baisse des émissions de carbone, selon les scientifiques",
+     "summary": "Global carbon dioxide emissions from fossil fuels experienced a slight decline this year due to the economic oil shock triggered by conflict in Iran, climate scientists reported. Higher energy prices and supply disruptions forced industrial sectors and consumers to reduce fuel consumption across several major markets. However, researchers caution that this unintentional dip in emissions does not replace structural climate policy reforms needed to meet international warming targets. Long-term energy transitions remain essential.",
+     "why": "Ce choc pétrolier montre la sensibilité extrême des émissions mondiales aux crises géopolitiques et énergétiques.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    },
+    {
+     "source": "RTL.lu",
+     "lang": "fr",
+     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxONm1VcVpTRVlobktXVkFIeFJScGdWOFY5S3hCMTR6cV_PQTVYZDIxcThrMHEtLVA5RXAtZ2VxVEJMdU1zT25pMEZRaGdVZWdRU2luNzI5dG5BczZua3NoMG0yME1xWmR1eUpHdGZCRkY0MnJBZWZKek8wXzZiVEpDWGVFYzR4d2tjMG1IM1hHQ3FpTjRLWDFjZkhsWFRKNHZzYnlySW5sT0ZKZw?oc=5",
+     "headline": "Luxembourg Space Agency: Bientôt une Silicon Valley luxembourgeoise à Kockelscheuer ?",
+     "headlineEn": "Luxembourg Space Agency: Soon a Luxembourg Silicon Valley at Kockelscheuer?",
+     "summary": "La Luxembourg Space Agency ambitionne de transformer le site de Kockelscheuer en un véritable pôle technologique d'excellence dédié au secteur spatial. Ce projet vise à rassembler des entreprises spécialisées, des chercheurs et des startups innovantes pour stimuler la recherche spatiale et l'économie de la donnée. Le gouvernement luxembourgeois soutient cette initiative financièrement et logistiquement pour conforter sa position de leader européen de l'industrie spatiale commerciale.",
+     "why": "Le Luxembourg renforce son positionnement stratégique comme hub européen d'innovation pour le secteur spatial.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    }
+   ]
+  },
+  {
+   "name": "Sport",
+   "stories": [
+    {
+     "source": "Repubblica",
+     "lang": "it",
+     "url": "https://www.repubblica.it/sport/calcio/2026/11/12/news/carrick_manchester_united_esonero_ufficiale-425718129/",
+     "headline": "Carrick esonerato dal Manchester United, al suo posto in arrivo Pochettino",
+     "headlineEn": "Carrick sacked by Manchester United, Pochettino lined up to replace him",
+     "summary": "Il Manchester United ha sollevato dall'incarico il tecnico Michael Carrick a causa dei deludenti risultati che hanno spinto la squadra in zona retrocessione in Premier League. La dirigenza dei Red Devils sta trattando per ingaggiare Mauricio Pochettino come nuovo allenatore. La svolta punta a rialzare immediatamente la squadra dopo un avvio di stagione catastrofico.",
+     "why": "La crisi profonda del Manchester United costringe il club a cambiare guida tecnica per evitare la retrocessione.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    },
+    {
+     "source": "France 24",
+     "lang": "fr",
+     "url": "https://www.france24.com/fr/vid%C3%A9o/20261112-ligue-des-nations-la-france-affronte-l-italie-sans-kylian-mbapp%C3%A9",
+     "headline": "Ligue des Nations : la France affronte l'Italie sans Kylian Mbappé",
+     "headlineEn": "Nations League: France faces Italy without Kylian Mbappé",
+     "summary": "L'équipe de France affronte l'Italie ce jeudi à Milan dans le cadre de la Ligue des nations. Privés de leur capitaine Kylian Mbappé, forfait sur blessure, les Bleus dirigés par Zinédine Zidane cherchent à valider leur qualification pour les quarts de finale. Avec trois victoires en quatre matchs, la sélection tricolore aborde ce choc en position favorable.",
+     "why": "Ce choc au sommet détermine la qualification des Bleus pour la suite de la compétition européenne.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    }
+   ]
+  }
+ ],
+ "sourced": true,
+ "feeds": {
+  "ok": 29,
+  "of": 29,
+  "items": 262,
+  "skipped": []
+ },
+ "words": 2943,
+ "readMin": 15,
+ "storyCount": 23
+}
