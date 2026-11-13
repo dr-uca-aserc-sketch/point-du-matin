@@ -1,0 +1,404 @@
+{
+ "date": "2026-11-13",
+ "kind": "daily",
+ "heat": 0.85,
+ "oneThing": "A massive Microsoft outage disrupted global services while Nvidia faced turmoil after CEO Jensen Huang resigned over alleged security and personal revelations.",
+ "followUps": [
+  {
+   "n": "01",
+   "thread": "Négociations sur l'Ukraine",
+   "change": "Les émissaires américains ont rencontré Vladimir Poutine à Moscou avant de rejoindre Volodymyr Zelensky à Dublin, ouvrant la voie à une implication européenne contestée."
+  },
+  {
+   "n": "02",
+   "thread": "Crise de gouvernance chez Nvidia",
+   "change": "À la suite de la démission de Jensen Huang, le Sénat américain a convoqué l'ancien PDG et le secrétaire au Commerce pour témoigner en décembre."
+  },
+  {
+   "n": "03",
+   "thread": "Perturbations des services Microsoft",
+   "change": "Une panne majeure a touché la messagerie Outlook et les services cloud dans le monde, les équipes peinant à rétablir une situation normale."
+  }
+ ],
+ "mustReads": [
+  {
+   "desk": "Tech & Services Cloud",
+   "source": "France 24",
+   "lang": "FR",
+   "paywalled": false,
+   "url": "https://www.france24.com/fr/vid%C3%A9o/2026/11/13/panne-mondiale-d-outlook-ce-que-l-on-sait-des-perturbations-et-de-leurs-causes",
+   "headline": "Panne mondiale d'Outlook : ce que l’on sait des perturbations et de leurs causes",
+   "headlineEn": "Global Outlook outage: What we know about the disruptions and their causes",
+   "contested": "",
+   "why": "Une panne systémique des outils numériques de Microsoft paralyse les communications des entreprises et des administrations à l'échelle globale.",
+   "stat": "",
+   "statLabel": "",
+   "chart": null,
+   "paras": [
+    "Une panne d'ampleur mondiale perturbe gravement les services du géant informatique américain Microsoft depuis ce vendredi matin. Les utilisateurs de la messagerie électronique Outlook, de la plate-forme de travail collaboratif Teams ainsi que des outils dotés de l'assistant virtuel Copilot rencontrent des difficultés d'accès majeures ou une impossibilité totale de se connecter. Cette interruption soudaine touche simultanément des millions d'entreprises, des institutions publiques et des particuliers sur l'ensemble des continents, mettant en lumière la dépendance critique du secteur économique mondial à l'égard des infrastructures informatiques centralisées de cette entreprise.",
+    "Face à l'ampleur des dysfonctionnements signalés à travers le monde, la direction de Microsoft est rapidement intervenue pour apporter des précisions technologiques sur cet incident. Le groupe américain a catégoriquement écarté l'hypothèse d'une attaque informatique malveillante ou d'un piratage externe pour expliquer la paralysie soudaine de ses serveurs. Selon les premières analyses officielles fournies par l'entreprise, des problèmes techniques survenus au sein de ses centres de données cloud sont à l'origine de cette surcharge systémique qui empêche l'acheminement normal des flux d'information et perturbe gravement le fonctionnement global.",
+    "Les répercussions opérationnelles de cet arrêt des services informatiques se font ressentir avec une intensité particulière dans le secteur financier et au sein des grandes administrations. De nombreux courtiers et opérateurs boursiers ont été contraints de délaisser temporairement leurs terminaux numériques habituels pour réinventer leurs habitudes de travail, effectuant des transactions par téléphone ou par télécopie. Plusieurs gouvernements européens ont expressed leurs vives inquiétudes quant à l'impact économique global de cette défaillance massive, tandis que les équipes d'ingénieurs travaillent d'arrache-pied pour rétablir progressivement l'accès sécurisé à l'ensemble des fonctionnalités.",
+    "En Europe, la situation suscite également de nombreuses interrogations stratégiques de la part des responsables publics et des experts en souveraineté numérique. Si certaines structures étatiques au Luxembourg ont été épargnées grâce à la gestion spécifique de leurs architectures informatiques locales, de nombreuses entreprises du secteur privé subissent des retards importants dans la conduite de leurs activités quotidiennes. Cette panne géante rappelle les risques inhérents à une trop grande concentration des services essentiels auprès d'un nombre restreint de prestataires technologiques internationaux, ravivant les débats réguliers sur la résilience des infrastructures numériques.",
+    "Au fur et à mesure que la journée avance, la firme informatique publie des mises à jour régulières concernant l'avancement des interventions sur ses réseaux perturbés. Microsoft signale percevoir de premiers résultats positifs en Europe et dans d'autres régions du monde, même si la restauration complète de l'ensemble des applications prend plus de temps que prévu initialement. Les ingénieurs procèdent au redémarrage contrôlé de plusieurs clusters de serveurs afin de résorber les goulots d'étranglement qui paralysent encore les boîtes aux lettres électroniques et les outils d'échange vidéo indispensables.",
+    "L'incident souligne la nécessité urgente pour les organisations professionnelles de élaborer des plans d'urgence et des alternatives opérationnelles fiables en cas de défaillance majeure. Les spécialistes recommandent de diversifier les canaux de communication internes et de ne pas reposer exclusivement sur un écosystème logiciel unique. Alors que les tentatives de dépannage se poursuivent activement, les dirigeants d'entreprises et les responsables informatiques attendent des clarifications complètes sur les causes exactes de cette panne historique afin d'éviter qu'un tel scénario de blocage ne se reproduise dans un avenir proche."
+   ]
+  },
+  {
+   "desk": "Tech & Geopolitics",
+   "source": "AP News",
+   "lang": "EN",
+   "paywalled": false,
+   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOMUxqUTE0WWZBT2xoV25SLUQ2dFgyWkhwZFZyRnk3d1Fibmtrb0d4T3otSXNpNmZiTVh0QUdkWTA4UmQ3cXQyVVM3ODc0V0g4YnVVbDJRYWF4VXlaXzMzZnJWNi1UR3YyZHJGbWNzaVFab2tiM3N2RjFIOUtWcnlJVWtMVnhQNmhJeTdPajNVUXZfU2NzWkw0aGJLVFMtaGY3?oc=5",
+   "headline": "What we know after Jensen Huang resigns as Nvidia CEO",
+   "headlineEn": "Ce que l'on sait après la démission de Jensen Huang de son poste de PDG de Nvidia",
+   "contested": "",
+   "why": "Le départ précipité du cofondateur du leader mondial des puces d'IA ébranle les marchés et suscite des inquiétudes sécuritaires au Congrès.",
+   "stat": "",
+   "statLabel": "",
+   "chart": null,
+   "paras": [
+    "The sudden resignation of Jensen Huang as the chief executive of Nvidia has sent shockwaves across the technology sector and global financial markets. Having built the silicon giant from an obscure graphics hardware designer into a multitrillion-dollar powerhouse driving the artificial intelligence boom, Huang stepped down abruptly following sensational reports regarding extramarital relationships and alleged connections to a Chinese espionage suspect. This unexpected leadership vacuum leaves the semiconductor flagship in a state of sudden vulnerability, precisely at a moment when global demand for advanced computing hardware has reached unprecedented heights.",
+    "The board of directors moved swiftly to stabilize corporate governance by appointing chief financial officer Colette Kress as interim chief executive while initiating a comprehensive search for a permanent successor. However, the circumstances surrounding Huang's departure extend far beyond typical corporate personnel changes, prompting immediate attention from national security officials in Washington. United States lawmakers have expressed grave concerns about potential unauthorized technology transfers and compliance with strict export restrictions designed to limit China's access to high-end microchips, transforming a private scandal into a complex geopolitical dilemma.",
+    "In response to the growing national security implications, the United States Senate has formally summoned both the former chief executive and the Commerce Secretary to testify in upcoming congressional hearings scheduled for December. Investigators intend to examine whether confidential intellectual property or sensitive technical specifications were compromised during interactions linked to foreign intelligence assets. This intense regulatory oversight adds substantial pressure to the company's executive leadership, which must now defend its internal compliance protocols while maintaining complex international supply chains amidst heightened scrutiny.",
+    "Financial markets reacted with noticeable volatility following the announcement, reflecting investor anxiety over the future strategic direction of the hardware leader. Shares experienced sharp swings before recovering a portion of their losses, as institutional investors evaluated the long-term impact on major artificial intelligence infrastructure projects worldwide. Market analysts note that Nvidia's dominance relies heavily on its proprietary software stack and hardware engineering roadmap, both of which were deeply tied to Huang's visionary leadership style and personal influence within the tech ecosystem.",
+    "The turmoil comes at a critical juncture for the broader artificial intelligence industry, as competing technology firms and emerging startups seek to capitalize on any potential operational disruption. Major cloud computing providers and enterprise clients rely heavily on Nvidia's specialized accelerators to train complex machine learning models. Any prolonged instability or delay in product execution could accelerate attempts by technology partners to diversify their hardware procurement strategies, reshaping competitive dynamics across the global semiconductor landscape in the coming quarters.",
+    "Moving forward, the temporary executive team faces the challenging task of reassuring employees, commercial partners, and shareholders while navigating ongoing government inquiries. Reestablishing corporate stability will require demonstrating that internal security measures are robust enough to prevent future breaches without stifling product innovation. As Congress prepares to scrutinize the firm's export control practices, the outcome of this crisis will likely influence regulatory policies governing the global distribution of advanced artificial intelligence hardware for years to come."
+   ]
+  },
+  {
+   "desk": "Geopolitik & Diplomatie",
+   "source": "DW",
+   "lang": "DE",
+   "paywalled": false,
+   "url": "https://www.dw.com/de/putin-will-europäer-bei-ukraine-gesprächen-einbeziehen/a-79936896?maca=de-rss-de-all-1119-rdf",
+   "headline": "Putin will Europäer bei Ukraine-Gesprächen einbeziehen",
+   "headlineEn": "Putin wants to include Europeans in Ukraine talks",
+   "contested": "Les émissaires américains affirment que Moscou a accepté la présence européenne aux négociations, mais la Russie n'a pas confirmé cette participation et pose des conditions.",
+   "why": "Die diplomatischen Verhandlungen über ein Ende des Ukraine-Kriegs treten in eine neue Phase ein, in der die Rolle Europas umstritten bleibt.",
+   "stat": "",
+   "statLabel": "",
+   "chart": null,
+   "paras": [
+    "Die internationalen Vorstöße zur Beendigung des Krieges in der Ukraine haben eine neue diplomatische Dynamik erreicht. Nach hochrangigen Beratungen mit dem russischen Präsidenten Wladimir Putin in Moskau äußerten sich die US-Sonderbeauftragten vorsichtig optimistisch hinsichtlich einer möglichen Einbindung europäischer Staaten in künftige Friedensgespräche. Die amerikanischen Unterhändler reisten im Anschluss direkt nach Dublin weiter, um den ukrainischen Präsidenten Wolodymyr Selenskyj über den aktuellen Stand der vertraulichen Gespräche zu informieren. Diese Entwicklungen markieren einen potenziellen Wendepunkt in den seit Monaten festgefahrenen verhandlungsdiplomatischen Kontakten zwischen allen beteiligten Konfliktparteien.",
+    "Während die Vereinigten Staaten von einer grundsätzlichen Bereitschaft Moskaus sprechen, europäische Partner an den kommenden Verhandlungsrunden zu beteiligen, bleibt die genaue Zusammensetzung des Verhandlungstischs Gegenstand intensiver Debatten. Der Kreml hat bislang keine offizielle Bestätigung für eine uneingeschränkte Teilnahme europäischer Diplomaten abgegeben und verweist stattdessen auf bestehende Vorbedingungen. Führungskräfte in der Europäischen Union mahnen zur Vorsicht vor taktischen Zugeständnissen Russlands, da wesentliche Kernfragen bezüglich eines dauerhaften Waffenstillstands und der künftigen Sicherheitsarchitektur in Osteuropa weiterhin ungelöst sind und große Meinungsverschiedenheiten zwischen den Lager bestehen.",
+    "Ein konkreter diplomatischer Fortschritt zeichnet sich unterdessen bei humanitären Fragen ab. Nach mehrtägigen Verhandlungen in Abu Dhabi einigten sich Vertreter der Ukraine und Russlands unter amerikanischer Vermittlung auf einen umfangreichen Gefangenenaustausch. Dieser Schritt wird von Beobachtern als wichtiges Signal des verbleibenden Verhandlungswillens gewertet, wenngleich er noch keinen Durchbruch bei den grundlegenden politischen Differenzen darstellt. Die Wiederaufnahme des direkten Dialogs zeigt jedoch, dass funktionierende Kommunikationskanäle für praktische Vereinbarungen genutzt werden können, um das Leid der Betroffenen inmitten der anhaltenden Kampfhandlungen zumindest teilweise zu lindern.",
+    "In den europäischen Hauptstädten wird intensiv darüber beraten, wer die Interessen des Kontinents bei den geplanten Friedensgesprächen vertreten soll. Die Frage der Repräsentation sorgt für politische Diskussionen innerhalb der Europäischen Union, da verschiedene Mitgliedstaaten unterschiedliche Ansätze gegenüber Moskau verfolgen. Während einige Regierungen eine geschlossene Auftreten unter Führung der EU-Außenbeauftragten bevorzugen, plädieren andere für eine direkte Einbindung einzelner europäischer Schwergewichte. Diese interne Abstimmung ist entscheidend, um sicherzustellen, dass europäische Sicherheitsinteressen bei künftigen Abkommen wirksam eingebracht und nicht übergangen werden.",
+    "Die Situation an der Front bleibt ungeachtet der diplomatischen Aktivitäten extrem angespannt und von schwerer Gewalt geprägt. Russische Drohnen- und Raketenangriffe trafen in den vergangenen Tagen erneut zivile Infrastrukturen und medizinische Einrichtungen in ukrainischen Städten, was zu mehreren Todesopfern und Verletzten führte. Gleichzeitig setzt die ukrainische Armee ihre gezielten Militäraktionen gegen strategische Ziele fort, darunter Angriffe auf russische Kriegsschiffe im Bereich der Ostsee. Diese anhaltenden militärischen Eskalationen verdeutlichen die Dringlichkeit stabiler Vereinbarungen, während beide Seiten versuchen, ihre Verhandlungspositionen vor möglichen Gesprächen militärisch zu festigen.",
+    "Die kommenden Wochen werden zeigen, ob aus den bisherigen Sondierungsgesprächen ein dauerhafter und tragfähiger Friedensprozess entstehen kann. Die Einbindung europäischer Akteure gilt für die langfristige Stabilität in der Region als unverzichtbar, birgt jedoch die Herausforderung komplexer Abstimmungsverfahren. Sowohl in Kiew als auch in den westlichen Hauptstädten bleibt das Misstrauen gegenüber den strategischen Absichten des Kremls hoch. Nur ein verbindlicher und kontrollierbarer Waffenstillstand kann die Voraussetzung dafür schaffen, dass aus den gegenwärtigen Kontakten echte Fortschritte für einen dauerhaften Frieden in Europa erwachsen."
+   ]
+  }
+ ],
+ "desks": [
+  {
+   "name": "Luxembourg",
+   "stories": [
+    {
+     "source": "Luxemburger Wort",
+     "lang": "de",
+     "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQRGp5c0ZBeHJ4Rjk4WE5TMlF4aWRhX3hiLVBzdTZkZncxYWttOW84RktTa1NRbnVmZzd4c0VPOXBuMEhub2ZVZGZGVVEyYXpyV1NYYms5YVlkY3VVSW5Qcl9ONzRLV25oT2NOTldFTXpKS3d6Rm9DODQyVXJ1ZmFCeTNpRUM0Y1ctNVk4ektxb2tuZDBXM2dVZm5YcGIzYUo4Y3BKWUFtbTBmVjdUeFNLNQ?oc=5",
+     "headline": "Neue Petitionen fordern Maßnahmen gegen Leerstand und Kriminalität",
+     "headlineEn": "New petitions demand measures against vacant housing and crime",
+     "summary": "Bei der luxemburgischen Abgeordnetenkammer wurden neue öffentliche Petitionen eingereicht, die dringende staatliche Maßnahmen gegen den Leerstand von Wohngebäuden sowie gegen die steigende Kriminalität fordern. Die Initiatoren verlangen konkrete gesetzliche Schritte, um ungenutzten Wohnraum in Zeiten der anhaltenden Immobilienkrise wieder auf den Markt zu bringen. Gleichzeitig spiegeln die eingereichten Eingaben die wachsenden Sorgen vieler Bürger hinsichtlich der öffentlichen Sicherheit im Großherzogtum wider. Sollten die Petitionen die Schwelle von 4.500 Unterschriften erreichen, wird das Parlament eine öffentliche Debatte mit den zuständigen Ministern abhalten.",
+     "why": "Ces initiatives citoyennes mettent sous pression le gouvernement sur les deux dossiers politiques majeurs du pays.",
+     "paywalled": true,
+     "contested": "",
+     "chart": null
+    },
+    {
+     "source": "RTL.lu",
+     "lang": "fr",
+     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxONndhVEZnOU5lQXRZT09XSGN5dk9LbTVuYTRqSGxtRHpZZVlVaGF5UW1hdVNTZ3VZUW9QNTJhcGJ6enZFeGdjS3dlU3BWTWpMWnFIQWZDRjVvVWJWR3lJSVFaWVp2aTBaX1Zxa2lfNkVKZHdUdFV5N0JEU2p2cWJ5R3UxMTk0Rk80djNjZ3MtbWdwS1pYN0NfcHYtNUdJTFEtbjlqdk9QZnRSZ2c?oc=5",
+     "headline": "Le nouveau logo de la Ville de Dudelange suscite la polémique",
+     "headlineEn": "The new logo of the City of Dudelange sparks controversy",
+     "summary": "La présentation du nouveau logo institutionnel de la Ville de Dudelange a provoqué une vive polémique au sein de la commune. De nombreux habitants et conseillers locaux ont expressed leur mécontentement face au design choisi et aux coûts engendrés par cette refonte visuelle. La municipalité défend quant à elle une modernisation nécessaire de son identité visuelle pour accompagner les grands projets de transformation urbaine de la cité ferronnière. Ce débat relance les discussions sur la gestion du budget communal et la communication publique dans les grandes villes du pays.",
+     "why": "La controverse reflète la sensibilité des citoyens quant aux dépenses publiques des collectivités locales.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    },
+    {
+     "source": "Luxemburger Wort",
+     "lang": "de",
+     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNYV8yaGlqOUhLS0hiVXd0a3ExUVZpZHNKc3NmOTk1Zmd0aDl0ZVRDY2EtaDNmWGEtWDFVR1N3NGhKejdXQ3pINU1sbFVDcjF6LVlGdnAxRndCa2JIMENYN1EtSGJ4RzBKd1ZraTIxSTFja3ZjaHpERVRmemtSdnN3Z3RqUkJlYW1pR0RCSE9YSUNYblpZR3RRZkM1N2dCaWpiRHZfZWhPRFI2YTdUQVFBSkVBMWJRdw?oc=5",
+     "headline": "Autobahnen A4 und A6 werden am Wochenende teilweise gesperrt",
+     "headlineEn": "Motorways A4 and A6 will be partially closed this weekend",
+     "summary": "Autofahrer in Luxemburg müssen sich am kommenden Wochenende auf erhebliche Verkehrsbehinderungen einstellen, da wesentliche Abschnitte der Autobahnen A4 und A6 teilweise gesperrt werden. Die Straßenbauverwaltung führt dringende Erneuerungsarbeiten an der Fahrbahndecke sowie wichtige Infrastrukturwartungen auf diesen stark frequentierten Strecken durch. Die geplanten Maßnahmen erfordern weiträumige Umleitungen über das sekundäre Straßennetz, was insbesondere für den grenzüberschreitenden Berufs- und Freizeitverkehr zu spürbaren Verzögerungen führen dürfte. Die zuständigen Behörden raten allen Verkehrsteilnehmern, ihre Fahrten vorausschauend zu planen oder die betroffenen Streckenabschnitte nach Möglichkeit komplett zu meiden.",
+     "why": "Ces fermetures majeures risquent de perturber fortement les déplacements des frontaliers et des résidents durant le week-end.",
+     "paywalled": true,
+     "contested": "",
+     "chart": null
+    }
+   ]
+  },
+  {
+   "name": "Monde / géopolitique",
+   "stories": [
+    {
+     "source": "BBC",
+     "lang": "en",
+     "url": "https://www.bbc.co.uk/news/articles/cm75261e3pdko?at_medium=RSS&at_campaign=rss",
+     "headline": "UN watchdog 'increasingly concerned' over Iran nuclear site",
+     "headlineEn": "L'AIEA vivement préoccupée par un site nucléaire iranien",
+     "summary": "The International Atomic Energy Agency has expressed growing alarm over an underground uranium enrichment facility in Isfahan, which Iran announced more than a year ago. According to the UN nuclear watchdog, inspectors have never been permitted to visit or verify the activities at the site, leaving international observers unable to confirm whether nuclear material is present. Teheran continues to block access despite repeated international appeals to restore full monitoring safeguards. The IAEA warned that the persistent lack of transparency severely undermines global non-proliferation efforts and escalates geopolitical tensions across the Middle East.",
+     "why": "La crise de transparence sur le programme nucléaire iranien accentue le risque d'escalade sécuritaire au Moyen-Orient.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    },
+    {
+     "source": "FAZ",
+     "lang": "de",
+     "url": "https://www.faz.net/aktuell/politik/inland/bundestag-beschliesst-geheimdienstreform-verfassungsschutz-und-bnd-duerfen-zurueckschlagen-accg-201677578.html",
+     "headline": "Mehr Befugnisse: Jetzt schlagen Deutschlands Nachrichtendienste zurück",
+     "headlineEn": "More powers: German intelligence agencies allowed to strike back",
+     "summary": "Der Deutsche Bundestag hat eine umfassende Reform der Befugnisse der Nachrichtendienste beschlossen und leitet damit eine fundamentale Neuausrichtung der nationalen Sicherheitspolitik ein. Künftig dürfen das Bundesamt für Verfassungsschutz und der Bundesnachrichtendienst bei schwerwiegenden Cyberangriffen nicht mehr nur rein passiv Informationen sammeln, sondern auch aktive Gegenmaßnahmen ergreifen. Die Gesetzesänderung ist eine direkte Reaktion auf die gewachsene Bedrohungslage durch hybride Kriegsführung und staatlich gesteuerte Hackerangriffe, insbesondere aus Russland. Gleichzeitig beinhaltet das Reformpaket strengere parlamentarische Kontrollmechanismen, um den Schutz von Bürgerrechten bei erweiterten digitalen Befugnissen der Geheimdienste zu gewährleisten.",
+     "why": "L'Allemagne réoriente sa posture de défense cyber active face aux menaces hybrides de Moscou.",
+     "paywalled": true,
+     "contested": "",
+     "chart": null
+    },
+    {
+     "source": "BBC",
+     "lang": "en",
+     "url": "https://www.bbc.co.uk/news/articles/cmn0d33zz34zo?at_medium=RSS&at_campaign=rss",
+     "headline": "Russian warship hit by Ukrainian drone in Gulf of Finland",
+     "headlineEn": "Un navire de guerre russe frappé par un drone ukrainien dans le golfe de Finlande",
+     "summary": "A Russian warship has been targeted and damaged by a Ukrainian long-range drone in the Gulf of Finland, marking a significant expansion of Kyiv's maritime strike capabilities. Military analysts note that this operation represents the first time Ukrainian unmanned surface vessels or airborne drones have successfully attacked Russian naval assets in the open waters of the Baltic Sea. The strike occurred near the Finnish coastline, prompting heightened security alerts among NATO member states in the region. Ukrainian officials stated that targeting naval operations far from the Black Sea demonstrates their capability to disrupt Russian supply routes anywhere.",
+     "why": "L'extension des frappes ukrainiennes à la mer Baltique porte le conflit aux portes des pays nordiques et de l'OTAN.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    }
+   ]
+  },
+  {
+   "name": "International — hors Europe",
+   "stories": [
+    {
+     "source": "Al Jazeera",
+     "lang": "en",
+     "url": "https://www.aljazeera.com/news/2026/11/13/pakistan-military-reports-it-killed-74-terrorists-during-raids?traffic_source=rss",
+     "headline": "Pakistan military reports it killed 74 ‘terrorists’ during raids",
+     "headlineEn": "L'armée pakistanaise affirme avoir tué 74 « terroristes » lors de raids",
+     "summary": "The Pakistani armed forces announced that security personnel killed 74 suspected militants during a series of intelligence-based raids in the border regions near Afghanistan. Military officials reported that the intensive counterterrorism operations targeted militant hideouts linked to recent attacks against security forces and infrastructure. Tensions along the porous Durand Line have escalated sharply in recent months, with Islamabad repeatedly accusing Afghanistan's Taliban administration of harboring armed groups conducting cross-border raids. Pakistani security forces stated that weapons and ammunition were seized during the operations, while border surveillance has been significantly reinforced to prevent further militant infiltration.",
+     "why": "L'escalade sécuritaire à la frontière afghano-pakistanaise menace de déstabiliser davantage l'Asie du Sud.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    },
+    {
+     "source": "France 24",
+     "lang": "fr",
+     "url": "https://www.france24.com/fr/vid%C3%A9o/2026/11/13/p%C3%A9rou-le-pape-l%C3%A9on-xiv-accueilli-par-trois-millions-de-personnes",
+     "headline": "Pérou : le pape Léon XIV accueilli par trois millions de personnes",
+     "headlineEn": "Peru: Pope Leo XIV welcomed by three million people",
+     "summary": "Le souverain pontife Léon XIV a été accueilli par une foule immense de près de trois millions de personnes lors de son arrivée à Lima pour une visite pastorale très attendue. Ce déplacement revêt une dimension émotionnelle particulière pour le chef de l'Église catholique, qui a exercé son ministère sacerdotal et épiscopal au Pérou durant deux décennies. Durant ses prises de parole, le pape a fermement dénoncé le machisme et les violences faites aux femmes tout en appelant à la justice sociale. Cette ferveur populaire illustre le lien indéfectible entre la population péruvienne et le pontife qu'elle considère comme son enfant adoptif.",
+     "why": "Ce voyage papal renforce l'influence morale du Vatican en Amérique latine sur fond de revendications sociales.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    },
+    {
+     "source": "France 24",
+     "lang": "fr",
+     "url": "https://www.france24.com/fr/vid%C3%A9o/2026/11/13/gaza-au-moins-11-morts-apr%C3%A8s-des-frappes-isra%C3%A9liennes-malgr%C3%A9-le-cessez-le-feu",
+     "headline": "Gaza : au moins 11 morts après des frappes israéliennes malgré le cessez-le-feu",
+     "headlineEn": "Gaza: At least 11 dead after Israeli strikes despite ceasefire",
+     "summary": "Au moins onze personnes ont perdu la vie dans la bande de Gaza à la suite de nouvelles frappes aériennes israéliennes, marquant la journée la plus meurtrière depuis les récentes élections législatives en Israël. Les secours palestiniens ont rapporté que six des victimes sont décédées lors du bombardement d'un établissement hospitalier situé à Khan Younès, incluant un médecin et un enfant. Ces frappes interviennent alors qu'un fragile cessez-le-feu était censé contenir les hostilités dans le territoire enclavé. Les autorités médicales locales expriment leur vive inquiétude face à la détérioration continue des conditions sanitaires et sécuritaires pour les civils.",
+     "why": "La reprise des bombardements menace de faire voler en éclats le précaire accord de trêve dans l'enclave.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    },
+    {
+     "source": "AP News",
+     "lang": "en",
+     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNckRfNzZZdUhzQ1c0WkhoOHlUcGRqVWduNHo4NXNoeDBKQjRTNnVKMEpaU1NROWx2X01COVc3eS1ETEdpVUtKbVJGX0VBVERjVUZSN2VYLURlODNlbEVnWDdRRGI3THpHYmxaTURjRkJ5UFBTR3JzcDZIOUp4Vml1ejNDb2hRaXh3ZGI0OURmOUxXOUZpd3lRdzlaOThnVDlCUlZWNmRB?oc=5",
+     "headline": "Van Hollen to challenge Schumer for Senate Democratic leader",
+     "headlineEn": "Chris Van Hollen défie Chuck Schumer pour la direction des démocrates au Sénat",
+     "summary": "Democratic Senator Chris Van Hollen of Maryland has officially announced his bid to challenge longtime party leader Chuck Schumer for the Senate Democratic leadership position. Backed by progressive lawmakers who have voiced growing discontent with the party's legislative strategy following recent electoral setbacks, Van Hollen is the first candidate to openly contest Schumer's position. The surprise challenge highlights deepening ideological divisions within the Democratic caucus as members debate how to reposition the party ahead of upcoming legislative battles. Political analysts view this leadership contest as a crucial test of strength between the party's traditional establishment and its emboldened progressive wing.",
+     "why": "Cette bataille interne illustre les fractures stratégiques du Parti démocrate américain après les midterms.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    },
+    {
+     "source": "Foreign Affairs",
+     "lang": "en",
+     "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE47d0F1OU5wUloxb1RpUnlCQUdpZEtqQ2Y5Q1ROTWxsY19ZU1VPbG5YbFBaUnJkLXc4eXUtc1pHb1d5TmdlR3hmaFhKeVVHZEtPZmVSTGZVN2NNb3hMTUNGeFcyTGxFejJENHNqMV8wYjJIY3RQeEtiQTZXaw?oc=5",
+     "headline": "The Case for a Trump-Xi-Putin Summit",
+     "headlineEn": "Plaidoyer pour un sommet trilatéral entre Trump, Xi et Poutine",
+     "summary": "An analytical essay in Foreign Affairs argues that direct trilateral negotiations between the leaders of the United States, China, and Russia represent the most viable pathway to stabilizing global security. The authors contend that existing bilateral channels fail to address interconnected security crises spanning Eastern Europe, East Asia, and the Middle East simultaneously. While acknowledging deep mutual distrust, the analysis suggests that a summit framework could align transactional interests regarding strategic stability, nuclear non-proliferation, and global trade corridors. However, foreign policy experts warn that such great-power diplomacy risks sidelining allies and undermining established international norms.",
+     "why": "Une analyse prospective des grandes manœuvres diplomatiques entre les trois principales puissances mondiales.",
+     "paywalled": true,
+     "contested": "",
+     "chart": null
+    }
+   ]
+  },
+  {
+   "name": "Europe & politiques de l'UE",
+   "stories": [
+    {
+     "source": "FAZ",
+     "lang": "de",
+     "url": "https://www.faz.net/aktuell/politik/inland/bundestag-beschliesst-geheimdienstreform-verfassungsschutz-und-bnd-duerfen-zurueckschlagen-accg-201677578.html",
+     "headline": "Mehr Befugnisse für deutsche Nachrichtendienste: Verfassungsschutz und BND dürfen zurückschlagen",
+     "headlineEn": "More powers for German intelligence services: Domestic intelligence and BND allowed to strike back",
+     "summary": "Der Deutsche Bundestag hat eine weitreichende Reform der Nachrichtendienste beschlossen und damit einen grundlegenden Paradigmenwechsel eingeleitet. Künftig sind das Bundesamt für Verfassungsschutz und der Bundesnachrichtendienst (BND) nicht mehr auf das reine Sammeln von Informationen beschränkt, sondern erhalten die Befugnis, sich bei Cyberattacken aktiv zu wehren. Die Gesetzgebung reagiert damit auf die zunehmend angespannte Sicherheitslage sowie die wachsende Bedrohung durch ausländische Akteure wie Russland. Neben den erweiterten operativen Handlungsmöglichkeiten sieht die Reform auch eine Verbesserung der parlamentarischen Kontrolle über die Arbeit der deutschen Sicherheitsbehörden vor.",
+     "why": "Cette réforme reflète le durcissement des politiques de sécurité et de cyberdéfense au sein de la première puissance économique européenne.",
+     "paywalled": true,
+     "contested": "",
+     "chart": null
+    },
+    {
+     "source": "DW",
+     "lang": "en",
+     "url": "https://www.dw.com/en/hungary-eases-abortion-restrictions-in-women-s-rights-overhaul/a-79931614?maca=en-rss-en-world-4025-rdf",
+     "headline": "Hungary eases abortion restrictions in women's rights overhaul",
+     "headlineEn": "La Hongrie assouplit les restrictions sur l'avortement dans le cadre d'une réforme des droits des femmes",
+     "summary": "Hungary has announced a significant overhaul of its social policies by easing abortion restrictions, marking a clear departure from previous conservative regulations. Under the newly introduced reforms, the controversial \"heartbeat regulation\" that previously required women to listen to fetal cardiac activity before undergoing the procedure will be officially scrapped. Furthermore, the updated legislative package aims to strengthen legal protections for women against domestic abuse and violence across the country. Human rights organizations have welcomed the policy shift as a crucial step toward safeguarding women's reproductive freedoms and general wellbeing in Central Europe.",
+     "why": "Ce changement marque un tournant social en Hongrie et un assouplissement inattendu des politiques conservatrices de Budapest.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    },
+    {
+     "source": "DW",
+     "lang": "en",
+     "url": "https://www.dw.com/en/czechia-braces-for-massive-protest-against-cuts-to-public-media/a-79933533?maca=en-rss-en-world-4025-rdf",
+     "headline": "Czechia braces for massive protest against cuts to public media",
+     "headlineEn": "La Tchéquie se prépare à une protestation massive contre les coupes dans les médias publics",
+     "summary": "Tensions are escalating in Czechia as the government advances a fast-tracked bill designed to substantially reduce financial resources for public media broadcasting. The legislative initiative has sparked widespread outrage, triggering labor strikes, public rallies, and serious concerns among journalists regarding the editorial independence of state-funded news outlets. Citizens and media advocates are currently organizing a massive demonstration scheduled to take place in Prague on Sunday to demand the preservation of public press freedoms. Critics warn that weakening independent public broadcasting could undermine democratic standards and institutional accountability throughout the nation.",
+     "why": "Les tensions sur le financement de l'audiovisuel public ravivent le débat européen sur l'indépendance des médias.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    }
+   ]
+  },
+  {
+   "name": "Économie & marchés",
+   "stories": [
+    {
+     "source": "Reuters",
+     "lang": "en",
+     "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOcWtzQXhRVUlUbWQ0VVloOTVjekFCcC1XQlNXNWNRcERHNDFEbnBNTTFhZjV3Qjk5bGxCaDhoRFE1Yi1mdGNoR3JCVXY5MmQ0ODVnUWRabHowUDhYSUNKOXV5X0lLQzRBbWNabUFMTzVlMzBNOUUyWTgyeUg1cW5sRjJtUHo3TldPOEY4S19xOGwwYjlkemFibktTVTltVF94WUg5ekdJczcyUlBHOHZ0V3EtdWdjU0JOVkY4?oc=5",
+     "headline": "World oil market is returning to surplus as Gulf exports recover, IEA says",
+     "headlineEn": "Le marché mondial du pétrole redevient excédentaire avec la reprise des exportations du Golfe, selon l'AIE",
+     "summary": "The global oil market is rapidly transitioning back into a supply surplus as crude exports from the Gulf region experience a robust recovery, according to the latest report from the International Energy Agency. This shift in market dynamics is driven by increased production from major Middle Eastern exporters alongside steadily growing output from non-OPEC producers. Although geopolitical risks previously created supply anxieties and price volatility, expanded output is now outpacing world demand growth. Market analysts note that this expanding surplus could put downward pressure on global crude prices over the coming months, offering relief to import-dependent economies.",
+     "why": "Un retour de l'excédent pétrolier mondial pourrait détendre les prix de l'énergie et alléger la pression inflationniste.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    },
+    {
+     "source": "FAZ",
+     "lang": "de",
+     "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/krise-mercedes-stellt-selbst-werk-sindelfingen-in-frage-accg-201680335.html",
+     "headline": "Krise bei Mercedes-Benz: Automobilkonzern stoppt Investitionen und hinterfragt Werk Sindelfingen",
+     "headlineEn": "Crisis at Mercedes-Benz: Automaker freezes investments and questions Sindelfingen plant",
+     "summary": "Im schwelenden Tarif- und Strukturkonflikt mit der Arbeitnehmervertretung hat die Führung des Automobilkonzerns Mercedes-Benz den Druck massiv erhöht und sämtliche Neuinvestitionen an allen deutschen Produktionsstandorten vorerst gestoppt. Das Unternehmensmanagement konkretisierte zudem bereits bestehende Pläne für mögliche Werkschließungen und stellt mittlerweile sogar die Zukunft des traditionsreichen Stammwerks in Sindelfingen offen infrage. Diese drastischen Sparmaßnahmen sind die direkte Reaktion auf die anhaltende Branchenkrise, sinkende Renditen sowie im internationalen Vergleich hohe Betriebskosten auf dem deutschen Markt. Die Vertretungen der Beschäftigten reagierten schockiert auf diesen Schritt und kündigten umgehend erbitterten Widerstand an.",
+     "why": "La remise en question d'usines historiques allemandes illustre la gravité de la crise industrielle automobile en Europe.",
+     "paywalled": true,
+     "contested": "",
+     "chart": null
+    },
+    {
+     "source": "SZ",
+     "lang": "de",
+     "url": "https://www.sueddeutsche.de/wirtschaft/hugo-boss-daniel-grieder-frasers-group-modekonzern-metzingen-li.3579929",
+     "headline": "Überraschender Abgang bei Hugo Boss: CEO Daniel Grieder verlässt den Modekonzern",
+     "headlineEn": "Unexpected departure at Hugo Boss: CEO Daniel Grieder leaves the fashion group",
+     "summary": "Beim deutschen Traditionskonzern Hugo Boss kommt es zu einem unerwarteten Führungswechsel an der Spitze des Unternehmens. Vorstandschef Daniel Grieder verlässt den Metzinger Modekonzern überraschend, obwohl er kurz zuvor noch öffentlich die hervorragende Zusammenarbeit mit dem neuen Großaktionär gepriesen hatte. Nach diesem plötzlichen Rücktritt übernimmt der britische Hauptinvestor Frasers Group zusehends die operative Regie bei Deutschlands größtem Bekleidungshersteller. Der abrupte personelle Umbruch an der Unternehmensspitze erfolgt in einer für die gesamte internationale Modebranche ohnehin äußerst schwierigen Phase, die von schwächelnder Konsumnachfrage und veränderten Einkaufsgewohnheiten geprägt ist.",
+     "why": "Le départ de M. Grieder accélère la prise de contrôle opérationnelle du groupe de mode allemand par son actionnaire britannique.",
+     "paywalled": true,
+     "contested": "",
+     "chart": null
+    }
+   ]
+  },
+  {
+   "name": "Technologie & sciences",
+   "stories": [
+    {
+     "source": "Reuters",
+     "lang": "en",
+     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPeDE0b0ZmNTF1ZVVBMS03RlA4TDhPZVNVbUEyTG5Gb1ZFRHdnc0QtdmM1X2ZjZFQwSVBBVVRWamRTVzh0NUp1N2lKOTJDbDE3U2xob3JtLTZkb211NHR2QkZ5RnczcERVQV8zcmtVbWttdS1sMGViMmYwZnBmWDlCMkkyRVdmQVlSVmZQWTVuWGlPSTNZNFU5SExWUW1LRkNIUFhYSi1iZzRTa1BjbFQw?oc=5",
+     "headline": "SpaceX prepares for 15th Starship flight with first land recovery attempt",
+     "headlineEn": "SpaceX se prépare au 15e vol de Starship avec une première tentative de récupération sur terre",
+     "summary": "SpaceX is preparing for the 15th test flight of its massive Starship rocket, marking a milestone as the company attempts its first spacecraft recovery on land. The ambitious test is designed to evaluate landing mechanics and reusable infrastructure essential for future deep-space missions. As the commercial space giant accelerates its launch schedule, analysts note that SpaceX's rapid technological advances are reshaping spaceflight economics and outpacing traditional government agency timelines. A successful land landing would validate the company's reusable rocket philosophy and move it closer to supporting planned lunar and Martian exploration programs.",
+     "why": "La récupération sur terre est une étape majeure pour réduire encore les coûts d'accès à l'espace.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    },
+    {
+     "source": "SZ",
+     "lang": "de",
+     "url": "https://www.sueddeutsche.de/wissen/klimakonferenz-antalya-cop31-stationen-luecken-wettervorhersage-li.3578122",
+     "headline": "Klimakonferenz COP31: Fehlende Wetterdaten gefährden Klimaschutz und Vorhersagen",
+     "headlineEn": "COP31 Climate Conference: Missing weather data jeopardizes climate protection and forecasts",
+     "summary": "Auf der UN-Klimakonferenz COP31 im türkischen Antalya schlagen Fachleute und Meteorologen wegen gravierender Lücken im globalen Wetterbeobachtungsnetz eindringlich Alarm. In zahlreichen Regionen der Erde fehlen funktionierende Messstationen, während angekündigte Budgetkürzungen der US-Regierung das internationale System zur Datenerfassung weiter destabilisieren. Die fehlenden meteorologischen Grunddaten erschweren verlässliche Unwetterwarnungen massiv und machen auch europäische Staaten zunehmend verwundbar gegenüber extremen Wetterereignissen. Wissenschaftler betonen auf dem Gipfel, dass selbst minimale Temperaturanstiege verheerende Auswirkungen haben und lückenlose Klimadaten für die Entwicklung wirksamer Anpassungsstrategien zwingend erforderlich sind.",
+     "why": "L'absence de données météorologiques fiables affaiblit les capacités mondiales de prévention face aux catastrophes climatiques.",
+     "paywalled": true,
+     "contested": "",
+     "chart": null
+    },
+    {
+     "source": "AP News",
+     "lang": "en",
+     "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNU3o4X0NMQVZxQ3g1Z216LW05QnZDQ2ZLZEc5cUhtU3NJSTJkWVoxTWsxUWUtNW05Ti04UHdCNEVKcnVZVEhnNXZoUks0N3BodVpGMjdYMEtUaFRHQnRwNUViNzdxUnEyWXVXMlgyeWQzaTg0N0NuRFFCbEFpM3pMaHViWFlvV1RVNEdfXzdEQWdwdFNSbkRIQU0yX3Q4aW1WTFhiNDNEWTFWcTlJYVJsMDVBaWNhV2g0Si1jcEdJRkRnQQ?oc=5",
+     "headline": "Advocacy groups file lawsuit against AI giants seeking model freeze",
+     "headlineEn": "Des groupes de défense poursuivent les géants de l'IA pour geler les nouveaux modèles",
+     "summary": "A coalition of public advocacy groups has filed a major lawsuit against leading artificial intelligence companies, seeking an immediate court order to freeze the deployment of next-generation AI models. The legal filing argues that unregulated releases of increasingly powerful models pose catastrophic risks to societal safety, national security, and public information ecosystems. Plaintiffs contend that tech developers have failed to implement sufficient safeguards or demonstrate that advanced systems can be safely controlled before commercial deployment. The lawsuit marks a significant escalation in public resistance against rapid commercial AI expansion and demands strict regulatory oversight.",
+     "why": "Cette action en justice accroît la pression juridique sur les entreprises technologiques pour encadrer le développement de l'IA.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    }
+   ]
+  },
+  {
+   "name": "Sport",
+   "stories": [
+    {
+     "source": "Repubblica",
+     "lang": "it",
+     "url": "https://www.repubblica.it/sport/calcio/esteri/2026/11/13/news/pochettino_manchester_united_allenatore-425720966/",
+     "headline": "Ufficiale: Mauricio Pochettino è il nuovo allenatore del Manchester United",
+     "headlineEn": "Official: Mauricio Pochettino is the new Manchester United manager",
+     "summary": "Mauricio Pochettino è stato ufficialmente nominato nuovo allenatore del Manchester United. Il tecnico argentino subentra a Michael Carrick, sollevato dall'incarico dopo un avvio di stagione estremamente deludente per il club inglese. Per poter accettare la prestigiosa panchina dei Red Devils, l'allenatore è stato prontamente liberato dal suo precedente contratto come commissario tecnico della nazionale degli Stati Uniti.",
+     "why": "La nomination de Pochettino vise à relancer un club majeur de Premier League en crise de résultats.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    },
+    {
+     "source": "Repubblica",
+     "lang": "it",
+     "url": "https://www.repubblica.it/sport/calcio/nazionale/2026/11/13/news/domenech_attacca_italia_debole-425720921/",
+     "headline": "Nations League: l'Italia batte la Francia 3-1 a San Siro, ma Domenech attacca",
+     "headlineEn": "Nations League: Italy beat France 3-1 at San Siro, but Domenech attacks",
+     "summary": "L'Italia ha conquistato un'importante vittoria per 3-1 contro la Francia a San Siro nella Nations League, garantendosi la permanenza nella Lega A. Nonostante l'entusiasmo azzurro, l'ex commissario tecnico francese Raymond Domenech ha fortemente criticato la prestazione italiana sui social network, definendo la squadra debole in ogni reparto. Il commissario tecnico Roberto Mancini rimane comunque cauto in vista delle prossime sfide.",
+     "why": "Ce succès meintient la Squadra Azzurra en Ligue A tout en ravivant la rivalité footballistique franco-italienne.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    }
+   ]
+  }
+ ],
+ "sourced": true,
+ "feeds": {
+  "ok": 28,
+  "of": 29,
+  "items": 257,
+  "skipped": [
+   "Euronews (FR): HTTP 406"
+  ]
+ },
+ "words": 4122,
+ "readMin": 21,
+ "storyCount": 25
+}
