@@ -1,0 +1,361 @@
+{
+ "date": "2026-11-14",
+ "kind": "daily",
+ "heat": 0.85,
+ "oneThing": "",
+ "followUps": [
+  {
+   "n": "01",
+   "thread": "Trafic aérien aux États-Unis",
+   "change": "La FAA a levé l'arrêt national des décollages, mais les retards massifs persistent et l'administration attribue la panne à l'obsolescence des équipements."
+  },
+  {
+   "n": "02",
+   "thread": "Panne mondiale des services Microsoft",
+   "change": "Microsoft a annoncé le rétablissement complet de ses services en ligne après plus de vingt-quatre heures d'interruption majeure."
+  },
+  {
+   "n": "03",
+   "thread": "Scandale Nvidia et tensions à Washington",
+   "change": "Le conflit s'est envenimé au sein du cabinet américain, Scott Bessent accusant le département du Commerce d'avoir failli dans le contrôle des puces vers la Chine."
+  }
+ ],
+ "mustReads": [
+  {
+   "desk": "International",
+   "source": "France 24",
+   "lang": "FR",
+   "paywalled": false,
+   "url": "https://www.france24.com/fr/europe/20261114-washington-propos%C3%A9-kiev-c%C3%A8de-donbass-%C3%A9change-adh%C3%A9sion-otan-affirme-zelensky",
+   "headline": "Washington a proposé que Kiev cède le Donbass en échange d'une adhésion à l'Otan, affirme Zelensky",
+   "headlineEn": "Washington suggested Kyiv cede Donbas in exchange for NATO membership, Zelensky says",
+   "contested": "Alors que les négociateurs américains ont évoqué une cession du Donbass contre une adhésion à l'Otan, Volodymyr Zelensky conditionne tout accord à un référendum, tandis que Vladimir Poutine rejette les compromis territoriaux et la présence de casques bleus.",
+   "why": "Cette proposition américaine marque une inflexion majeure dans les pourparlers de paix, alors que l'Europe exige d'être associée aux négociations.",
+   "stat": "1 200",
+   "statLabel": "drones lancés par l'Ukraine contre des cibles en Russie",
+   "chart": null,
+   "paras": [
+    "Le président ukrainien Volodymyr Zelensky a publiquement révélé que les négociateurs américains avaient évoqué une proposition majeure lors des récents pourparlers diplomatiques. Selon ses déclarations faites à son retour à Kiev, Washington aurait suggéré la possibilité pour l'Ukraine de céder la région du Donbass à la Russie en contrepartie d'une adhésion formelle à l'Alliance atlantique. Cette ouverture américaine marquerait un tournant diplomatique considérable dans les discussions visant à mettre un terme au conflit. Zelensky a toutefois rappelé qu'une telle concession territoriale ne saurait être tranchée unilatéralement sans le consentement direct de la population ukrainienne.",
+    "Face à cette perspective stratégique complexe, le chef de l'État ukrainien s'est dit prêt à consulter ses concitoyens par la voie d'un référendum national. Il a réaffirmé que l'armée ukrainienne ne comptait pas retirer ses troupes des positions défensives actuelles sans garanties de sécurité solides et durables. Pour Kiev, l'entrée dans l'Otan constitue la seule véritable protection contre de futures agressions armées. Cependant, la cession explicite de territoires souverains reste un sujet extrêmement sensible et politiquement explosif pour l'opinion publique ukrainienne, traumatisée par près de cinq années d'invasion russe sanglante.",
+    "Du côté du Kremlin, les exigences de Moscou n'ont guère faibli en dépit des initiatives diplomatiques menées en coulisses. Le président Vladimir Poutine continue d'exiger le contrôle total des régions revendiquées et rejette catégoriquement le déploiement de troupes de maintien de la paix étrangères sur le sol ukrainien. Moscou perçoit néanmoins comme une victoire le fait que la réorganisation de l'architecture de sécurité européenne soit désormais discutée de manière globale dans les négociations. Parallèlement aux échanges diplomatiques, les affrontements militaires demeurent très violents sur le front oriental avec des attaques répétées d'artillerie et de drones.",
+    "Soucieuse de ne pas être tenue à l'écart des décisions qui engagent l'avenir du continent, l'Union européenne a décidé d'envoyer une équipe diplomatique dédiée aux pourparlers. Présidée par Antonio Costa, la délégation représentera les vingt-sept États membres de l'UE ainsi que cinq nations de la coalition d'aide à l'Ukraine, à savoir la France, l'Allemagne, le Royaume-Uni, l'Italie et la Pologne. Les dirigeants européens entendent faire entendre leur voix face à Washington et Moscou, affirmant qu'aucun règlement territorial durable ne pourra s'imposer en Europe sans une véritable concertation avec les partenaires continentaux et alliés traditionnels.",
+    "Sur le terrain des opérations militaires, l'intensité des combats ne ralentit pas malgré les démarches diplomatiques en cours. L'Ukraine a mené une offensive aérienne d'une ampleur inédite en lançant près de mille deux cents drones contre diverses cibles stratégiques situées sur le territoire russe. Cette frappe massive témoigne de la détermination de Kiev à maintenir une pression militaire constante sur Moscou tout en cherchant à pallier les restrictions d'accès à certains systèmes de télécommunications satellitaires. De son côté, la Russie poursuit ses offensives terrestres et renforce ses réseaux satellitaires militaires pour consolider ses positions.",
+    "L'annonce des pourparlers survient également alors qu'un sommet triparti inédit entre Donald Trump, Xi Jinping et Vladimir Poutine se prépare en Chine pour la semaine prochaine. Les discussions prévues à Shenzhen devraient porter sur la réduction des armements nucléaires et la stabilité géopolitique mondiale. Ce contexte d'intenses manœuvres internationales remet au premier plan la question du destin de l'Ukraine et la redéfinition des frontières en Europe de l'Est. Les prochains jours s'annoncent donc décisifs pour déterminer si les compromis territoriaux évoqués par Washington déboucheront sur des négociations formelles ou sur une impasse politique prolongée."
+   ]
+  }
+ ],
+ "desks": [
+  {
+   "name": "Luxembourg",
+   "stories": [
+    {
+     "source": "RTL Lëtzebuerg",
+     "lang": "fr",
+     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPUDFaVVRnY0tjY3BFb0dwb3VUZkRCQUxaTVk3WkNwOGVmQk5mc0RHYmk1UHV2azltMTRwLWVNU3Zzc2pMVlcxUzB5NWhoa28xVlpjaVd5eU5oM1RiODhURVpnOWlVUlB5cjhDelZxNHZxUndkb2hDTHdBa3lqOGxaMC1YeXc5REsxQ1diWGtlMWNpaDIzVnJsS3c5V1lrODk2N2VTMDJKRms0QW1lYjY1cFZ5MGE?oc=5",
+     "headline": "Ce soir à Luxembourg: Une mobilisation \"massive\" espérée pour dénoncer la crise du logement",
+     "headlineEn": "Tonight in Luxembourg: \"Massive\" turnout hoped for to denounce housing crisis",
+     "summary": "Une grande manifestation est organisée ce soir au centre-ville de Luxembourg pour protester contre la flambée des prix de l'immobilier et les difficultés d'accès au logement. Les organisateurs espèrent rassembler un public nombreux, alors que beaucoup d'habitants et de jeunes actifs expriment leur désarroi face à l'incapacité d'acheter ou de louer un logement décent dans le Grand-Duché. Les collectifs citoyens demandent des mesures d'urgence, une régulation accrue du marché immobilier ainsi qu'un renforcement significatif de la construction de logements sociaux. Cette mobilisation met la pression sur le gouvernement et les autorités locales afin d'apporter des réponses concrètes à l'une des préoccupations majeures des résidents.",
+     "why": "La hausse continue des prix du logement pèse lourdement sur le pouvoir d'achat et la cohésion sociale au Luxembourg.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    },
+    {
+     "source": "RTL Lëtzebuerg",
+     "lang": "fr",
+     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPVDVrdFdWUWdMak5SVFBkUmdIWjJIeHJiOUMzeS1ZZ2JpdEE0dlpEaXZvSUVFY3ZsclNzTVdjMm1VWmluWDRqQzBING95Qk1wbXVtb2pjLUZ2NkNMei1DV2h2bUk2cWxTMlp0dnN4Zkh4cDNMdldseE1MZS1vVF9NRmRkcE5NRVhFRlRfTE9OZTFnT3cxOV9La014eXUyaXBER00xZ3lMWGZTemJQa2JRb3FB?oc=5",
+     "headline": "Trains en France: Nouvelle hausse des abonnements pour les frontaliers dès janvier",
+     "headlineEn": "Trains in France: New increase in subscription prices for cross-border commuters from January",
+     "summary": "Les travailleurs frontaliers résidant en France et effectuant quotidiennement la navette vers le Luxembourg devront faire face à une hausse des tarifs ferroviaires dès le mois de janvier. Cette revalorisation des tarifs d'abonnement TER suscite de vives réactions parmi les usagers, qui dénoncent des surcoûts récurrents alors même que la qualité du service et la régularité des trains restent régulièrement perturbées. Les associations de usagers appellent à un gel des tarifs et réclament des investissements urgents dans les infrastructures ferroviaires transfrontalières. Cette décision intervient dans un contexte où les déplacements quotidiens entre la Lorraine et le Grand-Duché connaissent une saturation constante aux heures de pointe.",
+     "why": "Les tarifs ferroviaires transfrontaliers impactent directement les dépenses quotidiennes de dizaines de milliers de salariés français travaillant au Grand-Duché.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    },
+    {
+     "source": "Luxemburger Wort",
+     "lang": "de",
+     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNYV8yaGlqOUhLS0hiVXd0a3ExUVZpZHNKc3NmOTk1Zmd0aDl0ZVRDY2EtaDNmWGEtWDFVR1N3NGhKejdXQ3pINU1sbFVDcjF6LVlGdnAxRndCa2JIMENYN1EtSGJ4RzBKd1ZraTIxSTFja3ZjaHpERVRmemtSdnN3Z3RqUkJlYW1pR0RCSE9YSUNYblpZR3RRZkM1N2dCaWpiRHZfZWhPRFI2YTdUQVFBSkVBMWJRdw?oc=5",
+     "headline": "Autobahnen A4 und A6 werden am Wochenende teilweise gesperrt",
+     "headlineEn": "A4 and A6 motorways to be partially closed this weekend",
+     "summary": "Autofahrer in Luxemburg müssen sich am kommenden Wochenende auf erhebliche Verkehrsbehinderungen einstellen, da wichtige Abschnitte der Autobahnen A4 und A6 gesperrt werden. Die Straßenbauverwaltung führt notwendige Wartungs- und Erneuerungsarbeiten an den Fahrbahnen sowie an der Infrastruktur durch, um die Verkehrssicherheit zu gewährleisten. Es werden weiträumige Umleitungen ausgeschildert, dennoch rechnen die Behörden mit spürbaren Verzögerungen und Staus im Regionalverkehr. Den Verkehrsteilnehmern wird dringend empfohlen, mehr Fahrzeit einzuplanen oder die betroffenen Strecken nach Möglichkeit weiträumig zu umfahren.",
+     "why": "Les fermetures sur les axes routiers majeurs A4 et A6 perturbent les déplacements du week-end et la circulation transfrontalière.",
+     "paywalled": true,
+     "contested": "",
+     "chart": null
+    }
+   ]
+  },
+  {
+   "name": "Monde / géopolitique",
+   "stories": [
+    {
+     "source": "Euronews",
+     "lang": "fr",
+     "url": "https://fr.euronews.com/2026/11/14/trump-rencontrera-xi-et-poutine-en-chine-la-semaine-prochaine-selon-la-maison-blanche",
+     "headline": "Trump rencontrera Xi et Poutine en Chine la semaine prochaine, selon la Maison Blanche",
+     "headlineEn": "Trump will meet Xi and Putin in China next week, White House says",
+     "summary": "La Maison Blanche a confirmé la tenue d'un sommet tripartite inédit réunissant Donald Trump, Xi Jinping et Vladimir Poutine le jeudi prochain à Shenzhen, en Chine. Le président américain entamera son déplacement diplomatique dès lundi par une étape aux Philippines pour participer au sommet de l'ASEAN avant d'aborder ces discussions stratégiques. Selon la porte-parole américaine, la rencontre portera notamment sur la réduction des armements nucléaires et sur la stabilisation des relations internationales. Cette initiative diplomatique de premier plan constitue un événement majeur, rapprochant simultanément les dirigeants des trois plus grandes puissances mondiales autour de la même table de négociation.",
+     "why": "Une réunion tripartite inédite entre les leaders américain, chinois et russe pourrait redéfinir l'équilibre diplomatique et sécuritaire mondial.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    },
+    {
+     "source": "AP News",
+     "lang": "en",
+     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQUjl3VUUwZnpqWVI3cEE5eEVMZlhzZmwyX3dZMy1oWXU1YjRidlVQa3shMzhlSVdMbEJCazdBb2NFTFZ4Y2ZDVXZsbzFTTmxMR2E5MG5ndDQtZW5pUHRIRE9uQmQ2VmtCNjZRbWlSTFduYmhWcmNiNjRPRXY3R3ljd2hJQVFKNTJ1eHpFMUxfMkJ5WkJ1dkRQWDJHa3c?oc=5",
+     "headline": "Europe to send a diplomat team to Ukraine talks as leaders push for a voice",
+     "headlineEn": "L'Europe va envoyer une équipe de diplomates aux négociations sur l'Ukraine",
+     "summary": "European leaders have agreed to dispatch a joint diplomatic team to participate in upcoming negotiations surrounding the war in Ukraine and broader European security. The team will represent the European Union alongside five key member countries, including France, Germany, Italy, Poland, and the United Kingdom. European officials insisted on securing direct representation to ensure that the continent’s security interests are fully addressed during US-led discussions with Russia. European leaders emphasized that no agreement regarding European stability or territorial boundaries should be negotiated without their active participation and consent.",
+     "why": "Les pays européens veulent éviter d'être écartés des négociations majeures décidant de l'architecture de sécurité de leur propre continent.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    },
+    {
+     "source": "PBS News",
+     "lang": "en",
+     "url": "https://www.pbs.org/newshour/podcasts/compass-points-with-pbs-news/as-trump-shifts-iran-strategy-gulf-allies-pursue-diplomacy-with-tehran",
+     "headline": "As Trump shifts Iran strategy, Gulf allies pursue diplomacy with Tehran",
+     "headlineEn": "Alors que Trump réoriente sa stratégie sur l'Iran, les alliés du Golfe privilégient la diplomatie avec Téhéran",
+     "summary": "As US President Donald Trump shifts focus toward economic pressure against Iran, Arab Gulf monarchies are actively pursuing diplomatic engagement with Tehran to preserve regional stability. Neighboring Gulf states are united against a broader regional conflict and are taking steps to hedge their security risks by holding direct talks with Iranian officials. Diplomats and regional experts note that these nations aim to prevent further military escalation that could threaten critical energy infrastructure and maritime trade routes. This diplomatic realignment highlights how regional players are adapting their security strategies independently amid shifting policies in Washington.",
+     "why": "La diplomatie parallèle des pays du Golfe avec l'Iran cherche à prévenir un embrasement régional menaçant l'économie mondiale.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    }
+   ]
+  },
+  {
+   "name": "International — hors Europe",
+   "stories": [
+    {
+     "source": "Al Jazeera",
+     "lang": "en",
+     "url": "https://www.aljazeera.com/news/2026/11/14/qatar-and-turkiye-sign-a-mutual-defence-pact-what-do-we-know?traffic_source=rss",
+     "headline": "Qatar and Turkiye sign a mutual defence pact: What do we know?",
+     "headlineEn": "Le Qatar et la Turquie signent un pacte de défense mutuelle : que sait-on ?",
+     "summary": "Qatar and Turkey have formally signed a mutual defense pact aimed at strengthening military cooperation and enhancing deterrence across the region. Signed against the backdrop of heightened Middle East tensions and the US-Iran conflict, the strategic agreement focuses on joint defense planning, intelligence sharing, and security coordination. Defense analysts note that the treaty is primarily designed to deter potential aggression and protect key infrastructure rather than to establish an offensive military alliance. The accord consolidates the long-standing political and military partnership between Doha and Ankara, reflecting their shared desire for strategic autonomy in a volatile environment.",
+     "why": "L'accord renforce l'alliance stratégique entre Doha et Ankara pour faire face aux tensions régionales au Moyen-Orient.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    },
+    {
+     "source": "Reuters",
+     "lang": "en",
+     "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOZFQtZGduZ2NiVFhiUEhHTnI4VDg2NFA2UlVaVkI2VDBaUVMtWDFQbUJsb19pUlBKXzRUd2RBcG9FRHR0Z3lXYnA4d1ZQVUVWdWpIeXlCVGpEYkp6ZUNWbV_HOFNyRUhOVXZoalRWaFJCZzY1X1g1RXZtMmFWejUtN0F6SUE1ZGt6dl_OB0hXVmZaRG1UVkhTWUZaXzZTa296YnozRnJYSy1pMmo4cy1hSkpWT1V2eWR0d3hJbk51YTdQOEU?oc=5",
+     "headline": "Hours-long halt to US flights leaves travelers frustrated, anxious",
+     "headlineEn": "L'arrêt de plusieurs heures des vols aux États-Unis laisse les voyageurs frustrés et anxieux",
+     "summary": "A nationwide ground stop ordered by the Federal Aviation Administration disrupted US air travel for hours, stranding millions of passengers at airports across the country. Transport Secretary Sean Duffy attributed the failure to an outdated air traffic control system that became severely overloaded during routine operations. Although flight operations have gradually resumed after authorities lifted the order, airline officials warned that delays and cancellations will linger throughout the weekend. The incident has intensified public scrutiny over aging infrastructure and prompted calls from government officials for major federal investments to modernize the national aviation network.",
+     "why": "La panne géante du contrôle aérien américain souligne la fragilité d'infrastructures technologiques vieillissantes et indispensables.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    },
+    {
+     "source": "France 24",
+     "lang": "fr",
+     "url": "https://www.france24.com/fr/vid%C3%A9o/20261114-l%C3%A9on-xiv-retrouve-le-p%C3%A9rou-sa-seconde-patrie-pour-achever-sa-tourn%C3%A9e",
+     "headline": "Léon XIV retrouve le Pérou, sa \"seconde patrie\", pour achever sa tournée",
+     "headlineEn": "Pope Leo XIV returns to Peru, his \"second homeland\", to wrap up tour",
+     "summary": "Le pape Léon XIV poursuit sa première grande tournée en Amérique latine en effectuant une étape particulièrement émouvante au Pérou, un pays qu'il considère comme sa seconde patrie. Accueilli par plus d'un million de fidèles enthousiastes à Chiclayo, ville dont il fut l'évêque pendant près de dix ans, le souverain pontife a exprimé son immense joie d'être de retour parmi les siens. Lors de ses interventions publiques, le pape a vivement dénoncé le machisme et les violences faites aux femmes, appelant à un respect accru de leur dignité. Ce voyage marque un moment fort pour l'Église locale et consolide l'influence pastorale du chef de l'Église catholique.",
+     "why": "Le retour du pape dans son ancien diocèse péruvien suscite un engouement populaire massif tout en portant des messages sociétaux forts.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    },
+    {
+     "source": "AP News",
+     "lang": "en",
+     "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPQmthd2p1bWNiTUNEQ1puWC14bVlmeTJ2MjVIcGN2ZEkzdVlncWJYVUZ2TGdEdzRQd1NCb2RGRG5ZRm9RX3BXMVJfd25SQjVzdEN1RTdpc2VkSkdlVkxGMW5CNURkb3gxS25uYzRuZGFqZjV5Mk1KSXlCR2NaTlI4NHZudkZXUXduU0lXNmpMZHl4LWdoZk82akdoenV5c1piemdKX0RaSEw?oc=5",
+     "headline": "Bessent blames Lutnick’s Commerce Department for not restricting Nvidia chip exports",
+     "headlineEn": "Bessent accuse le département du Commerce de Lutnick de ne pas avoir restreint les exportations de puces Nvidia",
+     "summary": "Tensions within US President Donald Trump’s cabinet spilled into the public eye as Treasury Secretary Scott Bessent openly criticized Commerce Secretary Howard Lutnick over foreign chip exports. Bessent faulted Lutnick’s department for failing to enforce tighter restrictions on Nvidia's advanced artificial intelligence chips sent to firms suspected of ties with China. The dispute follows the sudden departure of Nvidia Chief Executive Jensen Huang and escalating political scrutiny surrounding technology transfers. The internal friction highlights growing policy divisions inside the administration regarding trade enforcement, national security risks, and the regulation of critical semiconductor exports to strategic rivals.",
+     "why": "Le différend au sein du gouvernement américain illustre la bataille politique et stratégique autour du contrôle des technologies d'IA face à la Chine.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    },
+    {
+     "source": "Council on Foreign Relations",
+     "lang": "en",
+     "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQcHJ0eFVtdHJkRXJkU2c3Q2VKTmFZd3pfczM1S3RzbVpMbW5yUzhyeVZtSWh3ZGNZZS0wZFMyZ2NEcXBKUVM3dXA3U2RwcHJXMWUzb2luN0ItNnNfNDI3bFVqb21iU1ZXNjIwcHdkdDEwVHhHSjBjUHVKZTVuZWR6ZWZIT2ZCV0RLU01wV3Z6dnBrM3JyMGc?oc=5",
+     "headline": "Trump Is a Lame Duck. But He’s Still in Charge of U.S. Statecraft.",
+     "headlineEn": "Trump est un \"lame duck\". Mais il reste aux commandes de la diplomatie américaine.",
+     "summary": "An analysis by the Council on Foreign Relations examines the leverage and authority retained by US President Donald Trump during his remaining time in office following the midterm elections. Despite facing new legislative hurdles with a Democratic-controlled Congress, Trump continues to exercise broad executive power over foreign policy and international statecraft. Foreign leaders and international partners must navigate an administration that retains full constitutional authority over diplomacy, trade enforcement, and military command. The report emphasizes that despite political shifts domestically, the White House maintains decisive influence in shaping global security negotiations and bilateral relationships worldwide.",
+     "why": "Cette analyse montre que la Maison Blanche conserve son pouvoir d'action diplomatique majeur malgré les reconfigurations politiques au Congrès.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    }
+   ]
+  },
+  {
+   "name": "Europe & politiques de l'UE",
+   "stories": [
+    {
+     "source": "AP News",
+     "lang": "en",
+     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQUjl3VUUwZnpqWVI3cEE5eEVMZlhzZmwyX3dZMy1oWXU1YjRidlVQa3NoMzhlSVdMbEJCazdBb2NFTFZ4Y2ZDVXZsbzFTTmxMR2A5MG5ndDQtZW5pUHRIRE9uQmQ2VmtCNjZRbWlSTFduYmhWcmNiNjRPRXY3R3ljd2hJQVFKNTJ1eHpFMUxfMkJ5WkJ1dkRQWDJHa3c?oc=5",
+     "headline": "Europe to send a diplomat team to Ukraine talks as leaders push for a voice",
+     "headlineEn": "L'Europe va envoyer une équipe de diplomates aux pourparlers sur l'Ukraine",
+     "summary": "European nations have agreed to send a joint diplomatic delegation to represent the continent in upcoming negotiations regarding the war in Ukraine. European leaders pushed for direct involvement to ensure European security interests and territorial integrity principles are defended alongside American and Ukrainian representatives. The team will include representatives from five key European nations—the United Kingdom, France, Germany, Italy, and Poland—working together with European Union officials. This coordinated approach aims to present a unified European front during high-stakes discussions and prevent decisions about European stability from being made without direct European participation.",
+     "why": "L'UE cherche à garantir sa participation directe aux négociations sur l'avenir sécuritaire du continent.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    },
+    {
+     "source": "Reuters",
+     "lang": "en",
+     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPcDZvMXVueFJJaXFVTXo1Nkc4SXk5c21waTRkanlVSG1FUUFWd0VrRXNfSGYwZVV1OFYwNmoyejlSa2UyNVRWWEszcW5zejZsYWx6TFVpcXBlNFl1Y1RxamYwSUpEZDg1NzR5UDRsS3BTRlhwMFRuRzFGdGxxdEN1SEowVm9oWkZ6SGsySzhDLVE3SjVaMFhfVGRTMA?oc=5",
+     "headline": "Hungary recovers $20 million cash in probe of Orban minister",
+     "headlineEn": "La Hongrie récupère 20 millions de dollars en espèces dans une enquête visant un ministre d'Orbán",
+     "summary": "Hungarian authorities have recovered approximately 20 million dollars in hidden cash during an ongoing corruption investigation into a former minister from the Viktor Orbán era. The discovery follows extensive searches conducted across various properties and locations by anti-corruption investigators. Prime Minister Péter Magyar’s administration, which came to power following political shifts earlier this year, has vowed to carry out a comprehensive anti-corruption drive targeting financial misconduct and illicit enrichment associated with previous government officials. The seizure marks one of the largest financial recoveries in recent Hungarian political history as judicial authorities expand their anti-corruption inquiries.",
+     "why": "La lutte contre la corruption constitue le pilier central des réformes politiques engagées en Hongrie.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    },
+    {
+     "source": "DW",
+     "lang": "de",
+     "url": "https://www.dw.com/de/online-ausgetrickst-eu-will-verbraucher-besser-schützen/a-79943717?maca=de-rss-de-all-1119-rdf",
+     "headline": "Online ausgetrickst - EU will Verbraucher besser schützen",
+     "headlineEn": "Piégés en ligne : l'UE veut mieux protéger les consommateurs",
+     "summary": "Die Europäische Union plant eine neue Gesetzgebung, um Verbraucher künftig besser vor irreführenden Online-Praktiken zu schützen. Das Vorhaben richtet sich insbesondere gegen sogenannte Abo-Fallen, manipulative Verkaufstaktiken sowie digitale Schnittstellenfunktionen, die Nutzer zu endlosem Scrollen verleiten sollen. Mit den geplanten Regelungen reagiert die EU-Kommission auf die wachsende Kritik an kommerziellen Taktiken großer digitaler Plattformen, die gezielt psychologische Verhaltensmuster von Konsumenten ausnutzen. Während Verbraucherschützer die parlamentarische Initiative grundsätzlich begrüßen, wird in den laufenden Debatten bereits intensiv diskutiert, ob die vorgeschlagenen rechtlichen Maßnahmen weit genug gehen, um digitale Konsumentenrechte im europäischen Binnenmarkt wirksam durchzusetzen.",
+     "why": "L'UE accentue sa pression réglementaire sur les pratiques de conception trompeuses des géants du numérique.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    }
+   ]
+  },
+  {
+   "name": "Économie & marchés",
+   "stories": [
+    {
+     "source": "AP News",
+     "lang": "en",
+     "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOeFBta25Rakd3c0VBM0NUWjJzbmV2ajZwTWRtUFVTcTVzZ2otRGo0cXZSWWV0MzNBSXdmMXNzdm9SU1d1blBBNnktRlNqQmcwVUVxQzhCNERGel9ETDBHZjJwb29IYmhGX2VPNm8xeGwwU0VNajFzZnpIM19lejBOVTZrRVVjb2t4SDh3emhSZHI?oc=5",
+     "headline": "Trump administration blames ‘overloaded’ systems for ground stop after FAA lets flights resume",
+     "headlineEn": "L'administration Trump attribue l'arrêt des vols à des systèmes surchargés après la reprise autorisée par la FAA",
+     "summary": "The Federal Aviation Administration lifted a nationwide ground stop after aging air traffic control equipment experienced system overloads, causing widespread flight cancellations and severe travel delays across the United States. Transport Secretary Sean Duffy attributed the failure to outdated technology dating back decades and urged Congress to allocate substantial funding for infrastructure modernization. Federal authorities confirmed that the outage was caused by internal technical overloads rather than a cyberattack. Normal flight schedules are gradually being restored, though airlines warn that operational backlogs and passenger disruptions will linger across major aviation hubs throughout the weekend.",
+     "why": "La vétusté des infrastructures de contrôle aérien menace la stabilité du secteur transport américain.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    },
+    {
+     "source": "Reuters",
+     "lang": "en",
+     "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQSXM1eUw2ajFCSktRVnp3Sm5fY0ZteUJnclFnemswOWZRSV8tOUVsczh5c3pZSW5OeEdid0RBVXhVQkhWc0EtOUNjTHk0eURRY1Axa2xXblF1cVhPSmVEQVZXT3Q2ZjI5aXVURGVqSV9wc1NzOGg5bWxhWlZWTEt2dGUzUUtoeVFFeFlmMUVzMk1tZmZaM2daWDliXzQzZXdZTmFWMHdXeVQ0Wnl0b3hObQ?oc=5",
+     "headline": "China, US discuss tariffs, farm trade ahead of Xi-Trump meeting",
+     "headlineEn": "La Chine et les États-Unis discutent des droits de douane et du commerce agricole avant la rencontre Xi-Trump",
+     "summary": "Chinese and American officials held preliminary discussions focusing on bilateral trade tariffs and agricultural exports ahead of an upcoming meeting between President Donald Trump and President Xi Jinping. The bilateral talks aimed to address ongoing commercial tensions, trade barriers, and mutual economic concerns affecting global markets. Trade negotiators reviewed existing tariff structures and potential frameworks to facilitate agricultural commerce between both nations. Officials expressed hope that these preparatory exchanges would lay constructive groundwork for high-level diplomatic engagements scheduled in China next week, amidst broader global economic uncertainty and shifting international trade dynamics.",
+     "why": "Les tensions commerciales entre Washington et Pékin pèsent lourdement sur les marchés agricoles mondiaux.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    },
+    {
+     "source": "AP News",
+     "lang": "en",
+     "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPQmthd2p1bWNiTUNEQ1puWC14bVlmeTJ2MjVIcGN2ZEkzdVlncWJYVUZ2TGdEdzRQd1NCb2RGRG5ZRm9RX3BXMVJfd25SQjVzdEN1RTdpc2VkSkdlVkxGMW5CNURkb3gxS25uYzRuZGFqZjV5Mk1KSXlCR2NaTlI4NHZudkZXUXduU0lXNmpMZHl4LWdoZk82akdoenV5c1piemdKX0RaSEw?oc=5",
+     "headline": "Bessent blames Lutnick’s Commerce Department for not restricting Nvidia chip exports",
+     "headlineEn": "Bessent accuse le département du Commerce de Lutnick de ne pas avoir restreint les exportations de puces Nvidia",
+     "summary": "United States Treasury Secretary Scott Bessent publicly criticized Commerce Secretary Howard Lutnick, asserting that the Commerce Department failed to implement adequate export restrictions on Nvidia’s advanced artificial intelligence chips. The internal administration dispute follows the abrupt resignation of Nvidia Chief Executive Officer Jensen Huang. Bessent argued that regulatory loopholes permitted advanced semiconductor technology to reach entity networks linked to China, raising national security concerns. The dispute underscores growing scrutiny over US tech policy, enforcement mechanisms, and regulatory oversight regarding critical high-technology exports amidst escalating trade and technological competition between major global economic powers.",
+     "why": "Les tensions au sein de l'administration américaine reflètent les enjeux géopolitiques majeurs autour de l'IA.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    }
+   ]
+  },
+  {
+   "name": "Technologie & sciences",
+   "stories": [
+    {
+     "source": "AP News",
+     "lang": "en",
+     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNZHlYRjJoX0RfREJ3UFBlQ3pacWMwMjBXeGJETGNBTFIzbHZMd1o0UFpMR00tQ25kb0x3YlBjZk4wd25hQTVoQ0FQdTVydERxenNBbkx0YVU5VGtnMUJwcW0tc2FFZ0tsMk0wbFc4TjRHWFhid01xWmljT0tZMVFicUVWRk1ueWdscFMyZXdHWGVJWjdSQ1ozLWJGdXpNMFRQdFc2Mw?oc=5",
+     "headline": "Microsoft says services fully restored after hourslong global outage",
+     "headlineEn": "Microsoft affirme que ses services sont totalement rétablis après une panne mondiale de plusieurs heures",
+     "summary": "Tech giant Microsoft announced that its global services have been fully restored following an extensive worldwide technical outage that severely impacted business and governmental operations. The disruption affected essential workplace tools, including Outlook, Teams, and Copilot, disrupting corporate communications for more than twenty-four hours. Technical teams completed remediation steps to resolve underlying system issues and stabilized cloud services. Following the widespread disruption, cybersecurity experts and industry analysts renewed warnings regarding system vulnerabilities and operational risks tied to critical infrastructure dependence on a single technology provider for foundational digital services.",
+     "why": "La panne souligne la vulnérabilité systémique liée à la dépendance envers un unique fournisseur cloud.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    },
+    {
+     "source": "DW",
+     "lang": "en",
+     "url": "https://www.dw.com/en/spacex-launches-starship-rocket-fails-to-recover-booster/a-79946091?maca=en-rss-en-world-4025-rdf",
+     "headline": "SpaceX launches Starship rocket, fails to recover booster",
+     "headlineEn": "SpaceX lance sa fusée Starship mais échoue à récupérer le booster",
+     "summary": "SpaceX completed another test flight of its massive Starship rocket system, achieving orbital entry with the spacecraft while encountering a setback during booster recovery. Mission controllers aborted planned attempts to catch the Super Heavy booster back at the launch tower, resulting in the booster crashing into the Gulf of Mexico. Despite missing the booster recovery target, the upper stage spacecraft continued its planned trajectory and conducted orbital testing maneuvers. Aerospace analysts characterized the test as a partial success, providing critical flight data for future iterations of the heavy-lift vehicle designed for deep space exploration.",
+     "why": "Ces tests spatiaux sont essentiels pour valider la réutilisabilité des lanceurs lourds de nouvelle génération.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    },
+    {
+     "source": "Euronews",
+     "lang": "en",
+     "url": "https://www.euronews.com/2026/11/14/regular-coffee-drinking-linked-to-changes-in-gut-motility-and-microbiome",
+     "headline": "Regular coffee drinking linked to changes in gut motility and microbiome",
+     "headlineEn": "La consommation régulière de café liée à des changements de la motilité intestinale et du microbiome",
+     "summary": "A new scientific study has identified significant links between habitual coffee consumption, digestive system motility, and gut microbiome composition. Researchers utilized a small ingestible electronic capsule swallowed by study participants to record real-time biological data as it navigated through the digestive tract. The collected data demonstrated that regular coffee intake alters intestinal transit times and promotes distinct shifts in beneficial bacterial populations within the gut microbiome. Scientists noted that these findings provide clearer mechanistic insights into how coffee influences human digestive health and metabolic processes beyond its well-known stimulant effects on the central nervous system.",
+     "why": "Une meilleure compréhension du microbiote permet de préciser l'impact des habitudes alimentaires sur la santé.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    }
+   ]
+  },
+  {
+   "name": "Sport",
+   "stories": [
+    {
+     "source": "France 24",
+     "lang": "fr",
+     "url": "https://www.france24.com/fr/%C3%A9missions/sports/20261114-bleus-battent-springboks-paris-pour-premi%C3%A8re-fois-depuis-21-ans",
+     "headline": "Les Bleus battent les Springboks à Paris pour la première fois depuis 21 ans",
+     "headlineEn": "Les Bleus defeat the Springboks in Paris for the first time in 21 years",
+     "summary": "Le XV de France a signé un succès majeur en s'imposant 21-19 face à l'Afrique du Sud au Stade de France. Il s'agit de leur première victoire à domicile contre les Springboks depuis 21 ans. Ce succès permet aux Français d'envisager sereinement la suite de la compétition, où une victoire bonifiée contre l'Argentine leur offrirait une qualification directe en finale du Championnat des nations.",
+     "why": "Ce succès prestigieux confirme le retour au sommet du XV de France face au champion du monde.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    },
+    {
+     "source": "Süddeutsche Zeitung",
+     "lang": "de",
+     "url": "https://www.sueddeutsche.de/sport/deutschland-serbien-nations-league-li.3580419",
+     "headline": "3:1 der DFB-Elf in Belgrad: Skurriles Tiki-Taka im Schlamm",
+     "headlineEn": "Victoire 3-1 de l'équipe de Allemagne à Belgrade : un tiki-taka insolite dans la boue",
+     "summary": "Die deutsche Fußball-Nationalmannschaft hat in der Nations League einen souveränen 3:1-Auswärtssieg gegen Serbien gefeiert. Auf extrem tiefem und durchnässtem Rasen in Belgrad dominierte das Team von Bundestrainer Jürgen Klopp mit fast 80 Prozent Ballbesitz. Debütant Brajan Gruda erzielte nach einem spektakulären Sololauf sein erstes Länderspieltor und krönte damit einen rundum gelungenen Auftritt der DFB-Auswahl gegen phasenweise überforderte Gastgeber.",
+     "why": "Cette victoire à l'extérieur valide la montée en puissance tactique de l'Allemagne sous Jürgen Klopp.",
+     "paywalled": true,
+     "contested": "",
+     "chart": null
+    }
+   ]
+  }
+ ],
+ "sourced": true,
+ "feeds": {
+  "ok": 27,
+  "of": 29,
+  "items": 260,
+  "skipped": [
+   "Reuters (FR)",
+   "Foreign Affairs (EN)"
+  ]
+ },
+ "words": 3226,
+ "readMin": 16,
+ "storyCount": 23
+}
