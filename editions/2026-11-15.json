@@ -1,0 +1,423 @@
+{
+ "date": "2026-11-15",
+ "kind": "weekly",
+ "heat": 0.85,
+ "oneThing": "The vulnerability of global tech infrastructure and shifting peace terms in Ukraine will define geopolitical and financial stability in the coming week.",
+ "followUps": [
+  {
+   "n": "01",
+   "thread": "Élections en Afrique du Sud et déclin historique de l'ANC",
+   "change": "Après l'annonce en début de semaine du pire résultat électoral de son histoire, l'ANC est entrée dans des négociations de coalition internes, apaisant l'urgence médiatique au profit des tractations parlementaires."
+  },
+  {
+   "n": "02",
+   "thread": "Grève générale et contestation sociale en Espagne",
+   "change": "Après les débrayages massifs et les affrontements observés à Barcelone le 12 novembre, la grève générale s'est achevée, laissant place aux manœuvres politiques régionales habituelles."
+  },
+  {
+   "n": "03",
+   "thread": "Crise du logement et pétitions citoyennes au Luxembourg",
+   "change": "Les mobilisations populaires dénonçant la hausse des prix immobiliers vendredi soir ont laissé la place au processus parlementaire d'examen des quatorze pétitions publiques déposées à la Chambre."
+  }
+ ],
+ "mustReads": [
+  {
+   "desk": "Technologie & sciences",
+   "source": "Reuters",
+   "lang": "EN",
+   "paywalled": false,
+   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPVGhZTlZ0MDBVVUhqYkJMZmtuTk5OazlET0NjTVN5WDZsWTZPSUJjemowSWtRN09mSUdhUmUtdHRnamVjeHp4U0g2ak1VUW51NEZfaW5hM2c0X25DVkVHeG93Q1hHcW5oUlhUMDN1RFVrSDdFZG01RjdyT1pkQmc4MjJxdzhCUnNHZFhPRE9hQ21oczRBVVl2aVpFQWo?oc=5",
+   "headline": "Megaspeed says Alice Huang left the company in August 2025",
+   "headlineEn": "Megaspeed affirme qu'Alice Huang a quitté l'entreprise en août 2025",
+   "contested": "",
+   "why": "L'effondrement du leadership chez Nvidia sous le coup de soupçons d'espionnage déstabilise l'ensemble de la chaîne d'approvisionnement mondiale en puces d'IA.",
+   "stat": "",
+   "statLabel": "",
+   "chart": null,
+   "paras": [
+    "The corporate intelligence landscape experienced a seismic shock early this week when revelations surfaced regarding internal investigations at semiconductor giant Nvidia. Corporate governance auditors launched inquiries into whether co-founder and chief executive officer Jensen Huang had been targeted by a foreign operative. Reports suggested that personal romantic entanglements with an alleged Chinese intelligence asset might have exposed critical proprietary secrets. Given Nvidia's central position in powering global artificial intelligence infrastructure, the initial announcement sent immediate tremors across global financial markets and technology supply chains.",
+    "As the week progressed, corporate reporting deepened the severity of the crisis by revealing specific logistical details surrounding the breach. Intelligence filings indicated that the relationship had directly facilitated nearly seven point five billion dollars in restricted artificial intelligence chip shipments to Chinese entities. These deliveries circumvented stringent national security export controls established by federal regulatory agencies. The disclosure transformed what had initially appeared as a personal executive governance scandal into a full-scale national security emergency, prompting immediate Congressional demands for comprehensive regulatory hearings and operational audits.",
+    "Midweek reporting from financial journal outlets signaled that Nvidia's board of directors was preparing formal procedures to remove Huang from his executive post. The board recognized that maintaining Huang at the helm threatened critical defense contracts and undermined public trust among major institutional investors. Despite Huang’s historical role in transforming the company into a multi-trillion-dollar technology powerhouse, board members concluded that executive continuity was secondary to mitigating existential regulatory risks and preserving operational compliance across international technology markets.",
+    "The inevitable climax arrived when Jensen Huang formally submitted his resignation as chief executive officer of Nvidia. His departure marked an abrupt and dramatic end to one of the most remarkable corporate leadership tenures in modern technology history. In his public statement, Huang acknowledged the growing distractions surrounding his personal conduct while maintaining that corporate operational integrity remained paramount. Financial markets reacted to the resignation with heightened volatility, reflecting deep uncertainty regarding the company's future strategic trajectory without its visionary founder.",
+    "Following the resignation, political warfare erupted within the United States executive branch regarding oversight failures. Treasury Secretary Scott Bessent publicly criticized Commerce Secretary Howard Lutnick, accusing his department of failing to enforce basic export control protocols. Bessent argued that federal regulatory inertia had allowed sophisticated hardware to flow unchecked into strategic competitor nations. This public confrontation highlighted deep policy divisions within the administration regarding technology containment strategies and exposed structural weaknesses in federal supply chain monitoring mechanisms.",
+    "Capitol Hill lawmakers acted swiftly to leverage the scandal, advancing bipartisan legislation designed to tighten restrictions on advanced hardware exports. Congressional committees announced comprehensive investigations into secondary distribution networks and third-party logistics firms operating in East Asia. Lawmakers emphasized that corporate espionage targeting semiconductor manufacturers constituted an intolerable threat to Western technological dominance. The proposed statutory changes aim to mandate rigorous background screening for high-level technology executives while imposing severe criminal penalties on corporate entities that fail to secure national security hardware.",
+    "By the weekend, corporate supply chain partners began releasing public statements to distance themselves from the expanding investigation. Foreign logistics firm Megaspeed publicly clarified that Alice Huang, the individual identified in intelligence dossiers, had officially departed their organization in August 2025. Meanwhile, investigative reports detailed how complex backdoor routes were systematically constructed to maintain hardware flows into Beijing. These disclosures revealed how private commercial interests created sophisticated compliance workarounds, further complicating corporate efforts to establish clean operational boundaries.",
+    "Nvidia now faces a tumultuous transition era as its interim leadership attempts to stabilize investor confidence and address pending regulatory inquiries. The company must rebuild its executive governance framework while navigating restrictive international trade environments. The next critical catalyst for this ongoing saga will be the upcoming legislative hearings in Washington and Nvidia's impending quarterly financial earnings release. Analysts will carefully evaluate whether customer orders remain intact and whether federal regulatory authorities will impose severe structural penalties or binding operational constraints on the firm."
+   ]
+  },
+  {
+   "desk": "Monde / géopolitique",
+   "source": "France 24",
+   "lang": "FR",
+   "paywalled": false,
+   "url": "https://www.france24.com/fr/vid%C3%A9o/20261115-zelensky-veut-consulter-les-ukrainiens-sur-d-%C3%A9ventuelles-concessions-territoriales",
+   "headline": "Zelensky veut consulter les Ukrainiens sur d'éventuelles concessions territoriales",
+   "headlineEn": "Zelensky wants to consult Ukrainians on potential territorial concessions",
+   "contested": "Les responsables américains tempèrent les affirmations de Volodymyr Zelensky concernant une offre formelle d'adhésion à l'OTAN contre le Donbass, affirmant que les propositions restent informelles.",
+   "why": "La proposition américaine d'échanger le Donbass contre une adhésion à l'OTAN redéfinit l'architecture de sécurité continentale tout en obligeant l'Europe à imposer sa voix.",
+   "stat": "",
+   "statLabel": "",
+   "chart": null,
+   "paras": [
+    "Le débat sur l'issue du conflit en Ukraine a pris une tournure diplomatique majeure au début de la semaine. Moscou a fermement rejeté la présence de représentants européens aux négociations de paix, exigeant un dialogue direct et exclusif avec Washington. Ce refus catégorique a suscité une vive inquiétude parmi les chancelleries du continent, qui redoutaient d'être totalement marginalisées sur les questions relatives à leur propre sécurité territoriale. L'initiative s'inscrivait dans une stratégie d'isolement visant à affaiblir la cohésion de l'alliance occidentale.",
+    "Face au blocage initial, des émissaires américains ont entamé des démarches intenses auprès des autorités russes pour inclure l'Europe dans les discussions. Ces efforts diplomatiques ont débouché sur des pourparlers trilatéraux inédits de près de quatre heures organisés sous médiation américaine à Abou Dhabi. Bien que ces échanges n'aient pas permis de régler le fond du différend politique, ils ont abouti à des résultats humanitaires concrets, concrétisés par la signature d'un accord sur un échange majeur de prisonniers de guerre entre les deux belligérants.",
+    "Devant la complexité des négociations, plusieurs dirigeants européens ont plaidé pour une structuration rigoureuse de la représentation continentale. Le Premier ministre luxembourgeois Luc Frieden a publiquement soutenu la candidature du président du Conseil européen Antonio Costa pour agir en qualité de négociateur naturel au nom des Vingt-Sept. Cette proposition visait à garantir l'unité politique du bloc et à éviter toute tentative de division stratégique orchestrée par les puissances extérieures tout au long des discussions sécuritaires.",
+    "En milieu de semaine, la posture diplomatique de Moscou a évolué de manière significative. Le président Vladimir Poutine a déclaré qu'il ne s'opposait plus catégoriquement à l'intégration de délégations européennes aux tables de négociation. Ce changement de ton apparent est intervenu au moment où l'Union européenne s'apprêtait à adopter un nouveau paquet de sanctions économiques renforcées. Cette inflexion stratégique visait à désamorcer la cohésion européenne tout en maintenant la pression militaire et politique sur la ligne de front ukrainienne.",
+    "Le véritable tournant de la semaine est survenu lorsque le président Volodymyr Zelensky a révélé publiquement les détails d'une offre américaine. Selon le chef d'État ukrainien, Washington aurait suggéré la rétrocession formelle de la région du Donbass à la Russie en échange d'une adhésion garantie de l'Ukraine à l'OTAN. Cette révélation a provoqué un choc considérable au sein de la classe politique internationale, remettant fondamentalement en cause le principe d'intégrité territoriale fermement défendu par Kiev depuis le début de l'invasion.",
+    "Confronté à cette proposition particulièrement sensible, Volodymyr Zelensky a annoncé qu'il ne prendrait aucune décision unilatérale sur une éventuelle modification des frontières nationales. Il a indiqué son intention de consulter directement le peuple ukrainien par la voie d'un référendum souverain avant d'entériner la moindre concession territoriale majeure. Cette approche démocratique vise à partager la responsabilité politique de ce choix historique tout en renforçant la légitimité du gouvernement face aux pressions exercées par les alliés américains et les exigences russes.",
+    "En réponse à ces développements accélérés, l'Union européenne a décidé d'envoyer une équipe diplomatique dédiée aux négociations sur l'avenir sécuritaire du continent. Dirigée par des représentants des institutions communautaires et de cinq pays membres de la coalition de soutien à l'Ukraine, cette délégation entend faire entendre les intérêts stratégiques européens. Les dirigeants continentaux réaffirment qu'aucun accord de paix durable ne pourra être conclu sans une participation active et directe de l'Europe à la définition du nouvel ordre sécuritaire.",
+    "La situation internationale demeure à un point d'équilibre précaire alors que s'organisent de nouvelles rencontres diplomatiques de haut niveau. Les discussions prévues lors des prochains sommets multilatéraux constitueront une étape décisive pour déterminer la viabilité d'un compromis territorial et sécuritaire. L'attention reste focalisée sur la réaction des opinions publiques ukrainiennes et sur la capacité des Européens à imposer des garanties de sécurité crédibles et contraignantes face aux exigences de rétablissement de la paix formulées par le Kremlin."
+   ]
+  },
+  {
+   "desk": "Technologie & sciences",
+   "source": "DW",
+   "lang": "DE",
+   "paywalled": false,
+   "url": "https://www.dw.com/de/nach-pannen-bei-microsoft-raten-experten-zu-mehr-vorsicht/a-79947639?maca=de-rss-de-all-1119-rdf",
+   "headline": "Nach Pannen bei Microsoft raten Experten zu mehr Vorsicht",
+   "headlineEn": "After Microsoft breakdowns, experts advise greater caution",
+   "contested": "",
+   "why": "La paralysie mondiale causée par la panne des services Microsoft démontre les risques systémiques majeurs liés à la dépendance envers un unique fournisseur de logiciels.",
+   "stat": "",
+   "statLabel": "",
+   "chart": null,
+   "paras": [
+    "Die Risiken der weltweiten Digitalisierung wurden der Weltöffentlichkeit zu Beginn dieser Woche drastisch vor Augen geführt. Ein schwerwiegender und unerwarteter Ausfall der zentralen Microsoft-Dienste führte weltweit zu erheblichen Störungen bei Unternehmen, Behörden und Finanzinstituten. Zahlreiche Kommunikationsnetze fielen schlagartig aus, was den Arbeitsalltag von Millionen von Menschen beeinträchtigte. Dieser Vorfall offenbarte die extreme Verwundbarkeit der globalen digitalen Infrastruktur und entfachte umgehend eine Debatte über die Abhängigkeit moderner Wirtschaftsstrukturen von einigen wenigen marktbeherrschenden Technologiekonzernen aus den Vereinigten Staaten.",
+    "Bereits vor der großen Störung hatten gezielte Cyberangriffe auf zivile Infrastrukturen in Europa für erhebliche Beunruhigung gesorgt. Der mysteriöse Hack von Kühlsystemen in europäischen Supermärkten wurde von Ermittlungsbehörden staatlichen Akteuren aus dem Iran zugeschrieben. Diese Vorfälle verdeutlichten, dass die logistischen Versorgungsketten des Kontinents anfällig für hybride Bedrohungen sind. Die Kombination aus staatlich gelenkten Cyberattacken und technischen Pannen bei führenden Softwareanbietern verstärkte das Gefühl einer wachsenden digitalen Unsicherheit im öffentlichen wie auch im privaten Sektor.",
+    "Die digitale Krise weitete sich im weiteren Verlauf der Woche auf den Transportsektor aus. Ein bundesweites Flugverbot in den Vereinigten Staaten führte zur Absage Tausender kommerzieller Flüge und legte den zivilen Luftverkehr weitgehend lahm. Behörden führten die Ursache zunächst auf überlastete Systeme und fehlerhafte Glasfaser- beziehungsweise Kupferleitungen zurück. Die Unterbrechung betraf nicht nur Reisende, sondern beeinträchtigte auch die Logistikketten internationaler Frachtunternehmen. Diese Kettenreaktion unterstrich die Verflechtung von physischer Transporthinfrastruktur und digitaler Datenverarbeitung.",
+    "Nach mehr als vierundzwanzig Stunden intensiver Fehlersuche gab Microsoft schließlich bekannt, dass alle betroffenen Cloud-Dienste und Anwendungsprogramme wieder vollständig funktionstüchtig seien. Das Unternehmen beteuerte, die Ursache des weltweiten Ausfalls isoliert und nachhaltig behoben zu haben. Dennoch hinterließ der Vorfall beträchtliche wirtschaftliche Schäden bei betroffenen Konzernen und öffentlichen Verwaltungen. Der reibungslose Übergang zur Normalität konnte die aufgeworfenen grundsätzlichen Sicherheitsfragen bezüglich der Stabilität und Ausfallsicherheit globaler Rechenzentren keineswegs vollständig ausräumen.",
+    "Als Reaktion auf die gehäuften Vorfälle forderten deutsche Sicherheitsbehörden und Nachrichtendienste deutlich erweiterte Befugnisse im Bereich der aktiven Cyberabwehr. Der Verfassungsschutz und der Bundesnachrichtendienst drängten auf gesetzliche Grundlagen, um auf hybride Bedrohungen und digitale Infrastrukturangriffe aus dem Ausland wirksam reagieren zu können. Die Debatte spiegelte eine grundlegende Neuausrichtung der europäischen Sicherheitsarchitektur wider, die den Cyberspace zunehmend als zentrales Schlachtfeld moderner geopolitischer Auseinandersetzungen begreift und entsprechende defensive wie offensive Kapazitäten aufbauen möchte.",
+    "Zusätzlich gerieten die führenden Technologiekonzerne unter erheblichen rechtlichen Druck von Verbraucherschutzgruppen und Aufsichtsbehörden. In den Vereinigten Staaten und Europa reichten Nichtregierungsorganisationen Klagen ein, um einen Entwicklungsstopp für fortschrittliche KI-Modelle zu erwirken. Die Kläger begründeten ihre Schritte mit den unkontrollierbaren Risiken für die öffentliche Sicherheit und das Funktionieren kritischer Infrastrukturen. Gleichzeitig verstärkte die Europäische Union ihre regulatorischen Bemühungen, um Verbraucher vor irreführenden digitalen Designpraktiken und unzureichenden Sicherheitsstandards wirksam zu schützen.",
+    "Am Wochenende zogen IT-Sicherheitsexperten ein nüchternes Fazit aus den Ereignissen der vergangenen Tage und rieten dringend zu mehr Vorsicht. Die Fachleute warnten vor den Gefahren einer Monokultur in der Unternehmens-IT und empfahlen den Aufbau redundanter Systeme. Wenn sich ein einzelner Gigant als Nadelöhr erweise, drohten lähmende Gesamtausfälle für ganze Volkswirtschaften. Die Empfehlungen beinhalten eine verstärkte Diversifizierung von Cloud-Anbietern sowie die verstärkte Nutzung von Open-Source-Alternativen zur nachhaltigen Risikominimierung in kritischen Sektoren.",
+    "Die weltweiten Systeme laufen zwar wieder im Regelbetrieb, doch das Vertrauen in die digitale Infrastruktur ist nachhaltig erschüttert. Die Diskussionen über verbindliche Mindeststandards für Ausfallsicherheit und Datensouveränität stehen nun ganz oben auf der politischen Agenda. Die nächsten entscheidenden Impulse werden von den anstehenden parlamentarischen Gesetzgebungsverfahren in Berlin und Brüssel erwartet. Dort soll entschieden werden, wie streng die Auflagen für internationale Cloud-Betreiber künftig gestaltet werden und welche Abwehrmaßnahmen staatlichen Organen gestattet sind."
+   ]
+  },
+  {
+   "desk": "International — hors Europe",
+   "source": "Al Jazeera",
+   "lang": "EN",
+   "paywalled": false,
+   "url": "https://www.aljazeera.com/news/2026/11/15/iran-says-it-targets-us-radar-in-bahrain-what-do-we-know?traffic_source=rss",
+   "headline": "Iran says it targets US radar in Bahrain. What do we know?",
+   "headlineEn": "L'Iran affirme cibler un radar américain au Bahreïn : que savons-nous ?",
+   "contested": "",
+   "why": "L'escalade des frappes iraniennes dans le Golfe contraint les monarchies régionales à renforcer leur diplomatie autonome face aux incertitudes de la protection américaine.",
+   "stat": "",
+   "statLabel": "",
+   "chart": null,
+   "paras": [
+    "Security conditions across the Middle East deteriorated sharply early this week as regional proxy conflicts expanded into vital commercial and financial centers. Yemeni Houthi forces claimed responsibility for a targeted strike against the financial district in Riyadh, damaging an Aramco skyscraper and threatening Saudi Arabia's economic diversification agenda. The bold attack demonstrated the persistent vulnerability of Gulf energy infrastructure despite heavy investments in air defense systems. The incident immediately heightened security alerts across neighboring capitals and raised fears of broader regional economic destabilization.",
+    "In response to the expanding threat environment, member states of the Gulf Cooperation Council convened an emergency summit to accelerate defense integration. The alliance agreed to establish a unified military command headquarters in Kuwait to coordinate real-time radar monitoring and joint threat response mechanisms. This institutional decision reflected a growing recognition among Gulf monarchies that collective security autonomy was essential. Regional leaders sought to reduce their absolute reliance on Western defense guarantees while creating a more resilient deterrence posture against cross-border missile attacks.",
+    "The geopolitical confrontation deepened as Iranian diplomatic tensions flared with European nations over state-sponsored cyber operations targeting civilian commercial networks. Concurrently, regional maritime routes faced renewed instability following strategic force realignments near the critical Bab el-Mandeb Strait. These developments coincided with growing concern from international nuclear watchdogs regarding transparency at sensitive Iranian nuclear facilities. The convergence of military, cyber, and nuclear friction points illustrated the multi-dimensional nature of the ongoing crisis and underscored the fragilities of existing diplomatic containment frameworks.",
+    "Recognizing the unpredictable nature of United States foreign policy following recent American electoral shifts, Gulf monarchies initiated direct diplomatic engagement with Tehran. Gulf diplomats actively pursued bilateral talks with Iranian officials to establish crisis communication channels and de-escalate regional tensions. This diplomatic hedging strategy aimed to protect domestic infrastructure from becoming collateral damage in broader geopolitical disputes. Gulf leaders sought to balance their historical security partnerships with Washington while maintaining pragmatic dialogue with regional adversaries to ensure economic stability.",
+    "The regional security architecture underwent further structural realignment when Qatar and Turkey officially signed a comprehensive mutual defense agreement. The bilateral pact established a unified security framework designed to provide joint defense capabilities in the event of external aggression. Triggered by escalating regional hostilities and signals of adapting American troop commitments, the agreement marked a significant shift toward multilateral security arrangements within the Middle East, cementing strategic cooperation between Doha and Ankara.",
+    "The security crisis reached a critical escalation threshold over the weekend when Iranian forces launched targeted drone barrages against military installations in Bahrain. Tehran claimed the strikes specifically targeted advanced United States radar facilities stationed within the island nation, characterizing the operation as direct retaliation against American military assets. The Bahrain Defence Force reported that its air defense systems successfully intercepted several incoming aerial threats, but the attack marked the second major strike against the Gulf state within days, ending months of relative calm.",
+    "The direct targeting of Bahrain highlighted the expanding geographical scope of regional military operations and tested the operational readiness of Gulf defense systems. International analysts noted that Tehran's willingness to strike targets within Gulf Cooperation Council member states represented a deliberate escalation calculated to demonstrate military reach. The incidents underscored the precarious nature of regional stability and demonstrated how regional proxy conflicts could rapidly escalate into direct military confrontations affecting international energy markets and maritime security routes.",
+    "As regional forces maintain heightened alert levels, the Middle East stands at a critical geopolitical inflection point. The effectiveness of newly established defense agreements and diplomatic channels will be rigorously tested in the coming days. The key catalysts to monitor next include potential retaliatory measures by United States forces, the outcome of ongoing diplomatic talks between Gulf capitals and Tehran, and the formal implementation of joint military command structures designed to safeguard vital regional infrastructure."
+   ]
+  }
+ ],
+ "desks": [
+  {
+   "name": "Luxembourg",
+   "stories": [
+    {
+     "source": "Luxemburger Wort",
+     "lang": "de",
+     "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPeXFLWTRKSXRjWFVKNTl0SlRpUzFTUEprb0k1QVlDT0FzWndVUHU1Y2cxNnQzaGl5QUJ0WFUzWHlhX05LWUhBN2wzY3BwN1JabHRLLVNGSFQ5Y1JwVnBrQ2FkdTN0ZjBuaUJOSDU2cUE0WmtNNm0xZVFPakExOHRKQ3VCUXZ3blppVEN3ak90VQ?oc=5",
+     "headline": "Privilegiert - und trotzdem auf der Barrikade",
+     "headlineEn": "Privileged - and yet on the barricades",
+     "summary": "Die Proteste gegen die anhaltende Wohnungsnot im Großherzogtum haben in dieser Woche einen neuen Höhepunkt erreicht. Bürgerinitiativen und soziale Organisationen mobilisierten zu Demonstrationen in der Hauptstadtreregion, um auf die drastisch gestiegenen Immobilienpreise und Mieten aufmerksam zu machen. Trotz politischer Versprechen und administrativer Initiativen der Regierung bleibt der Zugang zu bezahlbarem Wohnraum für viele Haushalte eine extreme finanzielle Belastung. Die Frustration der Bevölkerung richtet sich vor allem gegen langsame Genehmigungsverfahren, unzureichende Instrumente gegen Spekulation und den schleppenden Ausbau des öffentlichen Wohnungsbaus. Dieser gesellschaftliche Druck erhöht den Handlungsbedarf für das Parlament vor den kommenden Beratungen spürbar.",
+     "why": "La crise du logement demeure la préoccupation sociale majeure menaçant la cohésion et le pouvoir d'achat au Grand-Duché.",
+     "paywalled": true,
+     "contested": "",
+     "chart": null
+    },
+    {
+     "source": "Luxemburger Wort",
+     "lang": "de",
+     "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQcXFGRzBGR1pEMjhJcjktbjhNaGlZV1Q1WFhLcVBSSVE0Yks3NGxTMmRHzNFX2xGU0lFeGlnZ1BLenV2MjItaUszQm9GVDdvQXNpbTEzU21peG81NkduRnRXUzdwTFpDSkVnMHJhRk5fSGI0YnBPZXNzbmZNcjRNajRpNHBtQkxIV1ZoS0l4dGNVbFNiaUxsenZ3ZGhRTmgxV3hQM3JmbS1ycF8tN1ZOazRRNzlnb2pPMUE?oc=5",
+     "headline": "„Das kommt nicht infrage“: Luxemburg will Bercy keinen Blankoscheck ausstellen",
+     "headlineEn": "\"That's out of the question\": Luxembourg refuses to give Bercy a blank cheque",
+     "summary": "In den Verhandlungen über grenzüberschreitende Besteuerungs- und Pendlervereinbarungen bezieht das Großherzogtum Luxemburg Stellung gegenüber den französischen Finanzbehörden in Paris. Die luxemburgische Regierung stellt klar, dass dem französischen Staat keine finanziellen Zugeständnisse oder Ausgleichszahlungen ohne klare Gegenleistungen bei Infrastrukturprojekten und Arbeitsplatzsicherheit gewährt werden. Das Thema betrifft über zweihunderttausend Grenzgänger, die täglich zwischen Frankreich und Luxemburg pendeln und deren steuerliche Regelung erhebliche Auswirkungen auf beide Staatskassen hat. Damit unterstreicht die Regierung in Luxemburg-Stadt ihre harte Linie in den Steuer- und Grenzgängerverhandlungen und fordert verlässliche Investitionen in das gemeinsame Schienen- und Straßennetz der Großregion.",
+     "why": "Les arbitrages fiscaux transfrontaliers conditionnent la rentabilité du travail frontalier et les recettes publiques luxembourgeoises.",
+     "paywalled": true,
+     "contested": "",
+     "chart": null
+    },
+    {
+     "source": "RTL Lëtzebuerg",
+     "lang": "fr",
+     "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPSjdZSzRUVUptNTNVa1k1cGhDY3J4SHpvNVdvMHdIMDI2NnZJN1lnTDhSRkw0NHdYRXhnSlkwVmUyT1BhcnFZdHZsTHdWM0ZsVUhSdWxYOGtmbHhZS2kxeGhpREVDX2hiZkF5eVJGdU44bzNnaWgtd1FnY09faUFkVHdtQkRleUxJSjc4amp1ZXpRUk9LMkE?oc=5",
+     "headline": "Le Luxembourg déjà aux 35 heures ?: Qui travaille le plus (et le moins) en Europe ?",
+     "headlineEn": "Is Luxembourg already on a 35-hour week? Who works the most (and least) in Europe?",
+     "summary": "Les récents débats sur l'organisation du temps de travail et la compétitivité économique ont remis en lumière la durée effective du travail au Grand-Duché par rapport à ses voisins européens. Si les organisations syndicales réclament une adaptation du temps de travail face aux transformations technologiques, l'Union des Entreprises Luxembourgeoises avertit fermement contre toute réduction uniforme qui pénaliserait la viabilité des petites et moyennes entreprises. Les données comparatives montrent une situation nuancée où la forte productivité du secteur financier et tertiaire influence le volume global d'heures prestées. Le gouvernement privilégie pour l'instant la flexibilité négociée au niveau des conventions collectives sectorielles.",
+     "why": "La question de la durée du travail oppose compétitivité des entreprises et revendications des salariés dans le débat économique.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    }
+   ]
+  },
+  {
+   "name": "Monde / géopolitique",
+   "stories": [
+    {
+     "source": "AP News",
+     "lang": "en",
+     "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOOUd4MWZqTjdxYkRUaW55bWxuNy1BX1FaZVNYZHRtNEg4NWdzTENNMlVLOUt6QlptMzd1cUtLanJ0U1pPNVVrbjZDRXo0UWszZjV6d09hRy1GaUFFWE9PUmtzRnFxOUxJdW1OTy0zT21LbnU3RGlhQUUtNHlnRW9nUjhJRmQ0QUFDME9oelNZTVQ?oc=5",
+     "headline": "Trump, Xi and Putin plan unprecedented joint meeting on APEC sidelines, White House and Kremlin say",
+     "headlineEn": "Trump, Xi et Poutine prévoient une rencontre conjointe inédite en marge de l'APEC, selon la Maison Blanche et le Kremlin",
+     "summary": "The White House and the Kremlin announced that Donald Trump, Xi Jinping, and Vladimir Putin are planning an unprecedented joint meeting on the sidelines of the upcoming APEC summit in China. This diplomatic initiative comes at a critical juncture marked by ongoing international security crises and shifting global alliances across Eurasia. Analysts note that while the meeting presents a rare platform for direct high-level dialogue among the world's three most powerful leaders, it also raises deep strategic concerns among European and Asian allies. Many Western diplomats fear being sidelined in key geopolitical decisions regarding European security and trade agreements.",
+     "why": "Un sommet tripartite entre les dirigeants américain, chinois et russe marquerait un tournant diplomatique majeur pour la sécurité mondiale.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    },
+    {
+     "source": "Le Monde",
+     "lang": "fr",
+     "url": "https://www.lemonde.fr/international/article/2026/11/15/somment-de-la-francophonie-emmanuel-macron-appelle-a-l-unite-et-au-consensus-face-aux-tensions-entre-la-rdc-et-le-rwanda_6810995_3210.html",
+     "headline": "Sommet de la francophonie : Emmanuel Macron appelle à l’« unité » et au « consensus » face aux tensions entre la RDC et le Rwanda",
+     "headlineEn": "Francophonie Summit: Emmanuel Macron calls for 'unity' and 'consensus' amidst tensions between DRC and Rwanda",
+     "summary": "Le XXe sommet de l'Organisation internationale de la Francophonie s'est ouvert à Phnom Penh dans un climat diplomatique alourdi par la vive rivalité entre la République démocratique du Congo et le Rwanda. Kinshasa s'oppose formellement à la reconduction de la Rwandaise Louise Mushikiwabo à la tête de l'organisation, accusant Kigali de soutenir les groupes armés rebelles dans l'est congolais. Face à cette impasse institutionnelle qui menace la cohésion de l'espace francophone, le président français Emmanuel Macron a multiplié les interventions pour appeler au consensus et préserver l'unité des États membres. Les négociations en coulisses s'annoncent particulièrement délicates pour désigner la future direction.",
+     "why": "La crise diplomatique entre Kinshasa et Kigali paralyse les institutions francophones et souligne l'instabilité persistante dans les Grands Lacs.",
+     "paywalled": true,
+     "contested": "",
+     "chart": null
+    },
+    {
+     "source": "BBC",
+     "lang": "en",
+     "url": "https://www.bbc.co.uk/news/articles/c3rrg9xgqlwpo",
+     "headline": "Three men sentenced to death in Jordan over fatal church mass shooting",
+     "headlineEn": "Trois hommes condamnés à mort en Jordanie pour la fusillade meurtrière dans une église",
+     "summary": "A court in Jordan has sentenced three men to death in connection with a mass shooting at a Greek Orthodox church in Karak last month that killed nine people and injured dozens. The deadly attack had deeply shocked the kingdom and raised widespread concerns over religious extremism and internal stability. Following solemn promises of uncompromising justice from King Abdullah II, the swift conclusion of the judicial process underscores Amman's determination to maintain internal order and protect religious minorities amidst regional turmoil. Security measures around places of worship have been significantly reinforced across the country following the verdict.",
+     "why": "Cette condamnation reflète la fermeté des autorités jordaniennes face aux attaques confessionnelles menaçant la stabilité interne du royaume.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    }
+   ]
+  },
+  {
+   "name": "International — hors Europe",
+   "stories": [
+    {
+     "source": "BBC",
+     "lang": "en",
+     "url": "https://www.bbc.co.uk/news/articles/cr4gnz0lv2vlo",
+     "headline": "Pope Leo speaks of community 'suffering' on visit to remote Andes town",
+     "headlineEn": "Le pape Léon s'exprime sur la « souffrance » des communautés lors de sa visite dans les Andes",
+     "summary": "Pope Leo XIV continued his emotional tour through Peru, visiting remote communities in the Andes and returning to his former diocese in Chiclayo, where he served as bishop for eight years. The pontiff addressed the severe poverty, social inequalities, and rural exodus affecting the region, drawing massive crowds of over a million faithful across his public appearances. While local populations welcomed him with overwhelming enthusiasm, regional health authorities remained on high alert due to a surge in health risks associated with the massive gatherings. The visit highlighted both the strong religious bonds and pressing socioeconomic challenges in South America.",
+     "why": "Le voyage pontifical met en lumière les tensions sociales et les défis économiques qui touchent les populations rurales d'Amérique latine.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    },
+    {
+     "source": "Le Monde",
+     "lang": "fr",
+     "url": "https://www.lemonde.fr/afrique/article/2026/11/15/six-mois-d-epidemie-d-ebola-en-rdc-ils-racontent-leur-vie-en-premiere-ligne-face-au-virus_6810987_3212.html",
+     "headline": "Six mois d’épidémie d’Ebola en RDC : ils racontent leur vie en première ligne face au virus",
+     "headlineEn": "Six months of Ebola epidemic in DRC: Frontline workers share their fight against the virus",
+     "summary": "Six mois après la déclaration officielle de l'épidémie d'Ebola en République démocratique du Congo, le bilan s'est dramatiquement alourdi à plus de 5 400 morts dans les provinces touchées. Sur le terrain, soignants et humanitaires luttent au quotidien dans des conditions sanitaires précaires, handicapés par le manque de ressources médicales et la résurgence des conflits armés. Cette crise sanitaire majeure met à rude épreuve les structures médicales locales et suscite de vives inquiétudes au sein des organisations internationales quant aux risques de propagation régionale. L'accès aux populations vulnérables reste l'obstacle principal pour les équipes d'urgence déployées sur place.",
+     "why": "L'urgence sanitaire liée à Ebola en Afrique centrale menace la vie de milliers de personnes et requiert une aide internationale accrue.",
+     "paywalled": true,
+     "contested": "",
+     "chart": null
+    },
+    {
+     "source": "Euronews",
+     "lang": "en",
+     "url": "https://www.euronews.com/2026/11/15/cape-verde-heads-to-the-polls-in-presidential-election",
+     "headline": "Cape Verde heads to the polls in presidential election",
+     "headlineEn": "Le Cap-Vert se rend aux urnes pour l'élection présidentielle",
+     "summary": "Voters in Cape Verde cast their ballots in a presidential election featuring incumbent President José Maria Neves alongside a competitive field of opposition candidates, including the nation's first female presidential contender, Joana Rosa. Key campaign debates centered around economic diversification, climate change vulnerability, and managing the country's substantial diaspora and emigration flows. The voting process proceeded peacefully across the archipelago, confirming the island nation's reputation for democratic stability in West Africa. Election observers monitored polling stations to ensure transparency, while official results are expected to determine whether a second-round runoff will be required.",
+     "why": "Ce scrutin confirme le modèle démocratique du Cap-Vert dans une région ouest-africaine souvent marquée par l'instabilité politique.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    },
+    {
+     "source": "DW",
+     "lang": "de",
+     "url": "https://www.dw.com/de/australien-und-philippinen-schließen-verteidigungsabkommen/a-79951853?maca=de-rss-de-all-1119-rdf",
+     "headline": "Australien und Philippinen schließen Verteidigungsabkommen",
+     "headlineEn": "Australia and Philippines sign defence pact",
+     "summary": "Die Philippinen und Australien haben ein weitreichendes Sicherheits- und Verteidigungsabkommen unterzeichnet, um ihre militärische Zusammenarbeit im Indopazifik deutlich zu vertiefen. Der Pakt ist eine direkte Antwort auf Chinas zunehmend aggressives Auftreten im Südchinesischen Meer und soll die regionale Abschreckung nachhaltig stärken. Neben gemeinsamen Militärmanövern beinhaltet die Vereinbarung einen erweiterten Austausch von Verteidigungstechnologien sowie regelmäßige koordinierte maritime Patrouillen in strategischen Gewässern. Diese Allianz ordnet die Sicherheitsarchitektur in Südostasien neu und vertieft die Anbindung regionaler Partner an westliche Sicherheitsstrukturen vor dem Hintergrund steigender geopolitischer Spannungen in der gesamten Asien-Pazifik-Region.",
+     "why": "Ce partenariat militaire renforce le réseau d'alliances face à l'affirmation stratégique et maritime de la Chine dans la région.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    }
+   ]
+  },
+  {
+   "name": "Europe & politiques de l'UE",
+   "stories": [
+    {
+     "source": "France 24",
+     "lang": "fr",
+     "url": "https://www.france24.com/fr/vid%C3%A9o/20261115-hongrie-17-7-millions-d-euros-saisis-dans-une-enqu%C3%AAte-visant-un-ancien-ministre",
+     "headline": "Hongrie : 17,7 millions d'euros saisis dans une enquête visant un ancien ministre",
+     "headlineEn": "Hungary: 17.7 million euros seized in investigation targeting former minister",
+     "summary": "L'agence anticorruption hongroise a annoncé la saisie spectaculaire de 17,7 millions d'euros en liquide, dissimulés notamment dans des forêts, dans le cadre d'une enquête pour corruption visant Miklós Seszták, ancien ministre du Développement national. Cette affaire retentissante intervient dans un contexte politique délicat où le gouvernement de Viktor Orbán fait face à des pressions renouvelées de Bruxelles sur le respect de l'État de droit. Parallèlement, la publication récente d'archives de l'ère communiste suscite de vifs débats politiques à Budapest sur la transparence des élites. Ces événements accentuent les frictions internes avant les prochaines échéances électorales dans le pays.",
+     "why": "Ce scandale financier et les révélations d'archives remettent la lutte contre la corruption au cœur des relations entre Budapest et Bruxelles.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    },
+    {
+     "source": "Al Jazeera",
+     "lang": "en",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/15/police-confront-protesters-in-clashes-across-france-and-germany?traffic_source=rss",
+     "headline": "Police confront protesters in clashes across France and Germany",
+     "headlineEn": "La police affronte des manifestants lors de heurts en France et en Allemagne",
+     "summary": "Massive demonstrations over rising living costs, pension reforms, and economic insecurity led to clashes between police and protesters in major cities across France and Germany. The social unrest reflects growing frustration among citizens who feel squeezed by persistent inflation and government spending priorities. Trade unions and student organizations warned that failure to address purchasing power, wage stagnation, and housing affordability could trigger wider political instability across the European Union. Municipal authorities in Paris and Berlin reported significant disruptions to public transport and commerce as security forces deployed tear gas to disperse crowds.",
+     "why": "Les tensions sociales récurrentes dans les grandes économies européennes menacent la stabilité politique et les réformes budgétaires.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    },
+    {
+     "source": "DW",
+     "lang": "de",
+     "url": "https://www.dw.com/de/türkei-tausende-protestieren-am-rande-der-cop31-in-antalya/a-79951855?maca=de-rss-de-all-1119-rdf",
+     "headline": "Türkei: Tausende protestieren am Rande der COP31 in Antalya",
+     "headlineEn": "Turkey: Thousands protest on the sidelines of COP31 in Antalya",
+     "summary": "Am Rande der UN-Klimakonferenz COP31 im türkischen Antalya haben Tausende Menschen für entschiedenere Maßnahmen gegen den weltweiten Klimawandel und für den Schutz der Bürgerrechte demonstriert. Die Proteste richteten sich sowohl gegen diplomatische Verzögerungstaktiken bei den internationalen Verhandlungen als auch gegen die Energiepolitik der türkischen Gastgeber. Vertreter der Vereinten Nationen mahnten erneut Eile bei der Anhebung der nationalen Emissionsreduktionsziele an, um die globalen Erwärmungsgrenzen einzuhalten. Gleichzeitig prangerten Umweltverbände die anhaltende Abhängigkeit vieler Schwellenländer von fossilen Importen an, was den Fortschritt bei den multilateralen Gesprächen in Antalya erheblich erschwert.",
+     "why": "Les frictions à la COP31 illustrent les blocages majeurs entre exigences climatiques globales et impératifs énergétiques nationaux.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    }
+   ]
+  },
+  {
+   "name": "Économie & marchés",
+   "stories": [
+    {
+     "source": "Le Monde",
+     "lang": "fr",
+     "url": "https://www.lemonde.fr/economie/article/2026/11/15/le-lent-declin-economique-de-la-france-face-au-reste-de-l-europe_6810984_3234.html",
+     "headline": "Le lent déclin économique de la France face au reste de l’Europe",
+     "headlineEn": "France's slow economic decline compared to the rest of Europe",
+     "summary": "Selon de récentes analyses économiques, la France enregistre une croissance parmi les plus faibles de la zone euro cette année, entraînant un glissement continu de son produit intérieur brut par habitant sous la moyenne européenne. Ce retard structurel s'explique par de faibles gains de productivité, une dette publique historiquement élevée et un ralentissement des investissements industriels par rapport aux partenaires continentaux. Les économistes alertent sur les conséquences à long terme pour le financement du modèle social français si des réformes budgétaires d'envergure ne sont pas engagées. La dégradation des comptes publics complique la tâche de l'exécutif face aux exigences européennes.",
+     "why": "Le décrochage économique français fragilise l'équilibre financier de la zone euro et ravive les débats sur la discipline budgétaire.",
+     "paywalled": true,
+     "contested": "",
+     "chart": null
+    },
+    {
+     "source": "BBC",
+     "lang": "en",
+     "url": "https://www.bbc.co.uk/news/articles/c6wy9lynq4qno",
+     "headline": "Copper wire upgrade behind US flight suspension, transport secretary says",
+     "headlineEn": "Le remplacement de câbles en cuivre à l'origine de la suspension des vols aux États-Unis, selon le secrétaire aux Transports",
+     "summary": "United States air travel began normalizing after a nationwide Federal Aviation Administration ground stop forced thousands of flight cancellations and stranded travelers over the weekend. Transportation Secretary Sean Duffy explained that the systemic failure was triggered during routine contractor maintenance to replace aging copper wire communications infrastructure. The massive disruption highlighted the severe vulnerability of critical transport networks to single-point hardware failures and prompted immediate congressional calls for an emergency overhaul of FAA technical systems. Major airlines are working around the clock to clear passenger backlogs while federal inspectors examine potential contractual negligence in maintenance procedures.",
+     "why": "La vulnérabilité des infrastructures clés américaines pose un risque économique direct pour le secteur des transports et le commerce.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    },
+    {
+     "source": "Bloomberg",
+     "lang": "en",
+     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQZFN4Yk1qMGk3ejFQc2RuVXlMMWoxUmd6T3NHOGM1WEFCd2E2ZFplM0NXMGRhb3VFS0VtWEtVajlzUS1UV0N6aVpZSlB5Wm5rbWNTUG9nNTNoNUI1LXB1OF9vUWxRNHVSaXBkbmJlbXFYZ1BWWllpY2FoUmnKWXdycXM4VTZXNldjVDJTUHYzRG1IWUt5Ujc3NjFvYWVab1IyUWxQaVVkb2E0NWlLY1hyRHZ3?oc=5",
+     "headline": "Bitcoin Tumbles to Three-Month Low as Liquidations Accelerate",
+     "headlineEn": "Le Bitcoin chute à son plus bas niveau depuis trois mois alors que les liquidations s'accélèrent",
+     "summary": "Digital asset markets suffered a sharp downturn as Bitcoin dropped to a three-month low, triggering a cascade of forced liquidations across major cryptocurrency exchanges worldwide. Financial analysts attribute the market weakness to broader risk aversion among institutional investors, persistent regulatory scrutiny, and spillover effects from recent tech sector volatility. The sell-off has left crypto traders bracing for prolonged market turbulence as capital inflows slow down significantly across spot products. Market participants are monitoring central bank policy signals and macroeconomic indicators closely to gauge whether digital assets can stabilize in the final quarter of the trading year.",
+     "why": "La correction brutale sur les crypto-actifs reflète le regain de prudence des investisseurs face aux incertitudes macroéconomiques.",
+     "paywalled": true,
+     "contested": "",
+     "chart": null
+    }
+   ]
+  },
+  {
+   "name": "Technologie & sciences",
+   "stories": [
+    {
+     "source": "Euronews",
+     "lang": "fr",
+     "url": "https://fr.euronews.com/video/2026/11/15/spacex-reussit-la-premiere-capture-en-vol-de-starship-par-sa-tour-de-lancement",
+     "headline": "SpaceX réussit la première capture en vol de Starship par sa tour de lancement",
+     "headlineEn": "SpaceX achieves first midair capture of Starship by its launch tower",
+     "summary": "SpaceX a franchi une étape historique dans la technologie spatiale en réussissant la capture en vol de son vaisseau Starship par les bras mécaniques de sa tour de lancement au Texas. Cette prouesse d'ingénierie valide le concept de réutilisabilité intégrale des lanceurs super-lourds développé par l'entreprise d'Elon Musk. Malgré des ajustements techniques encore nécessaires sur l'étage supérieur lors des phases d'atterrissage, ce succès ouvre la voie à une réduction drastique des coûts d'accès à l'espace. Cette avancée consolide la position dominante de l'entreprise pour les futures missions d'exploration lunar et martienne menées en partenariat avec la NASA.",
+     "why": "La maîtrise de la réutilisation complète des mégafusées révolutionne l'économie du spatial et les programmes d'exploration future.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    },
+    {
+     "source": "BBC",
+     "lang": "en",
+     "url": "https://www.bbc.co.uk/news/articles/cwn83gxemk35o",
+     "headline": "Italy fines Meta €805m over accessing users' photos",
+     "headlineEn": "L'Italie inflige une amende de 805 millions d'euros à Meta pour l'accès aux photos des utilisateurs",
+     "summary": "Italian competition authorities have imposed an €805 million fine on Meta, accusing the social media giant of accessing user photos without obtaining explicit and specific consent. Regulators stated that millions of platform users were insufficiently informed about how their personal visual data was being processed and utilized across services. The sanction marks another major regulatory crackdown by European watchdogs enforcing strict data privacy standards on multinational tech corporations. Meta announced its intention to appeal the decision, arguing that its data handling practices fully comply with European regulations and existing user transparency requirements across the continent.",
+     "why": "Cette amende record souligne la sévérité accrue des régulateurs européens face à l'utilisation non consentie des données personnelles par les géants du Web.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    },
+    {
+     "source": "AP News",
+     "lang": "en",
+     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOcjhSbmVIV2VsQXprSVowOFVLUWV3T1pPUGFNekUxc0xEeHJMV0dqRENUNDNLSDFFaHhpQWRsMDdadjNXZThxak9nbm5uLS1fRWdMQUJnZWd6UTFicjZBZEMzbEFrRTFGanB5ekdrQTdOZVJ4YzZzR2pBQjYwMk8tSkdibkxTYUxrdjV6UW5TRHlfRmRNOWpfX1lRSGtSY09GZDRB?oc=5",
+     "headline": "NASA’s Voyager 1 closes in on a light-day in interstellar space for a new distance record",
+     "headlineEn": "Voyager 1 de la NASA s'approche d'un jour-lumière dans l'espace interstellaire, établissant un nouveau record",
+     "summary": "NASA's historic Voyager 1 probe is reaching an unprecedented scientific milestone as it closes in on a distance of one light-day from Earth in interstellar space. Launched in 1977, the legendary spacecraft continues to transmit valuable measurements from beyond the heliosphere despite aging hardware and significant communication delays. Mission engineers at NASA have successfully managed to maintain operational contact and resolve technical glitches, keeping Voyager 1 active. As the most distant human-made object in history, the probe provides unique insights into the interstellar environment and cosmic radiation parameters unreachable by any other scientific instrument operating today.",
+     "why": "La longévité exceptionnelle de Voyager 1 fournit des données uniques sur les frontières ultimes de notre système solaire.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    }
+   ]
+  },
+  {
+   "name": "Sport",
+   "stories": [
+    {
+     "source": "Süddeutsche Zeitung",
+     "lang": "de",
+     "url": "https://www.faz.net/aktuell/sport/fussball/nations-league-regeln-dfb-team-von-juergen-klopp-kann-noch-absteigen-accg-201684315.html",
+     "headline": "3:1 der DFB-Elf in Belgrad: Skurriles Tiki-Taka im Schlamm",
+     "headlineEn": "3-1 victory for the German team in Belgrade: Bizarre tiki-taka in the mud",
+     "summary": "Die deutsche Fußball-Nationalmannschaft hat in der Nations League einen wichtigen 3:1-Auswärtssieg in Belgrad gefeiert. Auf extrem schwierigem und schlammigem Boden setzte sich das Team unter Bundestrainer Jürgen Klopp dank einer effizienten Chancenverwertung durch. Durch diesen Erfolg wahrte die DFB-Auswahl ihre Chance auf den Einzug ins Viertelfinale des Wettbewerbs, während die taktische Abstimmung der Mannschaft in der Gruppenphase weiter voranschreitet.",
+     "why": "Ce succès relance la dynamique de l'équipe d'Allemagne en Nations League sous la conduite de Jürgen Klopp.",
+     "paywalled": true,
+     "contested": "",
+     "chart": null
+    },
+    {
+     "source": "France 24",
+     "lang": "fr",
+     "url": "https://www.france24.com/fr/france/20261115-pr%C3%A9sidentielle-2027-teddy-riner-cr%C3%A9dit%C3%A9-de-4-5-dans-un-sondage-david-lisnard-gagne-des-points",
+     "headline": "Les Bleus battent les Springboks à Paris pour la première fois depuis 21 ans",
+     "headlineEn": "Les Bleus defeat the Springboks in Paris for the first time in 21 years",
+     "summary": "Le XV de France a signé un exploit retentissant en s'imposant face aux champions du monde sud-africains à Paris. Au terme d'un match intense et engagé, les Tricolores ont brisé une disette de 21 ans à domicile contre les Springboks. Cette victoire prestigieuse confirme le niveau de jeu de la sélection française et valide ses choix tactiques en vue des prochaines échéances internationales.",
+     "why": "Ce succès historique face aux champions du monde consolide le rang de la France au sommet du rugby mondial.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    }
+   ]
+  }
+ ],
+ "sourced": true,
+ "feeds": {
+  "ok": 27,
+  "of": 29,
+  "items": 251,
+  "skipped": [
+   "Reuters (FR)",
+   "CFR (EN)"
+  ]
+ },
+ "words": 5202,
+ "readMin": 26,
+ "storyCount": 25
+}
