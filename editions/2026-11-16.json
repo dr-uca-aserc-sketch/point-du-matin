@@ -1,0 +1,358 @@
+{
+ "date": "2026-11-16",
+ "kind": "daily",
+ "heat": 0.8,
+ "oneThing": "",
+ "followUps": [
+  {
+   "n": "01",
+   "thread": "Panne du contrôle aérien américain",
+   "change": "Les aéroports américains amorcent un retour progressif à la normale après trois jours de perturbations majeures causées par une interdiction nationale de décollage."
+  },
+  {
+   "n": "02",
+   "thread": "Crise de gouvernance chez Nvidia",
+   "change": "La campagne pour réintégrer l'ancien directeur général Jensen Huang prend de l'ampleur en Silicon Valley avec le soutien public d'Elon Musk."
+  },
+  {
+   "n": "03",
+   "thread": "Procès pour agressions sexuelles de Gérard Depardieu",
+   "change": "L'acteur français a renoncé à son procès en appel et a présenté ses excuses sincères aux plaignantes, rendant sa peine définitive."
+  }
+ ],
+ "mustReads": [
+  {
+   "desk": "Transport",
+   "source": "Euronews",
+   "lang": "EN",
+   "paywalled": false,
+   "url": "https://www.euronews.com/2026/11/16/us-airports-slowly-return-to-normal-after-three-days-of-disruption-caused-by-take-off-ban",
+   "headline": "US airports slowly return to normal after three days of disruption caused by take-off ban",
+   "headlineEn": "Les aéroports américains reviennent lentement à la normale après trois jours de perturbations causées par une interdiction de décollage",
+   "contested": "",
+   "why": "La panne inédite du système de contrôle aérien américain souligne la vulnérabilité critique des infrastructures de transport et relance les débats budgétaires à Washington.",
+   "stat": "17,000",
+   "statLabel": "vols annulés lors de la pire panne technologique ayant frappé le contrôle aérien américain",
+   "chart": null,
+   "paras": [
+    "Airports across the United States are gradually returning to normal operations following three consecutive days of severe disruption triggered by a nationwide ground stop. The unprecedented ban on aircraft take-offs left thousands of passengers stranded in terminals across the country over the weekend. Travelers were forced to sleep on airport floors, wait in massive lines for rebooking, and endure constant flight delays. The breakdown was caused by a major technical failure within the system that manages air traffic control communications, exposing serious vulnerabilities in the nation's critical aviation infrastructure.",
+    "Transportation officials worked around the clock to restore system functionality and manage the backlog of affected flights. US Transportation Secretary Sean Duffy expressed confidence that air travel operations would stabilize significantly by the end of Monday. However, airlines continue to struggle with repositioning aircraft and crew members to their designated locations. Despite the technical fixes applied to the core network, hundreds of flights remained delayed or cancelled on Monday morning. The domino effect of the weekend shutdown is expected to linger for several days as carriers work tirelessly to clear the remaining backlog.",
+    "The severity of the outage has reignited intense political debate regarding the state of American transportation infrastructure. The Trump administration responded to the crisis by renewing its call for emergency funding, requesting an additional fifty billion dollars to modernize the national air traffic control architecture. Officials argue that existing technological frameworks are outdated and incapable of handling modern traffic volumes reliably. Lawmakers in Congress previously allocated twelve point five billion dollars for system upgrades, but critics contend that bureaucratic delays and slow deployment have left essential systems vulnerable to catastrophic failures.",
+    "Major airports in hub cities experienced the most concentrated disruption, where tens of thousands of transit passengers found themselves stranded without immediate alternative travel options. Customer service counters were overwhelmed as travelers sought refunds, hotel vouchers, and flight changes. Airlines attempted to mitigate the chaos by offering flexible rebooking policies and waiving change fees for affected passengers. However, limited seat availability on subsequent flights meant that many travelers faced multi-day delays before reaching their final destinations, causing widespread frustration among both business travelers and vacationers alike.",
+    "Industry analysts point out that the economic fallout from the ground stop extends far beyond airline revenue losses. Grounded flights have disrupted air freight operations, leading to delays in time-sensitive cargo deliveries across North America. Businesses relying on just-in-time supply chains have reported logistical bottlenecks, while the hospitality sector in major tourism destinations experienced cancellations due to missing arrivals. The incident highlights how deeply interconnected digital control infrastructure is with the broader national economy, reinforcing demands from both industry leaders and consumer advocacy groups for immediate structural reforms.",
+    "As operations gradually normalize, federal regulators and defense contractors involved in air traffic management face mounting scrutiny. Congressional committees are preparing hearings to investigate the root causes of the technical glitch and assess why secondary backup mechanisms failed to prevent a complete ground stop. Transportation Secretary Duffy promised a comprehensive investigation, emphasizing that establishing redundant safety nets remains a top priority. The crisis serves as a stark reminder of the fragile state of critical public infrastructure and the urgent necessity for modern, resilient digital technology in modern aviation."
+   ]
+  }
+ ],
+ "desks": [
+  {
+   "name": "Luxembourg",
+   "stories": [
+    {
+     "source": "Luxemburger Wort",
+     "lang": "de",
+     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOTDdXTDl2c2FoZXExOHpNVXZoTVluN3JBVUpQR2YzREVELVhhaVB5bklXallPdkg1UWEtSExpM1RPSVR4RUExRHdUNUFySTVHSDVGOHlrLWd5ckp2bU55LTYta2RTUDBRakFXaXFCeGNva1owRjBYTjh3OElETkc3TF9oMWZUVVFEdFBRX05YZC1wWGlxdXBvcTFmVWhCdE9mNFJkYW1WTEp0UQ?oc=5",
+     "headline": "Gasflasche explodiert auf Weihnachtsmarkt – Zwei Schwerverletzte",
+     "headlineEn": "Gas cylinder explodes at Christmas market – Two seriously injured",
+     "summary": "Auf einem Weihnachtsmarkt in Luxemburg ist es zu einem schweren Zwischenfall gekommen, bei dem eine Gasflasche explodiert ist. Nach ersten Berichten der Einsatzkräfte wurden durch den Vorfall mindestens zwei Personen schwer verletzt und mussten umgehend medizinisch versorgt werden. Die örtliche Polizei und Rettungsdienste sperrten den betroffenen Bereich umgehend ab, um weitere Gefahren für Besucher auszuschließen und Ermittlungen zur Ursache aufzunehmen. Die genauen Umstände des Unglücks sowie der technische Zustand der verwendeten Gasinstallation werden derzeit von den zuständigen Behörden untersucht, um künftige Sicherheitsstandards anzupassen.",
+     "why": "Cet incident tragique met en lumière les enjeux de sécurité sur les marchés de Noël à l'approche des fêtes.",
+     "paywalled": true,
+     "contested": "",
+     "chart": null
+    },
+    {
+     "source": "Luxemburger Wort",
+     "lang": "de",
+     "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOQ3JZNi1mb0FEZkIzWjdxUENSdmc0UDBHM05WYWNRbGxWaHVPTV9KY211LVZIS3RxVWx1cGtuRFNjSUdVdHhaOEtMSVBjanVDY1ZWdWpXRFIxQnBKaWhxcnh5Y1ozRFNxODU4ejVHSEtPZFVVRWNsdmVrT0hhZHVSbHgxYw?oc=5",
+     "headline": "Schulplanung im Norden",
+     "headlineEn": "School planning in the North",
+     "summary": "Die Schulplanung im Norden Luxemburgs steht im Mittelpunkt aktueller infrastruktureller und regionaler Diskussionen. Aufgrund der demografischen Entwicklung und des anhaltenden Bevölkerungszuwachses in den nördlichen Gemeinden steigt der Bedarf an modernen Unterrichtsräumen und erweiterter Schulinfrastruktur spürbar an. Die zuständigen Stellen analysieren derzeit die Kapazitäten der bestehenden Einrichtungen, um notwendige Ausbauten und Neubauprojekte zielgerichtet zu koordinieren. Dabei arbeiten die Ministerien eng mit den lokalen Gemeindeverwaltungen zusammen, um tragfähige Konzepte für die kommenden Jahre zu entwickeln.",
+     "why": "L'adaptation des infrastructures scolaires dans le nord du pays constitue un défi majeur face au développement démographique régional.",
+     "paywalled": true,
+     "contested": "",
+     "chart": null
+    },
+    {
+     "source": "RTL.lu",
+     "lang": "fr",
+     "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOUTBBMlZQYmxYUGpxRzFTYmk4ZDVZeURKeTJ6SDZ3cHRzU1pka2p2XzdLM2NQNXVFQjlJQ2VjUFpfdGszSkdvRnZnZXZiYnRLOElwVmF2YWF2Z2tBemx2MzVMVGljNlpPZG85Z1dyMUF1X2FUcEJMUGYzS1dIazVWUU9GODB2RnRhUVdtNjJhcXNWNzJhbkl3elNMQW5VM1hxbEJnVWFYTFBPcVNTY2JieQ?oc=5",
+     "headline": "Le crime avait été planifié au Luxembourg: Début du procès en appel d'un meurtre commis au Portugal en 2021",
+     "headlineEn": "Crime planned in Luxembourg: Appeal trial opens for 2021 murder committed in Portugal",
+     "summary": "Le procès en appel d'une affaire criminelle complexe s'est ouvert concernant un meurtre commis au Portugal en 2021, dont la planification aurait eu lieu au Luxembourg. Les autorités judiciaires réexaminent les éléments du dossier afin de déterminer avec précision l'implication des différents prévenus dans la préparation et l'exécution de cet acte violent. La dimension transfrontalière du dossier requiert une étroite collaboration entre les juridictions luxembourgeoises et portugaises pour établir l'enchaînement exact des faits. Cette audience doit permettre de clarifier les responsabilités individuelles et de réévaluer les peines prononcées lors du premier jugement.",
+     "why": "Cette affaire souligne l'importance de la coopération judiciaire transfrontalière entre le Luxembourg et les autres pays européens.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    }
+   ]
+  },
+  {
+   "name": "Monde / géopolitique",
+   "stories": [
+    {
+     "source": "FT",
+     "lang": "en",
+     "url": "https://www.ft.com/content/cf57a196-bcbc-4605-a977-73fa0498aeed?syn-25a6b1a6=1",
+     "headline": "Ukraine strikes Crimean Bridge in record drone attack",
+     "headlineEn": "L'Ukraine frappe le pont de Crimée lors d'une attaque record de drones",
+     "summary": "Ukraine has launched a massive drone strike targeting the strategic Crimean Bridge, marking one of the largest aerial operations since the start of the conflict. According to Russian defense officials, over 1,300 Ukrainian drones were intercepted across various regions overnight during this unprecedented wave of attacks. The strike on the key supply line coincides with ongoing Russian bombardments against Ukraine's energy grid, which have left thousands of households without electricity. This escalation highlights the intensifying long-range battle between both nations as winter approaches, compounding infrastructure challenges and regional stability.",
+     "why": "L'escalade des frappes ciblées sur les infrastructures stratégiques et énergétiques accentue la vulnérabilité des réseaux électriques à l'approche de l'hiver.",
+     "paywalled": true,
+     "contested": "",
+     "chart": null
+    },
+    {
+     "source": "France 24",
+     "lang": "fr",
+     "url": "https://www.france24.com/fr/vid%C3%A9o/20261116-estonie-le-pays-ferme-sa-fronti%C3%A8re-avec-la-russie-apr%C3%A8s-une-tentative-d-attaque",
+     "headline": "Estonie : le pays ferme sa frontière avec la Russie après une tentative d'attaque",
+     "headlineEn": "Estonia closes its border with Russia following an attempted attack",
+     "summary": "L'Estonie a annoncé la fermeture complète de ses postes-frontières avec la Russie à compter du 1er décembre, à la suite d'une tentative d'incendie criminel visant une entreprise du secteur de la défense. Les autorités de Tallinn attribuent directement cet acte de sabotage aux services de renseignement militaires russes. Cette décision drastique reflète la montée des tensions sécuritaires le long de la frontière orientale de l'Union européenne et de l'OTAN. En réaction, Moscou a vivement dénoncé cette mesure d'isolement, tandis que les pays baltes renforcent leurs dispositifs de surveillance pour parer à de nouvelles menaces hybrides.",
+     "why": "La fermeture de la frontière par l'Estonie illustre le durcissement des mesures de sécurité de l'OTAN face aux cyberattaques et sabotages attribués à Moscou.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    },
+    {
+     "source": "AFP.com",
+     "lang": "en",
+     "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBITkVvWHV4SmhxNmxIaC1rSkk4Ui1LZWxUQjZNa1UwS3dpU2hSRnhRSVNnWi1zWUhjc0x6TGx1dGh3N0Q0V1R6WDBOZw?oc=5",
+     "headline": "Czechs stage huge rally against public-media funding overhaul",
+     "headlineEn": "Des dizaines de milliers de Tchèques manifestent contre la réforme du financement des médias publics",
+     "summary": "Hundreds of thousands of protesters gathered in Prague to demonstrate against proposed legislative changes to the funding model of Czech public media. The mass rally, described as one of the largest public demonstrations in the country since 1989, was organized to protest reform plans introduced by Andrej Babis's government. Critics argue that altering the financial framework threatens the independence of public broadcasters and undermines journalistic freedom. Demonstrators called on political leaders to withdraw the measure and preserve public broadcasting integrity, highlighting growing civil society mobilization regarding democratic standards in Central Europe.",
+     "why": "Cette mobilisation massive reflète les inquiétudes grandissantes en Europe centrale quant à l'indépendance de la presse face aux réformes gouvernementales.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    }
+   ]
+  },
+  {
+   "name": "International — hors Europe",
+   "stories": [
+    {
+     "source": "Al Jazeera",
+     "lang": "en",
+     "url": "https://www.aljazeera.com/news/2026/11/16/jordan-bans-telegram-messing-app-over-national-security-concerns?traffic_source=rss",
+     "headline": "Jordan bans Telegram over national security concerns",
+     "headlineEn": "La Jordanie interdit l'application Telegram pour des raisons de sécurité nationale",
+     "summary": "Jordanian authorities have implemented an immediate ban on the messaging application Telegram, citing grave threats to national security and public safety. The government decision follows a recent deadly attack on a Greek Orthodox church that left seven people dead, triggering widespread security measures across the kingdom. Official statements indicate that the platform was being utilized to disseminate extremist content and facilitate radicalization among young users. While authorities urge citizens to remain vigilant on digital networks, civil rights advocates express concern over increasing state oversight of communications and online media platforms.",
+     "why": "L'interdiction de Telegram par Amman illustre la tension croissante entre la régulation des réseaux sociaux et la lutte contre le terrorisme au Moyen-Orient.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    },
+    {
+     "source": "Euronews",
+     "lang": "en",
+     "url": "https://www.euronews.com/2026/11/16/us-and-iran-slide-closer-to-fresh-all-out-war-as-new-exchange-of-fire-increases",
+     "headline": "US and Iran slide closer to fresh all-out war as new exchange of fire increases",
+     "headlineEn": "Les États-Unis et l'Iran se rapprochent d'un conflit ouvert après de nouveaux échanges de tirs",
+     "summary": "Tensions between the United States and Iran have escalated sharply following a series of military exchanges and naval incidents in the Strait of Hormuz. The arrival of a third US aircraft carrier group in the region underscores the growing military footprint aimed at deterring Iranian operations against commercial shipping. Both sides have traded warning shots and airstrikes, raising international fears of a broader confrontation that could disrupt critical maritime trade corridors. Gulf nations have expressed deep concern over the escalating rhetoric and are actively pursuing diplomatic channels to prevent a wider conflict.",
+     "why": "Le déploiement de renforts navals américains renforce le risque d'un embrasement militaire majeur affectant les voies maritimes pétrolières.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    },
+    {
+     "source": "AP News",
+     "lang": "en",
+     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNVTVlSTFUWUh3d3hoRUVkeHNEX0lpTXFqQUx2dG1FUjR0TnBNVkJqQ19sQWt3Y2loVHplWlpHZGFOZHNyTjdNMDRQQS1Dd0ZLT2dSSTVxRjY5MURzT1JabnNQdHo1RkFJNjBsR2hFV29LQmhfaENsVFk0X2hDSTZaVFRFYjVfaUJOd3J4MjFjcW13ZEVYTkpiMQ?oc=5",
+     "headline": "Pope in Peruvian rainforest demands justice for environmental defenders killed for protecting Amazon",
+     "headlineEn": "En Amazonie péruvienne, le pape réclame justice pour les défenseurs de l'environnement assassinés",
+     "summary": "During his visit to the Peruvian rainforest, Pope Leo XIV issued a strong plea for justice for environmental defenders and Indigenous leaders killed while protecting the Amazon. Speaking before local communities in Pucallpa, the pontiff emphasized the vital link between safeguarding human rights and preserving fragile tropical ecosystems threatened by illegal mining and deforestation. He urged governments and judicial authorities to end impunity for violent crimes committed against land protectors. The address formed a centerpiece of his South American tour, focusing heavily on Catholic social teachings regarding environmental stewardship and social equity.",
+     "why": "Le discours pontifical remet au centre de l'attention internationale la protection des leaders autochtones et la lutte contre la déforestation illégale.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    },
+    {
+     "source": "France 24",
+     "lang": "fr",
+     "url": "https://www.france24.com/fr/vid%C3%A9o/20261116-ebola-en-rdc-l-%C3%A9pid%C3%A9mie-a-fait-plus-de-5400-mort-en-six-mois",
+     "headline": "Ebola en RDC : l'épidémie a fait plus de 5400 mort en six mois",
+     "headlineEn": "Ebola in DRC: Epidemic has claimed over 5,400 lives in six months",
+     "summary": "L'épidémie d'Ebola qui sévit en République démocratique du Congo continue de se propager dramatiquement, affichant un bilan tragique de plus de 5 400 morts pour environ 11 000 cas recensés en six mois. Déclarée à la mi-mai, cette 17e vague épidémique est devenue la plus meurtrière de l'histoire du pays selon les autorités sanitaires locales. Les équipes médicales et les organisations internationales rencontrent d'immenses difficultés logistiques et sécuritaires pour contenir le virus dans les zones reculées. Les responsables de la santé publique lancent des appels urgents pour renforcer le déploiement des vaccins et des soins d'urgence.",
+     "why": "La gravité exceptionnelle de cette flambée d'Ebola menace la sécurité sanitaire régionale et nécessite une aide humanitaire d'urgence.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    },
+    {
+     "source": "Council on Foreign Relations",
+     "lang": "en",
+     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNWkVOVGJzNjJMekYxaDNhcU9wanlib0hRQ20yZC11NUFGbHlwSUV0ejFMZmtiWUpPVWF0dFdSeFVpNnRlSkVhenZKTVBYcjJKRW9SbF92STRLYkhSUmY5WkVZaFJfYXl0Skt2RzRRaVd3b3hPdzh6eV84dlBwR3QzZC1ERmRpMWh3QmYwLWVJNmRFMEJ3MW0tT2xaZ2pKcHc5eVh3WW0ySQ?oc=5",
+     "headline": "Trump Heads to the ASEAN and APEC Summits With Big Plans and Slim Prospects",
+     "headlineEn": "Donald Trump se rend aux sommets de l'ASEAN et de l'APEC avec de grandes ambitions mais de faibles perspectives",
+     "summary": "An analysis by the Council on Foreign Relations examines US President Donald Trump's diplomatic journey to Asia for the upcoming ASEAN and APEC regional summits. The report highlights the stark gap between the administration's ambitious economic agenda and the realistic diplomatic prospects on the ground following domestic midterm election setbacks. Southeast Asian leaders remain focused on regional trade stability, South China Sea maritime disputes, and energy security amid growing Sino-American rivalry. Consequently, analysts suggest that securing binding commitments or major strategic breakthroughs will prove difficult given the complex geopolitical dynamics currently at play in the Indo-Pacific.",
+     "why": "Cette analyse met en lumière la difficulté pour Washington d'imposer son agenda diplomatique en Asie dans un contexte géopolitique régional complexe.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    }
+   ]
+  },
+  {
+   "name": "Europe & politiques de l'UE",
+   "stories": [
+    {
+     "source": "BBC",
+     "lang": "en",
+     "url": "https://www.bbc.co.uk/news/articles/cw987343352go?at_medium=RSS&at_campaign=rss",
+     "headline": "Five EU countries expected to announce migrant deportation centre in Rwanda",
+     "headlineEn": "Cinq pays de l'UE s'apprêtent à annoncer un centre d'expulsion de migrants au Rwanda",
+     "summary": "Five European Union member states—Germany, Denmark, Austria, Greece, and the Netherlands—are expected to jointly announce the creation of a \"return hub\" in Rwanda for asylum seekers whose applications have been rejected. This collaborative initiative marks a significant shift toward externalizing migration processing and enforcement outside European borders. The proposed center aims to streamline deportation procedures while addressing domestic political pressure regarding irregular migration across the bloc. Officials hope this regional framework will deter unauthorized crossings and provide a standardized mechanism for returning individuals who do not qualify for legal protection in Europe.",
+     "why": "Cette initiative montre la volonté croissante de plusieurs États membres d'externaliser la gestion de l'asile hors des frontières de l'UE.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    },
+    {
+     "source": "France 24",
+     "lang": "fr",
+     "url": "https://www.france24.com/fr/vid%C3%A9o/20261116-estonie-le-pays-ferme-sa-fronti%C3%A8re-avec-la-russie-apr%C3%A8s-une-tentative-d-attaque",
+     "headline": "Estonie : le pays ferme sa frontière avec la Russie après une tentative d'attaque",
+     "headlineEn": "Estonia closes its border with Russia after attempted attack",
+     "summary": "L'Estonie a annoncé la fermeture complète de l'ensemble de ses postes-frontières avec la Russie à compter du 1er décembre. Cette décision radicale fait suite à une tentative d'incendie criminel ciblant une entreprise du secteur de la défense nationale à Tallinn. Les autorités estoniennes attribuent directement cet acte de sabotage aux services de renseignement militaire russes, dénonçant une escalade des menaces hybrides sur son territoire. En réaction à cette annonce, Moscou a exprimé son indignation face à ce qu'elle qualifie de mesure unilatérale disproportionnée, attisant davantage les tensions diplomatiques au sein de la région baltique.",
+     "why": "La fermeture complète de la frontière illustre la dégradation continue des relations sécuritaires entre les pays baltes et la Russie.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    },
+    {
+     "source": "Le Monde",
+     "lang": "fr",
+     "url": "https://www.lemonde.fr/international/video/2026/11/16/republique-tcheque-les-images-de-la-plus-grande-manifestation-dans-le-pays-depuis-1989_6811766_3210.html",
+     "headline": "République tchèque : les images de la plus grande manifestation dans le pays depuis 1989",
+     "headlineEn": "Czech Republic: Images of the country's largest protest since 1989",
+     "summary": "Près de 400 000 personnes se sont rassemblées dans les rues de Prague pour protester vigoureusement contre un projet de réforme de l'audiovisuel public. Portée par le gouvernement populiste d'Andrej Babis, cette révision législative vise à modifier en profondeur le mode de financement et de gouvernance des médias d'État. Il s'agit de la plus grande mobilisation populaire observée en République tchèque depuis la révolution de Velours en 1989. Les manifestants et l'opposition dénoncent une tentative de prise de contrôle politique sur l'information, redoutant une remise en cause directe de l'indépendance de la presse et des valeurs démocratiques.",
+     "why": "Cette mobilisation historique témoigne des vives tensions démocratiques autour de l'indépendance des médias publics en Europe centrale.",
+     "paywalled": true,
+     "contested": "",
+     "chart": null
+    }
+   ]
+  },
+  {
+   "name": "Économie & marchés",
+   "stories": [
+    {
+     "source": "Reuters",
+     "lang": "en",
+     "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPSU8ybmo1bVRKX3BseGRZODRWaUNpNm9kMlI4cDlydXhCbmU2SjBibjM1cVJpRmFxM3FvazZBRm5qMXd3REdGM0l3dU9Pd1hTeUlISnA3Z19IWTRiZHgxZGtVN3MwRE1yN09NZ0JUOXVXQ2NDNDZyMFg2TEYyZS1FU2hQVkJnV0M5UWZhZ2JjQVhiWVNuX1R6WnhnaElGdUFJSHowTmJpMTlwU3VVZGJ6V0JZTmd6LXFEOC1NNjU2WUtfZ0hk?oc=5",
+     "headline": "EXCLUSIVE: Italian court places Revolut unit under supervision over money-laundering",
+     "headlineEn": "Un tribunal italien place une filiale de Revolut sous tutelle judiciaire pour blanchiment d'argent",
+     "summary": "An Italian court in Milan has placed the local branch of digital banking giant Revolut under judicial administration following a major anti-money laundering investigation. Financial police discovered over a million compliance breaches, identifying around 76.5 million euros in suspect transactions that should have been flagged or intercepted by internal systems. Prosecutors allege that the platform was utilized by individuals linked to organized crime and illicit intelligence networks due to inadequate monitoring protocols. The court order mandates external supervisory oversight to ensure the fintech firm enforces rigorous anti-money laundering regulations while maintaining standard operations for its millions of Italian clients.",
+     "why": "L'intervention judiciaire contre Revolut illustre le renforcement des exigences réglementaires et sécuritaires imposées aux fintechs européennes.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    },
+    {
+     "source": "Reuters",
+     "lang": "en",
+     "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOZEJobHpHMl90WUdVbnpzSGxLb1l3bi1BczhrN29iVW9rUzBtQWE4aFNuM2ZGS1RIQThLdEZPWmZjeExVaHhRaXBubkdqR3R3TXJYTlRqUmRYcXZxYS1pV1lyRlExUDdEUWJ3cTg4aktJVWcxbkg5UW9oeVRXLXhCZjdRQmFNeFJlLXhpWTRMM1lEUVlodGwxVHNCSE9ONTlnem0yekw1dDNraElYZGc?oc=5",
+     "headline": "S&P 500, Nasdaq futures slide as Nvidia earnings, Anthropic debut loom",
+     "headlineEn": "Les contrats à terme sur le S&P 500 et le Nasdaq reculent avant les résultats de Nvidia et la cotation d'Anthropic",
+     "summary": "U.S. stock index futures, including the S&P 500 and Nasdaq, drifted lower as market participants braced for key corporate milestones in the technology sector. Investor anxiety stems from upcoming quarterly earnings reports from semiconductor leader Nvidia alongside the anticipated public debut of AI startup Anthropic. The broader market sentiment remains fragile amid lingering volatility around artificial intelligence valuations and executive leadership shifts across major tech firms. Analysts note that trading activity reflects heightened caution, with institutional investors reassessing risk exposure in high-growth technology equities before definitive financial results and market listings are published later this week.",
+     "why": "La nervosité des marchés financiers reflète l'incertitude croissante des investisseurs quant à la valorisation des géants du secteur de l'IA.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    },
+    {
+     "source": "Bloomberg",
+     "lang": "en",
+     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQTmNUWHFPcWxqZkFWd1prcHZTWVhENEs1VnA0a1BNX0FWMDIxdzQxOVR3TlBUQmIzeVBqNXZrME45bmp0bXNZRkJrQS1aTWtBd20xalpWamVuVUI1elBxTERpTWEtdEhfZHZfaThPdnl1aE95UGg3SnItSWVJQmI3SEtDZjhTSmJ5Tll3bWRCa2F1RHFPTGhGM3ZibjFRcWtjZkh2MmI3ZGVyOTdWTW5UQnZB?oc=5",
+     "headline": "China Car Output Slows to Four-Year Low as Domestic Demand Drops",
+     "headlineEn": "La production automobile chinoise tombe à son plus bas niveau en quatre ans face à la baisse de la demande intérieure",
+     "summary": "Automobile production in China has decelerated to its lowest level in four years as domestic consumer demand continues to weaken across the country. The sharp reduction in manufacturing output highlights broader economic headwinds, including sluggish consumer spending and intense price competition among local vehicle makers. Despite strong export push efforts, domestic sales volumes have failed to maintain previous growth momentum, forcing automakers to curtail assembly lines and adjust inventory targets. Industry analysts warn that persistent margin pressure and slowing domestic adoption could lead to further consolidation within China's expansive automotive manufacturing sector over the coming quarters.",
+     "why": "Le ralentissement de la production automobile en Chine souligne les difficultés de sa consommation interne malgré ses ambitions à l'exportation.",
+     "paywalled": true,
+     "contested": "",
+     "chart": null
+    }
+   ]
+  },
+  {
+   "name": "Technologie & sciences",
+   "stories": [
+    {
+     "source": "BBC",
+     "lang": "en",
+     "url": "https://www.bbc.co.uk/news/articles/cry49plv8v3go?at_medium=RSS&at_campaign=rss",
+     "headline": "Elon Musk joins 'Bring Jensen Back' campaign to reinstate the ex-Nvidia boss",
+     "headlineEn": "Elon Musk rejoint la campagne « Bring Jensen Back » pour rétablir l'ancien patron de Nvidia",
+     "summary": "Prominent technology figures, including Tesla Chief Executive Elon Musk, have publicly backed a growing campaign calling on Nvidia's board of directors to reinstate former chief executive Jensen Huang. The movement, dubbed \"Bring Jensen Back,\" gained momentum following Huang's sudden departure, which sparked widespread volatility across global semiconductor markets. Industry leaders argue that Huang’s strategic vision remains crucial for maintaining momentum in artificial intelligence hardware development and securing national technological competitiveness. The board faces intensifying pressure from influential investors and Silicon Valley allies who contend that replacing Huang creates unnecessary leadership instability during a pivotal growth period for the AI industry.",
+     "why": "Le soutien affiché des grands dirigeants de la Tech illustre la centralité de Jensen Huang dans l'écosystème mondial des puces pour l'IA.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    },
+    {
+     "source": "DW",
+     "lang": "de",
+     "url": "https://www.dw.com/de/40-satelliten-zerstört-rückschlag-für-amazons-internetpläne/a-79956967?maca=de-rss-de-all-1119-rdf",
+     "headline": "40 Satelliten zerstört: Rückschlag für Amazons Internetpläne",
+     "headlineEn": "40 satellites destroyed: Setback for Amazon's internet plans",
+     "summary": "Ein schwerer Zwischenfall erschüttert die Ausbaupläne von Amazon für ein eigenes Satelliten-Internetnetzwerk im Weltall. Kurze Zeit nach dem Start einer US-Trägerrakete kam es zu einer gravierenden technischen Panne, die zum Verlust und zur Zerstörung von insgesamt 40 Satelliten führte. Dieser Fehlstart stellt einen spürbaren Rückschlag für das Unternehmen im harten Wettbewerb mit Elon Musks etabliertem Starlink-Dienst dar. Branchenbeobachter gehen davon aus, dass dieser Vorfall den geplanten Zeitplan für die weltweite Bereitstellung der Satellitenkommunikation erheblich verzögern wird, während Amazon nun umgehende Untersuchungen zur Unfallursache einleitet.",
+     "why": "La perte de ces 40 satellites freine les ambitions d'Amazon face à la dominance de Starlink dans l'internet par satellite.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    },
+    {
+     "source": "Reuters",
+     "lang": "en",
+     "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQMmF2a1AxTXIyN09XQ2FpMmNFYk9UdVdYaFozUTN3UmY2amR1c0g5ZkdMU0NCRG54cy1pWmhadmFNdjNxbmlha1p3SlhnZ1VvZ2dvU3JIT1praWI2eWVIZE1taUNKQ2Nqd1JUakhtQl8tS3B2Y1gwNkJ3ZlFTYkpaSDJuZjZBZjVza2NB?oc=5",
+     "headline": "Fed's Barr warns on AI risks to financial system",
+     "headlineEn": "Michael Barr de la Réserve fédérale met en garde contre les risques de l'IA pour le système financier",
+     "summary": "Federal Reserve Vice Chair for Supervision Michael Barr delivered a stark warning regarding the potential risks artificial intelligence poses to the global financial system. Speaking at an industry conference, Barr highlighted how autonomous AI trading agents and automated decision-making tools could exacerbate liquidity shocks and trigger rapid, panic-driven bank runs. He emphasized that financial institutions must establish robust supervisory frameworks to manage algorithmic vulnerabilities and data concentration risks. The central bank official urged regulators and commercial banks to continuously assess how machine learning models interact during market stress to prevent systemic contagion across interconnected financial networks.",
+     "why": "Les autorités monétaires s'inquiètent ouvertement des risques de déstabilisation systémique liés à l'automatisation croissante par l'IA.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    }
+   ]
+  },
+  {
+   "name": "Sport",
+   "stories": [
+    {
+     "source": "DW",
+     "lang": "de",
+     "url": "https://www.dw.com/de/amon-ra-st-brown-zwei-touchdowns-und-münchen-liegt-ihm-zu-füßen/a-79956840?maca=de-rss-de-all-1119-rdf",
+     "headline": "Amon-Ra St. Brown: Zwei Touchdowns - und München liegt ihm zu Füßen",
+     "headlineEn": "Amon-Ra St. Brown: Two touchdowns - and Munich is at his feet",
+     "summary": "Vor rund 70.000 begeisterten Zuschauern in der Münchner Allianz Arena führte der deutsch-amerikanische Football-Star Amon-Ra St. Brown die Detroit Lions zu einem vielbeachteten Sieg gegen die New England Patriots. Der Passempfänger erzielte beim spektakulären \"Munich Game\" der NFL zwei entscheidende Touchdowns und wurde vom Publikum gefeiert. Für St. Brown war dieser Auftritt in Deutschland weit mehr als nur ein gewöhnliches Auswärtsspiel der regulären Saison.",
+     "why": "Le succès de la star germano-américaine confirme la popularité grandissante de la NFL lors de ses matchs délocalisés en Europe.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    },
+    {
+     "source": "RTL.lu",
+     "lang": "fr",
+     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNQjN4dTBhS2F4YTVMa2Y3MjJrWmVlVTVObzBXd3JHU3NvUGZ6N3kzY1kzeVdzQzVNTDZGOWV4VHY3NFRFa012OEtmWjB6MmE3MW9mUHY3VV9GajZtOVRkTmh0TUFSVEk2cTkxUWlJb2s0NWxaLXc2YmFOcFJXZjFnOUJJcjZVT1lnS1FNZnE3VzB4LWJ3elVSeWZPT3Y4dVVlOEVLeXdn?oc=5",
+     "headline": "Foot belge: Lukaku, buteur record, quitte la scène internationale",
+     "headlineEn": "Belgian football: Record goalscorer Lukaku retires from international duty",
+     "summary": "L'attaquant Romelu Lukaku a officiellement annoncé qu'il mettait un terme définitif à sa carrière internationale avec l'équipe nationale de Belgique. Auteur d'un nombre record de buts sous le maillot des Diables Rouges, le joueur tire sa révérence après plus d'une décennie passée au plus haut niveau international. Son départ emblématique marque une étape majeure et symbolise la fin progressive de la génération dorée du football belge.",
+     "why": "La retraite internationale du meilleur buteur belge clôt un chapitre majeur de l'histoire récente des Diables Rouges.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    }
+   ]
+  }
+ ],
+ "sourced": true,
+ "feeds": {
+  "ok": 29,
+  "of": 29,
+  "items": 261,
+  "skipped": []
+ },
+ "words": 3217,
+ "readMin": 16,
+ "storyCount": 23
+}
