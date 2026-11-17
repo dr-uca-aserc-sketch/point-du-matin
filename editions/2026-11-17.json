@@ -1,0 +1,60 @@
+{
+ "date": "2026-11-17",
+ "kind": "daily",
+ "heat": 0.85,
+ "oneThing": "",
+ "followUps": [
+  {
+   "n": "01",
+   "thread": "Guerre en Ukraine",
+   "change": "Le pont de Crimée a subi des dommages majeurs suite à une attaque nocturne ukrainienne, tandis que Moscou a répliqué en frappant deux ponts majeurs à Kiev."
+  },
+  {
+   "n": "02",
+   "thread": "Scandale Nvidia et puces IA",
+   "change": "Nvidia a mis en place un comité de contrôle des exportations après l'affaire Huang, alors que les États-Unis durcissent les restrictions sur les centres de données."
+  },
+  {
+   "n": "03",
+   "thread": "Politique d'asile européenne",
+   "change": "Cinq pays européens ont conclu un accord avec le Rwanda pour y transférer les demandeurs d'asile déboutés à partir de 2027."
+  }
+ ],
+ "mustReads": [
+  {
+   "desk": "Europe",
+   "source": "France 24",
+   "lang": "FR",
+   "paywalled": false,
+   "url": "https://www.france24.com/fr/europe/2026/11/17/en-direct-ukraine-deux-ponts-kiev-touches-frappes-russes-zelensky-poutine",
+   "headline": "Une partie du pont de Crimée détruite après des frappes ukrainiennes, le trafic interrompu",
+   "headlineEn": "Part of Crimean bridge destroyed after Ukrainian strikes, traffic halted",
+   "contested": "",
+   "why": "L'attaque d'ampleur contre le pont de Kertch compromet le ravitaillement russe et marque une escalade majeure avant les échéances diplomatiques.",
+   "stat": "1300",
+   "statLabel": "drones ukrainiens interceptés selon la défense russe",
+   "chart": null,
+   "paras": [
+    "L'armée ukrainienne a mené une attaque nocturne d'une ampleur inédite contre le pont de Kertch, la structure stratégique reliant le territoire russe à la péninsule de Crimée annexée. Selon les déclarations du président Volodymyr Zelensky, cette opération militaire d'envergure nécessita plusieurs semaines d'une préparation minutieuse avant d'être exécutée avec un succès remarquable. Les frappes répétées au moyen de drones et de missiles ont causé l'effondrement partiel d'une arche essentielle et d'une portion significative du tablier routier. Cet événement a contraint les autorités d'occupation russes à interrompre immédiatement tout le trafic routier et ferroviaire.",
+    "En réponse directe à cette offensive ukrainienne réussie, les forces armées de la Fédération de Russie ont intensifié leurs bombardements sur plusieurs infrastructures stratégiques du pays. Les frappes russes se sont concentrées en particulier sur deux ponts majeurs traversant la capitale Kiev, causant des destructions importantes et perturbant gravement les liaisons logistiques locales. Parallèlement, le ministère russe de la Défense a affirmé que ses systèmes de défense antiaérienne avaient réussi à intercepter et détruire plus de mille trois cents drones ukrainiens au cours d'une seule nuit d'affrontements intensifs à travers les différentes régions du front.",
+    "Face aux dégâts considérables constatés sur le pont de Kertch, le vice-premier ministre russe Marat Khousnoulline a immédiatement convoqué une réunion de crise d'urgence à Moscou. Le gouvernement russe s'est engagé à entamer sans délai les travaux de reconstruction de cet édifice hautement symbolique, inauguré en grande pompe par Vladimir Poutine en 2018. Cette structure demeure en effet la principale voie de ravitaillement terrestre pour les troupes d'occupation stationnées en Crimée et dans le sud de l'Ukraine. Sa neutralisation temporaire perturbe gravement la chaîne de transport des équipements militaires et des munitions russes.",
+    "Cette escalade militaire particulièrement violente intervient à un moment diplomatique critique, alors que s'organisent des discussions internationales complexes visant à trouver une issue au conflit. Les récentes tractations diplomatiques évoquent la possibilité d'échanges territoriaux complexes et de garanties de sécurité durables sous l'égide de la communauté internationale. Volodymyr Zelensky a révélé publiquement que des émissaires américains avaient évoqué la perspective d'un éventuel retrait ukrainien de la région du Donbass en contrepartie d'une adhésion formelle de l'Ukraine à l'Organisation du traité de l'Atlantique Nord, une proposition qui suscite de vives tensions politiques.",
+    "Sur le terrain humanitaire, la situation continue de se dégrader sous la pression constante des attaques aériennes de l'armée russe. Les autorités ukrainiennes accusent régulièrement les forces russes d'utiliser la tactique meurtrière des doubles frappes, ciblant délibérément les secouristes et les équipes d'urgence venus porter assistance aux victimes après un premier impact. De plus, la destruction progressive des centrales électriques et des infrastructures énergétiques clés à l'approche des grands froids hivernaux fait craindre un drame humanitaire majeur pour la population civile, poussant les dirigeants européens à dénoncer une stratégie de terreur délibérée.",
+    "Alors que le président américain Donald Trump entame une tournée diplomatique en Asie avant un sommet tripartite très attendu avec Xi Jinping et Vladimir Poutine, l'Ukraine tente de renforcer sa position militaire sur le terrain. La démonstration de force réussie contre le pont de Crimée vise à prouver la capacité opérationnelle des forces armées ukrainiennes à frapper au cœur des dispositifs stratégiques russes. Cette opération militaire sophistiquée montre également la détermination de Kiev à maintenir la pression militaire et à refuser tout compromis qui consacrerait des pertes territoriales inacceptables."
+   ]
+  }
+ ],
+ "desks": [],
+ "sourced": true,
+ "feeds": {
+  "ok": 28,
+  "of": 29,
+  "items": 253,
+  "skipped": [
+   "Euronews (FR): HTTP 406"
+  ]
+ },
+ "words": 587,
+ "readMin": 3,
+ "storyCount": 1
+}
