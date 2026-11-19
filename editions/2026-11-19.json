@@ -1,0 +1,105 @@
+{
+ "date": "2026-11-19",
+ "kind": "daily",
+ "heat": 0.85,
+ "oneThing": "US AI firm Anthropic made history on Wall Street by raising 81 billion dollars in the largest initial public offering of all time.",
+ "followUps": [
+  {
+   "n": "01",
+   "thread": "Sommet trilatéral de Shenzhen",
+   "change": "Donald Trump, Xi Jinping et Vladimir Poutine ont adopté une déclaration de paix commune axée sur les risques nucléaires et l'énergie, sans avancer sur l'Ukraine ni l'Iran."
+  },
+  {
+   "n": "02",
+   "thread": "Secteur de l'intelligence artificielle",
+   "change": "La startup Anthropic a fait une entrée historique à Wall Street en levant 81 milliards de dollars avec une valorisation de 1 500 milliards de dollars."
+  },
+  {
+   "n": "03",
+   "thread": "Relations États-Unis / Venezuela",
+   "change": "Le secrétaire à la Défense américain Pete Hegseth s'est rendu à Caracas pour signer un accord rétablissant la coopération militaire entre Washington et le Venezuela."
+  }
+ ],
+ "mustReads": [
+  {
+   "desk": "Europe, wires, Luxembourg",
+   "source": "Euronews",
+   "lang": "EN",
+   "paywalled": false,
+   "url": "https://www.euronews.com/2026/11/19/trilateral-summit-ends-with-peace-declaration-but-no-mention-of-ukraine-and-iran",
+   "headline": "Trilateral summit ends with 'peace declaration' but no mention of Ukraine and Iran",
+   "headlineEn": "Le sommet trilatéral s'achève sur une « déclaration de paix » sans mentionner l'Ukraine ni l'Iran",
+   "contested": "",
+   "why": "Cette rencontre inédite entre les trois plus grandes puissances nucléaires illustre la recomposition des équilibres diplomatiques mondiaux.",
+   "stat": "3",
+   "statLabel": "nombre de puissances nucléaires réunies lors du sommet de Shenzhen",
+   "chart": null,
+   "paras": [
+    "The leaders of the United States, China, and Russia gathered in Shenzhen for an unprecedented trilateral summit that captured global attention. Donald Trump, Xi Jinping, and Vladimir Putin met on the sidelines of the Asia-Pacific Economic Cooperation forum to discuss pressing geopolitical matters and strategic stability. This historic encounter marked the first time that the head of state from all three major nuclear powers sat together at a single table. The hosts staged an elaborate welcome ceremony in the southern Chinese technological hub, emphasizing the ceremonial magnitude of this extraordinary diplomatic gathering.",
+    "Discussions between the three world leaders lasted approximately eighty minutes inside the closed conference room. Talks focused heavily on nuclear risk reduction, global strategic balance, and international trade governance. Following the conclusion of the session, the leaders issued a joint written peace declaration pledging enhanced bilateral and multilateral cooperation. The text called for joint efforts to reform the United Nations, streamline critical energy supply chains, and mitigate nuclear proliferation risks across key regions. However, observers quickly noted that the ambitious wording was largely symbolic and contained few binding commitments.",
+    "Despite the solemn statements on international harmony, the Shenzhen summit avoided addressing the ongoing military conflicts currently destabilizing global security. The formal joint declaration made no explicit reference to the war in Ukraine or the escalating hostilities surrounding Iran. While President Donald Trump insisted during public remarks that both Washington and Beijing shared a common desire to help conclude the European conflict, President Vladimir Putin adopted a more rigid stance. Shortly after the meetings concluded, Moscow reaffirmed its reluctance to negotiate any formal ceasefire with Kyiv under present diplomatic parameters.",
+    "The location of the summit added significant symbolic weight to the proceedings. Shenzhen, a former fishing village transformed into a thriving metropolis of high-technology industries, served as a showcase for Chinese economic modernization. Host leader Xi Jinping used the summit to position China as a central global mediator capable of facilitating high-level diplomacy between competing superpowers. By gathering the American and Russian presidents in Guangdong province, Beijing sought to project an image of international influence, strategic stability, and constructive leadership amidst growing economic friction and trade disputes with Western nations.",
+    "Prior to the joint trilateral conference, individual bilateral meetings took place between the attending heads of state. Donald Trump held a private forty-minute discussion with Vladimir Putin, warmly greeting the Russian leader as a personal friend before joining the broader summit table. Meanwhile, discussions regarding Taiwan also surfaced during bilateral exchanges between American and Chinese officials. President Xi emphasized that Washington must take the right approach regarding Taiwan to avoid setbacks in bilateral relations, reiterating Beijing's long-standing diplomatic priorities while navigating complex security challenges across East Asia.",
+    "Reactions from international analysts and foreign ministries remained cautious following the announcement of the peace declaration. European leaders meeting simultaneously in Berlin for a security summit expressed concern over Europe's exclusion from the direct security dialogue in China. While the joint commitment to reduce nuclear risks was welcomed as a positive signal, diplomats emphasized that lasting peace requires concrete action rather than high-level photo opportunities. As the leaders departed Shenzhen, the international community continues to evaluate whether this historic summit will yield tangible diplomatic progress or remain a memorable exercise in power projection."
+   ]
+  },
+  {
+   "desk": "Europe, wires, Luxembourg",
+   "source": "France 24",
+   "lang": "FR",
+   "paywalled": false,
+   "url": "https://www.france24.com/fr/%C3%A9co-tech/20261119-anthropic-entr%C3%A9e-bourse-historique-propuls%C3%A9e-par-tr%C3%A8s-forte-demande",
+   "headline": "Anthropic : une entrée en Bourse historique, propulsée par une très forte demande",
+   "headlineEn": "Anthropic: A historic Wall Street debut fueled by massive demand",
+   "contested": "",
+   "why": "Cette introduction boursière record témoigne de l'attrait massif des marchés pour les technologies d'intelligence artificielle malgré les craintes de bulle.",
+   "stat": "81B$",
+   "statLabel": "montant minimum levé par la startup Anthropic lors de son introduction en Bourse",
+   "chart": null,
+   "paras": [
+    "La société américaine Anthropic a réalisé jeudi une entrée fracassante à la Bourse de New York en levant au moins 81 milliards de dollars. Cette opération financière dépasse tous les précédents historiques sur les marchés mondiaux, détrônant le record détenu jusqu'alors par l'entreprise SpaceX. Spécialisée dans l'intelligence artificielle et créatrice du modèle d'apprentissage Claude, la jeune entreprise technologique est désormais valorisée à près de 1,5 billion de dollars. Cet événement marque une étape décisive pour le secteur technologique mondial, qui retient son souffle face à l'ampleur inédite des capitaux mobilisés par Wall Street.",
+    "L'introduction en Bourse d'Anthropic s'est déroulée dans un contexte boursier pourtant marqué par des inquiétudes croissantes. Plusieurs analystes financiers et investisseurs institutionnels s'interrogeaient ces dernières semaines sur la formation d'une bulle spéculative autour des technologies d'intelligence artificielle. La récente volatilité des actions technologiques et les remous entourant les entreprises du secteur n'ont toutefois pas découragé les marchés. La demande exceptionnelle pour les titres d'Anthropic a contraint les banques d'affaires à relever les prix de l'offre initiale dès mercredi soir, confirmant l'appétit insatiable des investisseurs pour les géants de l'IA.",
+    "Fondée il y a seulement cinq ans par d'anciens cadres soucieux de la sécurité numérique, la startup franchit un cap industriel majeur. L'entreprise doit désormais transformer sa formidable valorisation boursière en une plateforme technologique complète capable de servir les plus grandes entreprises mondiales. Les dirigeants d'Anthropic promettent de maintenir leurs engagements historiques en matière de sécurité et d'éthique des algorithmes, tout en répondant aux exigences de rentabilité dictées par les marchés financiers. La capacité de la direction à concilier ces deux impératifs constituera un test fondamental pour l'avenir commercial du groupe.",
+    "Cette levée de fonds record génère des retombées financières considérables pour les acteurs du secteur de la finance. Les grandes banques d'investissement chargées d'orchestrer cette introduction sur le Nasdaq devraient percevoir des commissions globales estimées à plus de 550 millions de dollars. Par ailleurs, l'engouement ne s'est pas limité aux seuls fonds d'investissement professionnels américains. Les investisseurs particuliers européens ont également réussi à capter environ 1,1 milliard de dollars d'actions lors du placement initial, illustrant l'attrait mondial suscité par le déploiement massif des technologies basées sur les modèles de langage.",
+    "Le succès fulgurant d'Anthropic tranche avec les secousses ayant affecté d'autres mastodontes du secteur technologique ces derniers jours. Les récentes pannes informatiques globales et les turbulences managériales au sein de partenaires clés comme Nvidia ont ravivé les débats sur la vulnérabilité des infrastructures numériques modernes. Malgré ces signaux d'avertissement, les marchés financiers perçoivent l'entrée en Bourse d'Anthropic comme un signal fort de résilience pour l'écosystème de l'IA. Cette opération apporte un vent d'optimisme et ravive l'espoir de voir d'autres pépites technologiques s'introduire sur les marchés dans les prochains mois.",
+    "En s'imposant d'emblée comme l'une des capitalisations boursières les plus élevées de la planète, la startup américaine change de dimension stratégique. Elle dispose désormais d'une réserve de liquidités colossale pour financer la recherche fondamentale, acquérir des centres de données et recruter les meilleurs chercheurs internationaux. Les observateurs de l'industrie numérique suivront avec attention les premiers pas de l'action sur le marché secondaire. La réussite à long terme d'Anthropic servira de baromètre pour l'ensemble de l'économie numérique, déterminant si l'enthousiasme pour l'intelligence artificielle repose sur des fondations financières durables."
+   ]
+  },
+  {
+   "desk": "Europe, wires, Luxembourg",
+   "source": "DW",
+   "lang": "EN",
+   "paywalled": false,
+   "url": "https://www.dw.com/en/myanmar-committed-genocide-against-rohingya-top-un-court-rules/a-79987898?maca=en-rss-en-world-4025-rdf",
+   "headline": "Myanmar committed genocide against Rohingya, top UN court rules",
+   "headlineEn": "La Birmanie s'est rendue coupable de génocide contre les Rohingya, tranche la CIJ",
+   "contested": "",
+   "why": "Il s'agit d'un arrêt historique de la plus haute juridiction de l'ONU établissant la responsabilité directe d'un État pour génocide.",
+   "stat": "9-6",
+   "statLabel": "vote des juges de la CIJ reconnaissant la responsabilité de la Birmanie",
+   "chart": null,
+   "paras": [
+    "The International Court of Justice in The Hague has delivered a landmark judgment ruling that Myanmar committed genocide against its Rohingya Muslim minority. Judges at the United Nations' highest judicial body voted nine to six to uphold key allegations brought against the Southeast Asian nation. The comprehensive legal decision finds Myanmar's military forces responsible for systematic violence, mass killings, and widespread atrocities during military operations conducted in Rakhine State. This historic ruling marks the first time a sovereign state has been held legally accountable under the 1948 Genocide Convention by the World Court.",
+    "The international lawsuit was originally instituted by the Gambia in late 2019, accusing Myanmar of violating global treaties during brutal counter-insurgency campaigns. Thousands of Rohingya villagers were killed, while hundreds of thousands were forced to flee across the border into neighboring Bangladesh. Court findings detailed horrifying accounts of mass executions, gang rapes, and deliberate destruction of entire villages. The panel of international judges concluded that military operations were carried out with the specific intent to destroy the Rohingya population in whole or in part, satisfying the strict legal threshold required for genocide.",
+    "In its binding ruling, the International Court of Justice ordered Myanmar to pay financial reparations to victims and take concrete steps toward justice. The court asserted that Myanmar must establish safe, dignified, and voluntary conditions to allow displaced Rohingya refugees currently residing in Bangladeshi camps to return home. Furthermore, the decision instructs the government in Naypyidaw to preserve all evidence related to military atrocities and implement effective legal protections to prevent future acts of violence against minority communities remaining within the country's borders.",
+    "Human rights advocates and representatives of the Rohingya diaspora greeted the verdict with profound emotion outside the Peace Palace in the Netherlands. For years, survivors of the 2017 crackdowns faced denial from military authorities and limited international avenues for legal accountability. Legal experts emphasize that while the ICJ handles disputes between states rather than individual criminal trials, this ruling provides authoritative recognition of the atrocities suffered by the Rohingya. The verdict is expected to bolster ongoing investigations at the International Criminal Court targeting individual military commanders responsible for orchestrating human rights abuses.",
+    "The legal victory comes amid ongoing instability and conflict inside Myanmar, where the ruling military junta faces widespread armed resistance across multiple regions. Diplomatic experts note that enforcing the ICJ's mandates will pose significant challenges given the political situation in Naypyidaw. Nevertheless, the court's decision places immense international pressure on Myanmar's military leadership and its diplomatic allies. International organizations have urged the United Nations Security Council to adopt enforceable measures to compel compliance with the court's binding orders regarding reparations, refugee repatriation, and structural human rights reforms.",
+    "The ICJ ruling sets an important legal precedent for international humanitarian law and the enforcement of the Genocide Convention worldwide. By affirming that state institutions can be held directly accountable for genocidal acts, the decision strengthens mechanisms for protecting vulnerable ethnic and religious minorities facing state-sponsored violence. International observers hope this landmark judgment will deter future atrocities and provide long-overdue justice to the displaced Rohingya population. As humanitarian agencies continue supporting refugees in crowded camps, attention now turns to how the international community will enforce compliance with the tribunal's historic directives."
+   ]
+  }
+ ],
+ "desks": [],
+ "sourced": true,
+ "feeds": {
+  "ok": 27,
+  "of": 29,
+  "items": 254,
+  "skipped": [
+   "Reuters (FR)",
+   "Euronews (FR): HTTP 406"
+  ]
+ },
+ "words": 1711,
+ "readMin": 9,
+ "storyCount": 3
+}
