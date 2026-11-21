@@ -1,0 +1,406 @@
+{
+ "date": "2026-11-21",
+ "kind": "daily",
+ "heat": 0.8,
+ "oneThing": "Global stock markets plummeted as a sharp sell-off in artificial intelligence shares wiped out yearly gains for the Nasdaq composite index.",
+ "followUps": [
+  {
+   "n": "01",
+   "thread": "Sanctions et tensions sécuritaires autour de la Russie",
+   "change": "Le Danemark réclame un durcissement des restrictions de voyage de l'UE pour les citoyens russes à la suite d'un projet d'attentat déjoué sur son territoire."
+  },
+  {
+   "n": "02",
+   "thread": "Négociations climatiques de la COP31 à Antalya",
+   "change": "Les discussions de la COP31 se poursuivent en prolongation alors que les délégués s'affrontent sur la mention explicite de la sortie des énergies fossiles."
+  },
+  {
+   "n": "03",
+   "thread": "Sécurité maritime et conflit avec l'Iran",
+   "change": "De nouveaux incidents touchant des pétroliers près d'Oman et dans le détroit d'Hormuz aggravent les tensions sur le transport maritime d'hydrocarbures."
+  }
+ ],
+ "mustReads": [
+  {
+   "desk": "Italie / Justice",
+   "source": "Repubblica",
+   "lang": "IT",
+   "paywalled": false,
+   "url": "https://www.repubblica.it/cronaca/2026/11/21/news/gianni_de_gennaro_morto_sparato_casa-425739732/",
+   "headline": "Gianni De Gennaro è morto: l’ex capo della polizia si è tolto la vita in Toscana",
+   "headlineEn": "Gianni De Gennaro is dead: former Italian police chief takes his own life in Tuscany",
+   "contested": "",
+   "why": "Le suicide de l'ancien chef de la police italienne ébranle la scène politique et judiciaire à la suite d'enquêtes complexes sur l'histoire sécuritaire et mafieuse du pays.",
+   "stat": "78",
+   "statLabel": "âge de l'ancien chef de la police au moment de son décès",
+   "chart": null,
+   "paras": [
+    "L'ex capo della polizia italiana Gianni De Gennaro è stato trovato morto nella sua casa di campagna situata in Toscana, in seguito a un gesto estremo commesso con un'arma da fuoco. La notizia del suo decesso a settantotto anni ha provocato un'ondata di sconcerto nelle istituzioni politiche e giudiziarie del Paese. De Gennaro era da decenni una figura di primissimo piano nelle strutture di sicurezza dello Stato, avendo guidato la polizia di Stato e ricoperto ruoli apicali nell'amministrazione pubblica e nei servizi di informazione italiani.",
+    "Il tragico evento si colloca in un contesto giudiziario estremamente delicato e complesso, segnato da recenti sviluppi investigativi che avevano nuovamente riacceso i riflettori sulla sua lunga carriera. Soltanto una settimana prima del tragico gesto, era emersa pubblicamente la notizia del suo coinvolgimento in un'indagine condotta dalla procura di Caltanissetta con l'ipotesi di reato di depistaggio sulle indagini relative alla strage di via D'Amelio. Questa vicenda giudiziaria legata al drammatico attentato contro il giudice Paolo Borsellino aveva suscitato fortissime tensioni e accesi dibattiti mediatici.",
+    "Nel corso delle ultime ore, il suo legale Francesco Bertorotta ha riferito dettagli relativi all'ultima conversazione telefonica intercorsa con l'assistito a due giorni dal dramma. L'avvocato ha descritto De Gennaro come profondamente sconvolto e amareggiato per le accuse che riteneva assolutamente infamanti e infondate rispetto al proprio operato professionale. La pressione emotiva scaturita dalle notizie giudiziarie avrebbe dunque inciso pesantemente sul suo stato d'animo negli ultimi giorni di vita, portandolo a isolarsi nella propria residenza di campagna prima di compiere l'estremo atto.",
+    "Le reazioni del mondo politico non si sono fatte attendere, evidenziando una profonda spaccatura e forti polemiche sulle responsabilità morali e mediatiche dell'accaduto. La presidente del Consiglio Giorgia Meloni si è detta profondamente scioccata dalla notizia, mentre il ministro dell'Interno Matteo Piantedosi ha ricordato De Gennaro come un grande e rigoroso servitore dello Stato. Da parte loro, esponenti politici come Carlo Calenda hanno espresso parole molto dure, denunciando un presunto tradimento da parte delle istituzioni nei confronti di un alto funzionario pubblico.",
+    "Anche la famiglia Borsellino ha reagito con posizioni articolate e differenti rispetto agli impatti di questo drammatico evento sulle indagini in corso sulla strage del 1992. Da un lato Manfredi Borsellino ha osservato con prudenza che con la scomparsa dell'ex capo della polizia potrebbe essere andato perduto un tassello importante di verità. Dall'altro lato suo zio Salvatore ha attaccato duramente i magistrati inquirenti, sostenendo la tesi che le accuse fossero prive di fondamento e attribuendo ai pm una grave responsabilità nella gestione delle indagini.",
+    "La scomparsa di Gianni De Gennaro riapre una pagina complessa e dolorosa della storia istituzionale italiana, segnata da controversie mai del tutto sopite e da ricostruzioni giudiziarie ancora aperte. L'intera carriera dell'ex funzionario, caratterizzata da importanti successi nella lotta alla criminalità organizzata ma anche da aspre contestazioni in storici procedimenti, rimane al centro del dibattito nazionale. Mentre la magistratura completa gli accertamenti di rito sul luogo del ritrovamento, il Paese si interroga sulle conseguenze istituzionali e umane di una tragedia che lascia insoluti molti interrogativi."
+   ]
+  },
+  {
+   "desk": "Union européenne / Budget",
+   "source": "Reuters",
+   "lang": "EN",
+   "paywalled": false,
+   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPaDFMQVdaYU9BLTJOQnRyR3RRNXpVdWZjNW1wZGtVLUl6M3VRenZfX0UzbTFKai11NHNHVUw5dEg0R0pOanVYMFBJeW9oUlBOa0s2Qlc0TWR6Q1BiVmxRZEpCWWhWVlR5OTFYSDFHV3pCQko4bDdBalNYemtDVVBJUEtWN0FGelFlbzE1Mjh0ZE01UnMwZkJlWlFSYV9kb0pzbDVEYzZRXzlQeDlDVVZkV2NR?oc=5",
+   "headline": "Latest EU budget proposal is 'very disappointing', French presidency says",
+   "headlineEn": "La dernière proposition de budget de l'UE est « très décevante », selon la présidence française",
+   "contested": "",
+   "why": "Les négociations budgétaires communautaires se tendent à l'approche du sommet européen de Bruxelles, réveillant des divergences profondes entre États membres sur les économies et la fiscalité.",
+   "stat": "204",
+   "statLabel": "milliards d'euros d'économies proposés par le président du Conseil européen",
+   "chart": null,
+   "paras": [
+    "Negotiations over the European Union's long-term budget framework have plunged into intense diplomatic friction following the submission of a new draft by European Council President António Costa. The proposal, designed to reconcile competing financial demands across member states ahead of an upcoming summit in Brussels, has drawn swift and sharp criticism from key European capitals. The French presidency described the compromise package as very disappointing, signaling that major divisions remain unresolved. The fiscal blueprint aims to reshape European spending priorities while addressing growing budget deficits and emerging geopolitical requirements across the continent.",
+    "At the center of the dispute lies a sweeping plan to achieve substantial expenditure reductions across existing European programs and structural funds over the coming budgetary cycle. President Costa's strategy proposes two hundred four billion euros in structural savings alongside targeted reallocations toward defense, green transition, and competitive technology initiatives. However, member states remain deeply divided on where these sacrifices should fall. Agricultural subsidies and cohesion policy funding, which traditionally represent the largest spending blocks in the Union's budget, face potential cuts that have triggered widespread alarm among European farmers and regional governance authorities.",
+    "To offset mandatory spending cuts and generate new financial streams for common projects, the draft framework introduces a novel continental digital tax mechanism. This proposed leverage on major technology companies operating within the single market is intended to boost direct revenue resources for the European Union budget. While proponents argue that common revenue mechanisms are essential for strategic autonomy, several national delegations maintain reservations regarding tax sovereignty and economic impact. Critics express concern that imposing new digital levies during a period of market volatility could harm broader economic recovery efforts.",
+    "The immediate rejection of the compromise text by France underscores the significant hurdles facing European leaders before they convene in Brussels on Thursday. French officials argue that the proposed cuts undermine essential European investments in agricultural security and industrial modernization. Other member states, particularly those known for strict fiscal discipline, insist that higher overall expenditure is unsustainable given national economic constraints. The divergence highlights a familiar structural tension between nations seeking expanded collective spending and those demanding rigid fiscal containment within European institutions.",
+    "Diplomats in Brussels are working around the clock to draft alternative compromise language that might prevent a complete deadlock during the heads of state meeting. The negotiation process is further complicated by external pressures, including defense commitments linked to regional security challenges and climate adaptation targets. Reaching a unanimous consensus among all twenty-seven member countries requires delicate trade-offs across multiple policy areas. Observers note that failure to agree on the budget framework could delay vital funding disbursements and weaken the European Union's capacity to respond to international economic shocks.",
+    "As the summit approaches, the battle over the budget reflects broader questions about the future direction and financial authority of the European Union. Leaders must decide whether to embrace joint financing mechanisms for strategic priorities or maintain traditional national budget limits. The outcome of the upcoming deliberations will determine how the bloc funds its ambitious geopolitical goals, environmental commitments, and internal economic cohesion over the next several years, setting a critical precedent for European fiscal policy."
+   ]
+  },
+  {
+   "desk": "Finance / Technologie",
+   "source": "RTL.lu",
+   "lang": "FR",
+   "paywalled": false,
+   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOcGVLZUZ3a09jOUY5QUJTdFlzMk1DWHdJdXRDSVBNeEFobTYtS2tqZjFwZ0H_X0UzbTFKai11NHNHVUw5dEg0R0pOanVYMFBJeW9oUlBOa0s2Qlc0TWR6Q1BiVmxRZEpCWWhWVlR5OTFYSDFHV3pCQko4bDdBalNYemtDVVBJUEtWN0FGelFlbzE1Mjh0ZE01UnMwZkJlWlFSYV9kb0pzbDVEYzZRXzlQeDlDVVZkV2NR?oc=5",
+   "headline": "La fin de l'euphorie ?: Cette fois, l'IA dégringole sérieusement en Bourse",
+   "headlineEn": "The end of euphoria?: This time, AI falls seriously on the stock market",
+   "contested": "",
+   "why": "La chute brutale des valeurs technologiques et de l'intelligence artificielle secoue les marchés financiers mondiaux et suscite des inquiétudes croissantes sur la durabilité des investissements dans le secteur.",
+   "stat": "3,7%",
+   "statLabel": "recul de l'indice S&P 500 lors de la récente vague de vente sur les valeurs technologiques",
+   "chart": null,
+   "paras": [
+    "Les marchés financiers mondiaux traversent une période de turbulences intenses sous l'effet d'un mouvement de vente massif qui frappe de plein fouet le secteur de l'intelligence artificielle. Les principales bourses internationales enregistrent des baisses spectaculaires, marquées par une chute de trois virgule sept pour cent de l'indice S&P cinq cents et un basculement de l'indice Nasdaq en territoire négatif pour l'année en cours. Cette correction boursière majeure met un terme brutal à plusieurs mois d'euphorie spéculative autour des technologies génératives et suscite des inquiétudes vives chez les investisseurs institutionnels.",
+    "Au cœur de cette tourmente financière se trouve la récente introduction en bourse très attendue de la société Anthropic, marquée par une volatilité extrême et des déceptions significatives. Alors que l'entreprise cherchait à lever des fonds massifs pour financer ses infrastructures technologiques et ses modèles de recherche avancés, l'accueil frileux des marchés a alimenté une spirale baissière. Parallèlement, des annonces d'enquêtes réglementaires visant d'autres acteurs majeurs du secteur, comme Nvidia, ont renforcé la méfiance des opérateurs quant aux pratiques comptables et à la viabilité financière de la croissance observée.",
+    "Cette vague de défiance s'explique en partie par les doutes croissants des analystes concernant le retour sur investissement des sommes colossales injectées dans l'intelligence artificielle. Des milliards de dollars ont été dépensés par les géants technologiques pour acquérir des puces spécialisées, construire des centres de données et développer des modèles toujours plus complexes. Cependant, la concrétisation commerciale de ces innovations et la génération de revenus récurrents peinent encore à justifier les valorisations boursières astronomiques atteintes au cours des derniers trimestres, provoquant une réévaluation radicale des perspectives d'avenir.",
+    "Malgré les secousses boursières actuelles, les avancées scientifiques dans le domaine de l'intelligence artificielle se poursuivent à un rythme soutenu au sein des laboratoires de recherche. Un chercheur d'Anthropic a récemment affirmé avoir utilisé le modèle Claude pour résoudre un problème mathématique célèbre, relançant le débat sur le rôle croissant des machines dans la recherche fondamentale. Toutefois, cette dualité entre réussites technologiques et incertitudes financières illustre la complexité d'un secteur tiraillé entre ambitions scientifiques élevées et exigences de rentabilité immédiates formulées par Wall Street.",
+    "Face à l'ampleur de la baisse des cours, les régulateurs et les autorités financières surveillent de près la propagation des risques au sein de l'économie globale. La concentration importante de la capitalisation boursière sur un petit nombre de géants technologiques signifie que la chute de ces valeurs entraîne l'ensemble des indices mondiaux dans sa sillage. Les décisions à venir des commissions d'examen financier et des banques centrales pourraient s'avérer déterminantes pour stabiliser le climat des affaires et prévenir une crise de confiance plus large au sein des marchés des capitaux.",
+    "L'avenir du secteur de l'intelligence artificielle s'inscrit désormais dans une phase d'ajustement sévère où la discipline financière prend le pas sur le triomphalisme technologique. Si les partisans de cette technologie maintiennent que la transformation numérique en cours reste inéluctable à long terme, les marchés exigent désormais des preuves tangibles de viabilité économique. Les prochains rapports trimestriels et les ajustements stratégiques des grands groupes définiront si cette correction constitue une simple pause salutaire ou le signal d'un essoufflement plus profond du modèle de croissance technologique."
+   ]
+  }
+ ],
+ "desks": [
+  {
+   "name": "Luxembourg",
+   "stories": [
+    {
+     "source": "RTL.lu",
+     "lang": "fr",
+     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQMWxVUEZwTkpZcjlSRUlrSFpkeGVvWW8wTkhRWGhOUFdlakU4Uk10VVB5RE40R2h3eWNiWnlWb2tUeHNqZGtoWm1mcGNLckpBLVN0SDlqZk1rR2F3cEZXa0pjaGJWQllwT0R3YUhRNDUySF9mbmVSMXJhZU5ZYlB1dVlyU2daWklKczctWWRWbG5OLVpwc0FQVnZVYzY1dFMyTlk0?oc=5",
+     "headline": "Carburants, électricité, fioul...: Le gouvernement valide les aides financières pour 2027",
+     "headlineEn": "Fuels, electricity, heating oil...: Government approves financial aid for 2027",
+     "summary": "Le gouvernement luxembourgeois a formellement validé la reconduction et l'ajustement de plusieurs mesures d'aide financière ciblant les coûts énergétiques des ménages pour l'année 2027. Ces mécanismes étatiques couvrent une prise en charge partielle des factures d'électricité, de fioul de chauffage ainsi que des carburants afin d'amortir la hausse des prix et de protéger le pouvoir d'achat des foyers. La décision a été actée lors du récent Conseil de gouvernement dans le cadre de la préparation des orientations budgétaires futures. Les autorités soulignent que ce dispositif vise à offrir une stabilité financière essentielle aux ménages tout en accompagnant progressivement la transition énergétique du Grand-Duché.",
+     "why": "Cette décision budgétaire maintient le bouclier énergétique pour soutenir le pouvoir d'achat des ménages luxembourgeois face à la volatilité des prix de l'énergie.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    },
+    {
+     "source": "RTL.lu",
+     "lang": "fr",
+     "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxONFQ5aFJzeU51ZlA2MUdaMGFGMGxwMFRmRUV3MjFQbzFZV0hsSklTUER6cWZjdDl5ekFyZDA3bEdmZzZzUG1zbmlRNUdWRU9pZVpNTWRTSDJRWDdYWG9PMXZPN24wUU4xUTBPNnNnOGhzbnVPZUJzZGgwWElYcDhveURraURjaHlKVDFvUE9wc3hzdklk?oc=5",
+     "headline": "Immobilier: Les pièges à éviter quand on achète en VEFA",
+     "headlineEn": "Real estate: Pitfalls to avoid when buying off-plan",
+     "summary": "L'achat d'un logement en vente en l'état futur d'achèvement (VEFA) constitue une option très prisée sur le marché immobilier luxembourgeois, mais comporte des risques juridiques et financiers non négligeables. Les experts rappellent l'importance de vérifier minutieusement la garantie d'achèvement bancaire, les délais de livraison ainsi que le descriptif technique détaillé du bien. De nombreuses défaillances de promoteurs ou retards de chantier observés récemment incitent les acheteurs à une vigilance accrue avant la signature du contrat réservataire. Une analyse rigoureuse des clauses de révision des prix s'impose également pour éviter toute mauvaise surprise financière au moment de la remise des clés.",
+     "why": "La prudence juridique est cruciale pour les acheteurs alors que le secteur luxembourgeois de la construction traverse une période de fragilité économique.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    },
+    {
+     "source": "Luxemburger Wort",
+     "lang": "de",
+     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxON1drVVBjb1ZqVEhVRmw3bndOanVqNHBhSmM4anNnVlEzR1pKV3RyR1ZtOFhmcklpYkhjcjZKcVdCNDhVQkpxSFhmWDdvXzBvRWhUbk4wTzBnakszMkxMQmRzSU1DVzNpLTR1UkR4UVBWczdWcFExZnZaTFRXSDJkSkU2eFdvVDJrWno5SGpZSUpPRTJuVjkyYlU5cmVBd05zSVVRQ3NzZDkzWFk?oc=5",
+     "headline": "Belgische Vignette: Grenzhändler bangen um Luxemburger Kunden",
+     "headlineEn": "Belgian vignette: Cross-border traders fear loss of Luxembourg customers",
+     "summary": "Die geplante Einführung einer Autobahnvignette in Belgien sorgt bei Einzelhändlern in den Grenzregionen für erhebliche Unruhe und große Befürchtungen. Viele Geschäftsinhaber befürchten, dass die zusätzlichen Straßennutzungsgebühren Kundinnen und Kunden aus Luxemburg von spontanen Einkaufsfahrten über die Grenze abhalten könnten. Insbesondere der grenznahe Einzelhandel und die lokale Gastronomie rechnen mit spürbaren Umsatzeinbußen durch den verringerten grenzüberschreitenden Kundenverkehr. Verbände und regionale Wirtschaftsförderer fordern daher pragmatische Ausnahmeregelungen oder Erleichterungen für den nachbarlichen Grenzverkehr, um die enge wirtschaftliche Verflechtung der beiden Nachbarregionen nicht dauerhaft zu schädigen.",
+     "why": "Toute nouvelle taxe routière belge menace la dynamique du commerce transfrontalier quotidien entre le Luxembourg et les régions voisines.",
+     "paywalled": true,
+     "contested": "",
+     "chart": null
+    }
+   ]
+  },
+  {
+   "name": "Monde / géopolitique",
+   "stories": [
+    {
+     "source": "DW",
+     "lang": "de",
+     "url": "https://www.dw.com/de/raketeneinschlag-nato-generalsekretär-sagt-polen-unterstützung-zu/a-80004889?maca=de-rss-de-all-1119-rdf",
+     "headline": "Raketeneinschlag: NATO-Generalsekretär sagt Polen Unterstützung zu",
+     "headlineEn": "Missile strike: NATO Secretary General pledges support to Poland",
+     "summary": "Nach erneuten schweren russischen Luftangriffen auf das ukrainische Territorium sind Raketen und Trümmerteile auch auf polnischem Staatsgebiet niedergegangen. Die Regierung in Warschau bezeichnete den Vorfall als eine gezielte Provokation Russlands im Kontext laufender Militärübungen europäischer Verbündeter. Der NATO-Generalsekretär sicherte dem Bündnispartner Polen umgehend die vollständige Unterstützung der Allianz zu und verurteilte die Verletzung des NATO-Luftraums scharf. Trotz der erheblichen Spannungen betonen Sicherheitsexperten und Diplomaten, dass die Schwelle für eine Aktivierung des NATO-Kollektivverteidigungsartikels weiterhin sehr hoch angesetzt bleibt.",
+     "why": "Cet incident met à l'épreuve la cohésion de l'OTAN et la sécurité des frontières orientales de l'Union européenne face aux débordements du conflit ukrainien.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    },
+    {
+     "source": "Le Monde",
+     "lang": "fr",
+     "url": "https://www.lemonde.fr/international/article/2026/11/21/a-geneve-la-communaute-internationale-echoue-a-interdire-les-robots-tueurs_6814012_3210.html",
+     "headline": "A Genève, la communauté internationale échoue à interdire les robots tueurs",
+     "headlineEn": "In Geneva, the international community fails to ban killer robots",
+     "summary": "Les négociations menées sous l'égide des Nations unies à Genève concernant l'encadrement des armes létales autonomes se sont conclues sur un constat d'échec relatif. La Russie, les États-Unis et Israël se sont fermement opposés à l'ouverture de négociations formelles visant à établir un traité international contraignant sur les robots tueurs dotés d'intelligence artificielle. Les États participants se sont contentés d'un consensus minimal prévoyant la prolongation des discussions pour une durée de deux ans sans engagement juridique strict. Cette absence de régulation suscite une vive inquiétude parmi les organisations de défense des droits humains face à la prolifération de ces technologies sur les champs de bataille.",
+     "why": "L'absence de traité international laisse le champ libre au développement militaire incontrôlé de l'intelligence artificielle autonome.",
+     "paywalled": true,
+     "contested": "",
+     "chart": null
+    },
+    {
+     "source": "France 24",
+     "lang": "fr",
+     "url": "https://www.france24.com/fr/vid%C3%A9o/20261121-le-danemark-accuse-la-russie-d-avoir-tent%C3%A9-d-assassiner-un-rappeur-ukrainien",
+     "headline": "Le Danemark accuse la Russie d'avoir tenté d'assassiner un rappeur ukrainien",
+     "headlineEn": "Denmark accuses Russia of trying to assassinate a Ukrainian rapper",
+     "summary": "Les autorités danoises ont publiquement accusé les services de renseignement russes d'avoir commandité une tentative d'assassinat ciblant un artiste et militant ukrainien résidant sur le sol danois. En réaction immédiate à cette opération déjouée, Copenhague a annoncé l'expulsion de l'attaché de défense de l'ambassade de Russie et pousse l'Union européenne à durcir les restrictions de voyage imposées aux ressortissants russes. Le gouvernement danois qualifie cette affaire d'atteinte inacceptable à sa souveraineté nationale et à la sécurité de ses résidents. Moscou n'a pas tardé à rejeter ces accusations, dénonçant une nouvelle manœuvre diplomatique hostile.",
+     "why": "Cette affaire illustre l'accentuation des opérations d'ingérence et de menaces hybrides russes au cœur des pays membres de l'UE.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    }
+   ]
+  },
+  {
+   "name": "International — hors Europe",
+   "stories": [
+    {
+     "source": "Al Jazeera",
+     "lang": "en",
+     "url": "https://www.aljazeera.com/news/2026/11/21/sudans-elderly-face-hardship-and-heartbreak-in-a-life-of-displacement?traffic_source=rss",
+     "headline": "Sudan’s elderly face hardship and heartbreak in a life of displacement",
+     "headlineEn": "Les personnes âgées au Soudan confrontées aux difficultés et au déchirement du déplacement",
+     "summary": "Elderly people displaced by the ongoing armed conflict in Sudan are suffering severe hardship as humanitarian conditions continue to deteriorate across the country. Many older individuals have been forced to flee their homes without access to basic medical care, food, or adequate shelter, while often taking on the responsibility of caring for orphaned grandchildren. Aid agencies warn that vulnerable senior citizens are frequently overlooked in emergency relief distributions despite facing acute health risks and extreme poverty. The prolonged displacement crisis highlights the devastating human toll of Sudan's civil war on its most fragile populations.",
+     "why": "La crise humanitaire au Soudan s'aggrave dans l'indifférence internationale, frappant de plein fouet les populations vulnérables.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    },
+    {
+     "source": "The New York Times",
+     "lang": "en",
+     "url": "https://www.nytimes.com/2026/11/21/world/americas/mexico-el-chapo-isidro-captured-drugs.html",
+     "headline": "Top Drug Kingpin Is Captured by Mexican Army as Gunfire Erupts",
+     "headlineEn": "Un grand chef de cartel arrêté par l'armée mexicaine lors de fusillades",
+     "summary": "Mexican military forces have captured Fausto Isidro Meza Flores, the notorious cartel leader known as 'El Chapo Isidro', during a high-stakes raid in Sinaloa state. The operation triggered intense gunbattles between security forces and cartel gunmen across the region, causing widespread panic among local residents. Meza Flores, who was listed on the FBI's top ten most wanted list with a five-million-dollar reward, controlled extensive drug trafficking routes into North America. Mexican officials hailed the arrest as a major victory for national security and bilateral law enforcement cooperation with the United States.",
+     "why": "Cette arrestation majeure constitue un succès politique pour le gouvernement mexicain sous pression des États-Unis dans la lutte contre le narcotrafic.",
+     "paywalled": true,
+     "contested": "",
+     "chart": null
+    },
+    {
+     "source": "AP News",
+     "lang": "en",
+     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNZVBrUlFHSFVDYmVXaFpQdFBtQ0gyaTJrYXdEblFESjdkTHpsMGdCZmhKTnlmak1IdllyeVo1VVdoTDZ1Y3RCZVZoZ21iQ3BqbV9HRC12WDNzdklQeFVCVm4xMTJKeGFRcXBCeGdKUTNoTVkwMzNqek1DRlhXd3BRMzI2TWVza1hCQTBoTkVkLS1OREZkYzB3SjRkNUIzLVl0Q0FEQXBQU2I4UQ?oc=5",
+     "headline": "Haiti strikes deal with El Salvador to build new prisons after minister visit",
+     "headlineEn": "Haïti conclut un accord avec le Salvador pour construire de nouvelles prisons",
+     "summary": "Haitian authorities have formalized a bilateral agreement with El Salvador to construct high-security prisons aimed at containing the country's rampant gang violence. The deal follows an official visit by Salvadoran ministers and the deployment of security personnel to assist Port-au-Prince in restoring basic public order. El Salvador's aggressive security model is being increasingly studied and adopted across the Caribbean region despite concerns raised by international human rights observers. Haitian government officials hope that these new infrastructure projects will help isolate powerful gang leaders and alleviate severe overcrowding in existing detention centers.",
+     "why": "L'exportation de la méthode autoritaire du Salvador montre la quête désespérée de solutions face à l'effondrement sécuritaire en Haïti.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    },
+    {
+     "source": "Reuters",
+     "lang": "en",
+     "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNS09WSFZPbGR3SkNhZzFFMUFEU0o5QmVkRFVEdWJUOXNaMDBDLWV3a0Fhb1E4WjNXQlU4WUtrMDc3S29NQkMzazA0MlV0Y0hPV2tjWmhPQmZpMG1nLWFvR055Yl94QTZfd1VmZjZTYUJxbzZhNjU0MU0wNUFva1BveW9uSm5sOVVsX2VPZXhtRjZGc1ZHSG54eDFjRXgxWE04T2wybGZfc0Juc1ZpRkE?oc=5",
+     "headline": "Fire at power station in Iraq's Basra kills at least 4, injures 35",
+     "headlineEn": "Un incendie dans une centrale électrique à Bassora en Irak fait au moins 4 morts et 35 blessés",
+     "summary": "A massive fire broke out at the Hartha power station complex in Iraq's southern province of Basra, killing at least four workers and injuring 35 others. Emergency crews rushed to the facility to extinguish the burning units and evacuate injured personnel to nearby hospitals for urgent treatment. The destructive blaze caused significant physical damage to key power infrastructure, aggravating chronic electricity shortages across the energy-rich southern region. Iraqi government officials have launched a formal investigation to determine whether technical failure or safety negligence caused the deadly industrial disaster.",
+     "why": "Les défaillances des infrastructures énergétiques irakiennes accentuent la fragilité sociale et économique du sud du pays.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    },
+    {
+     "source": "Council on Foreign Relations",
+     "lang": "en",
+     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNZWQ5TGk2cWNNSkVoc0lBNlJBakwyNnJDOWkwZFZwWDBTX3RCdlZCYkNVdWlKZmt2WUhEUUNkQ0RGOC1heXZrMG1aRGJwdWhaRWc2SWE2ZHVTZE5peGItVE9RTFVEbDNNTDh5Z1FZWFJDaG93UnhNb2d2WFVfZWdiSjJDV3E0R0huWFBRM1lvNDBDSUVYWFNZSlBnWHJGVHZqYm5VUjhvcw?oc=5",
+     "headline": "With Genocide Ruling, Justice Finally Descends Upon Myanmar and the Rohingya",
+     "headlineEn": "Avec l'arrêt sur le génocide, la justice s'abat enfin sur le Myanmar et les Rohingyas",
+     "summary": "The International Court of Justice's landmark ruling finding Myanmar responsible for genocide against the Rohingya minority represents a historic milestone for international law and human rights accountability. The legal analysis by the Council on Foreign Relations underscores that while the court lacks direct enforcement powers, the verdict legally obligates Myanmar to pay reparations and prosecute military commanders. The decision provides crucial leverage for international sanctions and diplomatic pressure against the military junta in Naypyidaw. However, experts emphasize that delivering tangible justice and safe repatriation for displaced Rohingya refugees will require sustained global political will.",
+     "why": "Cette décision historique établit la responsabilité étatique du génocide, créant un précédent juridique majeur pour la justice internationale.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    }
+   ]
+  },
+  {
+   "name": "Europe & politiques de l'UE",
+   "stories": [
+    {
+     "source": "France 24",
+     "lang": "fr",
+     "url": "https://www.france24.com/fr/vid%C3%A9o/20261121-le-danemark-accuse-la-russie-d-avoir-tent%C3%A9-d-assassiner-un-rappeur-ukrainien",
+     "headline": "Le Danemark accuse la Russie d'avoir tenté d'assassiner un rappeur ukrainien",
+     "headlineEn": "Denmark accuses Russia of attempting to assassinate a Ukrainian rapper",
+     "summary": "Le Danemark a formellement accusé les services secrets russes d'avoir planifié une tentative d'assassinat sur son territoire national contre un rappeur d'origine ukrainienne possédant la nationalité américaine. À la suite de cet attentat déjoué par les services de sécurité, les autorités de Copenhague ont décidé d'expulser l'attaché de défense en poste à l'ambassade de Russie. En parallèle, le gouvernement danois exhorte désormais les dirigeants de l'Union européenne à durcir sévèrement les restrictions de déplacement imposées aux citoyens russes. Cette affaire exacerbe un peu plus les tensions diplomatiques déjà très vives entre Moscou et l'Europe du Nord.",
+     "why": "Ce projet d'assassinat déjoué pousse les pays nordiques à réclamer un verrouillage accru des frontières de l'UE pour les ressortissants russes.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    },
+    {
+     "source": "DW",
+     "lang": "en",
+     "url": "https://www.dw.com/en/eu-and-uk-strike-landmark-deal-to-strengthen-ties-after-brexit/a-80001076?maca=en-rss-en-world-4025-rdf",
+     "headline": "EU and UK strike 'landmark deal' to strengthen ties after Brexit",
+     "headlineEn": "L'UE et le Royaume-Uni concluent un « accord historique » pour renforcer leurs liens après le Brexit",
+     "summary": "The European Union and the United Kingdom have finalized a landmark agreement focused on youth mobility and trade relations. Leaders from both Brussels and London hailed the deal as a major milestone in rebuilding bilateral ties a decade after the Brexit vote. The negotiations reflect a broader effort by Prime Minister Andy Burnham's government to dismantle barriers erected during the UK's departure from the bloc. While certain diplomatic friction remains regarding university tuition fees for EU students, both sides expressed optimism that the agreement will foster closer economic and geopolitical cooperation.",
+     "why": "Cet accord marque un tournant pragmatique dans le rapprochement post-Brexit entre Londres et Bruxelles face aux défis géopolitiques globaux.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    },
+    {
+     "source": "AP",
+     "lang": "en",
+     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNZFlJamwzV1Zfbm9XMktPSUY2YWxfbUM3aXpna2ZycjFTaVBfOC1DVGExYUhMQ1JFM3h1S0Vkc1h5S0prXzBScTlBNFE1d2o3NlBxTk03T3NoYkFlX2Iza3FtWUZiSktkOGstenR3Nk1vY0QyZ1FPUTdiN1VDRTJNa01qcXIyNFZKS1JlTFRzZTBydTVSnA5U0lTNmxvTERxX0VYVUgwUW80OWJOSUFvaW1SUVZld0E?oc=5",
+     "headline": "Workers and students protest across Europe as a strike in Italy disrupts services",
+     "headlineEn": "Des travailleurs et des étudiants manifestent à travers l'Europe alors qu'une grève perturbe les services en Italie",
+     "summary": "Tens of thousands of workers and students have taken to the streets in major European cities to voice their anger over the rising cost of living and increased military spending. In Italy, a nationwide general strike called by trade unions severely disrupted public transportation, healthcare, and educational services. Similar youth-led demonstrations took place in Berlin, London, and Amsterdam, where protesters criticized government policies on rearmament and potential conscription. Organizers emphasized that the wave of mobilization reflects growing anxiety among Generation Z regarding economic stability, military escalation, and social inequality.",
+     "why": "La hausse du coût de la vie et le réarmement militaire provoquent une vague de mécontentement social et étudiant à l'échelle du continent.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    }
+   ]
+  },
+  {
+   "name": "Économie & marchés",
+   "stories": [
+    {
+     "source": "AP",
+     "lang": "en",
+     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQY09GMmxTYlpRMnQ3YVJ4Q3BUdmg3NEFJWG5lVlh4TC0zZGxxZVcydTkwSkpiZUZfS3BXdlRab05HSW5TS0h5TDY5NFRKajBDSWdFbUdhNFIxMzUxc3pLRnEtMXVNblBwZmgteFlUWVhuS0lRU3diRGpWQnkyeWtDMGJiS3hzd2xCdUtDVHIxc0hOWGkwTHdPZ1FfenUwQQ?oc=5",
+     "headline": "S&P 500 sinks 3.7% and Nasdaq composite goes negative for the year as tech sell-off worsens",
+     "headlineEn": "Le S&P 500 dévisse de 3,7 % et le Nasdaq passe dans le rouge sur l'année avec l'aggravation du sell-off technologique",
+     "summary": "Wall Street suffered a steep decline as a sharp sell-off in technology stocks dragged down major indexes. The S&P 500 index sank 3.7 percent, while the tech-heavy Nasdaq Composite dropped deep enough to erase all its gains for the year. The market rout was driven by mounting investor concern over astronomical valuations, combined with news of a Securities and Exchange Commission probe into accounting practices at chip giant Nvidia. Financial analysts warn that heavy weightings of megacap technology firms are now exerting disproportionate downward pressure across global equity benchmarks.",
+     "why": "Le décrochage des géants technologiques américains tire l'ensemble des marchés boursiers mondiaux vers le bas.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    },
+    {
+     "source": "AP",
+     "lang": "en",
+     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQY0hRM1J3UzZkR2JvWnJYUDgyRE55OE9pbmJxM19vX2llS1_QZjBTWkNVaVVZQTRJbnZ5N01NbEp5Qko2T3lGWlNERjFNYXF4Q2xiQVRZQUFmN2lWQ3V3YmpfYzZXNE5Lb2FuSFVJU2lBUW9VWVhRemxaY2dfamhRODlubjNmN0N6MU9DbENZd1NrdzNfeVFYWmtKNHJMQlBITXp0TQ?oc=5",
+     "headline": "‘Grand Theft Auto VI’ sets record with $3.79B in first-day retail sales, Rockstar Games reports",
+     "headlineEn": "« Grand Theft Auto VI » bat tous les records avec 3,79 milliards de dollars de ventes le premier jour, selon Rockstar Games",
+     "summary": "Rockstar Games announced that the long-awaited video game Grand Theft Auto VI generated a record-breaking $3.79 billion in retail sales during its first 24 hours on the market. The figure shatters previous launch records across the entire entertainment industry, easily surpassing first-day earnings of major blockbuster films and predecessor titles. Financial analysts attribute the unprecedented commercial launch to immense global consumer demand and high digital pre-order volumes. This historic financial performance highlights the massive economic dominance of the interactive gaming sector compared to traditional media entertainment.",
+     "why": "Ce démarrage historique confirme la domination économique absolue du jeu vidéo sur les industries du cinéma et de la musique.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    },
+    {
+     "source": "RTL.lu",
+     "lang": "fr",
+     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNRVhhRlFLQ2tpYU1NN09UY25FdU94T1BiLUV3UHlaZVB6X1VZYVRVb1E2dGpwdTdleUlOY21DRjdfcVBZV1k3dUVTUzNaN2s5SkIyU05JSkF0ZDZNWGJxVXI2YlRtOUFmaEYwS21Hc1N5NU9FclZxNlhvbTBmOEFmd0VKRWdxR2RZTllrY21acThjVllCdm1FRTRVZUtvNWNmZ2otUmQyaDBQLUpWT2JfZEw0S244UQ?oc=5",
+     "headline": "Rebondissement dans l'affaire Caritas: L'Italie suspend l'extradition de Clarissa La Porta vers le Luxembourg",
+     "headlineEn": "Twist in the Caritas case: Italy suspends the extradition of Clarissa La Porta to Luxembourg",
+     "summary": "Un nouveau rebondissement judiciaire vient de marquer l'enquête sur le détournement de fonds massif ayant frappé Caritas Luxembourg. Les autorités judiciaires italiennes ont décidé de suspendre la procédure d'extradition de Clarissa La Porta vers le Grand-Duché. La principale suspecte dans cette fraude financière à plusieurs millions d'euros reste donc retenue en Italie dans l'attente d'un réexamen approfondi du dossier. Ce contretemps bloque temporairement le calendrier des juges d'instruction luxembourgeois qui comptaient sur son audition pour faire toute la lumière sur le schéma de détournement et retrouver les capitaux disparus.",
+     "why": "La suspension de l'extradition retarde l'aboutissement de l'enquête judiciaire luxembourgeoise sur la fraude de Caritas.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    }
+   ]
+  },
+  {
+   "name": "Technologie & sciences",
+   "stories": [
+    {
+     "source": "DW",
+     "lang": "en",
+     "url": "https://www.dw.com/en/anthropic-researcher-uses-ai-to-solve-math-s-greatest-riddle/a-80008428?maca=en-rss-en-world-4025-rdf",
+     "headline": "Anthropic researcher uses AI to solve math's greatest riddle",
+     "headlineEn": "Un chercheur d'Anthropic affirme avoir résolu la plus grande énigme mathématique grâce à l'IA",
+     "summary": "A mathematician working at artificial intelligence company Anthropic claims to have proved the famed Riemann hypothesis using the firm's Claude AI model. If verified by peer review, the breakthrough would resolve one of the most famous and complex unsolved problems in mathematics. The claim represents the latest milestone in a growing series of mathematical proofs assisted by advanced machine learning systems. However, prominent academic mathematicians caution that rigorous independent verification will take considerable time before the community can confirm the validity of the AI-generated mathematical proof.",
+     "why": "La résolution potentielle de la conjecture de Riemann marquerait une avancée historique du rôle de l'IA dans la recherche scientifique fondamentale.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    },
+    {
+     "source": "Euronews",
+     "lang": "en",
+     "url": "https://www.euronews.com/2026/11/21/fossil-fuel-row-sees-cop31-talks-spill-into-overtime",
+     "headline": "Fossil fuel row sees COP31 talks spill into overtime",
+     "headlineEn": "La querelle sur les énergies fossiles fait prolonger les négociations de la COP31",
+     "summary": "The United Nations COP31 climate negotiations in Antalya, Turkey, have dragged into overtime as delegates failed to reach a consensus on global emission targets. Negotiations reached an impasse after a coalition of countries, including France and Panama, issued a formal demand insisting that the final text must explicitly commit to a managed transition away from fossil fuels. Developing nations also expressed frustration over the lack of concrete guarantees regarding climate finance and compensation for loss and damage. Delegates are continuing negotiations in an effort to avoid complete collapse of the summit.",
+     "why": "L'absence d'accord sur la sortie des énergies fossiles paralyse la gouvernance climatique mondiale lors du sommet d'Antalya.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    },
+    {
+     "source": "Euronews",
+     "lang": "fr",
+     "url": "https://fr.euronews.com/video/2026/11/21/au-japon-un-taxi-aerien-autonome-transporte-un-passager-sans-pilote",
+     "headline": "Au Japon, un taxi volant autonome transporte un passager sans pilote",
+     "headlineEn": "Autonomous flying taxi carries passenger without a pilot in Japan",
+     "summary": "Une démonstration aéronautique majeure s'est déroulée dans la préfecture de Yamanashi, au Japon, où un taxi volant électrique sans pilote a transporté avec succès un passager humain. Développé par un constructeur chinois, l'appareil à décollage et atterrissage verticaux a effectué son vol de manière entièrement autonome. Cet essai grandeur nature vise à valider les systèmes de navigation automatique et la sécurité des vols pour les futurs transports urbains. Les autorités japonaises espèrent s'appuyer sur ces technologies d'aviation autonome pour désengorger les réseaux routiers et transformer les déplacements en milieu urbain.",
+     "why": "Ce premier vol autonome habité préfigure le déploiement commercial des taxis aériens dans le transport urbain.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    }
+   ]
+  },
+  {
+   "name": "Sport",
+   "stories": [
+    {
+     "source": "SZ",
+     "lang": "de",
+     "url": "https://www.sueddeutsche.de/sport/fc-bayern-koeln-kompany-kane-olise-li.3583872",
+     "headline": "1:1 gegen 1. FC Köln: Kane fehlt den Bayern monatelang",
+     "headlineEn": "1-1 against 1. FC Köln: Kane out for months for Bayern",
+     "summary": "Der FC Bayern München muss einen schweren Rückschlag im Titelkampf hinnehmen. Beim 1:1-Unentschieden gegen den 1. FC Köln verletzte sich Stürmerstar Harry Kane schwer am Sprunggelenk und zog sich einen Syndesmoseriss zu. Kane wurde bereits erfolgreich operiert, fällt aber monatelang aus. Auch Michael Olise musste frühzeitig ausgewechselt werden, was die Personalsorgen von Trainer Vincent Kompany weiter verschärft.",
+     "why": "L'absence prolongée de Harry Kane compromet les objectifs du Bayern Munich en Bundesliga et en Ligue des champions.",
+     "paywalled": true,
+     "contested": "",
+     "chart": null
+    },
+    {
+     "source": "RTL.lu",
+     "lang": "fr",
+     "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPdDJQWGVqUjZfdnBQZXhSTDlhUjlESF9xWDRrdnBZQ0A2RWJ2WkFRWmFSeHgxd243WlFDMkFLZkhKT3VKMGpUejRNTl9oSzFiZFRnczdFdUJCYldnTUlCa3R2U0I1NjdxYkI3aVp2bzFKQ1JnR0M0NmN3d1JsaXpick9tYmpkNkRXSGp4cjdB?oc=5",
+     "headline": "Marie Schreiber déclassée: L'UCI rejette les arguments luxembourgeois",
+     "headlineEn": "Marie Schreiber disqualified: UCI rejects Luxembourg arguments",
+     "summary": "L'Union Cycliste Internationale (UCI) a officiellement rejeté la réclamation déposée par la fédération luxembourgeoise de cyclisme concernant le déclassement de Marie Schreiber. La coureuse luxembourgeoise avait été sanctionnée lors de sa dernière épreuve de cyclo-cross pour une infraction règlementaire contestée. Malgré la défense présentée par le staff technique national, l'instance dirigeante mondiale a confirmé la décision initiale des commissaires de course, scellant ainsi le résultat de la compétition.",
+     "why": "La confirmation du déclassement met fin au recours de la fédération luxembourgeoise auprès de l'UCI.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    }
+   ]
+  }
+ ],
+ "sourced": true,
+ "feeds": {
+  "ok": 26,
+  "of": 29,
+  "items": 259,
+  "skipped": [
+   "Reuters (FR)",
+   "RTL.lu (LB)",
+   "Foreign Affairs (EN)"
+  ]
+ },
+ "words": 4273,
+ "readMin": 21,
+ "storyCount": 25
+}
