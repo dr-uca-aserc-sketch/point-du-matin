@@ -1,0 +1,433 @@
+{
+ "date": "2026-11-22",
+ "kind": "weekly",
+ "heat": 0.88,
+ "oneThing": "Rising geopolitical tensions in global maritime straits and volatile tech stock swings highlight a growing fragileness across global supply chains and financial markets.",
+ "followUps": [
+  {
+   "n": "01",
+   "thread": "Arrestation d'un baron de la drogue au Mexique",
+   "change": "Fausto Isidro Meza Flores (« El Chapo Isidro »), figurant sur la liste des 10 fugitifs les plus recherchés du FBI, a été arrêté au Mexique lors d'un affrontement armé ayant fait 11 morts."
+  },
+  {
+   "n": "02",
+   "thread": "Condamnation historique de la Birmanie par la CIJ",
+   "change": "La Cour internationale de justice a officiellement jugé la Birmanie responsable du génocide contre les Rohingya, ouvrant la voie à des demandes de sanctions et de réparations internationales."
+  },
+  {
+   "n": "03",
+   "thread": "Contestation sociale et grèves en Italie",
+   "change": "Les grèves massives contre la vie chère et les politiques salariales du gouvernement Meloni se sont poursuivies en Italie, provoquant de nombreuses perturbations dans les transports et services publics."
+  }
+ ],
+ "mustReads": [
+  {
+   "desk": "Technologie & marchés",
+   "source": "DW",
+   "lang": "EN",
+   "paywalled": false,
+   "url": "https://www.dw.com/en/anthropic-researcher-uses-ai-to-solve-math-s-greatest-riddle/a-80008428?maca=en-rss-en-world-4025-rdf",
+   "headline": "Anthropic researcher uses AI to solve math's greatest riddle",
+   "headlineEn": "Un chercheur d'Anthropic utilise l'IA pour résoudre la plus grande énigme mathématique",
+   "contested": "",
+   "why": "Cette séquence illustre la volatilité extrême des marchés face à l'intelligence artificielle, oscillant entre des avancées scientifiques majeures et la crainte d'une bulle spéculative.",
+   "stat": "3.7%",
+   "statLabel": "Chute du S&P 500 lors du mouvement de vente massive sur la tech",
+   "chart": null,
+   "paras": [
+    "The week opened with intense market focus on artificial intelligence, fueled by the eagerly anticipated Wall Street debut of Anthropic alongside upcoming earnings reports from chipmaker Nvidia. Investors had been closely monitoring valuations across the technology sector, balancing high expectations against growing anxiety over potential financial overexposure. High-profile endorsements from industry leaders had initially maintained market momentum, underscoring the central position of semiconductor hardware and advanced algorithms in global corporate strategy. However, underlying nervousness regarding sustainable profitability and regulatory compliance continued to linger beneath the surface across major financial exchanges.",
+    "Midweek developments brought dramatic momentum when Anthropic executed the largest initial public offering on record, attracting overwhelming demand from institutional funds. The landmark market listing initially appeared to confirm investors' appetite for cutting-edge generative technology, driving shares sharply higher during early trading sessions. Market analysts highlighted the historic nature of the public debut, interpreting the massive inflow of capital as a decisive vote of confidence in commercial artificial intelligence applications. This enthusiasm temporarily pushed financial indexes upward, counteracting broader macroeconomic headwinds and reassuring market participants who had questioned whether valuation levels could be sustained.",
+    "Simultaneously, scientific excitement reached a peak when an Anthropic researcher utilized an advanced AI system to propose a solution to the Riemann hypothesis, long considered mathematics' greatest unsolved problem. While independent academic verification remains ongoing, the achievement underscored the remarkable problem-solving capabilities of modern algorithmic tools beyond standard commercial uses. Computer scientists and mathematicians noted that automated reasoning is rapidly outpacing human efforts in fundamental research domains. This theoretical breakthrough further amplified enthusiasm surrounding next-generation models, reinforcing claims by developers that machine intelligence represents a transformative paradigm shift for global scientific discovery and innovation.",
+    "Despite these technological achievements, sentiment shifted abruptly by Friday as a severe sell-off hit technology stocks across global exchanges. The S&P 500 sank 3.7 percent while the Nasdaq composite dropped into negative territory for the year, reflecting mounting fears of an overvalued sector bubble. Heavy selling hit leading hardware manufacturers and software developers alike, wiping out billions in market capitalization within hours. Financial regulators had previously issued warnings regarding systemic risks stemming from automated trading and excessive reliance on tech assets, warnings that seemed validated as panic selling spread across trading floors worldwide.",
+    "The sharp downturn extended to European and Asian financial centers, where equity benchmarks suffered parallel declines amid tightening credit conditions. Central bank officials reiterated concerns about systemic vulnerability, pointing to how quickly concentrated holdings in high-tech firms can destabilize global portfolios. Meanwhile, tech firms faced heightened scrutiny over governance, security measures, and data access. The sudden market correction demonstrated how fragile investor sentiment remains when technical milestones fail to immediately translate into predictable balance-sheet stability, leaving institutional portfolios vulnerable to swift valuation adjustments across interconnected international equity markets.",
+    "As the weekend arrived, the technology sector remained firmly in consolidation mode following its longest losing streak since 2024. While Anthropic's mathematical breakthrough continues to generate academic interest, financial markets are grappling with recalibrated valuations and diminished risk appetite. Investors are carefully re-evaluating their positions ahead of upcoming corporate earnings calls and regulatory announcements. The initial euphoria that accompanied record public offerings has given way to cautious reassessment, with market participants weighing ground-breaking scientific potential against the harsh realities of volatile capital markets and persistent macroeconomic uncertainties.",
+    "The trajectory over the past seven days highlights a structural tension between rapid technological innovation and financial market realities. On one side, automated systems are demonstrating unprecedented analytical capabilities, solving complex theoretical challenges and attracting record-breaking private investments. On the other side, capital markets are signaling that unbridled optimism cannot insulate technology equities from macroeconomic pressures and valuation corrections. The sharp divergence between operational milestones and stock performance suggests that the sector has entered a mature phase where tangible commercial sustainability will dictate future capital allocation.",
+    "Looking ahead to next week, market stability will depend on upcoming financial disclosures from key hardware suppliers and independent validation of Anthropic's mathematical claims. Academic peer review of the proposed Riemann hypothesis proof will determine whether the technological milestone stands up to rigorous scientific testing. Furthermore, upcoming guidance from federal monetary authorities regarding interest rates and systemic financial risk will influence whether institutional investors resume capital deployment into tech equities or maintain a defensive posture amid ongoing market volatility and macroeconomic recalibration."
+   ]
+  },
+  {
+   "desk": "Géopolitique mondiale",
+   "source": "Euronews",
+   "lang": "EN",
+   "paywalled": false,
+   "url": "https://www.euronews.com/video/2026/11/22/ukraine-up-to-seven-feared-trapped-beneath-rubble-near-kyiv-after-russian-attack",
+   "headline": "Ukraine: Up to seven feared trapped beneath rubble near Kyiv after Russian attack",
+   "headlineEn": "Ukraine : jusqu'à sept personnes recherchées sous les décombres près de Kiev après une attaque russe",
+   "contested": "",
+   "why": "L'absence de volet ukrainien au sommet tripartite de Shenzhen et la recrudescence des frappes sur les infrastructures stratégiques intensifient le risque d'escalade directe entre l'OTAN et la Russie.",
+   "stat": "2",
+   "statLabel": "Missiles russes tombés en territoire polonais cette semaine",
+   "chart": null,
+   "paras": [
+    "The week began with intense geopolitical maneuvers as global leaders prepared for an unprecedented trilateral encounter in Shenzhen, China. US President Donald Trump, Chinese President Xi Jinping, and Russian President Vladimir Putin gathered to discuss international security and economic stability. However, the diplomatic summit drew immediate criticism from Western observers because it deliberately excluded any official discussion regarding the ongoing war in Ukraine. Despite high expectations for a broad peace framework, the final joint declaration omitted key conflict zones, leaving European allies concerned about Washington's long-term commitment to Eastern European security architecture.",
+    "Simultaneously, military action escalated dramatically on the ground as Ukrainian forces launched a record drone attack against the strategic Crimean Bridge. The strikes successfully destroyed a section of the Kerch crossing, severely disrupting Russian supply lines toward occupied southern territories. Ukrainian President Volodymyr Zelensky defended the operation as a fair and necessary response to over one hundred separate Russian aerial bombardment campaigns targeting critical Ukrainian transport infrastructure. The destruction of the vital bridge marked one of Kyiv's most significant tactical successes in recent months, forcing Moscow to re-route military logistics.",
+    "Moscow responded swiftly to the Crimean Bridge attack with a series of heavy retaliatory missile and drone strikes across Ukraine. Russian forces targeted key river crossings, energy infrastructure, and residential neighborhoods in several oblasts, including Kyiv and President Zelensky's hometown. Emergency crews worked continuously to recover victims trapped under destroyed apartment buildings near the capital. Russian President Vladimir Putin publicly vowed that additional painful measures would follow, signaling an intensification of aerial strikes aimed at crippling Ukraine's power grid and transportation networks just as winter conditions began to set in across Eastern Europe.",
+    "The conflict reached a perilous threshold when two Russian missiles landed inside Polish territory during a major defensive exercise. Polish Prime Minister Donald Tusk immediately denounced the incident as a deliberate provocation timed to intimidate NATO members. The military alliance confirmed the airspace violation and reassured Warsaw of full collective support, while US officials characterized the missile strike as a probable navigational error. The incident highlighted the growing danger of direct spillover along NATO's eastern frontier, prompting regional defense ministers to call for heightened readiness and strengthened air defense posture.",
+    "Tensions escalated further in the Baltic Sea region when a Russia-bound cargo ship caught fire following a Ukrainian drone strike in international waters off Finland. Finnish defense forces confirmed the maritime incident and reported a subsequent Russian military helicopter airspace violation over their territory. Meanwhile, Denmark accused Russian intelligence of orchestrating a thwarted assassination attempt against a Ukrainian cultural figure on Danish soil. In response to these hybrid threats, Estonia announced the complete closure of its eastern border with Russia for at least six months, demonstrating the Baltics' firm stance.",
+    "As the weekend concluded, the security situation across Eastern Europe remained extremely fragile with no clear diplomatic breakthrough in sight. President Zelensky raised the possibility of convening a new round of peace talks alongside President Trump and President Putin during the upcoming G20 summit in Miami. However, Russian diplomats continue to push back forcefully against Western proposals for NATO-style security guarantees for Ukraine. On the ground, rescue operations continue near Kyiv following the latest drone strikes, while front-line forces prepare for prolonged winter combat operations.",
+    "This week demonstrated how diplomatic initiatives without inclusive regional participation fail to halt battlefield escalation. While high-level meetings in China produced symbolic declarations, military operations intensified across multiple domains, from drone warfare in the Baltic Sea to missile impacts within NATO territory. The deliberate targeting of strategic transportation links has transformed the conflict into an infrastructure war, increasing risks for neighboring civilian populations and sovereign airspace. The persistent refusal of key international actors to align on security frameworks leaves European nations exposed to uncoordinated escalation.",
+    "Looking to the coming days, international attention will focus on whether diplomatic channels can establish a viable framework for proposed trilateral discussions in Miami. The immediate military posture will depend heavily on the delivery speed of Western air defense systems to Ukraine to protect critical civilian energy infrastructure. Furthermore, any additional border violations or maritime incidents in the Baltic region could force NATO to activate stronger collective defense measures, potentially altering the diplomatic calculus for both Moscow and Washington as winter military campaigns get underway."
+   ]
+  },
+  {
+   "desk": "Climat & transition",
+   "source": "France 24",
+   "lang": "FR",
+   "paywalled": false,
+   "url": "https://www.france24.com/fr/vid%C3%A9o/20261122-climat-la-cop31-en-turquie-devient-la-plus-longue-de-l-histoire",
+   "headline": "Climat : la COP31 en Turquie devient la plus longue de l'histoire et s'achève sur un échec",
+   "headlineEn": "Climate: COP31 in Turkey becomes the longest in history and ends in failure",
+   "contested": "",
+   "why": "Le rejet par l'Union européenne d'un texte final taisant la sortie des énergies fossiles consacre une paralysie majeure de la diplomatie climatique internationale.",
+   "stat": "44",
+   "statLabel": "Heures de prolongations record avant l'échec des négociations à Antalya",
+   "chart": null,
+   "paras": [
+    "La trentième-et-une conférence de l'Organisation des Nations unies sur le climat s'est ouverte à Antalya dans un climat d'incertitude géopolitique et de pression environnementale croissante. Les délégations de près de deux cents pays s'étaient rassemblées en Turquie avec l'objectif prioritaire de concrétiser les engagements de transition énergétique et de définir les mécanismes de financement des pertes et préjudices. Cependant, dès les premières sessions de négociation, des divergences profondes sont réapparues entre les pays producteurs d'hydrocarbures et les nations les plus vulnérables aux dérèglements climatiques, préfigurant un sommet particulièrement complexe et tendu.",
+    "Au milieu de la semaine, les discussions se sont heurtées à un blocage majeur concernant la formulation du texte final de la conférence. Les ébauches présentées par la présidence turque ont suscité une vive indignation parmi les délégués européens et les représentants des petites îles en développement. En effet, le projet de déclaration ne faisait aucune mention explicite de la sortie progressive des énergies fossiles comme le pétrole, le charbon et le gaz naturel. Plusieurs ministres de l'Environnement ont dénoncé une tentative de blanchiment écologique destinée à satisfaire les intérêts des pays pétroliers.",
+    "Face au refus catégorique de signer un compromis jugé insuffisant, les négociations diplomatiques ont dépassé la date limite initiale pour basculer dans des prolongations d'une durée inédite. Avec plus de quarante-quatre heures de retard sur l'agenda officiel, la COP31 d'Antalya est officiellement devenue la plus longue conférence sur le climat de l'histoire, battant le précédent record établi lors de la COP25 à Madrid en 2019. Dans les couloirs du centre de congrès, les équipes de négociation ont multiplié les réunions nocturnes pour tenter de trouver un terrain d'entente praticable.",
+    "La crise diplomatique a atteint son paroxysme lorsque l'Union européenne a formellement rejeté la ultime proposition de compromis soumise par la présidence de la conférence. La commissaire européenne au Climat a déclaré qu'aucun accord ne valait mieux qu'un texte affaibli qui ignorerait la cause principale du réchauffement de la planète. Soutenue par un large bloc de pays d'Amérique latine et du Pacifique, l'UE a bloqué l'adoption du texte final, entraînant l'échec officiel du sommet sans qu'aucune résolution majeure sur la transition énergétique ne puisse être formellement adoptée.",
+    "Cet échec retentissant a provoqué la colère des organisations non gouvernementales et des activistes environnementaux présents sur place. Les représentants de la société civile ont fustigé le manque de volonté politique des grands États pollueurs et l'influence des lobbys industriels dans les négociations internationales. De leur côté, plusieurs pays en développement ont exprimé leur frustration face à l'incapacité des nations riches à fournir les garanties financières indispensables pour financer leur transition écologique et faire face aux catastrophes météorologiques à répétition qui ravagent leurs territoires respectifs.",
+    "En ce fin de week-end, la conférence d'Antalya s'est clôturée sur un constat de paralysie sans précédent pour la gouvernance climatique mondiale. Les délégués quittent la Turquie sans déclaration finale commune, reportant l'ensemble des arbitrages fondamentaux à la prochaine session prévue l'an prochain. L'absence de consensus fragilise considérablement l'Accord de Paris et remet en question la capacité de l'ONU à fédérer la communauté internationale autour d'objectifs de décarbonation contraignants. La fracture diplomatique entre blocs géopolitiques apparaît désormais plus profonde que jamais sur les questions environnementales.",
+    "Le déroulement de cette semaine à Antalya met en lumière les limites structurelles du modèle des conférences climatiques fondées sur la règle du consensus absolu. La capacité des États producteurs de bloquer toute référence explicite aux combustibles fossiles prive ces sommets de leur portée stratégique. En choisissant d'assumer un échec plutôt que d'entériner un recul diplomatique, l'Union européenne a marqué une ligne rouge ferme, mais laisse l'architecture multilatérale du climat privée d'impulsion politique au moment où les urgences environnementales s'accumulent à l'échelle globale.",
+    "Pour débloquer la situation au cours des prochains mois, les diplomates devront entamer des discussions bilatérales informelles afin de reconstruire la confiance entre les blocs régionaux avant le prochain sommet. L'évolution dépendra également de la capacité des grandes puissances industrielles à proposer des mécanismes de financement alternatif pour accompagner les pays du Sud. Enfin, la pression croissante de l'opinion publique et la multiplication des événements climatiques extrêmes pourraient contraindre les gouvernements réfractaires à revoir leurs positions de négociation lors des réunions intermédiaires prévues au printemps."
+   ]
+  },
+  {
+   "desk": "Sécurité internationale",
+   "source": "Al Jazeera",
+   "lang": "EN",
+   "paywalled": false,
+   "url": "https://www.aljazeera.com/news/2026/11/22/whats-behind-irans-escalation-of-attacks-in-the-gulf?traffic_source=rss",
+   "headline": "What’s behind Iran’s escalation of attacks in the Gulf?",
+   "headlineEn": "Qu'est-ce qui explique l'escalade des attaques iraniennes dans le Golfe ?",
+   "contested": "",
+   "why": "Le durcissement du blocus maritime américain et les représailles iraniennes dans le détroit d'Ormuz menacent d'asphyxier le commerce pétrolier et d'entraîner une confrontation militaire directe.",
+   "stat": "130",
+   "statLabel": "Jours consécutifs de blocus naval américain contre les exportations iraniennes",
+   "chart": null,
+   "paras": [
+    "The week opened with heightened military tensions in the Middle East as the long-standing confrontation between Washington and Tehran intensified significantly. The United States naval blockade, designed to interdict Iranian oil shipments, reached a critical juncture with reported exchanges of fire in international waters. US military commanders emphasized their commitment to enforcing sanctions against the Islamic Revolutionary Guard Corps, seeking to cut off revenue streams derived from ship-to-ship crude oil transfers. However, regional energy analysts warned that tight maritime enforcement was pushing the Iranian regime toward increasingly aggressive retaliatory tactics across key Persian Gulf shipping routes.",
+    "By midweek, the US military announced that its naval forces had maintained over one hundred and thirty consecutive days of continuous blockade operations in strategic Gulf waterways. Federal officials claimed the maritime operations had successfully blocked billions of dollars in illegal crude oil exports, severely straining Iran's domestic economy. Despite these aggressive interdiction efforts, Iranian authorities asserted that their commercial fleet continued to navigate regional straits, utilizing evasive measures and phantom vessel registrations. This escalating economic squeeze heightened domestic pressure within Iran, leading senior military commanders to threaten direct disruption of international commercial shipping.",
+    "As the week progressed, Tehran retaliated by escalating drone and missile strikes targeting commercial vessels and regional energy infrastructure near the Strait of Hormuz. Iranian military forces launched multiple attacks against merchant ships suspected of complying with Western sanctions, causing significant disruption to international maritime trade. The surge in hostile actions raised immediate alarm among global shipping companies, driving marine insurance premiums sharply higher and prompting several commercial carriers to re-route tankers around the Arabian Peninsula. Regional security experts noted that Tehran was intentionally raising shipping risks to challenge the naval blockade.",
+    "The security crisis reached a dangerous peak when rumors and intelligence reports surfaced regarding potential Iranian development of non-conventional radiological devices. US President Donald Trump issued a stern public warning from the White House, asserting that Washington possessed comprehensive intelligence regarding Iranian military activities and would firmly prevent any attempt to deploy dirty bomb capabilities. President Trump emphasized that American forces were fully prepared to take decisive military action if Tehran crossed established strategic red lines, further escalating fear of an all-out armed conflict across the Persian Gulf region.",
+    "The fallout from the confrontation spread rapidly across neighboring Middle Eastern states, where power grid failures and infrastructure vulnerabilities added to regional instability. A major fire at a power station in southern Iraq killed several workers and disrupted electricity supplies, underscoring the fragility of regional energy networks amidst broader geopolitical turmoil. Meanwhile, diplomatic efforts in the US Congress to restrict executive authority over military operations in the Middle East gained traction, as lawmakers drew comparisons to historical legislative interventions and expressed concern over an uncoordinated drift into a wider regional war.",
+    "At the conclusion of the week, the situation in the Persian Gulf remains on high alert with naval forces maintaining defensive postures along critical maritime choke points. Although Iranian state media reported that commercial tankers were successfully navigating the Strait of Hormuz, maritime tracking services cast doubt on these claims, identifying several reported vessels as non-existent. International diplomatic efforts to de-escalate tensions remain stalled, while energy markets continue to react nervously to ongoing naval encounters and the persistent threat of further military escalation between Washington and Tehran.",
+    "The events of the past seven days illustrate the severe risks inherent in enforcing an uncompromising maritime blockade against a major regional power. While US naval operations have succeeded in curtailing official Iranian petroleum exports, the resulting economic pressure has incentivized Tehran to adopt asymmetric military responses against commercial shipping. The escalation from trade interdiction to direct armed encounters in the Strait of Hormuz has created a volatile security environment where minor tactical miscalculations could rapidly trigger a broader regional conflict with profound global energy implications.",
+    "Looking ahead, the direction of this conflict will depend on whether diplomatic backchannels can establish basic maritime security protocols to prevent further ship-to-ship engagements. Intelligence assessments regarding Iran's nuclear and radiological programs will remain a critical flashpoint, determining whether Washington escalates targeted strikes against coastal military installations. Additionally, legislative debates within the US Congress over war powers authorization could influence the scope of American naval deployments, while any major interruption to Persian Gulf oil transit will inevitably trigger emergency interventions by international maritime coalitions."
+   ]
+  }
+ ],
+ "desks": [
+  {
+   "name": "Luxembourg",
+   "stories": [
+    {
+     "source": "RTL.lu",
+     "lang": "fr",
+     "url": "https://5minutes.rtl.lu/actu/luxembourg/a/2250123.html",
+     "headline": "Carburants, électricité, fioul...: Le gouvernement valide les aides financières pour 2027",
+     "headlineEn": "Fuel, electricity, heating oil...: Government approves financial aid for 2027",
+     "summary": "Le Conseil de gouvernement du Luxembourg a formellement validé la reconduite et le ciblage des aides financières publiques destinées à amortir le coût de l'énergie pour l'année 2027. Face à la volatilité constante des marchés pétroliers et de l'électricité, les autorités maintiennent un bouclier tarifaire ajusté afin de préserver le pouvoir d'achat des ménages et de garantir la prévisibilité budgétaire pour les entreprises locales. Cette décision s'inscrit dans le cadre des arbitrages budgétaires pluriannuels présentés à la Chambre des députés. Elle vise à rassurer les consommateurs tout en incitant progressivement à la sobriété énergétique et à la transition vers les énergies renouvelables.",
+     "why": "Cette mesure garantit une protection budgétaire essentielle pour les ménages résidents face à l'instabilité des cours énergétiques mondiaux.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    },
+    {
+     "source": "Luxemburger Wort",
+     "lang": "de",
+     "url": "https://www.wort.lu/luxemburg/immobilien-als-kapitalanlage",
+     "headline": "Immobilien als Kapitalanlage: Lohnt sich der Kauf weiterhin?",
+     "headlineEn": "Real estate as an investment: Is buying still worth it?",
+     "summary": "Der luxemburgische Immobilienmarkt steht vor grundlegenden Veränderungen, da steigende Zinsen und regulatorische Auflagen die Renditen für private Investoren neu definieren. Trotz einer leichten Stabilisierung der Verkaufspreise fragen sich Kapitalanleger, ob der Erwerb von Wohnraum zur Vermietung noch rentabel ist. Experten betonen, dass Lage und Energieeffizienz der Objekte entscheidende Faktoren für den langfristigen Werterhalt bleiben. Zudem erfordern neue steuerliche Vorgaben eine genauere Kalkulation der Nebenkosten und Eigenkapitalquoten. Die Nachfrage nach Mietwohnungen bleibt zwar wegen des kontinuierlichen Bevölkerungswachstums hoch, doch Investoren agieren deutlich vorsichtiger als in den vergangenen Jahren.",
+     "why": "L'évolution du secteur immobilier influe directement sur le patrimoine des investisseurs et sur la disponibilité de logements locatifs dans le Grand-Duché.",
+     "paywalled": true,
+     "contested": "",
+     "chart": null
+    },
+    {
+     "source": "Luxemburger Wort",
+     "lang": "de",
+     "url": "https://www.wort.lu/wirtschaft/belgische-vignette-grenzhaendler-bangen",
+     "headline": "Belgische Vignette: Grenzhändler bangen um Luxemburger Kunden",
+     "headlineEn": "Belgian vignette: Border traders fear loss of Luxembourg customers",
+     "summary": "Die Pläne für die Einführung einer Autobahnvignette im benachbarten Belgien sorgen bei Einzelhändlern in den Grenzregionen für erhebliche Unruhe. Geschäftsinhaber befürchten, dass zusätzliche Mautgebühren luxemburgische Kunden davon abhalten könnten, spontane Einkaufsfahrten über die Grenze zu unternehmen. Besonders betroffen wären Tankstellen, Einkaufszentren und Gastronomiebetriebe nahe der gemeinsamen Grenze, die stark vom täglichen Kundenstrom aus dem Großherzogtum abhängen. Vertreter der grenzüberschreitenden Wirtschaft fordern Ausnahmeregelungen für den Nahverkehr. Die Debatte unterstreicht die enge wirtschaftliche Verflechtung und die Empfindlichkeit des grenzüberschreitenden Handels im Großraum Luxemburg.",
+     "why": "Toute nouvelle barrière tarifaire routière risque de perturber les flux commerciaux quotidiens et l'économie transfrontalière de la Grande Région.",
+     "paywalled": true,
+     "contested": "",
+     "chart": null
+    }
+   ]
+  },
+  {
+   "name": "Monde / géopolitique",
+   "stories": [
+    {
+     "source": "France 24",
+     "lang": "fr",
+     "url": "https://www.france24.com/fr/vid%C3%A9o/20261122-la-finlande-fait-%C3%A0-tat-d-une-attaque-de-drone-ukrainien-contre-un-cargo-russe-en-mer-baltique",
+     "headline": "La Finlande fait état d'une attaque de drone ukrainien contre un cargo russe en mer Baltique",
+     "headlineEn": "Finland reports Ukrainian drone attack on Russian cargo ship in Baltic Sea",
+     "summary": "La Finlande a détecté une attaque de drone attribuée à l'Ukraine contre le cargo russe 'Sparta II' dans les eaux de la mer Baltique. Le navire, visé par des sanctions américaines et faisant route vers Kaliningrad, a pris feu à la suite de la frappe et a dérivé vers les eaux territoriales finlandaises. Les garde-côtes finlandais sont intervenus avec des bateaux-pompes pour éteindre l'incendie qui a duré toute la nuit. Le Premier ministre finnois Petteri Orpo a souligné le droit de l'Ukraine à se défendre contre l'agresseur russe. Cet incident illustre l'extension géographique des frappes ciblées ukrainiennes sur les chaînes logistiques maritimes de Moscou.",
+     "why": "L'extension des hostilités maritimes en mer Baltique accroît les risques d'escalade directe près des frontières des pays membres de l'OTAN.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    },
+    {
+     "source": "DW",
+     "lang": "de",
+     "url": "https://www.dw.com/de/raketeneinschlag-nato-generalsekret%C3%A4r-sagt-polen-unterst%C3%BCtzung-zu/a-80009458",
+     "headline": "Raketeneinschlag: NATO-Generalsekretär sagt Polen Unterstützung zu",
+     "headlineEn": "Missile strike: NATO Secretary General pledges support to Poland",
+     "summary": "Nach dem Einschlag zweier russischer Raketen auf polnischem Staatsgebiet hat der NATO-Generalsekretär Warschau die volle Unterstützung des Verteidigungsbündnisses zugesagt. Der polnische Premierminister Donald Tusk bezeichnete den Vorfall als gezielte Provokation Moskaus, die zeitlich mit gemeinsamen europäischen Militärübungen zusammenfiel. Während die NATO-Partner die Verletzung des Luftraums scharf verurteilten, analysierten Experten die Trümmerteile vor Ort zur genauen Flugbahnbestimmung. Der Vorfall unterstreicht die anhaltend hohe Nervosität an der Ostflanke der Allianz. Die Mitgliedstaaten beraten nun über eine weitere Verstärkung der Luftverteidigungssysteme entlang der Grenze zur Ukraine.",
+     "why": "Les débordements de missiles russes sur le territoire de l'OTAN mettent à l'épreuve la réactivité et la cohésion défensive de l'Alliance.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    },
+    {
+     "source": "Le Monde",
+     "lang": "fr",
+     "url": "https://www.lemonde.fr/international/article/2026/11/21/a-geneve-la-communaute-internationale-echoue-a-interdire-les-robots-tueurs_6814186_3210.html",
+     "headline": "À Genève, la communauté internationale échoue à interdire les robots tueurs",
+     "headlineEn": "In Geneva, international community fails to ban killer robots",
+     "summary": "Les négociations menées sous l'égide des Nations unies à Genève n'ont pas permis d'aboutir à un traité juridiquement contraignant encadrant ou interdisant les armes létales autonomes. Face aux réticences de plusieurs grandes puissances militaires, les États membres se sont contentés de convenir de travaux préparatoires supplémentaires prévus d'ici deux ans. Les organisations non gouvernementales et les défenseurs des droits humains ont vivement dénoncé cette absence d'accord formel. Ils avertissent que le développement des technologies d'intelligence artificielle militaire progresse désormais beaucoup plus vite que la capacité de la diplomatie internationale à imposer des règles de contrôle.",
+     "why": "L'absence de régulation internationale laisse le champ libre à la prolifération de systèmes d'armes autonomes contrôlés par l'IA.",
+     "paywalled": true,
+     "contested": "",
+     "chart": null
+    }
+   ]
+  },
+  {
+   "name": "International — hors Europe",
+   "stories": [
+    {
+     "source": "France 24",
+     "lang": "fr",
+     "url": "https://www.france24.com/fr/vid%C3%A9o/20261122-le-mexique-arr%C3%AAte-un-baron-de-la-drogue-recherch%C3%A9-par-les-%C3%A9tats-unis",
+     "headline": "Le Mexique arrête un baron de la drogue recherché par les États-Unis",
+     "headlineEn": "Mexico arrests drug lord wanted by the United States",
+     "summary": "Les forces armées mexicaines ont capturé Fausto Isidro Meza Flores, connu sous le nom d'El Chapo Isidro, figurant parmi les dix fugitifs les plus recherchés par le FBI américain. L'opération tactique, menée dans le nord-ouest du Mexique après des semaines de partage de renseignements avec Washington, a déclenché de violents affrontements armés ayant fait au moins onze morts. Le gouvernement américain a salué une victoire majeure contre la criminalité organisée et le trafic transfrontalier de stupéfiants. Cette arrestation intervient alors que Mexico subit une pression politique accrue de la part de l'administration américaine pour neutraliser les cartels.",
+     "why": "Cette capture majeure constitue un succès stratégique important pour la coopération sécuritaire et antidrogue entre le Mexique et Washington.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    },
+    {
+     "source": "BBC",
+     "lang": "en",
+     "url": "https://www.bbc.co.uk/news/articles/cw3dgk29d37no?at_medium=RSS&at_campaign=rss",
+     "headline": "South Korea education minister resigns over exam cheating scandal",
+     "headlineEn": "Le ministre sud-coréen de l'Éducation démissionne après un scandale de triche à l'IA",
+     "summary": "South Korean Education Minister Choi Kyo-jin resigned following intense public backlash over anti-cheating regulations introduced right before the national college entrance exam. The government implemented emergency measures, including mandatory eyeglass inspections and acoustic alerts, after revelations that a candidate used artificial intelligence to cheat in a public finance competition. The last-minute rules created widespread confusion and anxiety among high school students preparing for the crucial Suneung exam. Facing mounting criticism from parents and educators, the minister accepted responsibility for the operational disruption and offered his resignation.",
+     "why": "Ce scandale illustre les tensions croissantes autour du contrôle des fraudes à l'IA lors des examens académiques majeurs.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    },
+    {
+     "source": "Le Monde",
+     "lang": "fr",
+     "url": "https://www.lemonde.fr/international/article/2026/11/22/arrestations-de-l-ice-dans-un-aeroport-le-gouverneur-de-washington-denonce-une-police-de-l-immigration-hors-de-controle_6814205_3210.html",
+     "headline": "Arrestations de l’ICE dans un aéroport : le gouverneur de Washington dénonce une police de l’immigration « hors de contrôle »",
+     "headlineEn": "ICE airport arrests: Washington governor denounces 'out of control' immigration police",
+     "summary": "Le gouverneur de l'État de Washington, Bob Ferguson, a vivement critiqué l'intervention d'agents masqués de l'ICE ayant interpellé violemment deux personnes sur une passerelle d'embarquement à l'aéroport de Seattle-Tacoma. Les vidéos de l'incident, largement diffusées sur les réseaux sociaux, ont suscité l'indignation et relancé le débat national sur les méthodes de la police de l'immigration aux États-Unis. D'autres interpellations visant des chercheurs étrangers ont également été signalées à Washington. Ces événements surviennent alors que des rapports internes soulignent le manque de formation des agents et la hausse des détentions contestées.",
+     "why": "Les méthodes musclées des services d'immigration américains accentuent les affrontements politiques entre États démocrates et pouvoir fédéral.",
+     "paywalled": true,
+     "contested": "",
+     "chart": null
+    },
+    {
+     "source": "PBS News",
+     "lang": "en",
+     "url": "https://www.pbs.org/newshour/world/rights-groups-urge-sanctions-after-icj-finds-myanmar-guilty-of-genocide-against-rohingya",
+     "headline": "Rights groups urge sanctions after ICJ finds Myanmar guilty of genocide against Rohingya",
+     "headlineEn": "Les ONG réclament des sanctions après la condamnation de la Birmanie pour génocide par la CIJ",
+     "summary": "Human rights organizations are calling for international sanctions against Myanmar after the International Court of Justice ruled that the state is legally responsible for genocide against the Rohingya minority. The historic verdict orders the military regime to ensure the safe and voluntary return of hundreds of thousands of refugees, pay financial reparations, and prosecute perpetrators of atrocities. While the ICJ lacks direct enforcement mechanisms, international legal experts emphasize that this establishing of state accountability creates a crucial legal precedent. Human rights defenders are now urging the UN Security Council to enforce compliance.",
+     "why": "Cette décision historique établit la responsabilité juridique directe d'un État pour génocide et renforce le droit international humanitaire.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    }
+   ]
+  },
+  {
+   "name": "Europe & politiques de l'UE",
+   "stories": [
+    {
+     "source": "DW",
+     "lang": "de",
+     "url": "https://www.dw.com/de/eu-und-indonesien-besiegeln-handelsabkommen/a-80012521",
+     "headline": "EU und Indonesien besiegeln Handelsabkommen",
+     "headlineEn": "EU and Indonesia seal trade agreement",
+     "summary": "Die Europäische Union und Indonesien haben ein umfassendes Freihandelsabkommen unterzeichnet, das einen Markt von rund 730 Millionen Menschen abdeckt. Die Vereinbarung sieht eine deutliche Senkung von Zöllen sowie den Abbau von Handelshemmnissen vor, um bilaterale Investitionen zu fördern. Für die europäische Industrie ist der erleichterte Zugang zu indonesischen Rohstoffen wie Nickel und Kobalt von zentraler Bedeutung für die Batterie- und Elektromobilitätsproduktion. Das Abkommen Spiegelt das Bestreben der EU wider, ihre Lieferketten in Asien zu diversifizieren und die wirtschaftliche Abhängigkeit von einzelnen Großmächten zu verringern.",
+     "why": "Cet accord commercial sécurise l'approvisionnement européen en métaux critiques indispensables à la transition énergétique et automobile.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    },
+    {
+     "source": "DW",
+     "lang": "en",
+     "url": "https://www.dw.com/en/new-eu-budget-proposal-aims-at-tax-gobal-tech-giants/a-80009255",
+     "headline": "New EU budget proposal aims at tax global tech giants",
+     "headlineEn": "Le nouveau projet de budget européen vise à taxer les géants mondiaux de la tech",
+     "summary": "European Council President António Costa proposed a revised draft for the 2028-2034 EU budget featuring a mandatory 3% tax on major digital technology corporations. The revenue generated from global tech giants aims to reduce direct national financial contributions from member states to the central European budget. However, the proposal met immediate resistance, with France rejecting the plan as insufficient for meeting Europe's strategic investment goals. The budget negotiations highlight deep structural divisions between EU capitals regarding community spending, fiscal consolidation, and defense funding priorities ahead of the upcoming summit.",
+     "why": "Les négociations budgétaires de l'UE ravivent les tensions entre États membres sur la fiscalité numérique et le financement commun.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    },
+    {
+     "source": "Euronews",
+     "lang": "en",
+     "url": "https://www.euronews.com/video/2026/11/22/portugal-workers-brave-downpours-to-demand-a-more-affordable-life",
+     "headline": "Portugal: Workers brave downpours to demand a more affordable life",
+     "headlineEn": "Portugal : les travailleurs bravent la pluie pour exiger une vie plus abordable",
+     "summary": "Thousands of demonstrators marched through Lisbon despite severe weather conditions to demand higher wages, inflation-adjusted pensions, and government action on housing costs. The protest in Portugal reflects a broader wave of social discontent spreading across European cities, where labor unions and student groups are mobilizing against public spending cuts. In Italy and France, transport services and public administration have also faced major disruptions due to widespread strikes. Citizens across the continent are calling on national governments to prioritize social safety nets and purchasing power over fiscal austerity.",
+     "why": "La multiplication des mobilisations sociales en Europe met sous pression les gouvernements face à l'augmentation du coût de la vie.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    }
+   ]
+  },
+  {
+   "name": "Économie & marchés",
+   "stories": [
+    {
+     "source": "RTL.lu",
+     "lang": "fr",
+     "url": "https://5minutes.rtl.lu/actu/economie/a/2250987.html",
+     "headline": "La fin de l'euphorie ?: Cette fois, l'IA dégringole sérieusement en Bourse",
+     "headlineEn": "End of euphoria?: This time, AI falls heavily on the stock market",
+     "summary": "Les marchés boursiers mondiaux ont subi un décrochage brutal mené par la chute nette des valeurs technologiques liées à l'intelligence artificielle. Les indices américains S&P 500 et Nasdaq sont repartis à la baisse, effaçant une part importante de leurs gains annuels. Les investisseurs expriment des doutes grandissants quant à la rentabilité à court terme des investissements colossaux injectés dans l'infrastructure numérique de l'IA. La nervosité a été accentuée par la volatilité entourant les publications de résultats financiers des leaders du secteur, marquant une correction significative après des mois d'euphorie boursière.",
+     "why": "Le dégonflement des valuations boursières dans la tech suscite des inquiétudes quant à la stabilité des marchés financiers mondiaux.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    },
+    {
+     "source": "AP News",
+     "lang": "en",
+     "url": "https://apnews.com/article/grand-theft-auto-vi-sales-record-rockstar",
+     "headline": "‘Grand Theft Auto VI’ sets record with $3.79B in first-day retail sales, Rockstar Games reports",
+     "headlineEn": "« Grand Theft Auto VI » établit un record avec 3,79 milliards de dollars de ventes le premier jour",
+     "summary": "Rockstar Games announced that the long-awaited release of Grand Theft Auto VI generated $3.79 billion in retail sales on its launch day, breaking all historical entertainment industry records. The video game launch eclipsed opening-weekend box office figures for major Hollywood films and streaming releases combined. Retailers worldwide reported unprecedented demand across both physical and digital distribution channels. Analysts highlight that the blockbuster release demonstrates the overwhelming commercial dominance of the interactive gaming sector over traditional media platforms in generating global consumer expenditure.",
+     "why": "Ce record commercial historique consacre la suprématie économique du jeu vidéo sur l'ensemble de l'industrie du divertissement.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    },
+    {
+     "source": "RTL.lu",
+     "lang": "fr",
+     "url": "https://5minutes.rtl.lu/actu/luxembourg/a/2251012.html",
+     "headline": "Rebondissement dans l'affaire Caritas: L'Italie suspend l'extradition de Clarissa La Porta vers le Luxembourg",
+     "headlineEn": "Twist in Caritas case: Italy suspends extradition of Clarissa La Porta to Luxembourg",
+     "summary": "La justice italienne a décidé de suspendre la procédure d'extradition de Clarissa La Porta vers le Luxembourg dans le cadre de l'enquête sur le détournement de fonds massif ayant frappé la Fondation Caritas. La décision des juges italiens motive ce gel par des vérifications juridiques complémentaires requises sur les conditions de transfèrement et les garanties procédurales. Ce rebondissement judiciaire retarde l'instruction menée par les autorités luxembourgeoises qui cherchent à faire toute la lumière sur la destination des millions d'euros volés. Les avocats des parties poursuivent leurs recours devant les juridictions compétentes.",
+     "why": "Ce blocage procédural en Italie ralentit le dénouement judiciaire de l'une des plus importantes affaires de détrounement du Grand-Duché.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    }
+   ]
+  },
+  {
+   "name": "Technologie & sciences",
+   "stories": [
+    {
+     "source": "DW",
+     "lang": "de",
+     "url": "https://www.dw.com/de/us-berichte-wieder-hackerangriff-auf-fbi/a-80009259",
+     "headline": "US-Berichte: Wieder Hackerangriff auf FBI",
+     "headlineEn": "US reports: FBI hit by another cyberattack",
+     "summary": "Die US-Bundespolizei FBI ist Berichten zufolge erneut Ziel eines schwerwiegenden Cyberangriffs geworden, bei dem kriminelle Datenbanken kompromittiert wurden. Der Vorfall reiht sich ein in eine Serie mysteriöser IT-Ausfälle in den Vereinigten Staaten, die den Flugverkehr, Finanzsysteme und Regierungsbehörden beeinträchtigten. Gleichzeitig bestätigte die EU-Kommission in Brüssel, dass sie ebenfalls Gegenstand von Cybersicherheitsvorfällen war, bei denen automatisierte KI-Werkzeuge eingesetzt wurden. Die Angriffe entfachen in Washington und Brüssel eine intensive Debatte über die personellen Kürzungen bei der staatlichen Cyberabwehr.",
+     "why": "L'utilisation croissante de l'IA dans les cyberattaques fragilise les infrastructures informatiques critiques des institutions américaines et européennes.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    },
+    {
+     "source": "Euronews",
+     "lang": "fr",
+     "url": "https://fr.euronews.com/next/2026/11/21/au-japon-un-taxi-volant-autonome-transporte-un-passager-sans-pilote",
+     "headline": "Au Japon, un taxi volant autonome transporte un passager sans pilote",
+     "headlineEn": "In Japan, an autonomous flying taxi transports a passenger without a pilot",
+     "summary": "Une entreprise technologique au Japon a réalisé avec succès le premier vol d'essai d'un taxi aérien autonome transportant un passager humain sans pilote à bord. L'appareil électrique à décollage et atterrissage verticaux a effectué un trajet préprogrammé en toute sécurité au-dessus d'une zone de test dédiée. Les autorités de l'aviation civile japonaise ont supervisé l'expérimentation dans le cadre du programme national visant à déployer des mobilités aériennes urbaines d'ici la fin de la décennie. Ce test franchit une étape décisive pour la certification commerciale des aéronefs autonomes en milieu urbain dense.",
+     "why": "Ce vol d'essai réussi marque une étape clé vers la commercialisation des transports aériens urbains électriques et autonomes.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    },
+    {
+     "source": "Reuters",
+     "lang": "en",
+     "url": "https://www.reuters.com/technology/signal-restricts-screenshots-block-ai-agents-2026-11-20/",
+     "headline": "EXCLUSIVE: Signal restricts screenshots to block AI agents from reading messages",
+     "headlineEn": "EXCLUSIF : Signal restreint les captures d'écran pour empêcher les agents IA de lire les messages",
+     "summary": "Encrypted messaging service Signal has rolled out a security feature restricting screenshots and screen recording on mobile devices to prevent autonomous artificial intelligence agents from scraping private user conversations. Technical teams discovered that third-party AI assistants running background tasks could capture display data without explicit consent. The policy enforcement aims to safeguard end-to-end encryption standards against modern automated data scraping techniques. Security researchers praised the move as privacy platforms face growing challenges from invasive OS-level AI integrations.",
+     "why": "Cette décision protège la confidentialité des utilisateurs face à l'aspiration automatisée de données par les nouveaux agents IA.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    }
+   ]
+  },
+  {
+   "name": "Sport",
+   "stories": [
+    {
+     "source": "SZ",
+     "lang": "de",
+     "url": "https://www.sueddeutsche.de/sport/bundesliga-bayern-munich-kane-verletzung-li.3580123",
+     "headline": "1:1 gegen 1. FC Köln: Kane fehlt den Bayern monatelang",
+     "headlineEn": "1-1 against 1. FC Köln: Kane sidelined for months for Bayern",
+     "summary": "Der FC Bayern München muss monatelang auf seinen Stürmerstar Harry Kane verzichten, nachdem sich der Engländer beim 1:1-Unentschieden gegen den 1. FC Köln eine schwere Muskelverletzung zugezogen hat. Die langfristige Pause trifft den Rekordmeister in einer entscheidenden Phase der Bundesliga und der Champions League empfindlich.",
+     "why": "La blessure de Harry Kane prive le Bayern de son atout offensif majeur en championnat et en Ligue des champions.",
+     "paywalled": true,
+     "contested": "",
+     "chart": null
+    },
+    {
+     "source": "RTL.lu",
+     "lang": "fr",
+     "url": "https://5minutes.rtl.lu/sport/local/a/2250890.html",
+     "headline": "Marie Schreiber déclassée: L'UCI rejette les arguments luxembourgeois",
+     "headlineEn": "Marie Schreiber disqualified: UCI rejects Luxembourg arguments",
+     "summary": "L'Union Cycliste Internationale a définitivement rejeté le recours déposé par la Fédération luxembourgeoise de cyclisme concernant le déclassement de Marie Schreiber lors de la dernière épreuve internationale. Malgré les arguments présentés sur la régularité du sprint, l'instance dirigeante a confirmé la sanction sportive, mettant un terme aux espoirs de podium de la jeune coureuse.",
+     "why": "Le rejet du recours confirme la décision disciplinaire de l'UCI et conclut le litige pour le cyclisme luxembourgeois.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    }
+   ]
+  }
+ ],
+ "sourced": true,
+ "feeds": {
+  "ok": 17,
+  "of": 29,
+  "items": 170,
+  "skipped": [
+   "Reuters (EN): HTTP 503",
+   "Reuters (FR): HTTP 503",
+   "AFP (FR): HTTP 503",
+   "AP (EN): HTTP 503",
+   "Euronews (FR): HTTP 406",
+   "RTL.lu (LB): HTTP 503",
+   "RTL.lu (FR): HTTP 503",
+   "Wort (DE): HTTP 503",
+   "WSJ (EN): HTTP 503",
+   "Bloomberg (EN): HTTP 503",
+   "Foreign Affairs (EN): HTTP 503",
+   "CFR (EN): HTTP 503"
+  ]
+ },
+ "words": 5387,
+ "readMin": 27,
+ "storyCount": 25
+}
