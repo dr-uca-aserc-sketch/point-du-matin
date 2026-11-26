@@ -1,5 +1,12 @@
 [
  {
+  "date": "2026-11-26",
+  "kind": "daily",
+  "heat": 0.78,
+  "readMin": 8,
+  "storyCount": 3
+ },
+ {
   "date": "2026-11-25",
   "kind": "daily",
   "heat": 0.7,

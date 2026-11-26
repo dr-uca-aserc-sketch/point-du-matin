@@ -1,0 +1,107 @@
+{
+ "date": "2026-11-26",
+ "kind": "daily",
+ "heat": 0.78,
+ "oneThing": "Spanish economist Pablo Hernández de Cos will succeed Christine Lagarde as European Central Bank president after receiving key backing from European leaders.",
+ "followUps": [
+  {
+   "n": "01",
+   "thread": "Tensions diplomatiques sur l'extension des attaques ukrainiennes en Méditerranée",
+   "change": "Giorgia Meloni a vivement mis en garde Kiev contre le risque d'élargir le conflit à la Méditerranée après des frappes visant la flotte russe au large de la Libye."
+  },
+  {
+   "n": "02",
+   "thread": "Succession à la présidence de la Banque centrale européenne",
+   "change": "L'Espagnol Pablo Hernández de Cos a obtenu le soutien décisif des pays de la zone euro pour succéder à Christine Lagarde dès février."
+  },
+  {
+   "n": "03",
+   "thread": "Mouvements de consolidation dans l'industrie mondiale du tabac",
+   "change": "Le géant américain Altria explore le rachat du britannique Imperial Brands dans le cadre d'un méga-deal évalué à 157 milliards de dollars."
+  }
+ ],
+ "mustReads": [
+  {
+   "desk": "Économie européenne",
+   "source": "France 24",
+   "lang": "FR",
+   "paywalled": false,
+   "url": "https://www.france24.com/fr/europe/20261126-pr%C3%A9sidence-bce-espagnol-pablo-hernandez-de-cos-succ%C3%A9dera-christine-lagarde",
+   "headline": "Présidence de la BCE : l'Espagnol Pablo Hernandez de Cos succédera à Christine Lagarde",
+   "headlineEn": "ECB Presidency: Spaniard Pablo Hernandez de Cos to succeed Christine Lagarde",
+   "contested": "",
+   "why": "Ce changement de direction à la tête de la BCE intervient à un moment critique pour les politiques monétaires européennes.",
+   "stat": "21",
+   "statLabel": "pays de la zone euro ayant désigné le nouveau trio de direction de la BCE",
+   "chart": null,
+   "paras": [
+    "Les dirigeants européens sont parvenus à un accord majeur concernant l'avenir de la Banque centrale européenne à Francfort. L'économiste espagnol Pablo Hernández de Cos a été désigné pour succéder à Christine Lagarde à la présidence de l'institution monétaire internationale. Actuellement à la tête de la Banque des règlements internationaux, le dirigeant espagnol prendra ses nouvelles fonctions après le départ anticipé de l'actuelle présidente en février. Cette désignation fait suite au retrait de la candidature rivale soutenue par les Pays-Bas, ouvrant la voie à une transition organisée au sommet financier.",
+    "Le choix de Pablo Hernández de Cos s'inscrit dans un remaniement plus large de la direction de la Banque centrale européenne. Les responsables européens ont en effet constitué un nouveau trio décisionnel pour orienter la politique monétaire du continent. La Française Laurence Boone sera chargée de la surveillance des marchés financiers, tandis que l'Allemand Markus Brunnermeier prendra la responsabilité du poste de chef économiste. Cette équipe renewed devra naviguer dans un contexte économique particulièrement complexe, marqué par des incertitudes budgétaires majeures et des tensions persistantes sur les marchés obligataires européens.",
+    "Réputé pour son approche modérée et sa fine connaissance des rouages monétaires mondiaux, Hernández de Cos hérite d'un mandat décisif pour la stabilité financière. Son arrivée intervient alors que l'institution de Francfort doit équilibrer la lutte contre l'inflation résiduelle et le soutien indispensable à la croissance européenne. Les analystes soulignent que le profil du nouveau président pourrait favoriser une politique monétaire ajustée et pragmatique. Cependant, les divergences d'intérêts entre les États membres de la zone euro représenteront un défi permanent dès les premières semaines de son mandat officiel.",
+    "La nomination de l'économiste espagnol a reçu un accueil favorable dans plusieurs capitales européennes qui saluent son expertise technique incontestable. En Espagne, les autorités se félicitent de voir un national accéder à ce poste prestigieux après des années de discussions diplomatiques intenses. De leur côté, les marchés financiers ont réagi de manière stable à cette annonce, interprétant la nomination comme un signe de continuité institutionnelle. La transition s'annonce donc progressive, bien que les observateurs restent vigilants quant aux futures décisions relatives aux taux d'intérêt.",
+    "L'actuelle présidente Christine Lagarde cédera son fauteuil avec un bilan marqué par la gestion des crises successives subies par le continent. Sous son mandat, la Banque centrale européenne a dû faire face à des chocs économiques inédits et repenser une grande partie de ses instruments d'intervention. Le passage de témoin avec Pablo Hernández de Cos symbolise l'ouverture d'une nouvelle ère pour la gouvernance économique européenne. Le futur président devra maintenir la cohésion au sein du conseil des gouverneurs face aux pressions politiques diverses.",
+    "Les chantiers qui attendent la nouvelle équipe de direction sont particulièrement ambitieux pour les cinq prochaines années à venir. Outre la gestion des taux directeur, l'institution devra poursuivre ses travaux sur l'euro numérique et l'intégration des risques climatiques dans la régulation. La capacité du trio monétaire à protéger l'Europe des secousses financières internationales sera testée rapidement. Les réunions à venir à Francfort permettront de préciser la feuille de route stratégique du nouveau président et la trajectoire globale de la zone euro."
+   ]
+  },
+  {
+   "desk": "Marchés mondiaux",
+   "source": "Reuters",
+   "lang": "EN",
+   "paywalled": false,
+   "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNYjc1S044enVDVHpleXVSM2YwME5kOGM4azBiSF9QNVc1Q2MyYmNRVFNJZ1p1dFVSOXdKTGxqYi1pU1dhdzcycGQ0dm5pN1NaRmZUendRME9GRVFfNHluZ0pUZkpsc0xLX1pNb1ZFdEk0TU8yTjZxbklUbC04ZkNJbWt6V21qUEowclUwME5KY1ZfUlVXaUlPQm9faDZPVzB4clJfZkFLekxaQVNWaldMT0ZwSFl3LVYwblRiaXYzNEt3dzBMck1WUkp1QQ?oc=5",
+   "headline": "US Marlboro maker Altria explores Imperial Brands takeover in Big Tobacco mega deal",
+   "headlineEn": "Le fabricant américain de Marlboro Altria envisage le rachat d'Imperial Brands dans un méga-deal du tabac",
+   "contested": "",
+   "why": "Une telle transaction restructurerait en profondeur l'industrie mondiale du tabac et modifierait la cotation des grands groupes britannique.",
+   "stat": "157",
+   "statLabel": "milliards de dollars, valeur estimée du méga-deal envisagé par Altria",
+   "chart": null,
+   "paras": [
+    "American tobacco giant Altria Group is actively evaluating a potential acquisition of British competitor Imperial Brands in what could become one of the largest corporate takeovers in modern history. The manufacturer behind the iconic Marlboro brand in the United States is seeking to expand its international footprint and consolidate its position in a rapidly changing global market. Industry sources indicate that discussions are in preliminary stages, with financial advisors assessing the complex regulatory hurdles and valuation dynamics associated with merging two of the largest tobacco companies worldwide.",
+    "The potential transaction comes at a critical juncture for the global tobacco sector as traditional cigarette sales continue to decline across Western markets. Companies are increasingly forced to seek growth through strategic corporate consolidation and aggressive investments in alternative smoke-free product categories. By acquiring London-listed Imperial Brands, Altria would gain immediate access to an extensive distribution network spanning Europe, Asia, and Africa. This strategic move would dramatically transform Altria from a predominantly domestic entity into a truly global powerhouse with unprecedented market reach.",
+    "Market analysts note that a successful deal would remove another prominent company from the London Stock Exchange, continuing a troubling trend for British equity markets. Financial experts estimate the potential value of the transaction could reach approximately 157 billion dollars including debt assumptions. Investors have reacted with significant interest, driving shares of Imperial Brands sharply higher following initial reports. However, antitrust regulators in multiple international jurisdictions are expected to subject any formal offer to intense scrutiny given the high concentration in the industry.",
+    "Beyond traditional tobacco products, both corporations have spent substantial capital developing next-generation alternatives such as vapor devices, heated tobacco systems, and oral nicotine pouches. A combination of Altria and Imperial Brands would create a massive research and manufacturing platform capable of competing more aggressively against industry rivals like Philip Morris International and British American Tobacco. Combining their intellectual property portfolios could accelerate the development of safer nicotine products, although regulatory approvals in key territories like the United States remain uncertain.",
+    "Despite the strategic rationale, executing a cross-border merger of this magnitude presents formidable operational and legal challenges for management. Financing such an immense transaction will require substantial debt underwriting and strategic asset sales to satisfy competition authorities. Furthermore, political sensitivities surrounding foreign acquisitions of major domestic employers in the United Kingdom could trigger thorough government reviews under national security and competition legislation. Executing this deal will demand careful negotiations between corporate boards and regulatory agencies over the coming months.",
+    "Industry observers emphasize that this bold proposal reflects broader pressures confronting corporate boards in mature consumer markets facing structural headwinds. As traditional revenue streams face heightened public health restrictions and declining consumer demand, aggressive M&A strategy remains a primary lever for sustaining earnings growth and returning value to shareholders. If completed, this historic tie-up will redraft the competitive landscape of the tobacco industry for decades to come, setting a new precedent for mega-deals within legacy consumer industries."
+   ]
+  },
+  {
+   "desk": "Politique européenne",
+   "source": "Repubblica",
+   "lang": "IT",
+   "paywalled": false,
+   "url": "https://www.repubblica.it/politica/2026/11/26/news/ue_meloni_bilancio_pluriennale_guerra_mediterraneo-425751933/",
+   "headline": "Meloni avverte sul bilancio Ue: “Così non firmo”. E a Zelensky: non allarghi guerra al Mediterraneo",
+   "headlineEn": "Meloni warns on EU budget: 'I won't sign like this'. And to Zelensky: do not expand war to the Mediterranean",
+   "contested": "",
+   "why": "La posizione ferma dell'Italia sul bilancio europeo e sulle operazioni militari di Kiev evidenzia le crescenti tensioni geopolitiche nell'Unione.",
+   "stat": "",
+   "statLabel": "",
+   "chart": null,
+   "paras": [
+    "La presidente del Consiglio italiano Giorgia Meloni ha assunto una posizione estremamente dura a Bruxelles durante il vertice straordinario sul bilancio pluriennale dell'Unione Europea. Arrivando alla riunione con i capi di Stato e di governo, la premier ha dichiarato chiaramente che l'Italia è pronta a porre il proprio veto sulla proposta attuale. Meloni ha sottolineato che le posizioni tra le diverse nazioni rimangono distanti anni luce e che il testo presentato non risponde minimamente alle esigenze prioritarie della nazione italiana in materia economica e sociale.",
+    "Oltre al fascicolo del bilancio comunitario, la premier italiana ha inviato un messaggio diretto e rigoroso al presidente ucraino Volodymyr Zelensky in merito agli sviluppi del conflitto. Meloni ha espresso forte preoccupazione per le recenti operazioni militari condotte da Kiev nel Mar Mediterraneo contro navi della flotta russa dislocate al largo delle coste libiche. L'Italia ritiene che l'estensione del teatro bellico verso la sponda sud rappresenti un rischio inaccettabile per la stabilità regionale e per gli equilibri strategici del bacino mediterraneo.",
+    "Le critiche di Roma riflettono i timori legati alla sicurezza delle infrastrutture energetiche nazionali e al controllo dei flussi migratori nella regione nordafricana. La presenza di risorse strategiche italiane e le complesse relazioni diplomatiche in Libia rendono particolarmente sensibile qualsiasi escalation militare in quell'area. Pur confermando l'incrollabile sostegno militare e finanziario dell'Italia all'Ucraina nella sua difesa contro l'invasione russa, la premier ha ribadito che occorre evitare azioni che possano destabilizzare zone geografiche esterne al teatro di guerra principale.",
+    "Sul fronte delle trattative di Bruxelles, i negoziati sul bilancio settennale dell'Unione si preannunciano complessi a causa dei tagli previsti in settori chiave per Roma. L'Italia contesta fermamente le riduzioni ai fondi di coesione e ai sussidi agricoli, chiedendo invece maggiori risorse per la gestione delle frontiere e la difesa comune. Il governo italiano sostiene che una riduzione del budget rispetto alle proposte iniziali penalizzerebbe ingiustamente i paesi del Mediterraneo, già fortemente impegnati nella gestione delle sfide demografiche ed economiche continentali.",
+    "Le dichiarazioni di Giorgia Meloni hanno suscitato ampi dibattiti tra i partner europei riuniti a Bruxelles per cercare un compromesso soddisfacente per tutti gli Stati. Diversi Paesi membri condividono le perplessità italiane sulla struttura della spesa comunitaria, mentre altri spingono per una disciplina di bilancio ancora più rigorosa. La fermezza mostrata dalla delegazione italiana dimostra la volontà di utilizzare la leva del veto per ottenere concessioni significative su capitoli di spesa considerati vitali per l'economia e la sicurezza nazionale.",
+    "La duplice presa di posizione del governo italiano evidenzia la complessità del momento geopolitico ed economico che l'Europa sta attraversando in questa fase delicata. Bilanciare il sostegno incondizionato alla sovranità ucraina con la tutela degli interessi strategici nazionali nel Mediterraneo rappresenta una sfida politica permanente. Nelle prossime ore, i diplomatici saranno chiamati a un lavoro intenso per evitare una paralisi decisionale a Bruxelles e per garantire la continuità dell'azione europea sia sul piano interno che internazionale."
+   ]
+  }
+ ],
+ "desks": [],
+ "sourced": true,
+ "feeds": {
+  "ok": 25,
+  "of": 29,
+  "items": 243,
+  "skipped": [
+   "Reuters (FR)",
+   "Euronews (FR): HTTP 406",
+   "RTL.lu (LB): HTTP 429",
+   "Foreign Affairs (EN): HTTP 429"
+  ]
+ },
+ "words": 1584,
+ "readMin": 8,
+ "storyCount": 3
+}
