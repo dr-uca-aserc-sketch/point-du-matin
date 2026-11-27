@@ -1,0 +1,415 @@
+{
+ "date": "2026-11-27",
+ "kind": "daily",
+ "heat": 0.7,
+ "oneThing": "EU leaders ended their Brussels budget summit early without consensus, postponing difficult negotiations on the bloc's 2028-2034 spending plan until late December.",
+ "followUps": [
+  {
+   "n": "01",
+   "thread": "Sommet budgétaire de l'UE",
+   "change": "Les négociations sur le budget européen 2028-2034 se sont achevées prématurément à Bruxelles sans accord entre les Vingt-Sept."
+  },
+  {
+   "n": "02",
+   "thread": "Économie française",
+   "change": "L'Insee a révisé à la baisse la croissance française du troisième trimestre, confirmant l'entrée du pays en récession avec un recul du PIB de 0,2 %."
+  },
+  {
+   "n": "03",
+   "thread": "Tensions diplomatiques après OM-Levski",
+   "change": "Les violences et saluts nazis recensés au Vélodrome lors du match de Ligue Europa ont suscité la réprobation des présidents français et bulgare."
+  }
+ ],
+ "mustReads": [
+  {
+   "desk": "Europe",
+   "source": "DW",
+   "lang": "DE",
+   "paywalled": false,
+   "url": "https://www.dw.com/de/eu-haushaltsgipfel-endet-vorzeitig-ohne-konsens/a-80071476?maca=de-rss-de-all-1119-rdf",
+   "headline": "EU-Haushaltsgipfel endet vorzeitig ohne Konsens",
+   "headlineEn": "EU budget summit ends early without consensus",
+   "contested": "",
+   "why": "L'absence d'accord sur le budget pluriannuel de l'UE souligne les fractures profondes entre les États membres sur les priorités financières et stratégiques de l'Union.",
+   "stat": "",
+   "statLabel": "",
+   "chart": null,
+   "paras": [
+    "Die Verhandlungen der europäischen Staats- und Regierungschefs über den mehrjährigen Finanzrahmen der Europäischen Union für die Jahre 2028 bis 2034 sind in Brüssel vorzeitig gescheitert. Der geplante zweite Gipfeltag wurde von Bundeskanzler Friedrich Merz abgesagt, da die Positionen der Mitgliedstaaten weit voneinander entfernt lagen. Die Beratungen zeigten deutliche Meinungsverschiedenheiten zwischen den Ländern, die traditionelle Ausgabenbereiche wie die Agrarpolitik verteidigen wollen, und jenen Staaten, die strikte Kosteneinsparungen fordern. Die Führungsebene steht nun unter erheblichem Druck, vor dem nächsten Treffen im Dezember doch noch tragfähige Kompromisse zu erzielen.",
+    "Italiens Ministerpräsidentin Giorgia Meloni äußerte sich nach dem Abbruch der Gespräche äußerst skeptisch über den aktuellen Stand der Verhandlungen und betonte, dass man von einer gemeinsamen Einigung noch Lichtjahre entfernt sei. Viele Delegationen zeigten sich unnachgiebig, was die Verteilung der finanziellen Mittel für künftige Herausforderungen betrifft. Experten weisen darauf hin, dass die grundlegenden Meinungsverschiedenheiten vor allem den Umgang mit neuen strategischen Aufgaben der Europäischen Union betreffen. Während einige Regierungen zusätzliche Mittel für Verteidigung und Technologie fordern, wollen andere Mitgliedstaaten keinesfalls höhere nationale Beiträge in den gemeinsamen Haushalt in Brüssel einzahlen.",
+    "Auch die künftige finanzielle Unterstützung für die Ukraine bildete einen zentralen Streitpunkt während des Treffens in Brüssel. Mehrere Mitgliedstaaten forderten feste Garantien und langfristige Budgetzusagen für das osteuropäische Land, während andere Delegationen zur Vorsicht mahnten und angesichts eigener angespannter Haushaltslagen auf Begrenzungen drängten. Der deutsche Bundeskanzler Friedrich Merz erklärte, dass die Mitgliedstaaten bis zum Ende des Jahres intensiv weiterarbeiten würden, um einen gemeinsamen Nenner zu finden. Der vorzeitige Abbruch des Gipfels verdeutlicht jedoch die tiefen Gräben, die derzeit die Europäische Union bei der Festlegung ihrer langfristigen Prioritäten spalten.",
+    "Politikwissenschaftler warnen davor, dass die Unfähigkeit zur Einigung das Handlungsvermögen der Europäischen Union auf der internationalen Bühne schwächen könnte. In Zeiten geopolitischer Unsicherheiten sei ein stabiler und zukunftsfähiger Haushalt ein entscheidendes Signal der Handlungsfähigkeit nach außen. Wenn die Staats- und Regierungschefs nicht bald eine gemeinsame Linie finden, drohen Verzögerungen bei wichtigen Investitionsprogrammen und strukturellen Reformen. Die Verhandlungen der kommenden Wochen werden zeigen, ob die EU-Länder bereit sind, nationale Interessen zugunsten einer gemeinsamen europäischen Strategie zurückzustellen oder ob der Block weiterhin durch finanzielle Blockaden gelähmt bleibt.",
+    "Neben den inhaltlichen Differenzen überschatteten auch innenpolitische Auseinandersetzungen in einzelnen Mitgliedstaaten die Beratungen in Brüssel. So nutzte die französische Politikerin Marine Le Pen den Gipfel für Angriffe auf Präsident Emmanuel Macron und warf ihm vor, den europäischen Haushalt vor den kommenden Wahlen festschreiben zu wollen. Macron wiederum wies diese Vorwürfe entschieden zurück und kritisierte die Arroganz der Opposition. Diese innenpolitischen Spannungen erschweren die Kompromissfindung auf europäischer Ebene zusätzlich, da viele Staats- und Regierungschefs Rücksicht auf die Wählerstimmen in ihren Heimatländern nehmen müssen.",
+    "Die kommenden Wochen bis zum nächsten geplanten Gipfeltreffen im Dezember gelten daher als entscheidende Phase für die Zukunft der europäischen Finanzarchitektur. Diplomaten arbeiten hinter den Kulissen intensiv an Kompromissvorschlägen, um die widerstreitenden Interessen der Sparbefürworter und der Befürworter höherer Ausgaben zu versöhnen. Sollte auch das Treffen im Dezember ohne Ergebnis enden, droht der Europäischen Union eine anhaltende Krise, die das Vertrauen in die Handlungsfähigkeit der Gemeinschaft weiter erschüttern könnte. Die Staats- und Regierungschefs stehen vor der schwierigen Aufgabe, Brücken zu bauen und Geschlossenheit zu demonstrieren."
+   ]
+  },
+  {
+   "desk": "Business",
+   "source": "France 24",
+   "lang": "FR",
+   "paywalled": false,
+   "url": "https://www.france24.com/fr/france/20261127-la-france-entre-en-r%C3%A9cession-le-pib-continue-de-reculer",
+   "headline": "La France entre en récession, le PIB continue de reculer",
+   "headlineEn": "France enters recession as GDP continues to decline",
+   "contested": "",
+   "why": "La confirmation de la récession en France marque une détérioration de la situation économique de la deuxième puissance de la zone euro.",
+   "stat": "-0,2 %",
+   "statLabel": "recul du PIB français au troisième trimestre 2026",
+   "chart": null,
+   "paras": [
+    "L'institut national de la statistique INSEE a annoncé vendredi que le produit intérieur brut de la France s'est replié de 0,2 % au cours du troisième trimestre de l'année 2026. Cette baisse fait suite à un premier recul constaté lors du trimestre précédent, confirmant ainsi l'entrée officielle du pays en période de récession économique. Les données publiées révèlent une situation plus dégradée que les premières estimations fournies par les analystes économiques. Cette dégradation continue de l'activité économique pèse lourdement sur les perspectives financières de la deuxième puissance de la zone euro.",
+    "La baisse de l'activité économique touche l'ensemble des secteurs majeurs de la production et de la consommation sur le territoire français. La consommation des ménages, traditionnellement considérée comme le moteur principal de la croissance nationale, connaît un ralentissement marked sous l'effet d'une inflation persistante et d'une baisse du pouvoir d'achat. De leur côté, les entreprises réduisent leurs investissements face aux incertitudes politiques et aux conditions financières de plus en plus restrictives. Ce manque d'élan généralisé empêche une reprise rapide de l'économie et alimente les inquiétudes des acteurs économiques.",
+    "Cette conjoncture difficile s'inscrit dans un contexte européen globalement morose où plusieurs partenaires commerciaux majeurs font également face à des difficultés économiques structurelles. La dégradation du commerce extérieur contribue à alourdir le bilan français, alors que les exportations peinent à trouver des débouchés dynamiques sur les marchés internationaux. Les analystes soulignent que la faiblesse des échanges mondiaux affecte particulièrement les industries manufacturières. En conséquence, les perspectives pour le dernier trimestre de l'année restent très incertaines et ne laissent pas présager un rebond immédiat de la production.",
+    "Face à ces chiffres inquiétants, les débats politiques s'intensifient à Paris autour des mesures d'urgence à adopter pour soutenir le tissu économique et l'emploi. Le gouvernement se trouve confronté à un dilemme complexe entre la nécessité de soutenir la croissance et l'obligation de maîtriser les finances publiques. Les oppositions parlementaires dénoncent la gestion économique actuelle et demandent des réorientations budgétaires majeures pour stimuler l'activité. Les décisions relatives au budget national deviennent particulièrement sensibles dans un climat social déjà tendu par les difficultés du quotidien.",
+    "Sur le marché du travail, la récession fait craindre une hausse progressive du chômage après plusieurs trimestres de relative résistance des créations d'emplois. Plusieurs entreprises d'envergure ont déjà annoncé des plans de restructuration ou des gels d'embauches pour faire face à la baisse des commandes. Les syndicats expriment leur préoccupation face à cette détérioration et réclament des garanties pour préserver l'emploi et les salaires des travailleurs. La dégradation du marché de l'emploi risquerait d'affaiblir davantage la confiance des ménages et de prolonger la crise économique.",
+    "Les économistes et les observateurs financiers surveillent désormais de près les réactions des marchés et des agences de notation face à cette contraction de l'économie française. Une récession prolongée compliquerait considérablement la trajectoire de désendettement de l'État et pourrait réduire les marges de manœuvre budgétaires du gouvernement. Les investisseurs attendent des signaux clairs quant aux réformes structurelles envisagées pour redresser la compétitivité du pays. La capacité de la France à sortir rapidement de cette passe difficile dépendra largement de l'évolution de la demande intérieure et de la conjoncture internationale."
+   ]
+  },
+  {
+   "desk": "International",
+   "source": "BBC",
+   "lang": "EN",
+   "paywalled": false,
+   "url": "https://www.bbc.co.uk/news/articles/c820q9wgrpyyo?at_medium=RSS&at_campaign=rss",
+   "headline": "Zelensky criticises 'strange' Trump-Putin friendship in BBC interview",
+   "headlineEn": "Zelensky critique la « curieuse » amitié entre Trump et Poutine dans une interview à la BBC",
+   "contested": "",
+   "why": "Les déclarations du président ukrainien soulignent les tensions grandissantes entre Kiev et Washington sur la stratégie de négociations de paix avec Moscou.",
+   "stat": "",
+   "statLabel": "",
+   "chart": null,
+   "paras": [
+    "Ukrainian President Volodymyr Zelensky has publicly expressed deep frustration with the approach of Donald Trump regarding peace negotiations to end the ongoing war with Russia. In a wide-ranging interview with the BBC, the Ukrainian leader described the friendly remarks made by the American president toward Vladimir Putin as strange and unhelpful. Zelensky warned that treating the Russian leader as a close partner undermines the diplomatic efforts aimed at securing a fair settlement for Ukraine. He emphasized that Washington is not putting sufficient pressure on Moscow to stop its military aggression.",
+    "The comments follow recent statements from Donald Trump, who defended his relationship with Vladimir Putin by asserting that maintaining open dialogue was essential for reaching a deal. Trump blamed mutual hatred between the Russian and Ukrainian leaderships as the primary obstacle to achieving peace in Eastern Europe. However, Zelensky pushed back strongly against this characterization, stating that equating the aggressor with the victim distorts the reality of the war. He stressed that any peace treaty must respect Ukraine's territorial integrity and sovereignty rather than forcing concessions on Kyiv.",
+    "Meanwhile, the situation on the ground in Ukraine remains extremely precarious as Russian forces continue heavy bombardments against civilian targets and power infrastructure across nine regions. Ukrainian officials reported significant damage to railway stations, coal mines, and electrical facilities in the Dnipropetrovsk oblast. Zelensky warned that Moscow is preparing further massive strikes intended to cripple the country's energy network as winter approaches. The constant threat to critical services has heightened concerns among international allies about Ukraine's ability to maintain basic heating and electricity for its civilian population.",
+    "Within the United States, lawmakers remain divided over the future direction of military and financial support for Ukraine under the Trump administration. Democratic leaders have vowed to place limits on executive decisions regarding foreign policy, though many acknowledge the practical challenges of constraining the White House. At the same time, European partners are watching the exchanges between Washington and Kyiv with growing anxiety. European leaders fear that any sudden withdrawal of American assistance could leave the continent vulnerable and force Ukraine into accepting an unfavorable peace agreement.",
+    "Diplomatic efforts to organize formal negotiations have stalled as both sides maintain conflicting conditions for entering talks. Kyiv continues to demand the complete withdrawal of Russian troops from occupied territories before any binding ceasefire can be signed. Conversely, Moscow insists on maintaining control over seized regions and demands guarantees regarding Ukraine's military neutrality. The sharp contrast in vision between the two capitals leaves little room for immediate compromise, while international mediators struggle to find common ground that could bring a lasting end to the conflict.",
+    "As the war drags on with heavy casualties, President Zelensky stressed that international solidarity remains vital for Ukraine's survival against Russian aggression. He called on Western governments to increase military deliveries and enforce stricter economic sanctions against Moscow to force Putin to negotiate in good faith. Zelensky warned that failing to stand firm against Russian expansionism would send a dangerous signal to authoritarian regimes worldwide. The Ukrainian leadership insists that true peace can only be achieved through strength and clear international law enforcement rather than rhetoric."
+   ]
+  }
+ ],
+ "desks": [
+  {
+   "name": "Luxembourg",
+   "stories": [
+    {
+     "source": "Financial Times",
+     "lang": "en",
+     "url": "https://www.ft.com/content/a8ecccda-f986-4ae9-9f45-9470d2be8c65?syn-25a6b1a6=1",
+     "headline": "EU weighs tighter export controls to prevent battery waste going to China",
+     "headlineEn": "L'UE envisage des contrôles à l'exportation plus stricts pour empêcher les déchets de batteries de partir vers la Chine",
+     "summary": "The European Union is evaluating plans to implement tighter export controls to prevent battery waste from leaving the continent for processing in China. The material, known as black mass, contains essential critical minerals that are vital for clean energy technologies and industrial manufacturing. Under current practices, large volumes of black mass are shipped abroad where key metals are extracted and subsequently re-exported back to European markets. European officials argue that retaining these valuable resources within the Union will strengthen domestic recycling infrastructure, reduce supply chain dependencies on foreign processors, and help meet long-term strategic economic objectives.",
+     "why": "Conserver le recyclage des métaux critiques au sein de l'UE est essentiel pour l'autonomie stratégique et l'industrie verte européenne.",
+     "paywalled": true,
+     "contested": "",
+     "chart": null
+    },
+    {
+     "source": "Deutsche Welle",
+     "lang": "de",
+     "url": "https://www.dw.com/de/heraskewytsch-begrüßt-eu-vorstoß-gegen-athleten-aus-russland/a-80076145?maca=de-rss-de-all-1119-rdf",
+     "headline": "Heraskewytsch begrüßt EU-Vorstoß gegen Athleten aus Russland",
+     "headlineEn": "Heraskevych welcomes EU initiative against Russian athletes",
+     "summary": "Der ukrainische Skeletonfahrer Wladyslaw Heraskewytsch hat die jüngsten Pläne der Europäischen Union ausdrücklich begrüßt, die Teilnahme russischer Sportler an Wettkämpfen innerhalb des EU-Gebiets starker einzuschränken. Die diskutierte Vorstoß zielt darauf ab, den Zugang für Athleten aus Russland bei Sportveranstaltungen in den Mitgliedstaaten der Europäischen Union deutlich zu reglementieren. Heraskewytsch betonte, dass derartige Sanktionen ein wichtiges politisches Zeichen der europäischen Gemeinschaft gegen die russische Aggression darstellen. Die Initiative löst in internationalen Sportverbänden eine erneute Debatte über Einreisebestimmungen und ethische Richtlinien für russische Funktionäre und Athleten aus.",
+     "why": "Les décisions de l'UE sur les restrictions d'accès des athlètes russes renforcent la pression politique au sein de l'espace européen.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    },
+    {
+     "source": "The New York Times",
+     "lang": "en",
+     "url": "https://www.nytimes.com/2026/11/26/world/europe/after-cyberattacks-and-bomb-threats-hit-europe-survivalism-goes-mainstream.html",
+     "headline": "After Cyberattacks and Bomb Threats Hit Europe, Survivalism Goes Mainstream",
+     "headlineEn": "Après les cyberattaques et les alertes à la bombe en Europe, le survivalisme devient grand public",
+     "summary": "Across Europe, a growing number of citizens are turning to survivalism and emergency preparedness following a series of disruptive cyberattacks and bomb threats. Governments across the continent are actively advising households to prepare for unforeseen emergencies by stocking up on essential food, water, and medical supplies. Previously considered a fringe subculture, survivalism is becoming mainstream as people experience unexpected disruptions to power grids and digital networks. European civil defense agencies are intensifying their guidance, encouraging residents to build personal resilience while national authorities work to secure critical infrastructure against evolving threat environments.",
+     "why": "La préparation aux crises civiques et cybernétiques devient une priorité partagée par les populations et gouvernements européens.",
+     "paywalled": true,
+     "contested": "",
+     "chart": null
+    }
+   ]
+  },
+  {
+   "name": "Monde / géopolitique",
+   "stories": [
+    {
+     "source": "Euronews",
+     "lang": "en",
+     "url": "https://www.euronews.com/video/2026/11/27/estonia-prepares-to-close-all-five-road-border-crossings-with-russia",
+     "headline": "Estonia prepares to close all five road border crossings with Russia",
+     "headlineEn": "L'Estonie s'apprête à fermer ses cinq passages frontaliers routiers avec la Russie",
+     "summary": "Estonia is preparing to close all five of its road border crossings with Russia on December 1 due to heightened security concerns along the eastern border. In the days leading up to the scheduled shutdown, long queues of vehicles and travelers have formed as people attempt to cross before access is restricted. Authorities in Tallinn implemented the measure to safeguard national security against potential hybrid threats. However, local business owners express deep concern over supply chain disruptions, while residents worry about being separated from family members living across the border.",
+     "why": "La fermeture totale de la frontière terrestre estonienne marque un durcissement sécuritaire majeur sur le flanc est de l'OTAN.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    },
+    {
+     "source": "Al Jazeera",
+     "lang": "en",
+     "url": "https://www.aljazeera.com/news/2026/11/27/italians-killed-in-kuwait-why-is-iran-denying-responsibility?traffic_source=rss",
+     "headline": "Italians killed in Kuwait: Why is Iran denying responsibility?",
+     "headlineEn": "Italiens tués au Koweït : Pourquoi l'Iran nie-t-il sa responsabilité ?",
+     "summary": "Iranian Foreign Minister Abbas Araghchi has rejected claims that Iran launched a drone strike in Kuwait that killed two Italian technicians working for the German defense company Rheinmetall. Araghchi described the allegations as baseless and the attack as suspicious, offering Iranian assistance in a joint investigation. Conversely, Kuwait strongly condemned the strike as a heinous act of Iranian aggression, prompting unified condemnation from Saudi Arabia, Bahrain, Qatar, and the United Arab Emirates. The incident accentuates rising tensions across the Gulf as regional powers respond to military strikes hitting civilian and defense infrastructure.",
+     "why": "Cette attaque au Koweït et le déni iranien risquent d'entraîner une escalade militaire directe entre l'Iran et les monarchies du Golfe.",
+     "paywalled": false,
+     "contested": "Le Koweït et ses alliés du Golfe accusent directement l'Iran d'avoir mené l'attaque de drone ayant tué deux Italiens, tandis que Téhéran rejette ces accusations, qualifiant l'incident de suspect et proposant une enquête conjointe.",
+     "chart": null
+    },
+    {
+     "source": "Le Monde",
+     "lang": "fr",
+     "url": "https://www.lemonde.fr/planete/article/2026/11/27/apres-le-naufrage-d-un-petrolier-chimiquier-au-large-d-ibiza-course-contre-la-montre-en-espagne-pour-eviter-une-maree-noire_6815870_3244.html",
+     "headline": "Après le naufrage d’un pétrolier-chimiquier au large d’Ibiza, course contre la montre en Espagne pour éviter une marée noire",
+     "headlineEn": "After the sinking of a tanker-chemical ship off Ibiza, race against time in Spain to prevent an oil spill",
+     "summary": "Le navire-citerne « Med Emre », battant pavillon maltais et transportant 7 000 tonnes de gazole, s’est retourné au large des îles Baléares dans la nuit de mercredi à jeudi. Le naufrage a coûté la vie à un marin et fait plusieurs blessés parmi les membres d'équipage. Les autorités espagnoles ont lancé une inspection urgente de la coque afin de vérifier l'étanchéité des réservoirs et de planifier l'opération de remorquage. Le premier ministre Pedro Sánchez a indiqué qu'aucune fuite de carburant ni pollution marine n'avait été constatée pour le moment, alors que les équipes de secours s'activent pour éviter une marée noire.",
+     "why": "Un risque de pollution majeure en Méditerranée mobilise les autorités espagnoles près d'une zone touristique et écologique fragile.",
+     "paywalled": true,
+     "contested": "",
+     "chart": null
+    }
+   ]
+  },
+  {
+   "name": "International — hors Europe",
+   "stories": [
+    {
+     "source": "Al Jazeera",
+     "lang": "en",
+     "url": "https://www.aljazeera.com/news/2026/11/27/saudi-strike-kills-11-civilians-in-yemens-taiz-houthi-media?traffic_source=rss",
+     "headline": "Saudi strike kills ’11 civilians’ in Yemen’s Taiz: Houthi media",
+     "headlineEn": "Frappe saoudienne mortelle contre 11 civils à Taïz au Yémen, selon les médias houthis",
+     "summary": "An airstrike carried out by the Saudi-led military coalition has killed 11 civilians in Yemen's Taiz governorate, according to media reports from the Houthi movement. The attack reflects ongoing hostilities between Iran-backed Houthi forces and the Saudi-supported coalition, which continue to shatter fragile local ceasefires. Ongoing military operations across multiple provinces are severely worsening the country's humanitarian emergency, leaving public infrastructure destroyed and millions of civilians facing acute food shortages. International aid agencies warn that persistent conflict severely hinders emergency relief operations throughout the war-torn nation.",
+     "why": "La reprise des frappes meurtrières au Yémen aggrave une crise humanitaire déjà catastrophique et menace la stabilité régionale.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    },
+    {
+     "source": "Deutsche Welle",
+     "lang": "en",
+     "url": "https://www.dw.com/en/the-gambia-election-can-barrow-secure-a-third-term/a-80076340?maca=en-rss-en-world-4025-rdf",
+     "headline": "The Gambia election: Can Barrow secure a third term?",
+     "headlineEn": "Élection en Gambie : Barrow peut-il décrocher un troisième mandat ?",
+     "summary": "Gambian President Adama Barrow is seeking a third consecutive term in office as voters prepare to head to the polls on December 5. The upcoming election represents a major benchmark for the West African nation's democratic reforms following decades of authoritarian rule. Opposition leaders are challenging Barrow's candidacy, arguing that his continued tenure hinders political renewal and economic reform. Meanwhile, Barrow's campaign highlights ongoing infrastructure developments and peace initiatives. International observers are closely monitoring the campaign environment to assess whether free, fair, and transparent electoral processes will be maintained.",
+     "why": "Le scrutin gambien constitue un test clé pour la consolidation démocratique et l'alternance politique en Afrique de l'Ouest.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    },
+    {
+     "source": "Deutsche Welle",
+     "lang": "en",
+     "url": "https://www.dw.com/en/duterte-s-icc-trial-what-is-at-stake-for-the-philippines/a-80075657?maca=en-rss-en-world-4025-rdf",
+     "headline": "Duterte's ICC trial: What is at stake for the Philippines?",
+     "headlineEn": "Procès de Duterte à la CPI : Quels sont les enjeux pour les Philippines ?",
+     "summary": "Former Philippine President Rodrigo Duterte faces trial before the International Criminal Court in The Hague regarding his controversial anti-drug campaign. Thousands of deaths occurred during police operations and vigilante attacks sanctioned during his administration's crackdown. Beyond establishing legal accountability for human rights violations, the international court proceedings carry major domestic political ramifications for Manila. The outcome of the trial could significantly alter the political fortunes of the Duterte family dynasty, which maintains substantial authority and elected offices across the Philippines despite growing international scrutiny.",
+     "why": "Le procès international vise à établir la responsabilité pour des milliers de crimes commis lors de la guerre contre la drogue.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    },
+    {
+     "source": "Le Monde",
+     "lang": "fr",
+     "url": "https://www.lemonde.fr/afrique/article/2026/11/27/en-guinee-bissau-la-junte-au-pouvoir-reporte-a-novembre-2028-les-elections-presidentielle-et-legislatives_6815851_3212.html",
+     "headline": "En Guinée-Bissau, la junte au pouvoir reporte à novembre 2028 les élections présidentielle et législatives",
+     "headlineEn": "In Guinea-Bissau, the ruling junta postpones presidential and legislative elections to November 2028",
+     "summary": "La junte militaire actuellement aux commandes en Guinée-Bissau a officiellement annoncé le report des élections présidentielle et législatives à novembre 2028. La période de transition politique conduite par les forces armées devait initialement s'achever le 6 décembre prochain. Cette décision prolonge de deux années supplémentaires le mandat des autorités militaires à la tête de l'État. Les partis d'opposition et les mouvements citoyens dénoncent cette décision, estimant qu'elle entrave le rétablissement de l'ordre démocratique et prive la population de son droit de choisir librement ses dirigeants représentatifs.",
+     "why": "Ce report de deux ans prolonge le régime militaire et fragilise davantage les perspectives de retour à l'ordre constitutionnel.",
+     "paywalled": true,
+     "contested": "",
+     "chart": null
+    },
+    {
+     "source": "Al Jazeera",
+     "lang": "en",
+     "url": "https://www.aljazeera.com/features/2026/11/27/trump-embraced-xi-then-slapped-new-tariffs-on-china-whats-his-game-plan?traffic_source=rss",
+     "headline": "Trump embraced Xi, then slapped new tariffs on China: What’s his game plan?",
+     "headlineEn": "Trump a salué Xi avant d'imposer de nouveaux tarifs à la Chine : Quelle est sa stratégie ?",
+     "summary": "US President Donald Trump has implemented a fresh round of trade tariffs heavily targeting Chinese exports, reversing the diplomatic warmth shown during recent interactions with President Xi Jinping. The aggressive trade measures impose higher duties on key goods just weeks before the two leaders are scheduled to hold a summit meeting in Miami. Economic policy experts are debating whether the sudden policy shift is designed to create leverage for trade negotiations or signals a deeper structural decoupling between the world's two largest economies. The move creates widespread uncertainty for international supply chains.",
+     "why": "La voltige tarifaire américaine face à Pékin accroît l'incertitude économique globale à la veille d'un sommet bilatéral majeur.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    }
+   ]
+  },
+  {
+   "name": "Europe & politiques de l'UE",
+   "stories": [
+    {
+     "source": "Euronews",
+     "lang": "EN",
+     "url": "https://www.euronews.com/video/2026/11/27/estonia-prepares-to-close-all-five-road-border-crossings-with-russia",
+     "headline": "Estonia prepares to close all five road border crossings with Russia",
+     "headlineEn": "L'Estonie s'apprête à fermer ses cinq points de passage routiers avec la Russie",
+     "summary": "Estonia has officially announced plans to close all five of its road border crossings with Russia starting on December 1, citing growing security concerns. Long queues have already formed along the border towns as residents and travelers scramble to cross before the deadline. Estonian authorities warned that Russian actions and security risks leave no alternative, despite the heavy toll on local border businesses. The move will also separate families living across the frontier. Estonia joins other Baltic nations in drastically tightening control along their eastern boundaries to prevent hybrid threats and unauthorized crossings.",
+     "why": "Cette fermeture renforcera la sécurité aux frontières orientales de l'UE mais perturbera le commerce local et séparera des familles.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    },
+    {
+     "source": "Repubblica",
+     "lang": "IT",
+     "url": "https://www.repubblica.it/esteri/2026/11/27/news/spagna_elezioni_insulto_di_feijoo_a_colau_puo_cambiare_esito_voto_stai_zitta-425754116/",
+     "headline": "Spagna, l’insulto di Feijóo a Colau che può cambiare l’esito del voto: “Stai zitta”",
+     "headlineEn": "Spain: Feijóo's insult to Colau could change the election outcome: \"Shut up\"",
+     "summary": "Il dibattito televisivo finale prima delle elezioni generali in Spagna è stato caratterizzato da un duro scontro verbale tra i principali candidati. Il momento più teso si è verificato quando il leader del Partito Popolare, Alberto Núñez Feijóo, ha rivolto un insulto alla rappresentante del Frente Amplio, Ada Colau, dicendole di stare zitta. L'episodio ha scatenato immediate reazioni politiche e potrebbe influenzare l'orientamento degli elettori indecisi alla vigilia del voto. I temi economici e dell'emergenza abitativa hanno dominato il confronto, ma gli attacchi personali tra i leader hanno segnato la fase conclusiva di una campagna elettorale particolarmente aspra e polarizzata.",
+     "why": "L'acrimonie lors du dernier débat électoral espagnol illustre la polarisation politique extrême à l'approche du scrutin.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    },
+    {
+     "source": "DW",
+     "lang": "DE",
+     "url": "https://www.dw.com/de/heraskewytsch-begrüßt-eu-vorstoß-gegen-athleten-aus-russland/a-80076145?maca=de-rss-de-all-1119-rdf",
+     "headline": "Heraskewytsch begrüßt EU-Vorstoß gegen Athleten aus Russland",
+     "headlineEn": "Heraskevych welcomes EU initiative against Russian athletes",
+     "summary": "Der ukrainische Skeletonfahrer Wladyslaw Heraskewytsch hat die neuen Pläne der Europäischen Union begrüßt, Einschränkungen für russische Athleten bei Sportwettkämpfen in den Mitgliedstaaten zu verschärfen. Die Initiative zielt darauf ab, die Teilnahme russischer Sportler auf EU-Territorium als Reaktion auf den andauernden Angriffskrieg in der Ukraine weiter einzuschränken. Heraskewytsch betonte, dass der internationale Sport nicht von der politischen Realität getrennt werden könne und klare Signale gegen Aggressoren notwendig seien. Die Diskussion über die Zulassung russischer Athleten sorgt unter den europäischen Sportverbänden weiterhin für gespaltene Reaktionen und intensive Debatten über den künftigen Kurs der Kontinentalpolitik.",
+     "why": "L'Union européenne envisage de durcir les restrictions visant les sportifs russes sur son territoire face au conflit armé.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    }
+   ]
+  },
+  {
+   "name": "Économie & marchés",
+   "stories": [
+    {
+     "source": "FAZ",
+     "lang": "DE",
+     "url": "https://www.faz.net/aktuell/wirtschaft/556-milliarden-euro-bundestag-beschliesst-rekordhaushalt-201722313.html",
+     "headline": "Etat 2027: 556 Milliarden Euro: Bundestag beschließt Rekordhaushalt",
+     "headlineEn": "2027 Budget: 556 billion euros: Bundestag passes record federal budget",
+     "summary": "Der Deutsche Bundestag hat den Bundeshaushalt für das Jahr 2027 mit einem Rekordvolumen von 556 Milliarden Euro offiziell verabschiedet. Damit stehen der Bundesregierung im kommenden Haushaltsjahr so viele Mittel zur Verfügung wie noch nie zuvor in der Geschichte der Bundesrepublik. Die Koalition betont die Notwendigkeit hoher Investitionen in die Infrastruktur, Verteidigung und soziale Sicherungssysteme, um die wirtschaftliche Transformation voranzutreiben. Oppositionspolitiker kritisierten hingegen die massive Inanspruchnahme von Finanzmitteln und warnten vor einer unzureichenden Konsolidierung der Staatsfinanzen. Die Verabschiedung markiert einen zentralen Meilenstein für die Haushaltspolitik der Bundesregierung kurz vor dem Jahreswechsel.",
+     "why": "Ce budget record reflète les besoins massifs d'investissement de l'Allemagne malgré des tensions sur les finances publiques.",
+     "paywalled": true,
+     "contested": "",
+     "chart": null
+    },
+    {
+     "source": "FAZ",
+     "lang": "DE",
+     "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/10-000-jobs-in-gefahr-sap-plant-stellenabbau-und-meldet-hackerangriff-accg-201723017.html",
+     "headline": "10.000 Stellen in Gefahr: SAP plant den zweiten Aderlass in zwei Jahren",
+     "headlineEn": "10,000 jobs at risk: SAP plans second major layoff round in two years",
+     "summary": "Der deutsche Softwarekonzern SAP plant erneut einen weitreichenden Stellenabbau, bei dem weltweit bis zu 10.000 Arbeitsplätze gefährdet sein könnten. Dies wäre bereits die zweite große Umstrukturierungswelle des DAX-Konzerns innerhalb von nur zwei Jahren. Das Management begründet den Schritt mit dem notwendigen Umbau des Unternehmens zur stärkeren Ausrichtung auf künstliche Intelligenz und Cloud-Dienste. Unter den Beschäftigten sorgt die Ankündigung für erhebliche Unruhe, zumal das Unternehmen zeitgleich verdächtige Aktivitäten in seinen IT-Systemen untersucht. Gewerkschaften und Betriebsräte kündigten zähe Verhandlungen an, um betriebsbedingte Kündigungen zu verhindern und Abfindungsregelungen für betroffene Mitarbeiter auszuhandeln.",
+     "why": "Cette deuxième vague de suppressions de postes montre les réorganisations drastiques imposées par le virage vers l'intelligence artificielle.",
+     "paywalled": true,
+     "contested": "",
+     "chart": null
+    },
+    {
+     "source": "FT",
+     "lang": "EN",
+     "url": "https://www.ft.com/content/f627ff39-58e4-4def-8e79-794d3dc2996b?syn-25a6b1a6=1",
+     "headline": "Japanese carmakers’ sales collapse amid China market plunge",
+     "headlineEn": "Les ventes des constructeurs automobiles japonais s'effondrent avec la chute du marché chinois",
+     "summary": "Japanese automakers are facing a severe slump in China as local electric vehicle manufacturers rapidly gain market share. Nissan reported a dramatic 67 percent drop in its October sales in China, marking its lowest monthly performance since the pandemic. Competitors such as Toyota and Honda are also experiencing sharp sales contractions due to fierce price competition and shifting consumer demand toward domestic electric models, while analysts warn that traditional foreign brands are losing their historical foothold in the world's largest auto market. The rapid transition to electric vehicles in China is forcing Japanese car manufacturers to reassess their global supply chains and production strategies.",
+     "why": "La perte de vitesse des constructeurs étrangers en Chine illustre la domination grandissante des marques locales de véhicules électriques.",
+     "paywalled": true,
+     "contested": "",
+     "chart": null
+    }
+   ]
+  },
+  {
+   "name": "Technologie & sciences",
+   "stories": [
+    {
+     "source": "DW",
+     "lang": "DE",
+     "url": "https://www.dw.com/de/mutmaßlicher-hackerangriff-auf-deutschen-softwarekonzern-sap/a-80072576?maca=de-rss-de-all-1119-rdf",
+     "headline": "Mutmaßlicher Hackerangriff auf deutschen Softwarekonzern SAP",
+     "headlineEn": "Suspected cyberattack on German software group SAP",
+     "summary": "Der deutsche Softwareriese SAP hat verdächtige Aktivitäten in seinen eigenen IT-Netzwerken festgestellt und untersucht einen mutmaßlichen Hackerangriff. Nach Unternehmensangaben gibt es bislang keine Hinweise darauf, dass unbefugte Dritte auf sensible Kundendaten zugegriffen haben. Die IT-Sicherheitsteams des DAX-Konzerns arbeiten intensiv daran, die genaue Ursache der Vorfälle zu ermitteln und potenzielle Sicherheitslücken unverzüglich zu schließen. Der Vorfall unterstreicht die wachsende Bedrohung durch Cyberattacken auf kritische digitale Infrastrukturen und führende Technologieunternehmen in Europa. Branchenexperten beobachten die Situation genau, da SAP-Software weltweit in zahlreichen Großunternehmen und Behörden für zentrale Geschäftsprozesse eingesetzt wird.",
+     "why": "Une faille de sécurité chez SAP pourrait avoir des répercussions majeures sur les milliers d'entreprises mondiales utilisant ses logiciels.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    },
+    {
+     "source": "FT",
+     "lang": "EN",
+     "url": "https://www.ft.com/content/738aaed8-7d4a-4321-aead-0f2bf71e286f?syn-25a6b1a6=1",
+     "headline": "Record temperature surge in November fuels extreme weather",
+     "headlineEn": "La hausse record des températures en novembre alimente des conditions météorologiques extrêmes",
+     "summary": "Global weather patterns experienced severe disruptions in November following a record surge in ocean and atmospheric temperatures driven by the El Niño phenomenon. Intense storms accompanied by heavy rainfall and damaging winds lashed both the East and West coasts of the United States, causing widespread power outages and coastal flooding. Climatologists report that elevated global temperatures are amplifying the frequency and intensity of extreme weather events across multiple continents. The United Nations has simultaneously warned that climate-driven disruptions to agriculture threaten to worsen food insecurity in vulnerable regions, particularly across parts of Africa.",
+     "why": "Ces températures records confirment la fréquence accrue des événements climatiques extêmes liés au réchauffement mondial.",
+     "paywalled": true,
+     "contested": "",
+     "chart": null
+    },
+    {
+     "source": "Le Monde",
+     "lang": "FR",
+     "url": "https://www.lemonde.fr/pixels/article/2026/11/27/royaume-uni-le-ministere-du-travail-declare-un-cyberincident-et-met-plusieurs-de-ses-services-hors-ligne_6815850_4408996.html",
+     "headline": "Royaume-Uni : le ministère du travail déclare un « cyberincident » et met plusieurs de ses services hors ligne",
+     "headlineEn": "UK: Department for Work and Pensions declares 'cyber incident' and takes several services offline",
+     "summary": "Le ministère britannique du travail et des pensions a déclaré un cyberincident majeur après avoir détecté des anomalies dans ses systèmes informatiques vieillissants. Par mesure de précaution, l'administration a pris la décision de mettre hors ligne plusieurs de ses services numériques en ligne afin d'enquêter sur l'origine de l'intrusion. Les autorités britanniques ont tenu à rassurer le public en affirmant que le versement des allocations sociales et des pensions de retraite continuait d'être assuré sans interruption. Cet événement relance le débat outre-Manche sur la vulnérabilité des infrastructures informatiques publiques face aux menaces cybernétiques grandissantes.",
+     "why": "Cet incident met en lumière la fragilité technologique des services publics dépendant de systèmes informatiques anciens.",
+     "paywalled": true,
+     "contested": "",
+     "chart": null
+    }
+   ]
+  },
+  {
+   "name": "Sport",
+   "stories": [
+    {
+     "source": "Repubblica",
+     "lang": "IT",
+     "url": "https://www.repubblica.it/sport/moto-gp/2026/11/27/news/marc_marquez_si_ritira-425754320/",
+     "headline": "Marc Marquez si ritira: “A Valencia ultima gara. Problemi al braccio, la felicità non ha costo”",
+     "headlineEn": "Marc Marquez retires: \"Valencia will be my last race. Arm problems, happiness has no price\"",
+     "summary": "Il pluricampione del mondo Marc Márquez ha annunciato a sorpresa il suo ritiro dalle competizioni al termine del Gran Premio di Valencia. Il pilota spagnolo della Ducati ha spiegato che i persistenti problemi fisici al braccio non gli consentono più di correre ai massimi livelli, sottolineando che la felicità personale non ha prezzo. La decisione ha colto di sorpresa il mondo della MotoGP, giungendo a pochi giorni dalla conquista del suo decimo titolo mondiale.",
+     "why": "Le départ surprise d'un octuple champion du monde marque la fin d'une époque majeure pour la Moto GP.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    },
+    {
+     "source": "France 24",
+     "lang": "FR",
+     "url": "https://www.france24.com/fr/vid%C3%A9o/20261127-%C3%A9changes-coups-jets-projectiles-saluts-nazis-soir%C3%A9e-chaotique-marseille-contre-levski-sofia-om-football-sport",
+     "headline": "Échanges de coups, jets de projectiles, saluts nazis : soirée chaotique à Marseille contre le Levski",
+     "headlineEn": "Clashes, thrown projectiles, Nazi salutes: chaotic evening in Marseille against Levski",
+     "summary": "Des affrontements violents ont éclatés au stade Vélodrome avant le match de Ligue Europa entre l'Olympique de Marseille et le Levski Sofia. Les incidents ont fait au moins onze blessés parmi les supporters bulgares, marqués par des jets de projectiles, des saluts nazis et des chants racistes dans les tribunes. La situation a provoqué une vive réaction diplomatique entre la France et la Bulgarie, menant à une condamnation ferme par le président Emmanuel Macron.",
+     "why": "Les débordements extrémistes violents lors de rencontres européennes poussent les autorités politiques et sportives à réagir.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    }
+   ]
+  }
+ ],
+ "sourced": true,
+ "feeds": {
+  "ok": 17,
+  "of": 29,
+  "items": 170,
+  "skipped": [
+   "Reuters (EN): HTTP 429",
+   "Reuters (FR): HTTP 429",
+   "AFP (FR): HTTP 429",
+   "AP (EN): HTTP 429",
+   "Euronews (FR): HTTP 406",
+   "RTL.lu (LB): HTTP 429",
+   "RTL.lu (FR): HTTP 429",
+   "Wort (DE): HTTP 429",
+   "WSJ (EN): HTTP 429",
+   "Bloomberg (EN): HTTP 429",
+   "Foreign Affairs (EN): HTTP 429",
+   "CFR (EN): HTTP 429"
+  ]
+ },
+ "words": 4287,
+ "readMin": 21,
+ "storyCount": 25
+}
