@@ -1,0 +1,364 @@
+{
+ "date": "2026-11-28",
+ "kind": "daily",
+ "heat": 0.72,
+ "oneThing": "",
+ "followUps": [
+  {
+   "n": "01",
+   "thread": "Tensions politiques en Allemagne autour du BSW et de l'AfD",
+   "change": "Le congrès du BSW à Dresde a rejeté une ligne plus stricte envers l'AfD, provoquant des démissions au sein du parti."
+  },
+  {
+   "n": "02",
+   "thread": "Négociations du budget pluriannuel de l'Union européenne",
+   "change": "Les divisions entre États membres sur le financement de l'Ukraine et la taxation du numérique ont fait échouer le sommet européen."
+  },
+  {
+   "n": "03",
+   "thread": "Perturbations et faillites dans l'aviation internationale",
+   "change": "La compagnie Norse Atlantic a déposé le bilan sous la pression du coût du kérozène provoqué par la crise en Iran."
+  }
+ ],
+ "mustReads": [
+  {
+   "desk": "Europe",
+   "source": "Al Jazeera",
+   "lang": "EN",
+   "paywalled": false,
+   "url": "https://www.aljazeera.com/news/2026/11/28/two-visions-of-spain-collide-as-voters-weigh-sanchez-record?traffic_source=rss",
+   "headline": "Two visions of Spain collide as voters weigh PM Sanchez’s record",
+   "headlineEn": "Deux visions de l'Espagne s'affrontent alors que les électeurs évaluent le bilan du premier ministre Sánchez",
+   "contested": "",
+   "why": "Le scrutin espagnol pourrait faire basculer la politique migratoire et la diplomatie européenne vers la droite.",
+   "stat": "",
+   "statLabel": "",
+   "chart": null,
+   "paras": [
+    "As voters prepare to cast their ballots, Spain stands at a crucial political crossroads with two starkly contrasting visions of the nation’s future competing for parliamentary dominance. Socialist Prime Minister Pedro Sánchez is seeking re-election by pointing to his administration's social policies and economic resilience, yet public sentiment remains deeply divided. Opinion polls suggest that conservative forces could gather enough momentum to displace the incumbent leadership. The upcoming ballot represents a fundamental test of whether left-wing coalition governance can withstand growing public frustration across the southern European nation.",
+    "Key issues dominating the national debate include soaring living costs, housing affordability, and migration management. Mainstream conservative leaders and far-right figures have sharply criticized Sánchez's handling of border control and regularisation programs, framing immigration as a central threat to public safety and national resources. Meanwhile, the prime minister's supporters argue that foreign workers remain essential for economic growth and population sustainability. The sharp ideological divide over migration has energized voters on both sides, transforming local concerns into high-stakes arguments about Spanish identity and social cohesion across various major electoral districts nationwide.",
+    "Economic anxiety among younger citizens has also emerged as a significant factor influencing voter sentiment. Despite headline economic figures showing moderate recovery, many young Spaniards face precarious job prospects, persistent inflation, and exorbitant rental prices in major urban centers. Opponents accuse the government of failing to deliver tangible economic relief or systemic structural reforms needed to support struggling families. Sánchez’s campaign team counters by emphasizing minimum wage increases and expanded public spending, maintaining that his policies offer the most reliable safeguard against severe financial distress for vulnerable working-class households.",
+    "The international ramifications of the election extend well beyond Spanish borders, attracting close observation from political analysts across the European Union. A potential shift toward a conservative-led government could alter Spain's stance on key European policies, including collective approaches to regional migration, European defense spending, and foreign diplomatic positions regarding conflicts in Gaza and Eastern Europe. European leaders are monitoring the race closely, recognizing that political realignments in one of the continent's largest economies often ripple through broad EU decision-making structures, potentially shifting power dynamics within multilateral institutions in Brussels.",
+    "In the campaign's final hours, political leaders made energetic pitches to undecided voters who could prove decisive in determining the parliamentary outcome. The prime minister warned that a rightward turn would dismantle social protections and undermine national unity, while opposition candidates accused his administration of dishonesty and political betrayal. Campaign events highlighted the extreme polarization gripping the electorate, with both political camps urging their supporters to turn out in large numbers. The intense competition reflects widespread recognition that minor shifts in voter participation could fundamentally reshape the national assembly.",
+    "As polling stations prepare to open across Spain, the entire nation awaits the verdict of an election defined by contrasting ideals and pressing social challenges. The final results will not only decide Pedro Sánchez's political fate but also dictate the strategic direction of Spanish domestic and foreign policy for years to come. Whether voters choose continuity under the left-wing coalition or opt for a conservative realignment, the outcome will signal how European democracies navigate economic uncertainty and ideological division during a period of significant global instability and persistent regional challenges."
+   ]
+  }
+ ],
+ "desks": [
+  {
+   "name": "Luxembourg",
+   "stories": [
+    {
+     "source": "RTL.lu",
+     "lang": "fr",
+     "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPcmo5Y3AyNjJPMTl0eGF0SERRQUxBdGhXcDVRdUdhUHhwZ3ZwSk5ZWjlwM1hSRUp2MGkzSHhCS2x6bTBic1AtaWtDbU5QVzRWZGtzWGRVcnZZUUJiLUhlZ2dsZWd0czN3RVNfT0tORl_Xc2JDMmJaYVdMbUZmbUNMN1hIaDhldnJEeW5hR3VkalFQWUFtS1JpZjd2NldEdk1zVnI1NlB5U3loeldCNzFma3o1dFpDMjQ5eTcxZVZXQQ?oc=5",
+     "headline": "Immobilier: Les banques réclament davantage de flexibilité pour accorder certains crédits",
+     "headlineEn": "Real Estate: Banks Call for More Flexibility in Granting Loans",
+     "summary": "Le secteur bancaire luxembourgeois demande un assouplissement des règles prudentielles afin de faciliter l'octroi de prêts immobiliers aux ménages. Selon les établissements financiers, des critères d'octroi trop rigides freinent la relance du marché de l'habitation et empêchent de nombreux emprunteurs solvables d'accéder à la propriété. Les banques souhaitent obtenir davantage de marge de manœuvre de la part des autorités de régulation pour adapter la capacité d'emprunt au profil individuel des clients. Cette prise de position intervient dans un contexte de crise prolongée du secteur immobilier et de baisse des transactions résidentielles dans le Grand-Duché.",
+     "why": "Un assouplissement du crédit bancaire conditionne le redémarrage du marché immobilier et l'accès au logement au Luxembourg.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    },
+    {
+     "source": "Luxemburger Wort",
+     "lang": "de",
+     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQbTEtRTFnWTZOSWlFNU4tdHlQeXFzNllTV0JBeFk3cE9uN25SWWJuR0VYeEc2VF84a091X09CZzJHenZwcnVUcllMd0QyZTFFZ1NwdUxGMW9acnlOdlN5eTBSemxDUmRtUXBPUl_5SXVocnRzTlY3bk0tVGlNMTdSWVp6QVdZTXFKZnFNTmN6R2hzemhGajZmVXZkaHNOU1pEcEdv?oc=5",
+     "headline": "Wie Sara Thill die Landwirtschaftspolitik aufrütteln will",
+     "headlineEn": "How Sara Thill Wants to Shake Up Agricultural Policy",
+     "summary": "Die luxemburgische Agrarpolitik steht vor grundlegenden Herausforderungen und bedarf nach Ansicht von Akteuren neuer Impulse für die Zukunft. Sara Thill setzt sich dafür ein, die Interessen der heimischen Landwirte stärker in den Mittelpunkt der politischen Debatte zu rücken und nachhaltige Rahmenbedingungen zu schaffen. Dabei geht es vor allem um den Ausgleich zwischen strengen Umweltauflagen und der wirtschaftlichen Tragfähigkeit der landwirtschaftlichen Betriebe im Großherzogtum. Die Initiative fordert eine engere Einbindung der Praxis in gesetzgeberische Entscheidungen, um die heimische Lebensmittelproduktion langfristig zu sichern und zukunftsfähig zu gestalten.",
+     "why": "L'avenir de l'agriculture luxembourgeoise dépend d'un équilibre entre contraintes environnementales et viabilité économique des exploitations.",
+     "paywalled": true,
+     "contested": "",
+     "chart": null
+    },
+    {
+     "source": "Luxemburger Wort",
+     "lang": "de",
+     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPSDRlNFppLWVpMnppbWRCaFByT1dZdlhjNGJuTFZsNHpNOTFESjBJbzA5eTdpZnRnTThnem1iOHNVVk9iVUZ2b1lGdEhSa1hNdHlyRk5qb3JFVVU2dlR5VjduZnF2QmFrM3JVQzQ3VUNiNHFsTm1aT1dBSmE0SUcwdm5sTnBUekpidVhEcXZQaFlaNU9uT0lVOVNNeDFiRDNzejdQOXB0SWw1eVU?oc=5",
+     "headline": "Warum ich vor KI in den unteren Schulklassen warne",
+     "headlineEn": "Why I Warn Against AI in Lower Primary Grades",
+     "summary": "Der Einsatz von künstlicher Intelligenz im Bildungswesen sorgt in Luxemburg für kontroverse Diskussionen unter Pädagogen und Experten. Warnende Stimmen heben hervor, dass der voreilige Einsatz digitaler KI-Werkzeuge in den unteren Schulklassen die Grundfertigkeiten der Kinder beeinträchtigen könnte. Vor allem das selbstständige Denken, das Lesen sowie die grundlegende Schreibfähigkeit verlangen in den ersten Schuljahren eine intensive analoge Förderung ohne automatisierte Hilfsmittel. Pädagogen fordern daher einen klaren rechtlichen und didaktischen Rahmen, der den Einsatz von Technologie im Unterricht altersgerecht reguliert und die Grundlagenbildung im luxemburgischen Schulsystem schützt.",
+     "why": "L'introduction de l'IA à l'école primaire pose la question de la préservation des compétences fondamentales des élèves luxembourgeois.",
+     "paywalled": true,
+     "contested": "",
+     "chart": null
+    }
+   ]
+  },
+  {
+   "name": "Monde / géopolitique",
+   "stories": [
+    {
+     "source": "Reuters",
+     "lang": "en",
+     "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPdTFCMEFWV3I5ZUdPS0xrdm5rTGFSTG5VZmhDdV9fSjFQeTI5bDFEdEg1RlozZF9xT0RKVTluVlh0bG1HTEgtLUVnSlNFelJfRUZXLW5nWU9PNzlTcTNDb0JTWXp2X3NQVFY1ek42RmJMTUdsWHdyMExFNVNLdzdKOENKRHphNld1WGg3UlE1eThvYTFINHl4czM4UWFnM3R0dUlBSGZOaEN3YjlBMjUwT09jWTdLWFZscUhKUXpBckU0WGFPV2c?oc=5",
+     "headline": "Ukraine's attack on Russian ship in Libya was not coordinated with partners, Zelenskiy says",
+     "headlineEn": "L'attaque ukrainienne contre un navire russe en Libye n'a pas été coordonnée avec les partenaires, selon Zelensky",
+     "summary": "Ukrainian President Volodymyr Zelenskiy stated that a military strike against a Russian vessel off the coast of Libya was executed independently without prior consultation with Western allies. The statement came after Italian Prime Minister Giorgia Meloni expressed strong dissatisfaction, warning Kyiv against expanding military actions into the Mediterranean region. Zelenskiy clarified that Ukraine acts to target Russian military assets supporting Moscow's war effort, regardless of their location. The incident highlights growing friction between Kyiv and some European partners regarding the geographical scope of Ukrainian maritime counter-operations.",
+     "why": "Les frappes ukrainiennes hors de la zone de conflit directe risquent de créer des tensions diplomatiques avec certains alliés européens.",
+     "paywalled": false,
+     "contested": "Rome a exprimé sa colère face à l'extension des opérations militaires en Méditerranée sans avertissement préalable, tandis que Kiev affirme agir en toute indépendance contre la flotte russe.",
+     "chart": null
+    },
+    {
+     "source": "France 24",
+     "lang": "fr",
+     "url": "https://www.france24.com/fr/moyen-orient/20261128-gaza-deux-employ%C3%A9s-de-msf-tu%C3%A9s-par-une-frappe-isra%C3%A9lienne",
+     "headline": "Gaza : deux employés de MSF tués par une frappe israélienne",
+     "headlineEn": "Gaza: Two MSF Staff Killed by Israeli Strike",
+     "summary": "L'organisation humanitaire Médecins Sans Frontières a fermement condamné une frappe de l'armée israélienne ayant tué deux de ses collaborateurs devant une clinique à Gaza. Ce drame porte à dix-sept le nombre de membres du personnel de MSF tués dans l'enclave palestinienne depuis le début du conflit. De son côté, l'armée israélienne a soutenu que la frappe visait des combattants du Hamas opérant à proximité de l'établissement médical. L'Organisation mondiale de la santé a dénoncé ce tir, rappelant l'obligation absolue de protéger le personnel de santé et les infrastructures médicales en zone de guerre.",
+     "why": "La mortalité parmi le personnel humanitaire à Gaza ravive les tensions internationales sur le respect du droit international humanitaire.",
+     "paywalled": false,
+     "contested": "MSF et l'OMS dénoncent une frappe criminelle contre des travailleurs humanitaires, alors que l'armée israélienne affirme avoir ciblé des terroristes du Hamas.",
+     "chart": null
+    },
+    {
+     "source": "AFP.com",
+     "lang": "en",
+     "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE91ZGNDX1drNzh2VzFDWFp3Z29va0g2bXM5NGpMRUxPRk5XS2FQMW9tY1dQZUpSaVQwY3lMLWQ5Tk5qYWVRMDJOVy1Idw?oc=5",
+     "headline": "Germany agrees 2027 budget with big outlays for military, infrastructure",
+     "headlineEn": "L'Allemagne s'accorde sur le budget 2027 avec d'importantes dépenses militaires et d'infrastructures",
+     "summary": "The German government has reached an agreement on its 2027 federal budget, prioritizing substantial investments in military defense and national infrastructure modernization. The fiscal plan reflects Berlin's commitment to strengthening its armed forces in response to European security challenges while addressing long-standing infrastructure deficits. Despite tight fiscal constraints and heated political debates surrounding national debt limits, coalition partners agreed to allocate record funding to strategic investments. The budget proposal now faces parliamentary scrutiny, where lawmakers will debate the balance between defense expenditures, social spending, and future borrowing plans.",
+     "why": "Le réarmement et les investissements allemands façonnent l'orientation économique et sécuritaire de toute l'Union européenne.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    }
+   ]
+  },
+  {
+   "name": "International — hors Europe",
+   "stories": [
+    {
+     "source": "Al Jazeera",
+     "lang": "en",
+     "url": "https://www.aljazeera.com/news/2026/11/28/norse-atlantic-ends-flights-how-iran-war-continues-to-batter-aviation?traffic_source=rss",
+     "headline": "Norse Atlantic ends flights: How Iran war continues to batter aviation",
+     "headlineEn": "Norse Atlantic suspend ses vols : comment la guerre en Iran continue de frapper l'aviation",
+     "summary": "Low-cost carrier Norse Atlantic has ceased operations and filed for bankruptcy, becoming the latest casualty of soaring aviation fuel prices driven by the ongoing conflict involving Iran. The disruption of maritime traffic in the Strait of Hormuz has sent global jet fuel costs surging, imposing severe financial pressure on long-haul budget airlines operating with thin profit margins. Industry analysts warn that sustained geopolitical instability in the Middle East could force additional carriers to restructure or ground fleets. The collapse leaves thousands of passengers stranded and highlights the broader economic shockwaves spreading through global transport supply chains.",
+     "why": "L'escalade au Moyen-Orient et le blocage d'axes maritimes stratégiques se répercutent directement sur le secteur de l'aviation mondiale.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    },
+    {
+     "source": "Reuters",
+     "lang": "en",
+     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNcVRKa09nUTkyZHR6Tnp6aTFwNzFYOHd0WGRtWjFEU2Z4RmFvRzVETWJwbEF4WHROdnpCVU9NMVBYYUJtbVU5NzVqNEVkaEVhNUtmMHFrbFE0cW5OQmdXYkpiV0JvbGoteXRYamR6Mjl0clR1cmp2elB5LU9IOUFjZzcwSXFjTXVxcy1XbmJHdGQwbjZMREhfNzRwS29Jck8zbURsQkdoTXMtZw?oc=5",
+     "headline": "Afghanistan school blast kills 7 students, injures up to 99",
+     "headlineEn": "Une explosion dans une école en Afghanistan fait 7 morts et jusqu'à 99 blessés parmi les élèves",
+     "summary": "A violent explosion at a school in eastern Afghanistan killed at least seven students and wounded nearly one hundred others, according to local officials. Authorities stated that the blast was caused by improper handling and negligence at a nearby commercial mining explosives depot. Emergency medical teams rushed to the scene to treat dozens of injured children, many of whom remain in critical condition. The incident has drawn sharp criticism from local residents regarding the unsafe storage of commercial explosives in residential areas close to educational facilities.",
+     "why": "La tragédie met en lumière le manque dramatique de régulation et de sécurité industrielle sous le régime afghan.",
+     "paywalled": false,
+     "contested": "Les bilans officiels s'opposent légèrement sur le nombre exact de victimes, les autorités locales faisant état de 7 à 10 morts et de 90 à plus de 100 blessés.",
+     "chart": null
+    },
+    {
+     "source": "AP News",
+     "lang": "en",
+     "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNSEJHN0tUWVBOd3BrNkpaTm1EaHlTeXp1aDZBZnJ1aUdEbkNVUUJJTXdJbFNXVHhLUWJwNUpRV3lUdEZTUl9Kbi1LWkhlWjBmRUdVRlNQQTVOb3JhWW5sb0pVUklXNXlndFJ2VXRNZnF1WENxMXJjTGN3RHJ4d0FreGRZdzN0ZWQ4WVE?oc=5",
+     "headline": "Taiwan awaits local election results as China watches",
+     "headlineEn": "Taïwan attend les résultats des élections locales sous le regard attentif de la Chine",
+     "summary": "Voters across Taiwan cast their ballots in key local elections to select mayors, city councilors, and regional leaders, in a vote closely monitored by Beijing. The local contests, particularly the high-profile race for mayor of Taipei, serve as a major barometer of domestic political sentiment ahead of future national elections. Opposition and ruling party candidates campaigned heavily on local infrastructure, economic stability, and relations with cross-strait neighbors. Chinese state media and regional analysts followed the turnout closely, assessing whether voters favored candidates advocating a firmer stance against Beijing's territorial claims.",
+     "why": "Les élections locales à Taïwan constituent un indicateur politique majeur sur le soutien de la population face aux pressions de Pékin.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    },
+    {
+     "source": "AP News",
+     "lang": "en",
+     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQU1lWSFNZVHRVSi1Dbm12NWtCT3RhaERTUnNHN3U1RHR2aHVXbzc5N2hCdGxIbkpINnRTZm85aElGWU1BOElob1p2cTd3anNkOGdlQ05rVktpX1F6RDM3WUxfZDg5czNCZi1wODMySzZsNlRULVBaN0RhOWlrSllDVHlvTERqV2F4eWxwYUc1Mm5VVm1kdVFZYVhMNXAzdHY0?oc=5",
+     "headline": "Lula’s choice of Bradesco banker as Brazil’s finance minister lifts markets",
+     "headlineEn": "Le choix par Lula d'un banquier de Bradesco comme ministre des Finances fait grimper les marchés",
+     "summary": "Brazilian President Luiz Inácio Lula da Silva appointed a senior executive from Banco Bradesco as the country's new finance minister, triggering a positive rally across financial markets. The selection of a respected private sector banker signals fiscal pragmatism and a commitment to stabilizing Brazil's public debt. Investors welcomed the appointment after months of volatility and uncertainty regarding government spending policy. The new minister pledged to balance social welfare priorities with strict fiscal discipline, aiming to curb inflation and restore confidence among international investors.",
+     "why": "La nomination d'un financier chevronné rassure les investisseurs sur la trajectoire budgétaire de la première économie d'Amérique latine.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    },
+    {
+     "source": "Council on Foreign Relations",
+     "lang": "en",
+     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPVVN0LXVRSlBzd1RLaHY4MzFCYmc4ZXA3R09rdWhaVy1wVy1seS1UVDhxd1RLWnkxYmJPT2JPV2h4RkhJSVB6R19oQW9GeUtfRU5KR3Z4d2MwVE9JQjRlMWlKdTRfRnU5MzMzaTFPb1llbHBuZ3ppalJjOUtjRzA5Q085NUtfM0cyLThrTVBnSURDMmZ4NEc1Yg?oc=5",
+     "headline": "A Guide to Trump’s Second-Term Sanctions",
+     "headlineEn": "Guide des sanctions de la seconde administration Trump",
+     "summary": "An analysis by the Council on Foreign Relations examines the evolving architecture of economic sanctions under Donald Trump's second presidential administration. The report details how coercive economic measures, tariffs, and targeted financial restrictions are being deployed to advance national security objectives across key regions. Analysts emphasize that the frequent use of unilateral sanctions presents both tactical leverage and significant diplomatic risks, particularly regarding relations with traditional allies. The study outlines the key statutory tools and executive enforcement mechanisms that define Washington's aggressive trade and foreign policy posture.",
+     "why": "L'usage intensif des sanctions économiques par Washington redéfinit le commerce international et les relations diplomatiques mondiales.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    }
+   ]
+  },
+  {
+   "name": "Europe & politiques de l'UE",
+   "stories": [
+    {
+     "source": "DW",
+     "lang": "en",
+     "url": "https://www.dw.com/en/divisions-deepen-between-eu-member-states-after-tense-budget-summit/a-80078599?maca=en-rss-en-world-4025-rdf",
+     "headline": "Divisions deepen between EU member states after tense budget summit",
+     "headlineEn": "Les divisions s'approfondissent entre les États membres de l'UE après un sommet budgétaire tendu",
+     "summary": "An EU leaders summit on the bloc's seven-year budget broke down without an agreement, highlighting growing political divisions among member states over financial priorities. The primary point of contention revolves around how to fund financial and military assistance for Ukraine, which remains in limbo as leaders struggle to find consensus. Additionally, the proposed budget framework includes a controversial 3% digital tax targeting US technology companies to generate new revenues for the Union. Leaders are expected to convene again to try to bridge the divide over these critical fiscal choices.",
+     "why": "Le blocage du budget pluriannuel menace le soutien financier européen à l'Ukraine et ravive la querelle fiscale avec Washington.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    },
+    {
+     "source": "DW",
+     "lang": "de",
+     "url": "https://www.dw.com/de/die-internationalen-drohnen-allianzen-der-ukraine/a-80066338?maca=de-rss-de-all-1119-rdf",
+     "headline": "Die internationalen Drohnen-Allianzen der Ukraine",
+     "headlineEn": "Ukraine's international drone alliances",
+     "summary": "Deutschland und andere europäische Partner bauen ihre Kooperation mit der ukrainischen Rüstungsindustrie gezielt aus, um die Produktion moderner Drohnen massiv zu steigern. Die Ukraine bringt dabei wertvolle Praxiserfahrungen aus dem laufenden Krieg ein, während Europa die nötige finanzielle und industrielle Leistungsfähigkeit beisteuert. Diese Partnerschaften verändern die europäische Verteidigungsindustrie nachhaltig und schaffen neue Strukturen für eine flexiblere Waffenentwicklung. Experten sehen in den gemeinsamen Drohnen-Allianzen ein zukunftsweisendes Modell für die militärische Zusammenarbeit zwischen der Europäischen Union und Kiew, das weit über den aktuellen Konflikt hinauswirken könnte.",
+     "why": "Cette coopération industrielle redéfinit la doctrine de défense européenne en intégrant directement le retour d'expérience militaire ukrainien.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    },
+    {
+     "source": "Reuters",
+     "lang": "en",
+     "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPdTFCMEFWV3I5ZUdPS0xrdm5rTGFSTG5VZmhDdV9fSjFQeTI5bDFEdEg1RlozZF9xT0RKVTluVlh0bG1HTEgtLUVnSlNFelJfRUZXLW5nWU9PNzlTcTNDb0JTWXp2X3NQVFY1ek42RmJMTUdsWHdyMExFNVNLdzdKOENKRHphNld1WGg3UlE1eThvYTFINHl4czM4UWFnM3R0dUlBSGZOaEN3YjlBMjUwT09jWTdLWFZscUhKUXpBckU0WGFPV2c?oc=5",
+     "headline": "Ukraine's attack on Russian ship in Libya was not coordinated with partners, Zelenskiy says",
+     "headlineEn": "L'attaque ukrainienne contre un navire russe en Libye n'a pas été coordonnée avec les partenaires, selon Zelensky",
+     "summary": "Ukrainian President Volodymyr Zelenskiy clarified that a recent military strike targeting a Russian vessel off the coast of Libya was executed independently and without prior coordination with Western partners. The operation has sparked significant friction within Europe, as Italian Prime Minister Giorgia Meloni publicly criticized Kyiv for expanding military engagements into the Mediterranean basin without consultation. Zelenskiy acknowledged the concerns while emphasizing Ukraine's commitment to targeting Russian military assets globally. The incident underscores growing tensions between Kyiv's strategic initiatives and Western allies' desire to prevent the geographical escalation of the war.",
+     "why": "L'extension des frappes ukrainiennes en Méditerranée crée des tensions politiques directes avec des partenaires clés de l'UE comme l'Italie.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    }
+   ]
+  },
+  {
+   "name": "Économie & marchés",
+   "stories": [
+    {
+     "source": "DW",
+     "lang": "en",
+     "url": "https://www.dw.com/en/airline-norse-atlantic-files-for-bankruptcy-succumbing-to-aviation-fuel-costs/a-80076728?maca=en-rss-en-world-4025-rdf",
+     "headline": "Airline Norse Atlantic files for bankruptcy, succumbing to aviation fuel costs",
+     "headlineEn": "La compagnie aérienne Norse Atlantic dépose son bilan, victime du coût du carburant",
+     "summary": "Low-cost carrier Norse Atlantic Airways has officially filed for bankruptcy after failing to manage a dramatic surge in operational expenses. The airline, which was founded only a few years ago to offer budget long-haul flights, had been struggling to achieve consistent profitability. The decisive blow came from a sharp escalation in jet fuel prices driven by ongoing geopolitical conflicts and maritime disruptions in the Middle East. With debt mounting and fuel surcharges unable to offset operational losses, the Norwegian company was forced to cease operations immediately, stranding passengers and disrupting international routes.",
+     "why": "La faillite de Norse Atlantic illustre les répercussions directes de la crise pétrolière au Moyen-Orient sur le secteur aérien européen.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    },
+    {
+     "source": "Reuters",
+     "lang": "en",
+     "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNaTNrOUM2bGxPN1JCeFAyRWhrUlJoQWN3TThQTERfMGp5ZGRXNTRWR3paSlp0NHludEZZN3ZrV0hSeFYtcUNCQlFTSlFPbWVZYTNSdUpDbzYtUXQ4OXFEdFhxeG80THotOF80X0lPNmlyRGhzVnhBMWMwZkU1WXNKa2VJOV9SZUlHUTh0WEJTdUdWNVl3czFab2h0UWV6dGVyMjNYLVdjOWZDNzZuYlJ6YjE3VF9sODRyQk5ndlJNem5xeW5SM3loRV9pcmFDYm9OUFg4R29MS0pIcTZRcURZajE5UVVQdmpP?oc=5",
+     "headline": "United Fidelity Bank shut in biggest US bank failure in 2 years, First Citizens buys assets",
+     "headlineEn": "Fermeture de United Fidelity Bank, plus grande faillite bancaire aux États-Unis depuis deux ans",
+     "summary": "Regulators have closed United Fidelity Bank, marking the largest regional bank failure in the United States over the past two years. State and federal banking authorities stepped in after the institution suffered significant liquidity strains and portfolio losses. In an immediate resolution package, First Citizens Bank agreed to acquire the failed bank's deposits and substantially all of its assets to ensure continuity for retail depositors. The intervention highlights persistent pressures on regional financial institutions stemming from elevated interest rates and commercial real estate portfolio vulnerabilities across the American banking system.",
+     "why": "Cette faillite ravive les inquiétudes concernant la fragilité des banques régionales américaines face aux taux d'intérêt élevés.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    },
+    {
+     "source": "Le Monde",
+     "lang": "fr",
+     "url": "https://www.lemonde.fr/economie/article/2026/11/28/binance-geant-mondial-des-cryptomonnaies-prepare-sa-sortie-de-l-europe-faute-de-visa-des-regulateurs_6816107_3234.html",
+     "headline": "Binance, géant mondial des cryptomonnaies, prépare sa sortie de l’Europe, faute de visa des régulateurs",
+     "headlineEn": "Crypto giant Binance prepares Europe exit after failing to obtain regulatory approval",
+     "summary": "Le géant mondial des cryptoactifs Binance s'apprête à cesser l'ensemble de ses activités au sein de l'Union européenne. Faute d'avoir obtenu les agréments réglementaires désormais obligatoires pour opérer sur le marché européen, la plateforme a annoncé la fermeture progressive de ses serveurs d'ici au 31 décembre. Afin d'inciter ses clients à clôturer rapidement leurs comptes, l'entreprise applique désormais des frais de commission dissuasifs sur les soldes restants. Ce départ marque un tournant majeur pour le secteur des actifs numériques, illustrant le durcissement du cadre réglementaire européen face aux acteurs majeurs de la finance décentralisée.",
+     "why": "Le retrait de Binance confirme l'impact strict de la réglementation européenne sur les plateformes globales de cryptoactifs.",
+     "paywalled": true,
+     "contested": "",
+     "chart": null
+    }
+   ]
+  },
+  {
+   "name": "Technologie & sciences",
+   "stories": [
+    {
+     "source": "DW",
+     "lang": "en",
+     "url": "https://www.dw.com/en/ai-data-centers-in-space-millions-of-satellites-and-so-many-unknowns/a-80080166?maca=en-rss-en-world-4025-rdf",
+     "headline": "AI data centers in space: Millions of satellites and so many unknowns",
+     "headlineEn": "Centres de données d'IA dans l'espace : des millions de satellites et de nombreuses inconnues",
+     "summary": "SpaceX has submitted regulatory filings seeking authorization to deploy up to one million satellites into low Earth orbit to construct orbital data centers dedicated to artificial intelligence processing. The ambitious initiative aims to leverage solar power in space and bypass terrestrial power grid constraints that currently hamper ground-based AI infrastructure. However, aerospace experts and astronomers have expressed deep skepticism regarding orbital congestion, space debris risks, and environmental impacts. The proposal also raises unprecedented legal questions regarding international jurisdiction and space sovereignty as private mega-constellations rapidly expand.",
+     "why": "L'expansion des infrastructures d'IA vers l'orbite terrestre pose de graves défis réglementaires et environnementaux quant à la gestion de l'espace.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    },
+    {
+     "source": "BBC",
+     "lang": "en",
+     "url": "https://www.bbc.co.uk/news/articles/cm15ekqvlezeo?at_medium=RSS&at_campaign=rss",
+     "headline": "OpenAI counter-sues Apple over alleged theft of trade secrets",
+     "headlineEn": "OpenAI contre-attaque Apple en justice pour vol présumé de secrets commerciaux",
+     "summary": "Artificial intelligence developer OpenAI has filed a counter-lawsuit against Apple, alleging that the technology giant misappropriated proprietary trade secrets through the hiring of a former employee. The legal escalation follows broader tensions between the two tech powerhouses over hardware integration and supply chain access. OpenAI claims Apple systematically targeted key personnel to gain unauthorized access to underlying algorithmic models and hardware design plans. Apple has strongly denied the allegations, framing the dispute as a frivolous retaliation. The legal fight underlines the fierce competition and high stakes surrounding proprietary artificial intelligence IP.",
+     "why": "Ce conflit judiciaire entre deux géants de la tech reflète l'intensification de la guerre des brevets autour des technologies d'IA.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    },
+    {
+     "source": "AFP",
+     "lang": "en",
+     "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5NZ2Qzb0pmZjdQc180SldlblZGenVLOHFyWTBRNTlwUG1OS2lwZzBqMFVRMzF4UEN4ZEpyZnNtV1J1ZldPNGUtNUhkVFRCTk1aWF8xTnl3NG5tRDI1LTNyTQ?oc=5",
+     "headline": "Japan unveils rover prototype for Moon water mission",
+     "headlineEn": "Le Japon dévoile le prototype d'un rover pour une mission de recherche d'eau sur la Lune",
+     "summary": "Japan's aerospace agency has unveiled the prototype of a specialized lunar rover designed to explore the Moon's polar regions for water ice deposits. Developed in partnership with domestic technology firms, the vehicle is equipped with advanced drilling mechanisms and analytical instruments capable of operating in extreme low-temperature environments. Scientists plan to deploy the rover to assess the feasibility of extracting lunar water for future crewed bases and rocket fuel production. The project marks a key step in international efforts to establish sustainable infrastructure for long-term lunar exploration.",
+     "why": "La détection d'eau sur la Lune est essentielle pour pérenniser la présence humaine et les futures missions d'exploration spatiale.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    }
+   ]
+  },
+  {
+   "name": "Sport",
+   "stories": [
+    {
+     "source": "France 24",
+     "lang": "fr",
+     "url": "https://www.france24.com/fr/%C3%A9missions/sports/20261128-ligue-1-brest-bat-le-paris-fc-et-grimpe-sur-le-podium",
+     "headline": "Ligue 1 : Brest bat le Paris FC et grimpe sur le podium",
+     "headlineEn": "Ligue 1: Brest beats Paris FC to reach top three",
+     "summary": "Le Stade brestois s'est imposé face au Paris FC grâce à une réalisation décisive du défenseur ivoirien Luck Zogbé. Cette victoire permet aux Brestois d'effectuer une belle opération comptable et de s'installer sur le podium de la Ligue 1. Malgré ce revers à domicile, le Paris FC conserve sa place de dauphin juste derrière le Paris Saint-Germain, dans un haut de tableau particulièrement disputé cette saison.",
+     "why": "Le succès brestois bouscule les positions de tête dans une course serrée pour les places européennes.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    },
+    {
+     "source": "Repubblica",
+     "lang": "it",
+     "url": "https://bologna.repubblica.it/cronaca/2026/11/28/news/lorenzo_musetti_rivincita_dopo_infortunio_davis_finale-425756534/",
+     "headline": "La rivincita di Musetti in Davis: “Dopo l’Australia tutti spariti. Tanti sbagli, ma ora so chi sono”",
+     "headlineEn": "Musetti's revenge in Davis Cup: \"After Australia everyone vanished, but now I know who I am\"",
+     "summary": "Lorenzo Musetti ha trascinato l'Italia in finale di Coppa Davis dopo il successo contro la Repubblica Ceca. Il tennista azzurro ha espresso grande soddisfazione per il traguardo raggiunto, prendendosi una rivincita personale dopo un periodo difficile caratterizzato da infortuni e critiche. Musetti ha sottolineato come gli errori del passato lo abbiano aiutato a maturare, ricordando che il lavoro della squadra non è ancora finito in vista dell'ultimo atto della competizione.",
+     "why": "La qualificazione guidata da Musetti conferma il ruolo di primo piano dell'Italia nel tennis internazionale.",
+     "paywalled": false,
+     "contested": "",
+     "chart": null
+    }
+   ]
+  }
+ ],
+ "sourced": true,
+ "feeds": {
+  "ok": 24,
+  "of": 29,
+  "items": 236,
+  "skipped": [
+   "Reuters (FR)",
+   "Euronews (EN): HTTP 406",
+   "Euronews (FR): HTTP 406",
+   "RTL.lu (LB)",
+   "Foreign Affairs (EN)"
+  ]
+ },
+ "words": 3109,
+ "readMin": 16,
+ "storyCount": 23
+}
